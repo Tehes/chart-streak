@@ -1,0 +1,73 @@
+:root {
+    color-scheme: light dark;
+    /* will switch to oklch soon: */
+    --bg-color: hsl(0, 0%, 95%);
+    /*  oklch(96%, 0%, 0) */
+    --font-color: hsl(0, 0%, 20%);
+    /* oklch(32%, 0%, 0) */
+    accent-color: auto;
+    /* change to your highlight color when needed */
+}
+
+* {
+    box-sizing: border-box;
+    /* disable double tap to zoom. only use in mobile-pwa */
+    /* touch-action: manipulation; */
+}
+
+html {
+    /* Removes tap highlight on touch devices */
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    margin: 0;
+    padding: 0;
+    /* No need for this mobile viewport bug fix anymore */
+    /* height: -webkit-fill-available; */
+}
+
+body {
+    background-color: var(--bg-color);
+    /* Disables selecting text (useful for PWAs to prevent unwanted text selection during interactions) */
+    user-select: none;
+    -webkit-user-select: none;
+    /* Disables touch and hold callout on iOS (prevents the menu that appears on long press, useful for PWAs) */
+    -webkit-touch-callout: none;
+    margin: 0;
+    padding: 0;
+    color: var(--font-color);
+    font-size: 100%;
+    /* Uses dynamic viewport height for better handling of mobile viewports */
+    min-height: 100dvh;
+    /* Old mobile viewport bug fix - no longer needed */
+    /* min-height: -webkit-fill-available; */
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+    text-wrap: balance;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+/*
+-------------------------------------------------------------------
+YOUR SECTIONS
+-------------------------------------------------------------------
+*/
+
+/*
+-------------------------------------------------------------------
+MEDIA QUERIES
+-------------------------------------------------------------------
+*/
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark light;
+        /* will switch to oklch soon: */
+        --bg-color: hsl(0, 0%, 20%);
+        /* oklch(32%, 0%, 0) */
+        --font-color: hsl(0, 0%, 90%);
+        /* oklch(92%, 0%, 0) */
+    }
+}

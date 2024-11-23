@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Mariah Carey",
+    "title": "Without You"
+  },
+  {
+    "rank": 2,
+    "artist": "All-4-One",
+    "title": "I Swear"
+  },
+  {
+    "rank": 3,
+    "artist": "Bruce Springsteen",
+    "title": "Streets Of Philadelphia"
+  },
+  {
+    "rank": 4,
+    "artist": "Rednex",
+    "title": "Cotton Eye Joe"
+  },
+  {
+    "rank": 5,
+    "artist": "Magic Affair",
+    "title": "Omen III"
+  },
+  {
+    "rank": 6,
+    "artist": "Marusha",
+    "title": "Over The Rainbow"
+  },
+  {
+    "rank": 7,
+    "artist": "Wet Wet Wet",
+    "title": "Love Is All Around"
+  },
+  {
+    "rank": 8,
+    "artist": "East 17",
+    "title": "It's Alright"
+  },
+  {
+    "rank": 9,
+    "artist": "Bryan Adams, Rod Stewart, Sting",
+    "title": "All For Love"
+  },
+  {
+    "rank": 10,
+    "artist": "DJ BoBo",
+    "title": "Everybody"
+  },
+  {
+    "rank": 11,
+    "artist": "Ace Of Base",
+    "title": "The Sign"
+  },
+  {
+    "rank": 12,
+    "artist": "Prince Ital Joe feat. Marky Mark",
+    "title": "United"
+  },
+  {
+    "rank": 13,
+    "artist": "Crash Test Dummies",
+    "title": "Mmm Mmm Mmm Mmm"
+  },
+  {
+    "rank": 14,
+    "artist": "Lucilectric",
+    "title": "Mädchen"
+  },
+  {
+    "rank": 15,
+    "artist": "Youssou N'Dour & Neneh Cherry",
+    "title": "7 Seconds"
+  },
+  {
+    "rank": 16,
+    "artist": "Whigfield",
+    "title": "Saturday Night"
+  },
+  {
+    "rank": 17,
+    "artist": "Prince Ital Joe feat. Marky Mark",
+    "title": "Happy People"
+  },
+  {
+    "rank": 18,
+    "artist": "Mo-Do",
+    "title": "Eins, zwei, Polizei"
+  },
+  {
+    "rank": 19,
+    "artist": "Reel 2 Real feat. The Mad Stuntman",
+    "title": "I Like To Move It"
+  },
+  {
+    "rank": 20,
+    "artist": "Meat Loaf",
+    "title": "I'd Do Anything For Love (But I Won't Do That)"
+  },
+  {
+    "rank": 21,
+    "artist": "Mark 'Oh",
+    "title": "Love Song"
+  },
+  {
+    "rank": 22,
+    "artist": "Perplexer",
+    "title": "Acid Folk"
+  },
+  {
+    "rank": 23,
+    "artist": "Enigma",
+    "title": "Return To Innocence"
+  },
+  {
+    "rank": 24,
+    "artist": "Cappella",
+    "title": "U Got 2 Let The Music"
+  },
+  {
+    "rank": 25,
+    "artist": "Joshua Kadison",
+    "title": "Jessie"
+  },
+  {
+    "rank": 26,
+    "artist": "Dr. Alban",
+    "title": "Look Who's Talking!"
+  },
+  {
+    "rank": 27,
+    "artist": "Scooter",
+    "title": "Hyper Hyper"
+  },
+  {
+    "rank": 28,
+    "artist": "Erasure",
+    "title": "Always"
+  },
+  {
+    "rank": 29,
+    "artist": "Jam & Spoon feat. Plavka",
+    "title": "Right In The Night (Fall In Love With Music)"
+  },
+  {
+    "rank": 30,
+    "artist": "TNN",
+    "title": "La cucamarcha"
+  },
+  {
+    "rank": 31,
+    "artist": "Cappella",
+    "title": "Move On Baby"
+  },
+  {
+    "rank": 32,
+    "artist": "The Prodigy",
+    "title": "No Good (Start The Dance)"
+  },
+  {
+    "rank": 33,
+    "artist": "K2",
+    "title": "Der Berg ruft"
+  },
+  {
+    "rank": 34,
+    "artist": "Corona",
+    "title": "The Rhythm Of The Night"
+  },
+  {
+    "rank": 35,
+    "artist": "Big Mountain",
+    "title": "Baby, I Love Your Way"
+  },
+  {
+    "rank": 36,
+    "artist": "Stiltskin",
+    "title": "Inside"
+  },
+  {
+    "rank": 37,
+    "artist": "Warren G & Nate Dogg",
+    "title": "Regulate"
+  },
+  {
+    "rank": 38,
+    "artist": "Culture Beat",
+    "title": "Anything"
+  },
+  {
+    "rank": 39,
+    "artist": "Ace Of Base",
+    "title": "Don't Turn Around"
+  },
+  {
+    "rank": 40,
+    "artist": "Pharao",
+    "title": "I Show You Secrets"
+  },
+  {
+    "rank": 41,
+    "artist": "Twenty 4 Seven feat. Stay-C and Nance",
+    "title": "Is It Love"
+  },
+  {
+    "rank": 42,
+    "artist": "Take That",
+    "title": "Babe"
+  },
+  {
+    "rank": 43,
+    "artist": "2 Unlimited",
+    "title": "The Real Thing"
+  },
+  {
+    "rank": 44,
+    "artist": "Bon Jovi",
+    "title": "Always"
+  },
+  {
+    "rank": 45,
+    "artist": "The Kelly Family",
+    "title": "An Angel"
+  },
+  {
+    "rank": 46,
+    "artist": "The Symbol",
+    "title": "The Most Beautiful Girl In The World"
+  },
+  {
+    "rank": 47,
+    "artist": "Bryan Adams",
+    "title": "Please Forgive Me"
+  },
+  {
+    "rank": 48,
+    "artist": "Magic Affair",
+    "title": "Give Me All Your Love"
+  },
+  {
+    "rank": 49,
+    "artist": "Maxx",
+    "title": "Get-A-Way"
+  },
+  {
+    "rank": 50,
+    "artist": "Doop",
+    "title": "Doop"
+  },
+  {
+    "rank": 51,
+    "artist": "La Bouche",
+    "title": "Sweet Dreams (Ola ola e)"
+  },
+  {
+    "rank": 52,
+    "artist": "Snap! feat. Summer",
+    "title": "Welcome To Tomorrow"
+  },
+  {
+    "rank": 53,
+    "artist": "WestBam",
+    "title": "Celebration Generation"
+  },
+  {
+    "rank": 54,
+    "artist": "Masterboy",
+    "title": "Feel The Heat Of The Night"
+  },
+  {
+    "rank": 55,
+    "artist": "Marusha",
+    "title": "It Takes Me Away"
+  },
+  {
+    "rank": 56,
+    "artist": "DJ BoBo",
+    "title": "Take Control"
+  },
+  {
+    "rank": 57,
+    "artist": "2 Unlimited",
+    "title": "Let The Beat Control Your Body"
+  },
+  {
+    "rank": 58,
+    "artist": "Ice MC",
+    "title": "Think About The Way"
+  },
+  {
+    "rank": 59,
+    "artist": "B.G. The Prince Of Rap",
+    "title": "The Colour Of My Dreams"
+  },
+  {
+    "rank": 60,
+    "artist": "Cinematic feat. Heinz Rühmann & Oliver Grimm",
+    "title": "Unser Lied (La Le Lu)"
+  },
+  {
+    "rank": 61,
+    "artist": "Maxx",
+    "title": "No More (I Can't Stand It)"
+  },
+  {
+    "rank": 62,
+    "artist": "DJ BoBo",
+    "title": "Let The Dream Come True"
+  },
+  {
+    "rank": 63,
+    "artist": "Prince Ital Joe feat. Marky Mark",
+    "title": "Life In The Streets"
+  },
+  {
+    "rank": 64,
+    "artist": "Die Ärzte",
+    "title": "Schrei nach Liebe"
+  },
+  {
+    "rank": 65,
+    "artist": "Twenty 4 Seven feat. Stay-C and Nance",
+    "title": "Slave To The Music"
+  },
+  {
+    "rank": 66,
+    "artist": "Haddaway",
+    "title": "Rock My Heart"
+  },
+  {
+    "rank": 67,
+    "artist": "Masterboy",
+    "title": "I Got To Give It Up"
+  },
+  {
+    "rank": 68,
+    "artist": "Beck",
+    "title": "Loser"
+  },
+  {
+    "rank": 69,
+    "artist": "Helge Schneider & Hardcore",
+    "title": "Katzeklo"
+  },
+  {
+    "rank": 70,
+    "artist": "Pet Shop Boys",
+    "title": "Go West"
+  },
+  {
+    "rank": 71,
+    "artist": "The Grid",
+    "title": "Swamp Thing"
+  },
+  {
+    "rank": 72,
+    "artist": "East 17",
+    "title": "Around The World"
+  },
+  {
+    "rank": 73,
+    "artist": "Tag Team",
+    "title": "Whoomp! (There It Is)"
+  },
+  {
+    "rank": 74,
+    "artist": "Die Prinzen",
+    "title": "Alles nur geklaut"
+  },
+  {
+    "rank": 75,
+    "artist": "Roxette",
+    "title": "Sleeping In My Car"
+  },
+  {
+    "rank": 76,
+    "artist": "Stefan Raab & Die Bekloppten",
+    "title": "Böörti Böörti Vogts"
+  },
+  {
+    "rank": 77,
+    "artist": "D:Ream",
+    "title": "Things Can Only Get Better"
+  },
+  {
+    "rank": 78,
+    "artist": "Aerosmith",
+    "title": "Cryin'"
+  },
+  {
+    "rank": 79,
+    "artist": "Loft",
+    "title": "Hold On"
+  },
+  {
+    "rank": 80,
+    "artist": "Joe Cocker",
+    "title": "Summer In The City"
+  },
+  {
+    "rank": 81,
+    "artist": "Haddaway",
+    "title": "I Miss You"
+  },
+  {
+    "rank": 82,
+    "artist": "The B.C. 52's",
+    "title": "(Meet) The Flintstones"
+  },
+  {
+    "rank": 83,
+    "artist": "Twenty 4 Seven feat. Stay-C and Nance",
+    "title": "Take Me Away"
+  },
+  {
+    "rank": 84,
+    "artist": "Mark 'Oh",
+    "title": "Randy (Never Stop That Feeling)"
+  },
+  {
+    "rank": 85,
+    "artist": "Ice MC",
+    "title": "It's A Rainy Day"
+  },
+  {
+    "rank": 86,
+    "artist": "Mr. President",
+    "title": "Up'n Away"
+  },
+  {
+    "rank": 87,
+    "artist": "Sophie B. Hawkins",
+    "title": "Right Beside You"
+  },
+  {
+    "rank": 88,
+    "artist": "Jam & Spoon feat. Plavka",
+    "title": "Find Me (Odyssey To Anyoona)"
+  },
+  {
+    "rank": 89,
+    "artist": "Urban Cookie Collective",
+    "title": "Feels Like Heaven"
+  },
+  {
+    "rank": 90,
+    "artist": "General Base",
+    "title": "Base Of Love"
+  },
+  {
+    "rank": 91,
+    "artist": "Mariah Carey",
+    "title": "Hero"
+  },
+  {
+    "rank": 92,
+    "artist": "M.C. Sar & The Real McCoy",
+    "title": "Automatic Lover (Call For Love)"
+  },
+  {
+    "rank": 93,
+    "artist": "Sheryl Crow",
+    "title": "All I Wanna Do"
+  },
+  {
+    "rank": 94,
+    "artist": "Fun Factory",
+    "title": "Close To You"
+  },
+  {
+    "rank": 95,
+    "artist": "Inner Circle",
+    "title": "Games People Play"
+  },
+  {
+    "rank": 96,
+    "artist": "Six Was Nine",
+    "title": "Drop Dead Beautiful"
+  },
+  {
+    "rank": 97,
+    "artist": "K7",
+    "title": "Come Baby Come"
+  },
+  {
+    "rank": 98,
+    "artist": "M People",
+    "title": "Don't Look Any Further"
+  },
+  {
+    "rank": 99,
+    "artist": "Snoop Doggy Dogg",
+    "title": "What's My Name?"
+  },
+  {
+    "rank": 100,
+    "artist": "Perplexer",
+    "title": "Da Capo"
+  }
+]

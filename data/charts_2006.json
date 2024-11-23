@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Bob Sinclar presents Goleo VI feat. Gary \"Nesta\" Pine",
+    "title": "Love Generation"
+  },
+  {
+    "rank": 2,
+    "artist": "Texas Lightning",
+    "title": "No No Never"
+  },
+  {
+    "rank": 3,
+    "artist": "Shakira feat. Wyclef Jean",
+    "title": "Hips Don't Lie"
+  },
+  {
+    "rank": 4,
+    "artist": "Gnarls Barkley",
+    "title": "Crazy"
+  },
+  {
+    "rank": 5,
+    "artist": "Sportfreunde Stiller",
+    "title": "'54, '74, '90, 2006"
+  },
+  {
+    "rank": 6,
+    "artist": "Herbert Grönemeyer feat. Amadou & Mariam",
+    "title": "Zeit, dass sich was dreht"
+  },
+  {
+    "rank": 7,
+    "artist": "Mattafix",
+    "title": "Big City Life"
+  },
+  {
+    "rank": 8,
+    "artist": "Silbermond",
+    "title": "Das Beste"
+  },
+  {
+    "rank": 9,
+    "artist": "Eros Ramazzotti & Anastacia",
+    "title": "I Belong To You (il ritmo della passione)"
+  },
+  {
+    "rank": 10,
+    "artist": "Xavier Naidoo",
+    "title": "Dieser Weg"
+  },
+  {
+    "rank": 11,
+    "artist": "Madonna",
+    "title": "Hung Up"
+  },
+  {
+    "rank": 12,
+    "artist": "Nelly Furtado",
+    "title": "Maneater"
+  },
+  {
+    "rank": 13,
+    "artist": "Tobias Regner",
+    "title": "I Still Burn"
+  },
+  {
+    "rank": 14,
+    "artist": "Rihanna",
+    "title": "Unfaithful"
+  },
+  {
+    "rank": 15,
+    "artist": "Xavier Naidoo",
+    "title": "Danke"
+  },
+  {
+    "rank": 16,
+    "artist": "Rosenstolz",
+    "title": "Ich bin ich (Wir sind wir)"
+  },
+  {
+    "rank": 17,
+    "artist": "Oliver Pocher",
+    "title": "Schwarz und weiss"
+  },
+  {
+    "rank": 18,
+    "artist": "Scissor Sisters",
+    "title": "I Don't Feel Like Dancin'"
+  },
+  {
+    "rank": 19,
+    "artist": "Kelly Clarkson",
+    "title": "Because Of You"
+  },
+  {
+    "rank": 20,
+    "artist": "Karmah",
+    "title": "Just Be Good To Me (Every Breath You Take)"
+  },
+  {
+    "rank": 21,
+    "artist": "Justin Timberlake",
+    "title": "SexyBack"
+  },
+  {
+    "rank": 22,
+    "artist": "Seeed",
+    "title": "Ding"
+  },
+  {
+    "rank": 23,
+    "artist": "The Pussycat Dolls feat. Snoop Dogg",
+    "title": "Buttons"
+  },
+  {
+    "rank": 24,
+    "artist": "Mary J Blige and U2",
+    "title": "One"
+  },
+  {
+    "rank": 25,
+    "artist": "Rihanna",
+    "title": "SOS"
+  },
+  {
+    "rank": 26,
+    "artist": "Melanie C",
+    "title": "First Day Of My Life"
+  },
+  {
+    "rank": 27,
+    "artist": "Lordi",
+    "title": "Hard Rock Hallelujah"
+  },
+  {
+    "rank": 28,
+    "artist": "Flipsyde feat. Piper",
+    "title": "Happy Birthday"
+  },
+  {
+    "rank": 29,
+    "artist": "Vibekingz feat. Maliq",
+    "title": "Like The Wind"
+  },
+  {
+    "rank": 30,
+    "artist": "The Black Eyed Peas",
+    "title": "My Humps"
+  },
+  {
+    "rank": 31,
+    "artist": "Ch!pz",
+    "title": "1001 Arabian Nights"
+  },
+  {
+    "rank": 32,
+    "artist": "Tokio Hotel",
+    "title": "Der letzte Tag"
+  },
+  {
+    "rank": 33,
+    "artist": "Goleo VI pres. Lumidee vs. Fatman Scoop",
+    "title": "Dance!"
+  },
+  {
+    "rank": 34,
+    "artist": "Pinocchio",
+    "title": "Klick klack"
+  },
+  {
+    "rank": 35,
+    "artist": "Nelly Furtado feat. Timbaland",
+    "title": "Promiscuous"
+  },
+  {
+    "rank": 36,
+    "artist": "Chris Brown feat. Juelz Santana",
+    "title": "Run It!"
+  },
+  {
+    "rank": 37,
+    "artist": "Sugababes",
+    "title": "Push The Button"
+  },
+  {
+    "rank": 38,
+    "artist": "P!nk",
+    "title": "Who Knew"
+  },
+  {
+    "rank": 39,
+    "artist": "The Pussycat Dolls feat. will.i.am",
+    "title": "Beep"
+  },
+  {
+    "rank": 40,
+    "artist": "Robbie Williams",
+    "title": "Rudebox"
+  },
+  {
+    "rank": 41,
+    "artist": "Mike Leon Grosch",
+    "title": "Don't Let It Get You Down"
+  },
+  {
+    "rank": 42,
+    "artist": "Tokio Hotel",
+    "title": "Schrei"
+  },
+  {
+    "rank": 43,
+    "artist": "Reamonn",
+    "title": "Tonight"
+  },
+  {
+    "rank": 44,
+    "artist": "Sebastian Hämer",
+    "title": "Sommer unseres Lebens"
+  },
+  {
+    "rank": 45,
+    "artist": "Eminem",
+    "title": "When I'm Gone"
+  },
+  {
+    "rank": 46,
+    "artist": "P!nk",
+    "title": "U + Ur Hand"
+  },
+  {
+    "rank": 47,
+    "artist": "P!nk",
+    "title": "Stupid Girls"
+  },
+  {
+    "rank": 48,
+    "artist": "Tokio Hotel",
+    "title": "Rette mich"
+  },
+  {
+    "rank": 49,
+    "artist": "LaFee",
+    "title": "Prinzesschen"
+  },
+  {
+    "rank": 50,
+    "artist": "Marquess",
+    "title": "El temperamento"
+  },
+  {
+    "rank": 51,
+    "artist": "Tic Tac Toe",
+    "title": "Spiegel"
+  },
+  {
+    "rank": 52,
+    "artist": "Fergie",
+    "title": "London Bridge"
+  },
+  {
+    "rank": 53,
+    "artist": "James Blunt",
+    "title": "You're Beautiful"
+  },
+  {
+    "rank": 54,
+    "artist": "Christina Aguilera",
+    "title": "Ain't No Other Man"
+  },
+  {
+    "rank": 55,
+    "artist": "The Pussycat Dolls",
+    "title": "Stickwitu"
+  },
+  {
+    "rank": 56,
+    "artist": "Paris Hilton",
+    "title": "Stars Are Blind"
+  },
+  {
+    "rank": 57,
+    "artist": "Sergio Mendes feat. The Black Eyed Peas",
+    "title": "Mas que nada"
+  },
+  {
+    "rank": 58,
+    "artist": "The Notorious B.I.G. feat. Diddy, Nelly, Jagged Edge and Avery Storm",
+    "title": "Nasty Girl"
+  },
+  {
+    "rank": 59,
+    "artist": "Shakira",
+    "title": "Don't Bother"
+  },
+  {
+    "rank": 60,
+    "artist": "Robbie Williams",
+    "title": "Advertising Space"
+  },
+  {
+    "rank": 61,
+    "artist": "US5",
+    "title": "Come Back To Me Baby"
+  },
+  {
+    "rank": 62,
+    "artist": "Xavier Naidoo",
+    "title": "Was wir alleine nicht schaffen"
+  },
+  {
+    "rank": 63,
+    "artist": "Beyoncé feat. Slim Thug",
+    "title": "Check On It"
+  },
+  {
+    "rank": 64,
+    "artist": "Kelly Clarkson",
+    "title": "Breakaway"
+  },
+  {
+    "rank": 65,
+    "artist": "Mia.",
+    "title": "Tanz der Moleküle"
+  },
+  {
+    "rank": 66,
+    "artist": "Juli",
+    "title": "Dieses Leben"
+  },
+  {
+    "rank": 67,
+    "artist": "Chamillionaire feat. Krayzie Bone",
+    "title": "Ridin'"
+  },
+  {
+    "rank": 68,
+    "artist": "LaFee",
+    "title": "Virus"
+  },
+  {
+    "rank": 69,
+    "artist": "Sean Paul",
+    "title": "Temperature"
+  },
+  {
+    "rank": 70,
+    "artist": "Rosenstolz",
+    "title": "Ich geh in Flammen auf"
+  },
+  {
+    "rank": 71,
+    "artist": "P. Diddy feat. Nicole Scherzinger",
+    "title": "Come To Me"
+  },
+  {
+    "rank": 72,
+    "artist": "US5",
+    "title": "In The Club"
+  },
+  {
+    "rank": 73,
+    "artist": "Madonna",
+    "title": "Sorry"
+  },
+  {
+    "rank": 74,
+    "artist": "Bloodhound Gang",
+    "title": "Uhn Tiss Uhn Tiss Uhn Tiss"
+  },
+  {
+    "rank": 75,
+    "artist": "Ne-Yo",
+    "title": "So Sick"
+  },
+  {
+    "rank": 76,
+    "artist": "Westlife",
+    "title": "You Raise Me Up"
+  },
+  {
+    "rank": 77,
+    "artist": "Sarah Connor",
+    "title": "Christmas In My Heart"
+  },
+  {
+    "rank": 78,
+    "artist": "Christina Aguilera",
+    "title": "Hurt"
+  },
+  {
+    "rank": 79,
+    "artist": "Silbermond",
+    "title": "Unendlich"
+  },
+  {
+    "rank": 80,
+    "artist": "Beyoncé feat. Jay-Z",
+    "title": "Déjà Vu"
+  },
+  {
+    "rank": 81,
+    "artist": "Christina Stürmer",
+    "title": "Nie genug"
+  },
+  {
+    "rank": 82,
+    "artist": "Christina Stürmer",
+    "title": "Mama (Ana Ahabak) [2005]"
+  },
+  {
+    "rank": 83,
+    "artist": "Muhabbet",
+    "title": "Sie liegt in meinen Armen"
+  },
+  {
+    "rank": 84,
+    "artist": "Justin Timberlake feat. T.I.",
+    "title": "My Love"
+  },
+  {
+    "rank": 85,
+    "artist": "Meat Loaf feat. Marion Raven",
+    "title": "It's All Coming Back To Me Now"
+  },
+  {
+    "rank": 86,
+    "artist": "Crazy Frog",
+    "title": "We Are The Champions (Ding A Dang Dong)"
+  },
+  {
+    "rank": 87,
+    "artist": "Banaroo",
+    "title": "Uh Mamma"
+  },
+  {
+    "rank": 88,
+    "artist": "Bob Sinclar feat. Steve Edwards",
+    "title": "World, Hold On (Children Of The Sky)"
+  },
+  {
+    "rank": 89,
+    "artist": "Take That",
+    "title": "Patience"
+  },
+  {
+    "rank": 90,
+    "artist": "Apoptygma Berzerk",
+    "title": "Shine On"
+  },
+  {
+    "rank": 91,
+    "artist": "Yoomiii",
+    "title": "Gimme, Gimme, Gimme"
+  },
+  {
+    "rank": 92,
+    "artist": "Red Hot Chili Peppers",
+    "title": "Dani California"
+  },
+  {
+    "rank": 93,
+    "artist": "Marie Serneholt",
+    "title": "That's The Way My Heart Goes"
+  },
+  {
+    "rank": 94,
+    "artist": "50 Cent",
+    "title": "Window Shopper"
+  },
+  {
+    "rank": 95,
+    "artist": "The Pussycat Dolls feat. Busta Rhymes",
+    "title": "Don't Cha"
+  },
+  {
+    "rank": 96,
+    "artist": "Eko Fresh feat. Bushido",
+    "title": "Gheddo"
+  },
+  {
+    "rank": 97,
+    "artist": "Akon feat. Eminem",
+    "title": "Smack That"
+  },
+  {
+    "rank": 98,
+    "artist": "Rapsoul",
+    "title": "Verzweifelt"
+  },
+  {
+    "rank": 99,
+    "artist": "Yvonne Catterfeld",
+    "title": "Erinner' mich dich zu vergessen"
+  },
+  {
+    "rank": 100,
+    "artist": "Sandi Thom",
+    "title": "I Wish I Was A Punk Rocker (With Flowers In My Hair)"
+  }
+]

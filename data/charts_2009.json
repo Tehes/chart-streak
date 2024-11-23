@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Lady Gaga",
+    "title": "Poker Face"
+  },
+  {
+    "rank": 2,
+    "artist": "Emilíana Torrini",
+    "title": "Jungle Drum"
+  },
+  {
+    "rank": 3,
+    "artist": "Milow",
+    "title": "Ayo Technology"
+  },
+  {
+    "rank": 4,
+    "artist": "Cassandra Steen feat. Adel Tawil",
+    "title": "Stadt"
+  },
+  {
+    "rank": 5,
+    "artist": "Mando Diao",
+    "title": "Dance With Somebody"
+  },
+  {
+    "rank": 6,
+    "artist": "Razorlight",
+    "title": "Wire To Wire"
+  },
+  {
+    "rank": 7,
+    "artist": "Silbermond",
+    "title": "Irgendwas bleibt"
+  },
+  {
+    "rank": 8,
+    "artist": "Gossip",
+    "title": "Heavy Cross"
+  },
+  {
+    "rank": 9,
+    "artist": "The Black Eyed Peas",
+    "title": "I Gotta Feeling"
+  },
+  {
+    "rank": 10,
+    "artist": "David Guetta feat. Kelly Rowland",
+    "title": "When Love Takes Over"
+  },
+  {
+    "rank": 11,
+    "artist": "Marit Larsen",
+    "title": "If A Song Could Get Me You"
+  },
+  {
+    "rank": 12,
+    "artist": "James Morrison feat. Nelly Furtado",
+    "title": "Broken Strings"
+  },
+  {
+    "rank": 13,
+    "artist": "Katy Perry",
+    "title": "Hot N Cold"
+  },
+  {
+    "rank": 14,
+    "artist": "David Guetta feat. Akon",
+    "title": "Sexy Bitch"
+  },
+  {
+    "rank": 15,
+    "artist": "Polarkreis 18",
+    "title": "Allein allein"
+  },
+  {
+    "rank": 16,
+    "artist": "Robbie Williams",
+    "title": "Bodies"
+  },
+  {
+    "rank": 17,
+    "artist": "Peter Fox",
+    "title": "Haus am See"
+  },
+  {
+    "rank": 18,
+    "artist": "Beyoncé",
+    "title": "Halo"
+  },
+  {
+    "rank": 19,
+    "artist": "Daniel Schuhmacher",
+    "title": "Anything But Love"
+  },
+  {
+    "rank": 20,
+    "artist": "Mark Medlock",
+    "title": "Mamacita"
+  },
+  {
+    "rank": 21,
+    "artist": "Flo Rida feat. Ke$ha",
+    "title": "Right Round"
+  },
+  {
+    "rank": 22,
+    "artist": "The Killers",
+    "title": "Human"
+  },
+  {
+    "rank": 23,
+    "artist": "Frauenarzt & Manny Marc",
+    "title": "Das geht ab! (Wir feiern die ganze Nacht)"
+  },
+  {
+    "rank": 24,
+    "artist": "Lady Gaga",
+    "title": "Paparazzi"
+  },
+  {
+    "rank": 25,
+    "artist": "Cascada",
+    "title": "Evacuate The Dancefloor"
+  },
+  {
+    "rank": 26,
+    "artist": "Sportfreunde Stiller",
+    "title": "Ein Kompliment"
+  },
+  {
+    "rank": 27,
+    "artist": "The Black Eyed Peas",
+    "title": "Boom Boom Pow"
+  },
+  {
+    "rank": 28,
+    "artist": "Ich + Ich",
+    "title": "Pflaster"
+  },
+  {
+    "rank": 29,
+    "artist": "Amy Macdonald",
+    "title": "This Is The Life"
+  },
+  {
+    "rank": 30,
+    "artist": "P!nk",
+    "title": "Sober"
+  },
+  {
+    "rank": 31,
+    "artist": "Guru Josh Project",
+    "title": "Infinity 2008"
+  },
+  {
+    "rank": 32,
+    "artist": "Kelly Clarkson",
+    "title": "My Life Would Suck Without You"
+  },
+  {
+    "rank": 33,
+    "artist": "Linkin Park",
+    "title": "New Divide"
+  },
+  {
+    "rank": 34,
+    "artist": "Lady Gaga feat. Colby O'Donis",
+    "title": "Just Dance"
+  },
+  {
+    "rank": 35,
+    "artist": "Lily Allen",
+    "title": "Not Fair"
+  },
+  {
+    "rank": 36,
+    "artist": "Nelly Furtado",
+    "title": "Manos al aire"
+  },
+  {
+    "rank": 37,
+    "artist": "Agnes",
+    "title": "Release Me"
+  },
+  {
+    "rank": 38,
+    "artist": "Pitbull",
+    "title": "I Know You Want Me (Calle Ocho)"
+  },
+  {
+    "rank": 39,
+    "artist": "Shakira",
+    "title": "She Wolf"
+  },
+  {
+    "rank": 40,
+    "artist": "Beyoncé",
+    "title": "Sweet Dreams"
+  },
+  {
+    "rank": 41,
+    "artist": "a-ha",
+    "title": "Foot Of The Mountain"
+  },
+  {
+    "rank": 42,
+    "artist": "Metro Station",
+    "title": "Shake It"
+  },
+  {
+    "rank": 43,
+    "artist": "Rammstein",
+    "title": "Pussy"
+  },
+  {
+    "rank": 44,
+    "artist": "Eisblume",
+    "title": "Eisblumen"
+  },
+  {
+    "rank": 45,
+    "artist": "Depeche Mode",
+    "title": "Wrong"
+  },
+  {
+    "rank": 46,
+    "artist": "Beyoncé",
+    "title": "If I Were A Boy"
+  },
+  {
+    "rank": 47,
+    "artist": "Alexander Rybak",
+    "title": "Fairytale"
+  },
+  {
+    "rank": 48,
+    "artist": "Madonna",
+    "title": "Celebration"
+  },
+  {
+    "rank": 49,
+    "artist": "Milow",
+    "title": "You Don't Know"
+  },
+  {
+    "rank": 50,
+    "artist": "Queensberry",
+    "title": "Too Young"
+  },
+  {
+    "rank": 51,
+    "artist": "Tim Toupet",
+    "title": "...so ein schöner Tag (Fliegerlied)"
+  },
+  {
+    "rank": 52,
+    "artist": "Clueso",
+    "title": "Gewinner"
+  },
+  {
+    "rank": 53,
+    "artist": "P!nk",
+    "title": "Please Don't Leave Me"
+  },
+  {
+    "rank": 54,
+    "artist": "Jan Delay",
+    "title": "Oh Jonny"
+  },
+  {
+    "rank": 55,
+    "artist": "Xavier Naidoo",
+    "title": "Alles kann besser werden"
+  },
+  {
+    "rank": 56,
+    "artist": "Curse mit Silbermond",
+    "title": "Bis zum Schluss"
+  },
+  {
+    "rank": 57,
+    "artist": "Rihanna",
+    "title": "Rehab"
+  },
+  {
+    "rank": 58,
+    "artist": "Kings Of Leon",
+    "title": "Use Somebody"
+  },
+  {
+    "rank": 59,
+    "artist": "Peter Fox",
+    "title": "Schwarz zu blau"
+  },
+  {
+    "rank": 60,
+    "artist": "OneRepublic",
+    "title": "Secrets"
+  },
+  {
+    "rank": 61,
+    "artist": "La Roux",
+    "title": "Bulletproof"
+  },
+  {
+    "rank": 62,
+    "artist": "Leona Lewis",
+    "title": "Run"
+  },
+  {
+    "rank": 63,
+    "artist": "Laura Pausini & James Blunt",
+    "title": "Primavera in anticipo (It Is My Song)"
+  },
+  {
+    "rank": 64,
+    "artist": "Rihanna",
+    "title": "Russian Roulette"
+  },
+  {
+    "rank": 65,
+    "artist": "Charlie Winston",
+    "title": "Like A Hobo"
+  },
+  {
+    "rank": 66,
+    "artist": "The All-American Rejects",
+    "title": "Gives You Hell"
+  },
+  {
+    "rank": 67,
+    "artist": "Kevin Rudolf feat. Lil Wayne",
+    "title": "Let It Rock"
+  },
+  {
+    "rank": 68,
+    "artist": "Lady Gaga",
+    "title": "LoveGame"
+  },
+  {
+    "rank": 69,
+    "artist": "The Black Eyed Peas",
+    "title": "Meet Me Halfway"
+  },
+  {
+    "rank": 70,
+    "artist": "Aura Dione",
+    "title": "I Will Love You Monday (365)"
+  },
+  {
+    "rank": 71,
+    "artist": "Kid Cudi vs. Crookers",
+    "title": "Day 'N' Nite"
+  },
+  {
+    "rank": 72,
+    "artist": "Green Day",
+    "title": "21 Guns"
+  },
+  {
+    "rank": 73,
+    "artist": "Culcha Candela",
+    "title": "Monsta"
+  },
+  {
+    "rank": 74,
+    "artist": "Silbermond",
+    "title": "Krieger des Lichts"
+  },
+  {
+    "rank": 75,
+    "artist": "Maria Mena",
+    "title": "All This Time (Pick-Me-Up Song)"
+  },
+  {
+    "rank": 76,
+    "artist": "Culcha Candela",
+    "title": "Schöne neue Welt"
+  },
+  {
+    "rank": 77,
+    "artist": "P!nk",
+    "title": "So What"
+  },
+  {
+    "rank": 78,
+    "artist": "Pet Shop Boys",
+    "title": "Love etc."
+  },
+  {
+    "rank": 79,
+    "artist": "Lily Allen",
+    "title": "The Fear"
+  },
+  {
+    "rank": 80,
+    "artist": "T.I. feat. Justin Timberlake",
+    "title": "Dead And Gone"
+  },
+  {
+    "rank": 81,
+    "artist": "Bushido feat. Karel Gott",
+    "title": "Für immer jung"
+  },
+  {
+    "rank": 82,
+    "artist": "P!nk",
+    "title": "Funhouse"
+  },
+  {
+    "rank": 83,
+    "artist": "The Pussycat Dolls",
+    "title": "I Hate This Part"
+  },
+  {
+    "rank": 84,
+    "artist": "Sido",
+    "title": "Hey du"
+  },
+  {
+    "rank": 85,
+    "artist": "Bon Jovi",
+    "title": "We Weren't Born To Follow"
+  },
+  {
+    "rank": 86,
+    "artist": "Kings Of Leon",
+    "title": "Sex On Fire"
+  },
+  {
+    "rank": 87,
+    "artist": "Coldplay",
+    "title": "Viva la vida"
+  },
+  {
+    "rank": 88,
+    "artist": "Queensberry",
+    "title": "Hello (Turn Your Radio On)"
+  },
+  {
+    "rank": 89,
+    "artist": "Söhne Mannheims",
+    "title": "Ich wollt nur deine Stimme hörn"
+  },
+  {
+    "rank": 90,
+    "artist": "DJ Ötzi",
+    "title": "Noch in 100.000 Jahren"
+  },
+  {
+    "rank": 91,
+    "artist": "Leona Lewis",
+    "title": "Happy"
+  },
+  {
+    "rank": 92,
+    "artist": "Daniel Merriweather feat. Wale",
+    "title": "Change"
+  },
+  {
+    "rank": 93,
+    "artist": "Cassandra Steen",
+    "title": "Darum leben wir"
+  },
+  {
+    "rank": 94,
+    "artist": "T.I. feat. Rihanna",
+    "title": "Live Your Life"
+  },
+  {
+    "rank": 95,
+    "artist": "Katy Perry",
+    "title": "I Kissed A Girl"
+  },
+  {
+    "rank": 96,
+    "artist": "Reamonn",
+    "title": "Moments Like This"
+  },
+  {
+    "rank": 97,
+    "artist": "Enrique Iglesias feat. Sarah Connor",
+    "title": "Takin' Back My Love"
+  },
+  {
+    "rank": 98,
+    "artist": "The Last Goodnight",
+    "title": "Pictures Of You"
+  },
+  {
+    "rank": 99,
+    "artist": "Herbert Grönemeyer",
+    "title": "Glück"
+  },
+  {
+    "rank": 100,
+    "artist": "Britney Spears",
+    "title": "Womanizer"
+  }
+]

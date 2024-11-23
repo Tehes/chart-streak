@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Sarah Brightman & Andrea Bocelli",
+    "title": "Time To Say Goodbye (Con te partirò)"
+  },
+  {
+    "rank": 2,
+    "artist": "Puff Daddy & Faith Evans feat. 112",
+    "title": "I'll Be Missing You"
+  },
+  {
+    "rank": 3,
+    "artist": "Elton John",
+    "title": "Candle In The Wind"
+  },
+  {
+    "rank": 4,
+    "artist": "Will Smith",
+    "title": "Men In Black"
+  },
+  {
+    "rank": 5,
+    "artist": "Tic Tac Toe",
+    "title": "Warum?"
+  },
+  {
+    "rank": 6,
+    "artist": "No Doubt",
+    "title": "Don't Speak"
+  },
+  {
+    "rank": 7,
+    "artist": "Nana",
+    "title": "Lonely"
+  },
+  {
+    "rank": 8,
+    "artist": "Aqua",
+    "title": "Barbie Girl"
+  },
+  {
+    "rank": 9,
+    "artist": "Members Of Mayday",
+    "title": "Sonic Empire"
+  },
+  {
+    "rank": 10,
+    "artist": "Bellini",
+    "title": "Samba de Janeiro"
+  },
+  {
+    "rank": 11,
+    "artist": "Rammstein",
+    "title": "Engel"
+  },
+  {
+    "rank": 12,
+    "artist": "Wolfgang Petry",
+    "title": "Die längste Single der Welt"
+  },
+  {
+    "rank": 13,
+    "artist": "Toni Braxton",
+    "title": "Un-Break My Heart"
+  },
+  {
+    "rank": 14,
+    "artist": "R. Kelly",
+    "title": "I Believe I Can Fly"
+  },
+  {
+    "rank": 15,
+    "artist": "Sabrina Setlur",
+    "title": "Du liebst mich nicht"
+  },
+  {
+    "rank": 16,
+    "artist": "Hanson",
+    "title": "MmmBop"
+  },
+  {
+    "rank": 17,
+    "artist": "Ricky Martin",
+    "title": "Maria"
+  },
+  {
+    "rank": 18,
+    "artist": "C-Block",
+    "title": "So Strung Out"
+  },
+  {
+    "rank": 19,
+    "artist": "No Mercy",
+    "title": "When I Die"
+  },
+  {
+    "rank": 20,
+    "artist": "Bell Book & Candle",
+    "title": "Rescue Me"
+  },
+  {
+    "rank": 21,
+    "artist": "Backstreet Boys",
+    "title": "Everybody (Backstreet's Back)"
+  },
+  {
+    "rank": 22,
+    "artist": "Madonna",
+    "title": "Don't Cry For Me Argentina"
+  },
+  {
+    "rank": 23,
+    "artist": "DJ Quicksilver",
+    "title": "I Have A Dream / Bellissima"
+  },
+  {
+    "rank": 24,
+    "artist": "Pappa Bear feat. Van der Toorn",
+    "title": "Cherish"
+  },
+  {
+    "rank": 25,
+    "artist": "Tic Tac Toe",
+    "title": "Verpiss' Dich"
+  },
+  {
+    "rank": 26,
+    "artist": "Coolio feat. 40 Thevz",
+    "title": "C U When U Get There"
+  },
+  {
+    "rank": 27,
+    "artist": "Lutricia McNeal",
+    "title": "Ain't That Just The Way"
+  },
+  {
+    "rank": 28,
+    "artist": "Bee Gees",
+    "title": "Alone"
+  },
+  {
+    "rank": 29,
+    "artist": "En Vogue",
+    "title": "Don't Let Go (Love)"
+  },
+  {
+    "rank": 30,
+    "artist": "'N Sync",
+    "title": "Tearin' Up My Heart"
+  },
+  {
+    "rank": 31,
+    "artist": "Chilli feat. Carrapicho",
+    "title": "Tic, Tic Tac"
+  },
+  {
+    "rank": 32,
+    "artist": "Cappuccino",
+    "title": "Du fehlst mir"
+  },
+  {
+    "rank": 33,
+    "artist": "The Cardigans",
+    "title": "Lovefool"
+  },
+  {
+    "rank": 34,
+    "artist": "Backstreet Boys",
+    "title": "As Long As You Love Me"
+  },
+  {
+    "rank": 35,
+    "artist": "Mr. President",
+    "title": "Jojo Action"
+  },
+  {
+    "rank": 36,
+    "artist": "Nana",
+    "title": "He's Comin'"
+  },
+  {
+    "rank": 37,
+    "artist": "Brooklyn Bounce",
+    "title": "The Theme (Of Progressive Attack)"
+  },
+  {
+    "rank": 38,
+    "artist": "Whitney Houston",
+    "title": "Step By Step"
+  },
+  {
+    "rank": 39,
+    "artist": "R. Kelly",
+    "title": "Gotham City"
+  },
+  {
+    "rank": 40,
+    "artist": "Freundeskreis",
+    "title": "Anna"
+  },
+  {
+    "rank": 41,
+    "artist": "C-Block",
+    "title": "Time Is Tickin' Away"
+  },
+  {
+    "rank": 42,
+    "artist": "Tic Tac Toe",
+    "title": "Mr. Wichtig"
+  },
+  {
+    "rank": 43,
+    "artist": "Gala",
+    "title": "Freed From Desire"
+  },
+  {
+    "rank": 44,
+    "artist": "Dario G",
+    "title": "Sunchyme"
+  },
+  {
+    "rank": 45,
+    "artist": "Scooter",
+    "title": "Fire"
+  },
+  {
+    "rank": 46,
+    "artist": "Spice Girls",
+    "title": "Who Do You Think You Are / Mama"
+  },
+  {
+    "rank": 47,
+    "artist": "Backstreet Boys",
+    "title": "Anywhere For You"
+  },
+  {
+    "rank": 48,
+    "artist": "Dr. Motte & WestBam",
+    "title": "Sunshine"
+  },
+  {
+    "rank": 49,
+    "artist": "Dune",
+    "title": "Who Wants To Live Forever"
+  },
+  {
+    "rank": 50,
+    "artist": "Sash! feat. Rodriguez",
+    "title": "Ecuador"
+  },
+  {
+    "rank": 51,
+    "artist": "Da Hool",
+    "title": "Meet Her At The Love Parade"
+  },
+  {
+    "rank": 52,
+    "artist": "The Prodigy",
+    "title": "Breathe"
+  },
+  {
+    "rank": 53,
+    "artist": "Aaron Carter",
+    "title": "Crush On You"
+  },
+  {
+    "rank": 54,
+    "artist": "DJ Quicksilver",
+    "title": "Free"
+  },
+  {
+    "rank": 55,
+    "artist": "Skunk Anansie",
+    "title": "Hedonism (Just Because You Feel Good)"
+  },
+  {
+    "rank": 56,
+    "artist": "Backstreet Boys",
+    "title": "Quit Playing Games (With My Heart)"
+  },
+  {
+    "rank": 57,
+    "artist": "No Mercy",
+    "title": "Please Don't Go"
+  },
+  {
+    "rank": 58,
+    "artist": "Michael Jackson",
+    "title": "History / Ghosts"
+  },
+  {
+    "rank": 59,
+    "artist": "Khaled",
+    "title": "Aïcha"
+  },
+  {
+    "rank": 60,
+    "artist": "Apollo Four Forty",
+    "title": "Ain't Talkin' 'Bout Dub"
+  },
+  {
+    "rank": 61,
+    "artist": "Eternal feat. Bebe Winans",
+    "title": "I Wanna Be The Only One"
+  },
+  {
+    "rank": 62,
+    "artist": "Robert Miles feat. Maria Nayler",
+    "title": "One & One"
+  },
+  {
+    "rank": 63,
+    "artist": "Nana",
+    "title": "Darkman"
+  },
+  {
+    "rank": 64,
+    "artist": "The Notorious B.I.G. feat. Puff Daddy & Mase",
+    "title": "Mo Money Mo Problems"
+  },
+  {
+    "rank": 65,
+    "artist": "Nalin & Kane",
+    "title": "Beachball"
+  },
+  {
+    "rank": 66,
+    "artist": "Space Frog feat. The Grim Reaper",
+    "title": "(X-Ray) Follow Me"
+  },
+  {
+    "rank": 67,
+    "artist": "Brooklyn Bounce",
+    "title": "Get Ready To Bounce"
+  },
+  {
+    "rank": 68,
+    "artist": "Depeche Mode",
+    "title": "It's No Good"
+  },
+  {
+    "rank": 69,
+    "artist": "Chumbawamba",
+    "title": "Tubthumping"
+  },
+  {
+    "rank": 70,
+    "artist": "Blümchen",
+    "title": "Nur geträumt"
+  },
+  {
+    "rank": 71,
+    "artist": "Spektacoolär",
+    "title": "Meine kleine Schwester"
+  },
+  {
+    "rank": 72,
+    "artist": "Spice Girls",
+    "title": "2 Become 1"
+  },
+  {
+    "rank": 73,
+    "artist": "Rammstein",
+    "title": "Du hast"
+  },
+  {
+    "rank": 74,
+    "artist": "Meredith Brooks",
+    "title": "Bitch"
+  },
+  {
+    "rank": 75,
+    "artist": "The Rapsody feat. Warren G & Sissel",
+    "title": "Prince Igor"
+  },
+  {
+    "rank": 76,
+    "artist": "'N Sync",
+    "title": "Here We Go"
+  },
+  {
+    "rank": 77,
+    "artist": "The Blue Boy",
+    "title": "Remember Me"
+  },
+  {
+    "rank": 78,
+    "artist": "Babyface feat. Stevie Wonder",
+    "title": "How Come, How Long"
+  },
+  {
+    "rank": 79,
+    "artist": "B Real, Busta Rhymes, Coolio, LL Cool J & Method Man",
+    "title": "Hit 'Em High (The Monstars' Anthem)"
+  },
+  {
+    "rank": 80,
+    "artist": "Ginuwine",
+    "title": "When Doves Cry"
+  },
+  {
+    "rank": 81,
+    "artist": "Red 5",
+    "title": "I Love You... Stop!"
+  },
+  {
+    "rank": 82,
+    "artist": "Puff Daddy feat. Mase",
+    "title": "Can't Nobody Hold Me Down"
+  },
+  {
+    "rank": 83,
+    "artist": "Shola Ama",
+    "title": "You Might Need Somebody"
+  },
+  {
+    "rank": 84,
+    "artist": "Der Wolf",
+    "title": "Oh Shit - Frau Schmidt"
+  },
+  {
+    "rank": 85,
+    "artist": "Ginuwine",
+    "title": "Pony"
+  },
+  {
+    "rank": 86,
+    "artist": "Jam & Spoon feat. Plavka",
+    "title": "Kaleidoscope Skies"
+  },
+  {
+    "rank": 87,
+    "artist": "The Notorious B.I.G.",
+    "title": "Hypnotize"
+  },
+  {
+    "rank": 88,
+    "artist": "Daft Punk",
+    "title": "Around The World"
+  },
+  {
+    "rank": 89,
+    "artist": "Blümchen",
+    "title": "Gib mir noch Zeit"
+  },
+  {
+    "rank": 90,
+    "artist": "The Kelly Family",
+    "title": "Because It's Love"
+  },
+  {
+    "rank": 91,
+    "artist": "Vertigo",
+    "title": "Oxygene"
+  },
+  {
+    "rank": 92,
+    "artist": "Michael Jackson",
+    "title": "Blood On The Dance Floor"
+  },
+  {
+    "rank": 93,
+    "artist": "Sash! feat. La Trec",
+    "title": "Stay"
+  },
+  {
+    "rank": 94,
+    "artist": "Down Low",
+    "title": "Johnny B."
+  },
+  {
+    "rank": 95,
+    "artist": "MC Lyte",
+    "title": "Cold Rock A Party"
+  },
+  {
+    "rank": 96,
+    "artist": "Sash!",
+    "title": "Encore une fois"
+  },
+  {
+    "rank": 97,
+    "artist": "G's Incorporated",
+    "title": "Stairway To Heaven"
+  },
+  {
+    "rank": 98,
+    "artist": "Scooter",
+    "title": "Break It Up"
+  },
+  {
+    "rank": 99,
+    "artist": "Garcia",
+    "title": "Bamboleo"
+  },
+  {
+    "rank": 100,
+    "artist": "Depeche Mode",
+    "title": "Barrel Of A Gun"
+  }
+]

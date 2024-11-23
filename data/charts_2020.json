@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "The Weeknd",
+    "title": "Blinding Lights"
+  },
+  {
+    "rank": 2,
+    "artist": "Tones And I",
+    "title": "Dance Monkey"
+  },
+  {
+    "rank": 3,
+    "artist": "Apache 207",
+    "title": "Roller"
+  },
+  {
+    "rank": 4,
+    "artist": "SAINt JHN",
+    "title": "Roses (Imanbek Remix)"
+  },
+  {
+    "rank": 5,
+    "artist": "Topic feat. A7S",
+    "title": "Breaking Me"
+  },
+  {
+    "rank": 6,
+    "artist": "Ufo361",
+    "title": "Emotions"
+  },
+  {
+    "rank": 7,
+    "artist": "Jawsh 685 & Jason Derulo",
+    "title": "Savage Love (Laxed - Siren Beat)"
+  },
+  {
+    "rank": 8,
+    "artist": "DaBaby feat. Roddy Ricch",
+    "title": "Rockstar"
+  },
+  {
+    "rank": 9,
+    "artist": "Regard",
+    "title": "Ride It"
+  },
+  {
+    "rank": 10,
+    "artist": "Apache 207",
+    "title": "Fame"
+  },
+  {
+    "rank": 11,
+    "artist": "Nea",
+    "title": "Some Say"
+  },
+  {
+    "rank": 12,
+    "artist": "Pashanim",
+    "title": "Airwaves"
+  },
+  {
+    "rank": 13,
+    "artist": "Apache 207",
+    "title": "Bläulich"
+  },
+  {
+    "rank": 14,
+    "artist": "Robin Schulz feat. Alida",
+    "title": "In Your Eyes"
+  },
+  {
+    "rank": 15,
+    "artist": "Mark Forster",
+    "title": "Übermorgen"
+  },
+  {
+    "rank": 16,
+    "artist": "Vize & Tom Gregory",
+    "title": "Never Let Me Down"
+  },
+  {
+    "rank": 17,
+    "artist": "Ava Max",
+    "title": "Kings & Queens"
+  },
+  {
+    "rank": 18,
+    "artist": "24kGoldn feat. Iann Dior",
+    "title": "Mood"
+  },
+  {
+    "rank": 19,
+    "artist": "Dua Lipa",
+    "title": "Don't Start Now"
+  },
+  {
+    "rank": 20,
+    "artist": "Apache 207",
+    "title": "200 km/h"
+  },
+  {
+    "rank": 21,
+    "artist": "AK Ausserkontrolle x Bonez MC",
+    "title": "In meinem Benz"
+  },
+  {
+    "rank": 22,
+    "artist": "Surf Mesa feat. Emilee",
+    "title": "ILY (I Love You Baby)"
+  },
+  {
+    "rank": 23,
+    "artist": "Lum!x & Gabry Ponte",
+    "title": "Monster"
+  },
+  {
+    "rank": 24,
+    "artist": "Juju x Loredana",
+    "title": "Kein Wort"
+  },
+  {
+    "rank": 25,
+    "artist": "KitschKrieg feat. Jamule",
+    "title": "Unterwegs"
+  },
+  {
+    "rank": 26,
+    "artist": "Joel Corry feat. MNEK",
+    "title": "Head & Heart"
+  },
+  {
+    "rank": 27,
+    "artist": "Capital Bra x Samra & Lea",
+    "title": "110"
+  },
+  {
+    "rank": 28,
+    "artist": "Twocolors",
+    "title": "Lovefool"
+  },
+  {
+    "rank": 29,
+    "artist": "Robin Schulz & Wes",
+    "title": "Alane"
+  },
+  {
+    "rank": 30,
+    "artist": "Joker Bra & Vize",
+    "title": "Baby"
+  },
+  {
+    "rank": 31,
+    "artist": "Apache 207",
+    "title": "Boot"
+  },
+  {
+    "rank": 32,
+    "artist": "Felix Jaehn & Vize feat. Miss Li",
+    "title": "Close Your Eyes"
+  },
+  {
+    "rank": 33,
+    "artist": "Ava Max",
+    "title": "Salt"
+  },
+  {
+    "rank": 34,
+    "artist": "Internet Money & Gunna feat. Don Toliver & Nav",
+    "title": "Lemonade"
+  },
+  {
+    "rank": 35,
+    "artist": "Roddy Ricch",
+    "title": "The Box"
+  },
+  {
+    "rank": 36,
+    "artist": "Lewis Capaldi",
+    "title": "Someone You Loved"
+  },
+  {
+    "rank": 37,
+    "artist": "Drake",
+    "title": "Toosie Slide"
+  },
+  {
+    "rank": 38,
+    "artist": "Bausa x Joshi Mizu x Maxwell",
+    "title": "Skifahren"
+  },
+  {
+    "rank": 39,
+    "artist": "Bonez MC",
+    "title": "Roadrunner"
+  },
+  {
+    "rank": 40,
+    "artist": "Billie Eilish",
+    "title": "Bad Guy"
+  },
+  {
+    "rank": 41,
+    "artist": "Trevor Daniel",
+    "title": "Falling"
+  },
+  {
+    "rank": 42,
+    "artist": "Kayef",
+    "title": "Ich würd' lügen"
+  },
+  {
+    "rank": 43,
+    "artist": "Harry Styles",
+    "title": "Watermelon Sugar"
+  },
+  {
+    "rank": 44,
+    "artist": "LA Vision & Gigi D'Agostino",
+    "title": "Hollywood"
+  },
+  {
+    "rank": 45,
+    "artist": "Ofenbach & Quarterhead feat. Norma Jean Martine",
+    "title": "Head Shoulders Knees & Toes"
+  },
+  {
+    "rank": 46,
+    "artist": "Sido feat. Apache 207",
+    "title": "2002"
+  },
+  {
+    "rank": 47,
+    "artist": "RIN",
+    "title": "Alien"
+  },
+  {
+    "rank": 48,
+    "artist": "Dua Lipa",
+    "title": "Physical"
+  },
+  {
+    "rank": 49,
+    "artist": "Master KG feat. Burna Boy & Nomcebo Zikode",
+    "title": "Jerusalema (Remix)"
+  },
+  {
+    "rank": 50,
+    "artist": "Fourty",
+    "title": "Weisser Rauch"
+  },
+  {
+    "rank": 51,
+    "artist": "Vize x Joker Bra x Leony",
+    "title": "Paradise"
+  },
+  {
+    "rank": 52,
+    "artist": "Nimo & Hava",
+    "title": "Kein Schlaf"
+  },
+  {
+    "rank": 53,
+    "artist": "Apache 207",
+    "title": "Wieso tust Du dir das an?"
+  },
+  {
+    "rank": 54,
+    "artist": "Juju feat. Henning May",
+    "title": "Vermissen"
+  },
+  {
+    "rank": 55,
+    "artist": "Benee feat. Gus Dapperton",
+    "title": "Supalonely"
+  },
+  {
+    "rank": 56,
+    "artist": "Mark Forster",
+    "title": "194 Länder"
+  },
+  {
+    "rank": 57,
+    "artist": "Capital Bra x Loredana",
+    "title": "Nicht verdient"
+  },
+  {
+    "rank": 58,
+    "artist": "Billie Eilish",
+    "title": "Everything I Wanted"
+  },
+  {
+    "rank": 59,
+    "artist": "Lea & Capital Bra",
+    "title": "7 Stunden"
+  },
+  {
+    "rank": 60,
+    "artist": "Capital Bra x Clueso x KC Rebell",
+    "title": "Andere Welt"
+  },
+  {
+    "rank": 61,
+    "artist": "Bonez MC",
+    "title": "Big Body Benz"
+  },
+  {
+    "rank": 62,
+    "artist": "Miksu / Macloud / Summer Cem / Luciano / Jamule",
+    "title": "XXL"
+  },
+  {
+    "rank": 63,
+    "artist": "LEA",
+    "title": "Treppenhaus"
+  },
+  {
+    "rank": 64,
+    "artist": "Capital Bra x Cro",
+    "title": "Frühstück in Paris"
+  },
+  {
+    "rank": 65,
+    "artist": "Jason Derulo",
+    "title": "Take You Dancing"
+  },
+  {
+    "rank": 66,
+    "artist": "Zoe Wees",
+    "title": "Control"
+  },
+  {
+    "rank": 67,
+    "artist": "Samra",
+    "title": "Colt"
+  },
+  {
+    "rank": 68,
+    "artist": "Powfu feat. Beabadoobee",
+    "title": "Death Bed"
+  },
+  {
+    "rank": 69,
+    "artist": "Maroon 5",
+    "title": "Memories"
+  },
+  {
+    "rank": 70,
+    "artist": "Bausa x Juju",
+    "title": "2012"
+  },
+  {
+    "rank": 71,
+    "artist": "Apache 207",
+    "title": "Unterwegs"
+  },
+  {
+    "rank": 72,
+    "artist": "Riton x Oliver Heldens feat. Vula",
+    "title": "Turn Me On"
+  },
+  {
+    "rank": 73,
+    "artist": "RIN & Bausa",
+    "title": "Keine Liebe"
+  },
+  {
+    "rank": 74,
+    "artist": "Tyga",
+    "title": "Ayy Macarena"
+  },
+  {
+    "rank": 75,
+    "artist": "Bonez MC",
+    "title": "Angeklagt"
+  },
+  {
+    "rank": 76,
+    "artist": "Black Eyed Peas x J Balvin",
+    "title": "Ritmo (Bad Boys For Life)"
+  },
+  {
+    "rank": 77,
+    "artist": "Samra x Elif",
+    "title": "Zu Ende"
+  },
+  {
+    "rank": 78,
+    "artist": "Purple Disco Machine & Sophie And The Giants",
+    "title": "Hypnotized"
+  },
+  {
+    "rank": 79,
+    "artist": "Future feat. Drake",
+    "title": "Life Is Good"
+  },
+  {
+    "rank": 80,
+    "artist": "KC Rebell x Summer Cem",
+    "title": "Fly"
+  },
+  {
+    "rank": 81,
+    "artist": "Kool Savas x Alies",
+    "title": "AMG"
+  },
+  {
+    "rank": 82,
+    "artist": "Meduza x Becky Hill x Goodboys",
+    "title": "Lose Control"
+  },
+  {
+    "rank": 83,
+    "artist": "Dardan & Monet192",
+    "title": "H <3 T E L"
+  },
+  {
+    "rank": 84,
+    "artist": "Céline [DE]",
+    "title": "Tränen aus Kajal"
+  },
+  {
+    "rank": 85,
+    "artist": "Samra",
+    "title": "Weiss"
+  },
+  {
+    "rank": 86,
+    "artist": "Sam Feldt feat. Rani",
+    "title": "Post Malone"
+  },
+  {
+    "rank": 87,
+    "artist": "Black Eyed Peas / Ozuna + J. Rey Soul",
+    "title": "Mamacita"
+  },
+  {
+    "rank": 88,
+    "artist": "Lewis Capaldi",
+    "title": "Before You Go"
+  },
+  {
+    "rank": 89,
+    "artist": "Arizona Zervas",
+    "title": "Roxanne"
+  },
+  {
+    "rank": 90,
+    "artist": "Jerome [DE]",
+    "title": "Light"
+  },
+  {
+    "rank": 91,
+    "artist": "Nico Santos & Topic",
+    "title": "Like I Love You"
+  },
+  {
+    "rank": 92,
+    "artist": "Apache 207",
+    "title": "Matrix"
+  },
+  {
+    "rank": 93,
+    "artist": "Tujamo - Vize - Majan",
+    "title": "Lonely"
+  },
+  {
+    "rank": 94,
+    "artist": "Kontra K feat. Samra",
+    "title": "Tiefschwarz"
+  },
+  {
+    "rank": 95,
+    "artist": "Bonez MC",
+    "title": "Fuckst mich nur ab"
+  },
+  {
+    "rank": 96,
+    "artist": "Cardi B feat. Megan Thee Stallion",
+    "title": "WAP"
+  },
+  {
+    "rank": 97,
+    "artist": "Post Malone",
+    "title": "Circles"
+  },
+  {
+    "rank": 98,
+    "artist": "Apache 207",
+    "title": "Doch in der Nacht"
+  },
+  {
+    "rank": 99,
+    "artist": "Lady Gaga & Ariana Grande",
+    "title": "Rain On Me"
+  },
+  {
+    "rank": 100,
+    "artist": "Miley Cyrus",
+    "title": "Midnight Sky"
+  }
+]

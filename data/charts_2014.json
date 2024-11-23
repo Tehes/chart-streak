@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Helene Fischer",
+    "title": "Atemlos durch die Nacht"
+  },
+  {
+    "rank": 2,
+    "artist": "Pharrell Williams",
+    "title": "Happy"
+  },
+  {
+    "rank": 3,
+    "artist": "Mr Probz",
+    "title": "Waves (Robin Schulz Remix)"
+  },
+  {
+    "rank": 4,
+    "artist": "Andreas Bourani",
+    "title": "Auf uns"
+  },
+  {
+    "rank": 5,
+    "artist": "Mark Forster feat. Sido",
+    "title": "Au revoir"
+  },
+  {
+    "rank": 6,
+    "artist": "Lilly Wood & The Prick and Robin Schulz",
+    "title": "Prayer In C (Robin Schulz Remix)"
+  },
+  {
+    "rank": 7,
+    "artist": "Clean Bandit feat. Jess Glynne",
+    "title": "Rather Be"
+  },
+  {
+    "rank": 8,
+    "artist": "Ed Sheeran",
+    "title": "I See Fire"
+  },
+  {
+    "rank": 9,
+    "artist": "Cro",
+    "title": "Traum"
+  },
+  {
+    "rank": 10,
+    "artist": "OneRepublic",
+    "title": "Love Runs Out"
+  },
+  {
+    "rank": 11,
+    "artist": "Katy Perry feat. Juicy J",
+    "title": "Dark Horse"
+  },
+  {
+    "rank": 12,
+    "artist": "Meghan Trainor",
+    "title": "All About That Bass"
+  },
+  {
+    "rank": 13,
+    "artist": "Marlon Roudette",
+    "title": "When The Beat Drops Out"
+  },
+  {
+    "rank": 14,
+    "artist": "David Guetta feat. Sam Martin",
+    "title": "Lovers On The Sun"
+  },
+  {
+    "rank": 15,
+    "artist": "George Ezra",
+    "title": "Budapest"
+  },
+  {
+    "rank": 16,
+    "artist": "John Legend",
+    "title": "All Of Me"
+  },
+  {
+    "rank": 17,
+    "artist": "Calvin Harris",
+    "title": "Summer"
+  },
+  {
+    "rank": 18,
+    "artist": "Nico & Vinz",
+    "title": "Am I Wrong"
+  },
+  {
+    "rank": 19,
+    "artist": "Pitbull feat. Ke$ha",
+    "title": "Timber"
+  },
+  {
+    "rank": 20,
+    "artist": "Kiesza",
+    "title": "Hideaway"
+  },
+  {
+    "rank": 21,
+    "artist": "Bakermat",
+    "title": "One Day (Vandaag)"
+  },
+  {
+    "rank": 22,
+    "artist": "The Common Linnets",
+    "title": "Calm After The Storm"
+  },
+  {
+    "rank": 23,
+    "artist": "Avicii",
+    "title": "Addicted To You"
+  },
+  {
+    "rank": 24,
+    "artist": "Revolverheld",
+    "title": "Ich lass für dich das Licht an"
+  },
+  {
+    "rank": 25,
+    "artist": "Adel Tawil",
+    "title": "Lieder"
+  },
+  {
+    "rank": 26,
+    "artist": "David Guetta feat. Sam Martin",
+    "title": "Dangerous"
+  },
+  {
+    "rank": 27,
+    "artist": "Vance Joy",
+    "title": "Riptide"
+  },
+  {
+    "rank": 28,
+    "artist": "Faul & Wad Ad vs. Pnau",
+    "title": "Changes"
+  },
+  {
+    "rank": 29,
+    "artist": "Robin Schulz feat. Jasmine Thompson",
+    "title": "Sun Goes Down"
+  },
+  {
+    "rank": 30,
+    "artist": "Route 94 feat. Jess Glynne",
+    "title": "My Love"
+  },
+  {
+    "rank": 31,
+    "artist": "The Avener",
+    "title": "Fade Out Lines"
+  },
+  {
+    "rank": 32,
+    "artist": "Sigma",
+    "title": "Nobody To Love"
+  },
+  {
+    "rank": 33,
+    "artist": "Coldplay",
+    "title": "A Sky Full Of Stars"
+  },
+  {
+    "rank": 34,
+    "artist": "Jason Derulo feat. Snoop Dogg",
+    "title": "Wiggle"
+  },
+  {
+    "rank": 35,
+    "artist": "Sam Smith",
+    "title": "Stay With Me"
+  },
+  {
+    "rank": 36,
+    "artist": "Alle Farben feat. Graham Candy",
+    "title": "She Moves (Far Away)"
+  },
+  {
+    "rank": 37,
+    "artist": "Ella Henderson",
+    "title": "Ghost"
+  },
+  {
+    "rank": 38,
+    "artist": "Martin Tungevaag",
+    "title": "Wicked Wonderland"
+  },
+  {
+    "rank": 39,
+    "artist": "Taylor Swift",
+    "title": "Shake It Off"
+  },
+  {
+    "rank": 40,
+    "artist": "Calvin Harris feat. John Newman",
+    "title": "Blame"
+  },
+  {
+    "rank": 41,
+    "artist": "Pitbull feat. Jennifer Lopez & Cláudia Leitte",
+    "title": "We Are One (Ole Ola)"
+  },
+  {
+    "rank": 42,
+    "artist": "Sheppard",
+    "title": "Geronimo"
+  },
+  {
+    "rank": 43,
+    "artist": "Sia",
+    "title": "Chandelier"
+  },
+  {
+    "rank": 44,
+    "artist": "Ed Sheeran",
+    "title": "Sing"
+  },
+  {
+    "rank": 45,
+    "artist": "Martin Garrix",
+    "title": "Animals"
+  },
+  {
+    "rank": 46,
+    "artist": "Elaiza",
+    "title": "Is It Right"
+  },
+  {
+    "rank": 47,
+    "artist": "Milky Chance",
+    "title": "Stolen Dance"
+  },
+  {
+    "rank": 48,
+    "artist": "Marteria",
+    "title": "Kids (2 Finger an den Kopf)"
+  },
+  {
+    "rank": 49,
+    "artist": "Klingande",
+    "title": "Jubel"
+  },
+  {
+    "rank": 50,
+    "artist": "Ed Sheeran",
+    "title": "Don't"
+  },
+  {
+    "rank": 51,
+    "artist": "Shakira feat. Rihanna",
+    "title": "Can't Remember To Forget You"
+  },
+  {
+    "rank": 52,
+    "artist": "Lily Allen",
+    "title": "Hard Out Here"
+  },
+  {
+    "rank": 53,
+    "artist": "Kwabs",
+    "title": "Walk"
+  },
+  {
+    "rank": 54,
+    "artist": "Magic!",
+    "title": "Rude"
+  },
+  {
+    "rank": 55,
+    "artist": "David Guetta & Showtek feat. Vassy",
+    "title": "Bad"
+  },
+  {
+    "rank": 56,
+    "artist": "Andreas Bourani",
+    "title": "Auf anderen Wegen"
+  },
+  {
+    "rank": 57,
+    "artist": "Imagine Dragons",
+    "title": "Demons"
+  },
+  {
+    "rank": 58,
+    "artist": "Sido",
+    "title": "Liebe"
+  },
+  {
+    "rank": 59,
+    "artist": "Andreas Gabalier",
+    "title": "Amoi seg' ma uns wieder"
+  },
+  {
+    "rank": 60,
+    "artist": "Avicii",
+    "title": "Hey Brother"
+  },
+  {
+    "rank": 61,
+    "artist": "Hozier",
+    "title": "Take Me To Church"
+  },
+  {
+    "rank": 62,
+    "artist": "Sam Smith",
+    "title": "Money On My Mind"
+  },
+  {
+    "rank": 63,
+    "artist": "Bastille",
+    "title": "Of The Night"
+  },
+  {
+    "rank": 64,
+    "artist": "Aneta Sablik",
+    "title": "The One"
+  },
+  {
+    "rank": 65,
+    "artist": "Ariana Grande feat. Iggy Azalea",
+    "title": "Problem"
+  },
+  {
+    "rank": 66,
+    "artist": "Tove Lo",
+    "title": "Habits"
+  },
+  {
+    "rank": 67,
+    "artist": "Cris Cab",
+    "title": "Liar Liar"
+  },
+  {
+    "rank": 68,
+    "artist": "Revolverheld",
+    "title": "Lass uns gehen"
+  },
+  {
+    "rank": 69,
+    "artist": "David Guetta feat. Skylar Grey",
+    "title": "Shot Me Down"
+  },
+  {
+    "rank": 70,
+    "artist": "Maroon 5",
+    "title": "Maps"
+  },
+  {
+    "rank": 71,
+    "artist": "Coldplay",
+    "title": "Magic"
+  },
+  {
+    "rank": 72,
+    "artist": "Marteria",
+    "title": "OMG!"
+  },
+  {
+    "rank": 73,
+    "artist": "Michael Jackson & Justin Timberlake",
+    "title": "Love Never Felt So Good"
+  },
+  {
+    "rank": 74,
+    "artist": "James Newton Howard feat. Jennifer Lawrence",
+    "title": "The Hanging Tree"
+  },
+  {
+    "rank": 75,
+    "artist": "The Script",
+    "title": "Superheroes"
+  },
+  {
+    "rank": 76,
+    "artist": "Shakira",
+    "title": "Dare (La La La)"
+  },
+  {
+    "rank": 77,
+    "artist": "Eminem feat. Rihanna",
+    "title": "The Monster"
+  },
+  {
+    "rank": 78,
+    "artist": "Duke Dumont feat. Jax Jones",
+    "title": "I Got U"
+  },
+  {
+    "rank": 79,
+    "artist": "Lorde",
+    "title": "Team"
+  },
+  {
+    "rank": 80,
+    "artist": "Jessie J / Ariana Grande / Nicki Minaj",
+    "title": "Bang Bang"
+  },
+  {
+    "rank": 81,
+    "artist": "Cro",
+    "title": "Bad Chick"
+  },
+  {
+    "rank": 82,
+    "artist": "AronChupa",
+    "title": "I'm An Albatraoz"
+  },
+  {
+    "rank": 83,
+    "artist": "Band Aid 30",
+    "title": "Do They Know It's Christmas? (Deutsche Version / 2014)"
+  },
+  {
+    "rank": 84,
+    "artist": "Ariana Grande feat. Zedd",
+    "title": "Break Free"
+  },
+  {
+    "rank": 85,
+    "artist": "Maroon 5",
+    "title": "Animals"
+  },
+  {
+    "rank": 86,
+    "artist": "Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis",
+    "title": "White Walls"
+  },
+  {
+    "rank": 87,
+    "artist": "Rita Ora",
+    "title": "I Will Never Let You Down"
+  },
+  {
+    "rank": 88,
+    "artist": "Avicii",
+    "title": "The Days"
+  },
+  {
+    "rank": 89,
+    "artist": "Alligatoah",
+    "title": "Willst du"
+  },
+  {
+    "rank": 90,
+    "artist": "Klangkarussell",
+    "title": "Netzwerk (Falls Like Rain)"
+  },
+  {
+    "rank": 91,
+    "artist": "Jan Delay",
+    "title": "St. Pauli"
+  },
+  {
+    "rank": 92,
+    "artist": "Avicii",
+    "title": "Wake Me Up!"
+  },
+  {
+    "rank": 93,
+    "artist": "James Blunt",
+    "title": "Heart To Heart"
+  },
+  {
+    "rank": 94,
+    "artist": "DVBBS & Borgeous",
+    "title": "Tsunami"
+  },
+  {
+    "rank": 95,
+    "artist": "Fritz Kalkbrenner",
+    "title": "Back Home"
+  },
+  {
+    "rank": 96,
+    "artist": "One Direction",
+    "title": "Story Of My Life"
+  },
+  {
+    "rank": 97,
+    "artist": "DJ Snake and Lil Jon",
+    "title": "Turn Down For What"
+  },
+  {
+    "rank": 98,
+    "artist": "Lorde",
+    "title": "Royals"
+  },
+  {
+    "rank": 99,
+    "artist": "Zedd feat. Hayley Williams",
+    "title": "Stay The Night"
+  },
+  {
+    "rank": 100,
+    "artist": "Ed Sheeran",
+    "title": "Thinking Out Loud"
+  }
+]

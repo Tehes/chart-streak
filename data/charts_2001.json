@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "No Angels",
+    "title": "Daylight In Your Eyes"
+  },
+  {
+    "rank": 2,
+    "artist": "Enya",
+    "title": "Only Time"
+  },
+  {
+    "rank": 3,
+    "artist": "Safri Duo",
+    "title": "Played-A-Live (The Bongo Song)"
+  },
+  {
+    "rank": 4,
+    "artist": "Kylie Minogue",
+    "title": "Can't Get You Out Of My Head"
+  },
+  {
+    "rank": 5,
+    "artist": "Crazy Town",
+    "title": "Butterfly"
+  },
+  {
+    "rank": 6,
+    "artist": "Atomic Kitten",
+    "title": "Whole Again"
+  },
+  {
+    "rank": 7,
+    "artist": "Wheatus",
+    "title": "Teenage Dirtbag"
+  },
+  {
+    "rank": 8,
+    "artist": "Uncle Kracker",
+    "title": "Follow Me"
+  },
+  {
+    "rank": 9,
+    "artist": "Shaggy feat. Rayvon",
+    "title": "Angel"
+  },
+  {
+    "rank": 10,
+    "artist": "Hermes House Band",
+    "title": "Country Roads"
+  },
+  {
+    "rank": 11,
+    "artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+    "title": "Lady Marmalade"
+  },
+  {
+    "rank": 12,
+    "artist": "Outkast",
+    "title": "Ms. Jackson"
+  },
+  {
+    "rank": 13,
+    "artist": "No Angels",
+    "title": "There Must Be An Angel"
+  },
+  {
+    "rank": 14,
+    "artist": "Gorillaz",
+    "title": "Clint Eastwood"
+  },
+  {
+    "rank": 15,
+    "artist": "Sylver",
+    "title": "Turn The Tide"
+  },
+  {
+    "rank": 16,
+    "artist": "Alicia Keys",
+    "title": "Fallin'"
+  },
+  {
+    "rank": 17,
+    "artist": "Dante Thomas feat. Pras",
+    "title": "Miss California"
+  },
+  {
+    "rank": 18,
+    "artist": "Eminem feat. Dido",
+    "title": "Stan"
+  },
+  {
+    "rank": 19,
+    "artist": "Sarah Connor feat. TQ",
+    "title": "Let's Get Back To Bed - Boy!"
+  },
+  {
+    "rank": 20,
+    "artist": "Shaggy feat. RikRok",
+    "title": "It Wasn't Me"
+  },
+  {
+    "rank": 21,
+    "artist": "Right Said Fred",
+    "title": "You're My Mate"
+  },
+  {
+    "rank": 22,
+    "artist": "Mittermeier vs. Guano Babes",
+    "title": "Kumba Yo!"
+  },
+  {
+    "rank": 23,
+    "artist": "Sarah Connor",
+    "title": "From Sarah With Love"
+  },
+  {
+    "rank": 24,
+    "artist": "Gigi D'Agostino",
+    "title": "La passion"
+  },
+  {
+    "rank": 25,
+    "artist": "Alcazar",
+    "title": "Crying At The Discoteque"
+  },
+  {
+    "rank": 26,
+    "artist": "Afroman",
+    "title": "Because I Got High"
+  },
+  {
+    "rank": 27,
+    "artist": "Geri Halliwell",
+    "title": "It's Raining Men"
+  },
+  {
+    "rank": 28,
+    "artist": "Lil' Kim feat. Phil Collins",
+    "title": "In The Air Tonite"
+  },
+  {
+    "rank": 29,
+    "artist": "Christian",
+    "title": "Es ist geil ein Arschloch zu sein"
+  },
+  {
+    "rank": 30,
+    "artist": "Daft Punk",
+    "title": "One More Time"
+  },
+  {
+    "rank": 31,
+    "artist": "Brandy and Ray J",
+    "title": "Another Day In Paradise"
+  },
+  {
+    "rank": 32,
+    "artist": "Enrique Iglesias",
+    "title": "Hero"
+  },
+  {
+    "rank": 33,
+    "artist": "Robbie Williams",
+    "title": "Eternity"
+  },
+  {
+    "rank": 34,
+    "artist": "LeAnn Rimes",
+    "title": "Can't Fight The Moonlight"
+  },
+  {
+    "rank": 35,
+    "artist": "Daddy DJ",
+    "title": "Daddy DJ"
+  },
+  {
+    "rank": 36,
+    "artist": "Gigi D'Agostino",
+    "title": "L'amour toujours"
+  },
+  {
+    "rank": 37,
+    "artist": "Glashaus",
+    "title": "Wenn das Liebe ist"
+  },
+  {
+    "rank": 38,
+    "artist": "Alizée",
+    "title": "Moi... Lolita"
+  },
+  {
+    "rank": 39,
+    "artist": "Walter",
+    "title": "Ich geh' nicht ohne dich"
+  },
+  {
+    "rank": 40,
+    "artist": "Wu-Tang Clan",
+    "title": "Gravel Pit"
+  },
+  {
+    "rank": 41,
+    "artist": "Rammstein",
+    "title": "Sonne"
+  },
+  {
+    "rank": 42,
+    "artist": "Samy Deluxe",
+    "title": "Weck mich auf"
+  },
+  {
+    "rank": 43,
+    "artist": "Alien Ant Farm",
+    "title": "Smooth Criminal"
+  },
+  {
+    "rank": 44,
+    "artist": "Atomic Kitten",
+    "title": "Eternal Flame"
+  },
+  {
+    "rank": 45,
+    "artist": "Brothers Keepers",
+    "title": "Adriano (Letzte Warnung)"
+  },
+  {
+    "rank": 46,
+    "artist": "DJs@Work",
+    "title": "Someday..."
+  },
+  {
+    "rank": 47,
+    "artist": "Linkin Park",
+    "title": "Crawling"
+  },
+  {
+    "rank": 48,
+    "artist": "Sugababes",
+    "title": "Overload"
+  },
+  {
+    "rank": 49,
+    "artist": "Faith Hill",
+    "title": "There You'll Be"
+  },
+  {
+    "rank": 50,
+    "artist": "Westlife",
+    "title": "Uptown Girl"
+  },
+  {
+    "rank": 51,
+    "artist": "atb",
+    "title": "Let U Go"
+  },
+  {
+    "rank": 52,
+    "artist": "Wyclef Jean",
+    "title": "Perfect Gentleman"
+  },
+  {
+    "rank": 53,
+    "artist": "Baha Men",
+    "title": "Who Let The Dogs Out"
+  },
+  {
+    "rank": 54,
+    "artist": "Bosson",
+    "title": "One In A Million"
+  },
+  {
+    "rank": 55,
+    "artist": "Dario G",
+    "title": "Dream To Me"
+  },
+  {
+    "rank": 56,
+    "artist": "DJ Ötzi",
+    "title": "Hey Baby (uhh, ahh)"
+  },
+  {
+    "rank": 57,
+    "artist": "Lil Bow Wow",
+    "title": "Bow Wow (That's My Name)"
+  },
+  {
+    "rank": 58,
+    "artist": "Ricky Martin with Christina Aguilera",
+    "title": "Nobody Wants To Be Lonely"
+  },
+  {
+    "rank": 59,
+    "artist": "Xzibit",
+    "title": "X"
+  },
+  {
+    "rank": 60,
+    "artist": "Public Domain",
+    "title": "Operation Blade (Bass In The Place London...)"
+  },
+  {
+    "rank": 61,
+    "artist": "Jennifer Lopez",
+    "title": "Love Don't Cost A Thing"
+  },
+  {
+    "rank": 62,
+    "artist": "Barthezz",
+    "title": "On The Move"
+  },
+  {
+    "rank": 63,
+    "artist": "Die Prinzen",
+    "title": "Deutschland"
+  },
+  {
+    "rank": 64,
+    "artist": "Modern Talking",
+    "title": "Win The Race"
+  },
+  {
+    "rank": 65,
+    "artist": "Jeanette",
+    "title": "How It's Got To Be"
+  },
+  {
+    "rank": 66,
+    "artist": "Niemann",
+    "title": "Im Osten"
+  },
+  {
+    "rank": 67,
+    "artist": "Fettes Brot",
+    "title": "Schwule Mädchen"
+  },
+  {
+    "rank": 68,
+    "artist": "DJ BoBo & Irene Cara",
+    "title": "What A Feeling"
+  },
+  {
+    "rank": 69,
+    "artist": "Eve feat. Gwen Stefani",
+    "title": "Let Me Blow Ya Mind"
+  },
+  {
+    "rank": 70,
+    "artist": "Mary J Blige",
+    "title": "Family Affair"
+  },
+  {
+    "rank": 71,
+    "artist": "Scooter",
+    "title": "Posse - I Need You On The Floor"
+  },
+  {
+    "rank": 72,
+    "artist": "Wyclef Jean feat. Mary J Blige",
+    "title": "911"
+  },
+  {
+    "rank": 73,
+    "artist": "Destiny's Child",
+    "title": "Survivor"
+  },
+  {
+    "rank": 74,
+    "artist": "R. Kelly feat. Jay-Z and Boo & Gotti",
+    "title": "Fiesta (Remix)"
+  },
+  {
+    "rank": 75,
+    "artist": "O-Town",
+    "title": "All Or Nothing"
+  },
+  {
+    "rank": 76,
+    "artist": "P. Diddy, Black Rob & Mark Curry",
+    "title": "Bad Boy For Life"
+  },
+  {
+    "rank": 77,
+    "artist": "Bro'Sis",
+    "title": "I Believe"
+  },
+  {
+    "rank": 78,
+    "artist": "Titiyo",
+    "title": "Come Along"
+  },
+  {
+    "rank": 79,
+    "artist": "Lasgo",
+    "title": "Something"
+  },
+  {
+    "rank": 80,
+    "artist": "Jennifer Lopez",
+    "title": "Ain't It Funny"
+  },
+  {
+    "rank": 81,
+    "artist": "A*Teens",
+    "title": "Upside Down"
+  },
+  {
+    "rank": 82,
+    "artist": "R. Kelly",
+    "title": "The Storm Is Over Now"
+  },
+  {
+    "rank": 83,
+    "artist": "Limp Bizkit",
+    "title": "Rollin'"
+  },
+  {
+    "rank": 84,
+    "artist": "Dido",
+    "title": "Here With Me"
+  },
+  {
+    "rank": 85,
+    "artist": "Die Ärzte",
+    "title": "Manchmal haben Frauen..."
+  },
+  {
+    "rank": 86,
+    "artist": "No Angels",
+    "title": "Rivers Of Joy"
+  },
+  {
+    "rank": 87,
+    "artist": "Jam & Spoon feat. Rea",
+    "title": "Be.Angeled"
+  },
+  {
+    "rank": 88,
+    "artist": "Robbie Williams",
+    "title": "Supreme"
+  },
+  {
+    "rank": 89,
+    "artist": "Melanie Thornton",
+    "title": "Love How You Love Me"
+  },
+  {
+    "rank": 90,
+    "artist": "Brooklyn Bounce",
+    "title": "Bass, Beats & Melody"
+  },
+  {
+    "rank": 91,
+    "artist": "S Club 7",
+    "title": "Don't Stop Movin'"
+  },
+  {
+    "rank": 92,
+    "artist": "Charly Lownoise & Mental Theo present Starsplash",
+    "title": "Wonderful Days"
+  },
+  {
+    "rank": 93,
+    "artist": "M.O.P.",
+    "title": "Ante Up"
+  },
+  {
+    "rank": 94,
+    "artist": "Linkin Park",
+    "title": "In The End"
+  },
+  {
+    "rank": 95,
+    "artist": "Sofaplanet",
+    "title": "Lieb*icken"
+  },
+  {
+    "rank": 96,
+    "artist": "Debelah Morgan",
+    "title": "Dance With Me"
+  },
+  {
+    "rank": 97,
+    "artist": "Sylver",
+    "title": "Forever In Love"
+  },
+  {
+    "rank": 98,
+    "artist": "Blue",
+    "title": "All Rise"
+  },
+  {
+    "rank": 99,
+    "artist": "Millane Fernandez",
+    "title": "Boom Boom"
+  },
+  {
+    "rank": 100,
+    "artist": "OPM",
+    "title": "Heaven Is A Halfpipe"
+  }
+]

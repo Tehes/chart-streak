@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Las Ketchup",
+    "title": "The Ketchup Song (Aserejé)"
+  },
+  {
+    "rank": 2,
+    "artist": "Shakira",
+    "title": "Whenever Wherever"
+  },
+  {
+    "rank": 3,
+    "artist": "Herbert Grönemeyer",
+    "title": "Mensch"
+  },
+  {
+    "rank": 4,
+    "artist": "Eminem",
+    "title": "Without Me"
+  },
+  {
+    "rank": 5,
+    "artist": "Die Gerd Show",
+    "title": "Der Steuersong (Las Kanzlern)"
+  },
+  {
+    "rank": 6,
+    "artist": "Ben feat. Gim",
+    "title": "Engel"
+  },
+  {
+    "rank": 7,
+    "artist": "Tiziano Ferro",
+    "title": "Perdono"
+  },
+  {
+    "rank": 8,
+    "artist": "Shakira",
+    "title": "Underneath Your Clothes"
+  },
+  {
+    "rank": 9,
+    "artist": "B3",
+    "title": "I.O.I.O."
+  },
+  {
+    "rank": 10,
+    "artist": "Wonderwall",
+    "title": "Just More"
+  },
+  {
+    "rank": 11,
+    "artist": "No Angels",
+    "title": "Something About Us"
+  },
+  {
+    "rank": 12,
+    "artist": "Bro'Sis",
+    "title": "I Believe"
+  },
+  {
+    "rank": 13,
+    "artist": "Nickelback",
+    "title": "How You Remind Me"
+  },
+  {
+    "rank": 14,
+    "artist": "Ozzy Osbourne",
+    "title": "Dreamer"
+  },
+  {
+    "rank": 15,
+    "artist": "Nelly feat. Kelly Rowland",
+    "title": "Dilemma"
+  },
+  {
+    "rank": 16,
+    "artist": "P!nk",
+    "title": "Get The Party Started"
+  },
+  {
+    "rank": 17,
+    "artist": "Mad'House",
+    "title": "Like A Prayer"
+  },
+  {
+    "rank": 18,
+    "artist": "Scooter",
+    "title": "Nessaja"
+  },
+  {
+    "rank": 19,
+    "artist": "Groove Coverage",
+    "title": "Moonlight Shadow"
+  },
+  {
+    "rank": 20,
+    "artist": "Robbie Williams & Nicole Kidman",
+    "title": "Somethin' Stupid"
+  },
+  {
+    "rank": 21,
+    "artist": "Avril Lavigne",
+    "title": "Complicated"
+  },
+  {
+    "rank": 22,
+    "artist": "Céline Dion",
+    "title": "I'm Alive"
+  },
+  {
+    "rank": 23,
+    "artist": "Sarah Connor",
+    "title": "From Sarah With Love"
+  },
+  {
+    "rank": 24,
+    "artist": "Marilyn Manson",
+    "title": "Tainted Love"
+  },
+  {
+    "rank": 25,
+    "artist": "No Angels",
+    "title": "Still In Love With You"
+  },
+  {
+    "rank": 26,
+    "artist": "Anastacia",
+    "title": "Paid My Dues"
+  },
+  {
+    "rank": 27,
+    "artist": "Xavier Naidoo",
+    "title": "Wo willst du hin?"
+  },
+  {
+    "rank": 28,
+    "artist": "Mark 'Oh",
+    "title": "Let This Party Never End"
+  },
+  {
+    "rank": 29,
+    "artist": "Xavier Naidoo",
+    "title": "Bevor du gehst"
+  },
+  {
+    "rank": 30,
+    "artist": "Elvis Presley vs. JXL",
+    "title": "A Little Less Conversation"
+  },
+  {
+    "rank": 31,
+    "artist": "Massive Töne",
+    "title": "Cruisen"
+  },
+  {
+    "rank": 32,
+    "artist": "Ronan Keating",
+    "title": "If Tomorrow Never Comes"
+  },
+  {
+    "rank": 33,
+    "artist": "Bro'Sis",
+    "title": "Do You"
+  },
+  {
+    "rank": 34,
+    "artist": "Jan Wayne",
+    "title": "Because The Night"
+  },
+  {
+    "rank": 35,
+    "artist": "Kate Winslet",
+    "title": "What If"
+  },
+  {
+    "rank": 36,
+    "artist": "Stefan Raab",
+    "title": "Wir kiffen!"
+  },
+  {
+    "rank": 37,
+    "artist": "Enya",
+    "title": "May It Be"
+  },
+  {
+    "rank": 38,
+    "artist": "Jeanette",
+    "title": "Rock My Life"
+  },
+  {
+    "rank": 39,
+    "artist": "Nelly",
+    "title": "Hot In Herre"
+  },
+  {
+    "rank": 40,
+    "artist": "Enrique Iglesias",
+    "title": "Escape"
+  },
+  {
+    "rank": 41,
+    "artist": "Will Smith intr. Tra-Knox",
+    "title": "Black Suits Comin' (Nod Ya Head)"
+  },
+  {
+    "rank": 42,
+    "artist": "Marlon + Freunde",
+    "title": "Lieber Gott"
+  },
+  {
+    "rank": 43,
+    "artist": "Christina Aguilera feat. Redman",
+    "title": "Dirrty"
+  },
+  {
+    "rank": 44,
+    "artist": "Melanie Thornton",
+    "title": "Wonderful Dream (Holidays Are Coming)"
+  },
+  {
+    "rank": 45,
+    "artist": "Scooter",
+    "title": "Ramp! (The Logical Song)"
+  },
+  {
+    "rank": 46,
+    "artist": "Böhse Onkelz",
+    "title": "Keine Amnestie für MTV"
+  },
+  {
+    "rank": 47,
+    "artist": "P. Diddy feat. Usher & Loon",
+    "title": "I Need A Girl (Part One)"
+  },
+  {
+    "rank": 48,
+    "artist": "R. Kelly",
+    "title": "The World's Greatest"
+  },
+  {
+    "rank": 49,
+    "artist": "Céline Dion",
+    "title": "A New Day Has Come"
+  },
+  {
+    "rank": 50,
+    "artist": "Chad Kroeger feat. Josey Scott",
+    "title": "Hero"
+  },
+  {
+    "rank": 51,
+    "artist": "DJ Tomekk feat. Lil' Kim & Trooper Da Don",
+    "title": "Kimnotyze"
+  },
+  {
+    "rank": 52,
+    "artist": "Lenny Kravitz",
+    "title": "Believe In Me"
+  },
+  {
+    "rank": 53,
+    "artist": "Enrique Iglesias",
+    "title": "Hero"
+  },
+  {
+    "rank": 54,
+    "artist": "Atomic Kitten",
+    "title": "The Tide Is High (Get The Feeling)"
+  },
+  {
+    "rank": 55,
+    "artist": "Eminem",
+    "title": "Cleanin' Out My Closet"
+  },
+  {
+    "rank": 56,
+    "artist": "P.O.D.",
+    "title": "Youth Of The Nation"
+  },
+  {
+    "rank": 57,
+    "artist": "P!nk",
+    "title": "Just Like A Pill"
+  },
+  {
+    "rank": 58,
+    "artist": "Jennifer Lopez",
+    "title": "I'm Gonna Be Alright"
+  },
+  {
+    "rank": 59,
+    "artist": "Jeanette",
+    "title": "No More Tears"
+  },
+  {
+    "rank": 60,
+    "artist": "Loona",
+    "title": "Rhythm Of The Night"
+  },
+  {
+    "rank": 61,
+    "artist": "Vanessa Carlton",
+    "title": "A Thousand Miles"
+  },
+  {
+    "rank": 62,
+    "artist": "Christina Milian",
+    "title": "When You Look At Me"
+  },
+  {
+    "rank": 63,
+    "artist": "Shaham & Brandon",
+    "title": "Bodyrock"
+  },
+  {
+    "rank": 64,
+    "artist": "Truth Hurts feat. Rakim",
+    "title": "Addictive"
+  },
+  {
+    "rank": 65,
+    "artist": "P!nk",
+    "title": "Don't Let Me Get Me"
+  },
+  {
+    "rank": 66,
+    "artist": "Right Said Fred",
+    "title": "Stand Up (For The Champions)"
+  },
+  {
+    "rank": 67,
+    "artist": "Aquagen",
+    "title": "Hard To Say I'm Sorry"
+  },
+  {
+    "rank": 68,
+    "artist": "Westlife",
+    "title": "World Of Our Own"
+  },
+  {
+    "rank": 69,
+    "artist": "Sophie Ellis-Bextor",
+    "title": "Murder On The Dancefloor"
+  },
+  {
+    "rank": 70,
+    "artist": "Master P",
+    "title": "Ooohhhwee"
+  },
+  {
+    "rank": 71,
+    "artist": "Britney Spears",
+    "title": "I'm Not A Girl, Not Yet A Woman"
+  },
+  {
+    "rank": 72,
+    "artist": "Jan Wayne meets Lena",
+    "title": "Total Eclipse Of The Heart"
+  },
+  {
+    "rank": 73,
+    "artist": "'N Sync feat. Nelly",
+    "title": "Girlfriend (Remix)"
+  },
+  {
+    "rank": 74,
+    "artist": "Starsplash",
+    "title": "Free"
+  },
+  {
+    "rank": 75,
+    "artist": "Bryan Adams",
+    "title": "Here I Am"
+  },
+  {
+    "rank": 76,
+    "artist": "Mark 'Oh Meets Digital Rockers",
+    "title": "Because I Love You"
+  },
+  {
+    "rank": 77,
+    "artist": "Vanessa Amorosi",
+    "title": "Every Time I Close My Eyes"
+  },
+  {
+    "rank": 78,
+    "artist": "Die Toten Hosen",
+    "title": "Nur zu Besuch"
+  },
+  {
+    "rank": 79,
+    "artist": "No Angels & Donovan",
+    "title": "Atlantis / When The Angels Sing"
+  },
+  {
+    "rank": 80,
+    "artist": "Atomic Kitten",
+    "title": "It's OK!"
+  },
+  {
+    "rank": 81,
+    "artist": "DJ Sammy & Yanou feat. Do",
+    "title": "Heaven"
+  },
+  {
+    "rank": 82,
+    "artist": "Novaspace",
+    "title": "Time After Time"
+  },
+  {
+    "rank": 83,
+    "artist": "Ben",
+    "title": "Herz aus Glas"
+  },
+  {
+    "rank": 84,
+    "artist": "Sarah Connor feat. Wyclef Jean",
+    "title": "One Nite Stand (Of Wolves And Sheep)"
+  },
+  {
+    "rank": 85,
+    "artist": "Rocco",
+    "title": "Everybody"
+  },
+  {
+    "rank": 86,
+    "artist": "Alizée",
+    "title": "Moi... Lolita"
+  },
+  {
+    "rank": 87,
+    "artist": "The Flames",
+    "title": "Everytime"
+  },
+  {
+    "rank": 88,
+    "artist": "Nelly",
+    "title": "#1"
+  },
+  {
+    "rank": 89,
+    "artist": "Holly Valance",
+    "title": "Kiss Kiss"
+  },
+  {
+    "rank": 90,
+    "artist": "Laith Al-Deen",
+    "title": "Dein Lied"
+  },
+  {
+    "rank": 91,
+    "artist": "Modern Talking",
+    "title": "Ready For The Victory"
+  },
+  {
+    "rank": 92,
+    "artist": "Right Said Fred",
+    "title": "Lovesong"
+  },
+  {
+    "rank": 93,
+    "artist": "Bomfunk MCs feat. Jessica Folcker",
+    "title": "(Crack It) Something Going On"
+  },
+  {
+    "rank": 94,
+    "artist": "Natural",
+    "title": "Put Your Arms Around Me"
+  },
+  {
+    "rank": 95,
+    "artist": "Fat Joe feat. Ashanti",
+    "title": "What's Luv?"
+  },
+  {
+    "rank": 96,
+    "artist": "Britney Spears",
+    "title": "I Love Rock 'n' Roll"
+  },
+  {
+    "rank": 97,
+    "artist": "Kosheen",
+    "title": "Catch"
+  },
+  {
+    "rank": 98,
+    "artist": "Bro'Sis",
+    "title": "Hot Temptation"
+  },
+  {
+    "rank": 99,
+    "artist": "Anastacia",
+    "title": "One Day In Your Life"
+  },
+  {
+    "rank": 100,
+    "artist": "Brooklyn Bounce",
+    "title": "Loud & Proud"
+  }
+]

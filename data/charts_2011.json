@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Jennifer Lopez feat. Pitbull",
+    "title": "On The Floor"
+  },
+  {
+    "rank": 2,
+    "artist": "Alexandra Stan",
+    "title": "Mr. Saxobeat"
+  },
+  {
+    "rank": 3,
+    "artist": "Bruno Mars",
+    "title": "Grenade"
+  },
+  {
+    "rank": 4,
+    "artist": "Adele",
+    "title": "Rolling In The Deep"
+  },
+  {
+    "rank": 5,
+    "artist": "Pietro Lombardi",
+    "title": "Call My Name"
+  },
+  {
+    "rank": 6,
+    "artist": "Marlon Roudette",
+    "title": "New Age"
+  },
+  {
+    "rank": 7,
+    "artist": "Snoop Dogg vs. David Guetta",
+    "title": "Sweat"
+  },
+  {
+    "rank": 8,
+    "artist": "LMFAO feat. Lauren Bennett & GoonRock",
+    "title": "Party Rock Anthem"
+  },
+  {
+    "rank": 9,
+    "artist": "Pitbull feat. Ne-Yo, Afrojack & Nayer",
+    "title": "Give Me Everything"
+  },
+  {
+    "rank": 10,
+    "artist": "Tim Bendzko",
+    "title": "Nur noch kurz die Welt retten"
+  },
+  {
+    "rank": 11,
+    "artist": "Sunrise Avenue",
+    "title": "Hollywood Hills"
+  },
+  {
+    "rank": 12,
+    "artist": "Lucenzo feat. Don Omar",
+    "title": "Danza kuduro"
+  },
+  {
+    "rank": 13,
+    "artist": "Rihanna feat. Calvin Harris",
+    "title": "We Found Love"
+  },
+  {
+    "rank": 14,
+    "artist": "Caro Emerald",
+    "title": "A Night Like This"
+  },
+  {
+    "rank": 15,
+    "artist": "Maroon 5 feat. Christina Aguilera",
+    "title": "Moves Like Jagger"
+  },
+  {
+    "rank": 16,
+    "artist": "Adele",
+    "title": "Set Fire To The Rain"
+  },
+  {
+    "rank": 17,
+    "artist": "Lady Gaga",
+    "title": "Born This Way"
+  },
+  {
+    "rank": 18,
+    "artist": "Taio Cruz feat. Kylie Minogue",
+    "title": "Higher"
+  },
+  {
+    "rank": 19,
+    "artist": "Lana Del Rey",
+    "title": "Video Games"
+  },
+  {
+    "rank": 20,
+    "artist": "Jupiter Jones",
+    "title": "Still"
+  },
+  {
+    "rank": 21,
+    "artist": "DJ Antoine vs. Timati feat. Kalenna",
+    "title": "Welcome To St. Tropez"
+  },
+  {
+    "rank": 22,
+    "artist": "Aura Dione",
+    "title": "Geronimo"
+  },
+  {
+    "rank": 23,
+    "artist": "Taio Cruz feat. Flo Rida",
+    "title": "Hangover"
+  },
+  {
+    "rank": 24,
+    "artist": "Martin Solveig & Dragonette",
+    "title": "Hello"
+  },
+  {
+    "rank": 25,
+    "artist": "David Guetta feat. Sia",
+    "title": "Titanium"
+  },
+  {
+    "rank": 26,
+    "artist": "Rihanna",
+    "title": "S&M"
+  },
+  {
+    "rank": 27,
+    "artist": "Lady Gaga",
+    "title": "The Edge Of Glory"
+  },
+  {
+    "rank": 28,
+    "artist": "Adele",
+    "title": "Someone Like You"
+  },
+  {
+    "rank": 29,
+    "artist": "Hurts",
+    "title": "Stay"
+  },
+  {
+    "rank": 30,
+    "artist": "Sean Paul feat. Alexis Jordan",
+    "title": "Got 2 Luv U"
+  },
+  {
+    "rank": 31,
+    "artist": "Brooke Fraser",
+    "title": "Something In The Water"
+  },
+  {
+    "rank": 32,
+    "artist": "Gotye feat. Kimbra",
+    "title": "Somebody That I Used To Know"
+  },
+  {
+    "rank": 33,
+    "artist": "Empire Of The Sun",
+    "title": "We Are The People"
+  },
+  {
+    "rank": 34,
+    "artist": "Chris Brown",
+    "title": "Yeah 3X"
+  },
+  {
+    "rank": 35,
+    "artist": "Jessie J feat. B.o.B",
+    "title": "Price Tag"
+  },
+  {
+    "rank": 36,
+    "artist": "The Black Eyed Peas",
+    "title": "The Time (Dirty Bit)"
+  },
+  {
+    "rank": 37,
+    "artist": "Israel IZ Kamakawiwo'ole",
+    "title": "Over The Rainbow"
+  },
+  {
+    "rank": 38,
+    "artist": "Usher",
+    "title": "More"
+  },
+  {
+    "rank": 39,
+    "artist": "David Guetta feat. Usher",
+    "title": "Without You"
+  },
+  {
+    "rank": 40,
+    "artist": "Bruno Mars",
+    "title": "Just The Way You Are"
+  },
+  {
+    "rank": 41,
+    "artist": "David Guetta feat. Nicki Minaj & Flo Rida",
+    "title": "Where Them Girls At"
+  },
+  {
+    "rank": 42,
+    "artist": "Milow",
+    "title": "You And Me (In My Pocket)"
+  },
+  {
+    "rank": 43,
+    "artist": "Flo Rida",
+    "title": "Good Feeling"
+  },
+  {
+    "rank": 44,
+    "artist": "Sak Noel",
+    "title": "Loca People (What The F**k!)"
+  },
+  {
+    "rank": 45,
+    "artist": "David Guetta feat. Rihanna",
+    "title": "Who's That Chick?"
+  },
+  {
+    "rank": 46,
+    "artist": "David Guetta feat. Taio Cruz & Ludacris",
+    "title": "Little Bad Girl"
+  },
+  {
+    "rank": 47,
+    "artist": "Frida Gold",
+    "title": "Wovon sollen wir träumen"
+  },
+  {
+    "rank": 48,
+    "artist": "R.I.O. feat. U-Jean",
+    "title": "Turn This Club Around"
+  },
+  {
+    "rank": 49,
+    "artist": "The Black Eyed Peas",
+    "title": "Just Can't Get Enough"
+  },
+  {
+    "rank": 50,
+    "artist": "Revolverheld feat. Marta Jandová",
+    "title": "Halt dich an mir fest"
+  },
+  {
+    "rank": 51,
+    "artist": "Bruno Mars",
+    "title": "The Lazy Song"
+  },
+  {
+    "rank": 52,
+    "artist": "Jason Derulo",
+    "title": "Don't Wanna Go Home"
+  },
+  {
+    "rank": 53,
+    "artist": "Katy Perry",
+    "title": "Firework"
+  },
+  {
+    "rank": 54,
+    "artist": "Milk & Sugar vs. Vaya Con Dios",
+    "title": "Hey (Nah Neh Nah)"
+  },
+  {
+    "rank": 55,
+    "artist": "Flo Rida",
+    "title": "Turn Around (5 4 3 2 1)"
+  },
+  {
+    "rank": 56,
+    "artist": "DiddyDirtyMoney feat. Skylar Grey",
+    "title": "Coming Home"
+  },
+  {
+    "rank": 57,
+    "artist": "Katy Perry feat. Kanye West",
+    "title": "E.T."
+  },
+  {
+    "rank": 58,
+    "artist": "Andreas Bourani",
+    "title": "Nur in meinem Kopf"
+  },
+  {
+    "rank": 59,
+    "artist": "Duck Sauce",
+    "title": "Barbra Streisand"
+  },
+  {
+    "rank": 60,
+    "artist": "Glasperlenspiel",
+    "title": "Echt"
+  },
+  {
+    "rank": 61,
+    "artist": "Coldplay",
+    "title": "Paradise"
+  },
+  {
+    "rank": 62,
+    "artist": "Culcha Candela",
+    "title": "Berlin City Girl"
+  },
+  {
+    "rank": 63,
+    "artist": "Pitbull feat. Marc Anthony",
+    "title": "Rain Over Me"
+  },
+  {
+    "rank": 64,
+    "artist": "Rosenstolz",
+    "title": "Wir sind am Leben"
+  },
+  {
+    "rank": 65,
+    "artist": "Madcon feat. Ameerah",
+    "title": "Freaky Like Me"
+  },
+  {
+    "rank": 66,
+    "artist": "Bag Raiders",
+    "title": "Way Back Home"
+  },
+  {
+    "rank": 67,
+    "artist": "Udo Lindenberg feat. Clueso",
+    "title": "Cello (MTV Unplugged)"
+  },
+  {
+    "rank": 68,
+    "artist": "Rihanna",
+    "title": "California King Bed"
+  },
+  {
+    "rank": 69,
+    "artist": "Lena",
+    "title": "Taken By A Stranger"
+  },
+  {
+    "rank": 70,
+    "artist": "Mike Candys & Evelyn feat. Patrick Miller",
+    "title": "One Night In Ibiza"
+  },
+  {
+    "rank": 71,
+    "artist": "Roxette",
+    "title": "She's Got Nothing On (But The Radio)"
+  },
+  {
+    "rank": 72,
+    "artist": "LMFAO",
+    "title": "Sexy And I Know It"
+  },
+  {
+    "rank": 73,
+    "artist": "Leona Lewis",
+    "title": "Run"
+  },
+  {
+    "rank": 74,
+    "artist": "Snow Patrol",
+    "title": "Called Out In The Dark"
+  },
+  {
+    "rank": 75,
+    "artist": "Avicii",
+    "title": "Levels"
+  },
+  {
+    "rank": 76,
+    "artist": "Die Atzen mit Nena",
+    "title": "Strobo Pop"
+  },
+  {
+    "rank": 77,
+    "artist": "Sarah Engels & Pietro Lombardi",
+    "title": "I Miss You"
+  },
+  {
+    "rank": 78,
+    "artist": "Zaz",
+    "title": "Je veux"
+  },
+  {
+    "rank": 79,
+    "artist": "Aloe Blacc",
+    "title": "Loving You Is Killing Me"
+  },
+  {
+    "rank": 80,
+    "artist": "Natalia Kills",
+    "title": "Mirrors"
+  },
+  {
+    "rank": 81,
+    "artist": "Example",
+    "title": "Changed The Way You Kiss Me"
+  },
+  {
+    "rank": 82,
+    "artist": "Rihanna",
+    "title": "Only Girl (In The World)"
+  },
+  {
+    "rank": 83,
+    "artist": "Tim Bendzko",
+    "title": "Wenn Worte meine Sprache wären"
+  },
+  {
+    "rank": 84,
+    "artist": "Enrique Iglesias feat. Ludacris & DJ Frank E",
+    "title": "Tonight (I'm Lovin' You)"
+  },
+  {
+    "rank": 85,
+    "artist": "Nickelback",
+    "title": "When We Stand Together"
+  },
+  {
+    "rank": 86,
+    "artist": "Unheilig",
+    "title": "Geboren um zu leben"
+  },
+  {
+    "rank": 87,
+    "artist": "Paul & Fritz Kalkbrenner",
+    "title": "Sky And Sand"
+  },
+  {
+    "rank": 88,
+    "artist": "Katy Perry",
+    "title": "Last Friday Night (T.G.I.F.)"
+  },
+  {
+    "rank": 89,
+    "artist": "Natalia Kills feat. will.i.am",
+    "title": "Free"
+  },
+  {
+    "rank": 90,
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks"
+  },
+  {
+    "rank": 91,
+    "artist": "James Morrison",
+    "title": "I Won't Let You Go"
+  },
+  {
+    "rank": 92,
+    "artist": "Sarah Engels",
+    "title": "Call My Name"
+  },
+  {
+    "rank": 93,
+    "artist": "Bruno Mars",
+    "title": "It Will Rain"
+  },
+  {
+    "rank": 94,
+    "artist": "P!nk",
+    "title": "F**kin' Perfect"
+  },
+  {
+    "rank": 95,
+    "artist": "Pitbull feat. T-Pain",
+    "title": "Hey Baby (Drop It To The Floor)"
+  },
+  {
+    "rank": 96,
+    "artist": "Inna",
+    "title": "Sun Is Up"
+  },
+  {
+    "rank": 97,
+    "artist": "Jay Sean feat. Lil Wayne",
+    "title": "Down"
+  },
+  {
+    "rank": 98,
+    "artist": "Usher feat. Pitbull",
+    "title": "DJ Got Us Fallin' In Love"
+  },
+  {
+    "rank": 99,
+    "artist": "Bruno Mars",
+    "title": "Marry You"
+  },
+  {
+    "rank": 100,
+    "artist": "Unheilig",
+    "title": "Winter"
+  }
+]

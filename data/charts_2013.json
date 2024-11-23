@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Avicii",
+    "title": "Wake Me Up!"
+  },
+  {
+    "rank": 2,
+    "artist": "Robin Thicke feat. T.I. + Pharrell",
+    "title": "Blurred Lines"
+  },
+  {
+    "rank": 3,
+    "artist": "will.i.am & Britney Spears",
+    "title": "Scream & Shout"
+  },
+  {
+    "rank": 4,
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "title": "Get Lucky"
+  },
+  {
+    "rank": 5,
+    "artist": "Passenger",
+    "title": "Let Her Go"
+  },
+  {
+    "rank": 6,
+    "artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
+    "title": "Can't Hold Us"
+  },
+  {
+    "rank": 7,
+    "artist": "Macklemore & Ryan Lewis feat. Wanz",
+    "title": "Thrift Shop"
+  },
+  {
+    "rank": 8,
+    "artist": "Capital Cities",
+    "title": "Safe And Sound"
+  },
+  {
+    "rank": 9,
+    "artist": "Imagine Dragons",
+    "title": "Radioactive"
+  },
+  {
+    "rank": 10,
+    "artist": "Naughty Boy feat. Sam Smith",
+    "title": "La La La"
+  },
+  {
+    "rank": 11,
+    "artist": "James Arthur",
+    "title": "Impossible"
+  },
+  {
+    "rank": 12,
+    "artist": "P!nk feat. Nate Ruess",
+    "title": "Just Give Me A Reason"
+  },
+  {
+    "rank": 13,
+    "artist": "Klingande",
+    "title": "Jubel"
+  },
+  {
+    "rank": 14,
+    "artist": "The Script feat. will.i.am",
+    "title": "Hall Of Fame"
+  },
+  {
+    "rank": 15,
+    "artist": "Sido",
+    "title": "Bilder im Kopf"
+  },
+  {
+    "rank": 16,
+    "artist": "Justin Timberlake",
+    "title": "Mirrors"
+  },
+  {
+    "rank": 17,
+    "artist": "Sportfreunde Stiller",
+    "title": "Applaus!! Applaus!!"
+  },
+  {
+    "rank": 18,
+    "artist": "Avicii",
+    "title": "Hey Brother"
+  },
+  {
+    "rank": 19,
+    "artist": "Icona Pop feat. Charli XCX",
+    "title": "I Love It"
+  },
+  {
+    "rank": 20,
+    "artist": "Olly Murs",
+    "title": "Dear Darlin'"
+  },
+  {
+    "rank": 21,
+    "artist": "OneRepublic",
+    "title": "Counting Stars"
+  },
+  {
+    "rank": 22,
+    "artist": "Klangkarussell",
+    "title": "Sonnentanz"
+  },
+  {
+    "rank": 23,
+    "artist": "Katy Perry",
+    "title": "Roar"
+  },
+  {
+    "rank": 24,
+    "artist": "Rihanna feat. Mikky Ekko",
+    "title": "Stay"
+  },
+  {
+    "rank": 25,
+    "artist": "Cro",
+    "title": "Whatever"
+  },
+  {
+    "rank": 26,
+    "artist": "Martin Garrix",
+    "title": "Animals"
+  },
+  {
+    "rank": 27,
+    "artist": "Milky Chance",
+    "title": "Stolen Dance"
+  },
+  {
+    "rank": 28,
+    "artist": "John Newman",
+    "title": "Love Me Again"
+  },
+  {
+    "rank": 29,
+    "artist": "Bastille",
+    "title": "Pompeii"
+  },
+  {
+    "rank": 30,
+    "artist": "The Lumineers",
+    "title": "Ho Hey"
+  },
+  {
+    "rank": 31,
+    "artist": "Psy",
+    "title": "Gangnam Style"
+  },
+  {
+    "rank": 32,
+    "artist": "James Blunt",
+    "title": "Bonfire Heart"
+  },
+  {
+    "rank": 33,
+    "artist": "Jason Derulo feat. 2 Chainz",
+    "title": "Talk Dirty"
+  },
+  {
+    "rank": 34,
+    "artist": "Pitbull feat. Christina Aguilera",
+    "title": "Feel This Moment"
+  },
+  {
+    "rank": 35,
+    "artist": "Olly Murs feat. Flo Rida",
+    "title": "Troublemaker"
+  },
+  {
+    "rank": 36,
+    "artist": "Adel Tawil",
+    "title": "Lieder"
+  },
+  {
+    "rank": 37,
+    "artist": "Birdy",
+    "title": "People Help The People"
+  },
+  {
+    "rank": 38,
+    "artist": "Wax [US Rap]",
+    "title": "Rosana"
+  },
+  {
+    "rank": 39,
+    "artist": "Calvin Harris feat. Ellie Goulding",
+    "title": "I Need Your Love"
+  },
+  {
+    "rank": 40,
+    "artist": "Pitbull feat. Ke$ha",
+    "title": "Timber"
+  },
+  {
+    "rank": 41,
+    "artist": "Linkin Park",
+    "title": "Castle Of Glass"
+  },
+  {
+    "rank": 42,
+    "artist": "Family Of The Year",
+    "title": "Hero"
+  },
+  {
+    "rank": 43,
+    "artist": "Stromae",
+    "title": "Papaoutai"
+  },
+  {
+    "rank": 44,
+    "artist": "Ellie Goulding",
+    "title": "Burn"
+  },
+  {
+    "rank": 45,
+    "artist": "Beatrice Egli",
+    "title": "Mein Herz"
+  },
+  {
+    "rank": 46,
+    "artist": "Ellie Goulding",
+    "title": "Lights"
+  },
+  {
+    "rank": 47,
+    "artist": "Miley Cyrus",
+    "title": "Wrecking Ball"
+  },
+  {
+    "rank": 48,
+    "artist": "Tom Odell",
+    "title": "Another Love"
+  },
+  {
+    "rank": 49,
+    "artist": "Arash feat. Sean Paul",
+    "title": "She Makes Me Go"
+  },
+  {
+    "rank": 50,
+    "artist": "Frida Gold",
+    "title": "Liebe ist meine Rebellion"
+  },
+  {
+    "rank": 51,
+    "artist": "Swedish House Mafia feat. John Martin",
+    "title": "Don't You Worry Child"
+  },
+  {
+    "rank": 52,
+    "artist": "Rihanna",
+    "title": "Diamonds"
+  },
+  {
+    "rank": 53,
+    "artist": "Xavier Naidoo",
+    "title": "Bei meiner Seele"
+  },
+  {
+    "rank": 54,
+    "artist": "Cro",
+    "title": "Einmal um die Welt"
+  },
+  {
+    "rank": 55,
+    "artist": "Eminem feat. Rihanna",
+    "title": "The Monster"
+  },
+  {
+    "rank": 56,
+    "artist": "OneRepublic",
+    "title": "If I Lose Myself"
+  },
+  {
+    "rank": 57,
+    "artist": "Taylor Swift",
+    "title": "I Knew You Were Trouble"
+  },
+  {
+    "rank": 58,
+    "artist": "Fergie, Q-Tip & GoonRock",
+    "title": "A Little Party Never Killed Nobody (All We Got)"
+  },
+  {
+    "rank": 59,
+    "artist": "Lorde",
+    "title": "Royals"
+  },
+  {
+    "rank": 60,
+    "artist": "P!nk",
+    "title": "Try"
+  },
+  {
+    "rank": 61,
+    "artist": "Christina Stürmer",
+    "title": "Millionen Lichter"
+  },
+  {
+    "rank": 62,
+    "artist": "Lady Gaga",
+    "title": "Applause"
+  },
+  {
+    "rank": 63,
+    "artist": "Madcon feat. Kelly Rowland",
+    "title": "One Life"
+  },
+  {
+    "rank": 64,
+    "artist": "David Guetta feat. Ne-Yo & Akon",
+    "title": "Play Hard"
+  },
+  {
+    "rank": 65,
+    "artist": "Psy",
+    "title": "Gentleman"
+  },
+  {
+    "rank": 66,
+    "artist": "Seeed",
+    "title": "Augenbling"
+  },
+  {
+    "rank": 67,
+    "artist": "Emeli Sandé",
+    "title": "Read All About It (Pt. III)"
+  },
+  {
+    "rank": 68,
+    "artist": "will.i.am feat. Justin Bieber",
+    "title": "#thatPOWER"
+  },
+  {
+    "rank": 69,
+    "artist": "Sunrise Avenue",
+    "title": "Lifesaver"
+  },
+  {
+    "rank": 70,
+    "artist": "Faul & Wad Ad vs. Pnau",
+    "title": "Changes"
+  },
+  {
+    "rank": 71,
+    "artist": "Glasperlenspiel",
+    "title": "Nie vergessen"
+  },
+  {
+    "rank": 72,
+    "artist": "Marteria / Yasha / Miss Platnum",
+    "title": "Lila Wolken"
+  },
+  {
+    "rank": 73,
+    "artist": "Birdy",
+    "title": "Wings"
+  },
+  {
+    "rank": 74,
+    "artist": "DJ Antoine",
+    "title": "Bella vita"
+  },
+  {
+    "rank": 75,
+    "artist": "Maxim [DE]",
+    "title": "Meine Soldaten"
+  },
+  {
+    "rank": 76,
+    "artist": "Wiz Khalifa feat. 2 Chainz",
+    "title": "We Own It (Fast & Furious 6)"
+  },
+  {
+    "rank": 77,
+    "artist": "Emmelie de Forest",
+    "title": "Only Teardrops"
+  },
+  {
+    "rank": 78,
+    "artist": "Eminem",
+    "title": "Berzerk"
+  },
+  {
+    "rank": 79,
+    "artist": "Imagine Dragons",
+    "title": "On Top Of The World"
+  },
+  {
+    "rank": 80,
+    "artist": "Nelly",
+    "title": "Hey Porsche"
+  },
+  {
+    "rank": 81,
+    "artist": "Martin Solveig & The Cataracs feat. Kyle",
+    "title": "Hey Now"
+  },
+  {
+    "rank": 82,
+    "artist": "Bastille",
+    "title": "Things We Lost In The Fire"
+  },
+  {
+    "rank": 83,
+    "artist": "Alligatoah",
+    "title": "Willst du"
+  },
+  {
+    "rank": 84,
+    "artist": "Bruno Mars",
+    "title": "Treasure"
+  },
+  {
+    "rank": 85,
+    "artist": "Woodkid",
+    "title": "Run Boy Run"
+  },
+  {
+    "rank": 86,
+    "artist": "Alicia Keys",
+    "title": "Girl On Fire"
+  },
+  {
+    "rank": 87,
+    "artist": "Pulcino Pio",
+    "title": "Das kleine Küken piept"
+  },
+  {
+    "rank": 88,
+    "artist": "Adele",
+    "title": "Skyfall"
+  },
+  {
+    "rank": 89,
+    "artist": "Bruno Mars",
+    "title": "When I Was Your Man"
+  },
+  {
+    "rank": 90,
+    "artist": "Bruno Mars",
+    "title": "Locked Out Of Heaven"
+  },
+  {
+    "rank": 91,
+    "artist": "Linkin Park / Steve Aoki",
+    "title": "A Light That Never Comes"
+  },
+  {
+    "rank": 92,
+    "artist": "Miley Cyrus",
+    "title": "We Can't Stop"
+  },
+  {
+    "rank": 93,
+    "artist": "Lenka",
+    "title": "Everything At Once"
+  },
+  {
+    "rank": 94,
+    "artist": "Revolverheld",
+    "title": "Das kann uns keiner nehmen"
+  },
+  {
+    "rank": 95,
+    "artist": "Bosse",
+    "title": "Schönste Zeit"
+  },
+  {
+    "rank": 96,
+    "artist": "Sido feat. Mark Forster",
+    "title": "Einer dieser Steine"
+  },
+  {
+    "rank": 97,
+    "artist": "Sean Paul",
+    "title": "Other Side Of Love"
+  },
+  {
+    "rank": 98,
+    "artist": "Die Toten Hosen",
+    "title": "Tage wie diese"
+  },
+  {
+    "rank": 99,
+    "artist": "Flo Rida feat. Pitbull",
+    "title": "Can't Believe It"
+  },
+  {
+    "rank": 100,
+    "artist": "Labrinth feat. Emeli Sandé",
+    "title": "Beneath Your Beautiful"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "chart-streak",
+  "version": "1.0.0",
+  "description": "Scraping and building JSON data for Chart Streak.",
+  "type": "module",
+  "scripts": {
+    "start": "node scrape-charts.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.9.0"
+  }
+}

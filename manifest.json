@@ -1,7 +1,7 @@
 {
-    "short_name": "--yourSiteName--",
-    "name": "--yourSiteName--",
-    "description": "--your description--",
+    "short_name": "Chart Streak",
+    "name": "Chart Streak",
+    "description": "Test your music knowledge! Chart Streak challenges you to place hit songs in the correct timeline while building your streak and avoiding strikes.",
     "icons": [
         {
             "src": "icons/180x180.png",

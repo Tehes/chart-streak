@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "artist": "Peter Maffay",
+    "title": "So bist du",
+    "deezer": {
+      "deezerId": 1049001,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/5/0/3c5c11af943c78116dbcba46b3012821.mp3?hdnea=exp=1732390444~acl=/api/1/1/3/c/5/0/3c5c11af943c78116dbcba46b3012821.mp3*~data=user_id=0,application_id=42~hmac=a07229938b3d47f4edb7025b5b56d64b867bc2fb0f01dc0505aaca9d290b78ef",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/4725197f49cb8cefb098e493aaf06a29/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Maffay",
+      "deezerTitle": "So bist du"
+    }
+  },
+  {
+    "rank": 2,
+    "artist": "Patrick Hernandez",
+    "title": "Born To Be Alive",
+    "deezer": {
+      "deezerId": 4077573,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/7/0/7e792b5e2b606282d58f403c34ad0a22.mp3?hdnea=exp=1732390445~acl=/api/1/1/7/e/7/0/7e792b5e2b606282d58f403c34ad0a22.mp3*~data=user_id=0,application_id=42~hmac=5a4ff83e34b5a7d99093b9f0610eaf0415ca3467eccfa5ad7e2c92bfac368ea3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d91935d8fd0fddaeb39d460dc31fe651/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Patrick Hernandez",
+      "deezerTitle": "Born to Be Alive (The Original)"
+    }
+  },
+  {
+    "rank": 3,
+    "artist": "Village People",
+    "title": "Y.M.C.A.",
+    "deezer": {
+      "deezerId": 78595927,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/4/0/2e41df21f0480dfeb9355275611b4cdd.mp3?hdnea=exp=1732390447~acl=/api/1/1/2/e/4/0/2e41df21f0480dfeb9355275611b4cdd.mp3*~data=user_id=0,application_id=42~hmac=d288f606c4965f76a60dee1311f407a075f05591f04a6ba1277f0914c3ab51ef",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c446db15539f4e82846c606b072fe8b7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Village People",
+      "deezerTitle": "YMCA"
+    }
+  },
+  {
+    "rank": 4,
+    "artist": "Blondie",
+    "title": "Heart Of Glass",
+    "deezer": {
+      "deezerId": 3121608,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/d/0/38d96e69eff16bee68cd662b44c39c13.mp3?hdnea=exp=1732390448~acl=/api/1/1/3/8/d/0/38d96e69eff16bee68cd662b44c39c13.mp3*~data=user_id=0,application_id=42~hmac=c6dce84866a243a32c724a62e6ce02edbbd0f0ceb896d8d42099735b94f466b5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d9f6c0324453c6b0cbbc88960ffaafbc/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Blondie",
+      "deezerTitle": "Heart Of Glass (Single Version / Remastered)"
+    }
+  },
+  {
+    "rank": 5,
+    "artist": "Art Garfunkel",
+    "title": "Bright Eyes",
+    "deezer": {
+      "deezerId": 1073052,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/525da6dbb2acc0e208bbfe7e72860389.mp3?hdnea=exp=1732390449~acl=/api/1/1/5/2/5/0/525da6dbb2acc0e208bbfe7e72860389.mp3*~data=user_id=0,application_id=42~hmac=6873a41e0caaefde11dbe6ed1d728616eae5ac8778baa8359756d2ac58e8024a",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/da56b79f6f2e30851887fbeeb35a4236/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Art Garfunkel",
+      "deezerTitle": "Bright Eyes"
+    }
+  },
+  {
+    "rank": 6,
+    "artist": "Dschinghis Khan",
+    "title": "Dschinghis Khan",
+    "deezer": {
+      "deezerId": 1104837,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/8/0/de8f0767be1d1542d35dd3d5d000dbe8.mp3?hdnea=exp=1732390450~acl=/api/1/1/d/e/8/0/de8f0767be1d1542d35dd3d5d000dbe8.mp3*~data=user_id=0,application_id=42~hmac=e41eed3bc5ffdc9914babc248bf1296e54276983248ec05ba30438f202f5721f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1fe797f9462a1056b77ab8fa90695446/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dschinghis Khan",
+      "deezerTitle": "Dschinghis Khan (2007 Version)"
+    }
+  },
+  {
+    "rank": 7,
+    "artist": "M",
+    "title": "Pop Muzik",
+    "deezer": {
+      "deezerId": 1749983627,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/8/0/d4841601a227062f951df415944ef7fe.mp3?hdnea=exp=1732390451~acl=/api/1/1/d/4/8/0/d4841601a227062f951df415944ef7fe.mp3*~data=user_id=0,application_id=42~hmac=59a87a992b7e3b246296c3e0343b0d824114054589f82973facad463727bcf96",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/22048aab12727e0992cb304b7a2d55f9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "M",
+      "deezerTitle": "Pop Muzik"
+    }
+  },
+  {
+    "rank": 8,
+    "artist": "ABBA",
+    "title": "Chiquitita",
+    "deezer": {
+      "deezerId": 76376876,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/f/0/14fe9e96828066e3731517903d1eab39.mp3?hdnea=exp=1732390452~acl=/api/1/1/1/4/f/0/14fe9e96828066e3731517903d1eab39.mp3*~data=user_id=0,application_id=42~hmac=839a92dd6896be3803ac15d6d94bed49e937dd3a568d91c7b6c79d6fe0c57c65",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/36133053035ca8f184eb469901965ac0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "Chiquitita"
+    }
+  },
+  {
+    "rank": 9,
+    "artist": "Dschinghis Khan",
+    "title": "Moskau",
+    "deezer": {
+      "deezerId": 1104838,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/3/0/173ccdeb253be31399ad09212e91b386.mp3?hdnea=exp=1732390453~acl=/api/1/1/1/7/3/0/173ccdeb253be31399ad09212e91b386.mp3*~data=user_id=0,application_id=42~hmac=2f931987b83d8db33e2c6a8ac960e4bafdde1058750041218cf021ec75303fb8",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1fe797f9462a1056b77ab8fa90695446/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dschinghis Khan",
+      "deezerTitle": "Moskau (2007 Version)"
+    }
+  },
+  {
+    "rank": 10,
+    "artist": "Racey",
+    "title": "Some Girls",
+    "deezer": {
+      "deezerId": 3301432,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/9/0/8a912841af9de80c92f80dcf60f8946a.mp3?hdnea=exp=1732390455~acl=/api/1/1/8/a/9/0/8a912841af9de80c92f80dcf60f8946a.mp3*~data=user_id=0,application_id=42~hmac=2d9815751bd8c8622c4eabda92611caecb0bc63e706d6f9274b8c535e52e8890",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0765bd0410c4af83da4ed36211917423/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Racey",
+      "deezerTitle": "Some Girls"
+    }
+  },
+  {
+    "rank": 11,
+    "artist": "Peter Alexander",
+    "title": "Und manchmal weinst du sicher ein paar Tränen",
+    "deezer": {
+      "deezerId": 957296,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/e/0/8ae902c908ac124d091ec5d6fab0f8f1.mp3?hdnea=exp=1732390456~acl=/api/1/1/8/a/e/0/8ae902c908ac124d091ec5d6fab0f8f1.mp3*~data=user_id=0,application_id=42~hmac=c3edfe8e2e7fb82bc583cbff59af21be58b9c047ffaffc96fea088dd664adce0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5926cfd235cc6ea8402fbb4191d4dc89/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Alexander",
+      "deezerTitle": "Und manchmal weinst du sicher ein paar Tränen"
+    }
+  },
+  {
+    "rank": 12,
+    "artist": "KISS",
+    "title": "I Was Made For Lovin' You",
+    "deezer": {
+      "deezerId": 908011,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/2/0/c9265771e7ce2a8488670e8ddbb621fe.mp3?hdnea=exp=1732390457~acl=/api/1/1/c/9/2/0/c9265771e7ce2a8488670e8ddbb621fe.mp3*~data=user_id=0,application_id=42~hmac=fffcd7a315952b8d5ae9fb93000ac0fac8c3578b2e34dd43fb979ed3f7bb7bda",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f1f8547bfb8316d8a9e5768adbe81042/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "KISS",
+      "deezerTitle": "I Was Made For Lovin' You"
+    }
+  },
+  {
+    "rank": 13,
+    "artist": "Eruption",
+    "title": "One Way Ticket",
+    "deezer": {
+      "deezerId": 13020403,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/8/0/5783976bfaf6454b8c133ecd91a0e9c9.mp3?hdnea=exp=1732390458~acl=/api/1/1/5/7/8/0/5783976bfaf6454b8c133ecd91a0e9c9.mp3*~data=user_id=0,application_id=42~hmac=31f54fb9c69ff7455cf5121b969f3574e69086f66c551dc312eb4c1f70513a37",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e686eca29b2d775d5f8deec5093cb2b6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Eruption",
+      "deezerTitle": "One Way Ticket"
+    }
+  },
+  {
+    "rank": 14,
+    "artist": "Boney M.",
+    "title": "El Lute",
+    "deezer": {
+      "deezerId": 364981,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/c/0/91cd149204b1f9dc38a1487b0947f3c7.mp3?hdnea=exp=1732390459~acl=/api/1/1/9/1/c/0/91cd149204b1f9dc38a1487b0947f3c7.mp3*~data=user_id=0,application_id=42~hmac=3d013730b3d2afcf02e2f1ad80f0868e8f192437774790567d726967eb47d53c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5aba1132e8590317dd568e846d34efe0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "El Lute"
+    }
+  },
+  {
+    "rank": 15,
+    "artist": "Luv'",
+    "title": "Trojan Horse",
+    "deezer": {
+      "deezerId": 1581939,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/f/0/faf2290d20e951b508d6b9000b2d04d4.mp3?hdnea=exp=1732390461~acl=/api/1/1/f/a/f/0/faf2290d20e951b508d6b9000b2d04d4.mp3*~data=user_id=0,application_id=42~hmac=4be002b1b309e54d9d382bb8c411a7468dbafd92fb906e9c1b5a2ad4eb1546b4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2dc8e40316f02295802e0dd9fa3f0161/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Luv'",
+      "deezerTitle": "Trojan Horse"
+    }
+  },
+  {
+    "rank": 16,
+    "artist": "Richard Clayderman",
+    "title": "Ballade pour Adeline",
+    "deezer": {
+      "deezerId": 1277227352,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/5/0/e15e6f76bad00720cedb11caec5e9e93.mp3?hdnea=exp=1732390462~acl=/api/1/1/e/1/5/0/e15e6f76bad00720cedb11caec5e9e93.mp3*~data=user_id=0,application_id=42~hmac=0909e6d5e581fa7c53abb5c926fcaea1683431c8a074a14be26733dd65e55f20",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f4af0a18cd4af03b73361bb630a650ad/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Richard Clayderman",
+      "deezerTitle": "Ballade Pour Adeline"
+    }
+  },
+  {
+    "rank": 17,
+    "artist": "Donna Summer",
+    "title": "Hot Stuff",
+    "deezer": {
+      "deezerId": 538706952,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/8/0/0482fdf4f10e2df15d8261ad5432f2f9.mp3?hdnea=exp=1732390463~acl=/api/1/1/0/4/8/0/0482fdf4f10e2df15d8261ad5432f2f9.mp3*~data=user_id=0,application_id=42~hmac=16ea3712f88ec77c31ba595913533b8d61fdf833e8cd25d7c0cfbdfa20ecc442",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2d6faf79614d81cf881f8500dd25598b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Donna Summer",
+      "deezerTitle": "Hot Stuff"
+    }
+  },
+  {
+    "rank": 18,
+    "artist": "Jonny Hill",
+    "title": "Ruf' Teddybär eins-vier",
+    "deezer": {
+      "deezerId": 2091105007,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/1/0/9c1f460dbf3b4d63a723d2ab76b51d9f.mp3?hdnea=exp=1732390464~acl=/api/1/1/9/c/1/0/9c1f460dbf3b4d63a723d2ab76b51d9f.mp3*~data=user_id=0,application_id=42~hmac=fe01bab7ab2cd9586d104aaf4011484b9f646e602b029133189f5cf4db15c93f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5f3b518f2d0f5c656a9f126617e6e9b3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Jonny Hill",
+      "deezerTitle": "Ruf Teddybär Eins-Vier (Live)"
+    }
+  },
+  {
+    "rank": 19,
+    "artist": "Nick Straker Band",
+    "title": "A Walk In The Park",
+    "deezer": {
+      "deezerId": 94935286,
+      "preview": "https://cdn-preview-6.dzcdn.net/stream/c-681c0c2abc2e536e04980fb4c7adcaf8-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/de44588d96e1b54a6e0ab0701a2dc329/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nick Straker Band",
+      "deezerTitle": "A Walk in the Park"
+    }
+  },
+  {
+    "rank": 20,
+    "artist": "Promises",
+    "title": "Baby It's You",
+    "deezer": {
+      "deezerId": 531248121,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/8/0/04893dcefaf563abea5321a1027b22b0.mp3?hdnea=exp=1732390467~acl=/api/1/1/0/4/8/0/04893dcefaf563abea5321a1027b22b0.mp3*~data=user_id=0,application_id=42~hmac=c8d83fb8cbf58cf14c9f4a49ea9e2b6c2598156d631b9a39dbfdae8ae0bc2707",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/7eb552e1e0d24686a7e14bfb57d85beb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Promises",
+      "deezerTitle": "Baby It's You"
+    }
+  },
+  {
+    "rank": 21,
+    "artist": "Clout",
+    "title": "Save Me",
+    "deezer": {
+      "deezerId": 474962712,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/9/0/169c61f49f2e00d1149f982175ef0b5e.mp3?hdnea=exp=1732390468~acl=/api/1/1/1/6/9/0/169c61f49f2e00d1149f982175ef0b5e.mp3*~data=user_id=0,application_id=42~hmac=03bddedd18a59f45c3698273cdc85fa1eacc129579b26fda8828be51907b28c0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5d9bb5508f0a6c04ab86df11d9b3d2b7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Clout",
+      "deezerTitle": "Save Me"
+    }
+  },
+  {
+    "rank": 22,
+    "artist": "Gebrüder Blattschuss",
+    "title": "Kreuzberger Nächte",
+    "deezer": {
+      "deezerId": 661831772,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/5/0/c055770321c3518bb301e610e46733f4.mp3?hdnea=exp=1732390778~acl=/api/1/1/c/0/5/0/c055770321c3518bb301e610e46733f4.mp3*~data=user_id=0,application_id=42~hmac=66bd5b03864539d4f5ffe94acba3ecb9a0294c7a22913042b887f6f24c6c06da",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/684b0c97cb11b0ad9790aea573fbc0ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gebrüder Blattschuss",
+      "deezerTitle": "Kreuzberger Nächte 2008"
+    }
+  },
+  {
+    "rank": 23,
+    "artist": "Oliver Onions",
+    "title": "Bulldozer",
+    "deezer": {
+      "deezerId": 1609764,
+      "preview": "https://cdn-preview-9.dzcdn.net/stream/c-945e74d16dbc1b15678f94422403fba2-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f4842142ac627999b78cdcc18ac95fa9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Oliver Onions",
+      "deezerTitle": "Bulldozer"
+    }
+  },
+  {
+    "rank": 24,
+    "artist": "Dieter Hallervorden / Helga Feddersen",
+    "title": "Du, die Wanne ist voll",
+    "deezer": {
+      "deezerId": 10495753,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/e/0/42ee870be1e7ea5d70adbb898436be75.mp3?hdnea=exp=1732390471~acl=/api/1/1/4/2/e/0/42ee870be1e7ea5d70adbb898436be75.mp3*~data=user_id=0,application_id=42~hmac=2c1639617ed5691fe8561a5437d5ea440838d1ebf27727d9881a1c634baf43d4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2c7390afceb675d9fbca4fdb8251329d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dieter Hallervorden",
+      "deezerTitle": "Du, die Wanne ist voll"
+    }
+  },
+  {
+    "rank": 25,
+    "artist": "Chic",
+    "title": "Le Freak",
+    "deezer": {
+      "deezerId": 72060062,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/e/0/dbe27e246e08fa7bad6dd09b9af59bb0.mp3?hdnea=exp=1732390473~acl=/api/1/1/d/b/e/0/dbe27e246e08fa7bad6dd09b9af59bb0.mp3*~data=user_id=0,application_id=42~hmac=ca07277859a175b83fcf6e979e0262b16db41f86a19157293ba4d5817775a73d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9c44d9af981048f20672aaccdc45d489/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chic",
+      "deezerTitle": "Le Freak"
+    }
+  },
+  {
+    "rank": 26,
+    "artist": "Chris Norman & Suzi Quatro",
+    "title": "Stumblin' In",
+    "deezer": {
+      "deezerId": 1559253732,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/f/0/a5f8ac8a43338f383856b7667dd3aaae.mp3?hdnea=exp=1732390474~acl=/api/1/1/a/5/f/0/a5f8ac8a43338f383856b7667dd3aaae.mp3*~data=user_id=0,application_id=42~hmac=15ae3422c395208d5872935e4ce0f6a022e2092dbb2d801ce405c88d80d0e973",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9c0d04338c4b5295ca58db08605f892f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chris Norman",
+      "deezerTitle": "Stumblin' In"
+    }
+  },
+  {
+    "rank": 27,
+    "artist": "Boney M.",
+    "title": "Hooray! Hooray! It's A Holi-Holiday",
+    "deezer": {
+      "deezerId": 15618344,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/8/0/1f84c7d39a82cffcc51bdfad0e0ff744.mp3?hdnea=exp=1732390475~acl=/api/1/1/1/f/8/0/1f84c7d39a82cffcc51bdfad0e0ff744.mp3*~data=user_id=0,application_id=42~hmac=60c3868975d848aea9bbcdf3e164dd3d3cc0fd6997d2b0b2741c2abe03ade325",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/acd3712c23260251c82463dc60a9e6ce/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "Hooray! Hooray! It's a Holi-Holiday (7\" Version)"
+    }
+  },
+  {
+    "rank": 28,
+    "artist": "Bee Gees",
+    "title": "Too Much Heaven",
+    "deezer": {
+      "deezerId": 139138787,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/f/0/1cfb329c578334a1bace9d88d2a10155.mp3?hdnea=exp=1732390476~acl=/api/1/1/1/c/f/0/1cfb329c578334a1bace9d88d2a10155.mp3*~data=user_id=0,application_id=42~hmac=8e809d100e1cb374455d1ae4ef25d14fb5b437b9541b3cdb38a12c01037b7707",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/abf272cffad9fb2b1552421ac6fac9c2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bee Gees",
+      "deezerTitle": "Too Much Heaven"
+    }
+  },
+  {
+    "rank": 29,
+    "artist": "Baccara",
+    "title": "The Devil Sent You To Lorado",
+    "deezer": {
+      "deezerId": 549168,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/2/0/b42fbfc29a91b84556b4c91cf3754616.mp3?hdnea=exp=1732390477~acl=/api/1/1/b/4/2/0/b42fbfc29a91b84556b4c91cf3754616.mp3*~data=user_id=0,application_id=42~hmac=e8d5695a24314edea056a08b1630f409724ef1f9cdf8c4ec990a7192b10f7f24",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d98470e68eaf0026605dd34e51ec93e3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Baccara",
+      "deezerTitle": "The Devil Sent You to Lorado"
+    }
+  },
+  {
+    "rank": 30,
+    "artist": "Bee Gees",
+    "title": "Tragedy",
+    "deezer": {
+      "deezerId": 350027801,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/6/0/f568a6c77c232484c7830404d57d55c8.mp3?hdnea=exp=1732390479~acl=/api/1/1/f/5/6/0/f568a6c77c232484c7830404d57d55c8.mp3*~data=user_id=0,application_id=42~hmac=65f75542e8a52168435da5ba4b05c0f67955134eff7a761cf82632c83bbc24ba",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bee Gees",
+      "deezerTitle": "Tragedy"
+    }
+  },
+  {
+    "rank": 31,
+    "artist": "Amii Stewart",
+    "title": "Knock On Wood",
+    "deezer": {
+      "deezerId": 10370275,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/0/0/400d91ee3bb81b9c811dbb5af3743918.mp3?hdnea=exp=1732390480~acl=/api/1/1/4/0/0/0/400d91ee3bb81b9c811dbb5af3743918.mp3*~data=user_id=0,application_id=42~hmac=0256f5605022cc1766d9a4163be55b79abf23725581c20fd0042102df097b727",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2ab479e377517fe0cf9fa35569f61e07/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Amii Stewart",
+      "deezerTitle": "Knock On Wood"
+    }
+  },
+  {
+    "rank": 32,
+    "artist": "Paola",
+    "title": "Blue Bayou",
+    "deezer": {
+      "deezerId": 15258308,
+      "preview": "https://cdn-preview-2.dzcdn.net/stream/c-29fbd613449329c4c9fc55ac7edce80a-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0f6824ef9719ed13fb18018905ad9ad0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Paola",
+      "deezerTitle": "Blue Bayou"
+    }
+  },
+  {
+    "rank": 33,
+    "artist": "Frankie Miller",
+    "title": "Darlin'",
+    "deezer": {
+      "deezerId": 1787617217,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/b/0/0bbb2a6f8aa0ad41ed51ddad6a257044.mp3?hdnea=exp=1732390482~acl=/api/1/1/0/b/b/0/0bbb2a6f8aa0ad41ed51ddad6a257044.mp3*~data=user_id=0,application_id=42~hmac=5ea17c147cc61f6802e33f6b0ea53fe153e4da9cb28e947e3c312a46b3272ac4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fe5ce2f57337d29ad70ef7ad69965b19/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frankie Miller",
+      "deezerTitle": "Darlin'"
+    }
+  },
+  {
+    "rank": 34,
+    "artist": "Anita Ward",
+    "title": "Ring My Bell",
+    "deezer": {
+      "deezerId": 404691712,
+      "preview": "https://cdn-preview-7.dzcdn.net/stream/c-7653a16064664ec95f8232d0daf23b06-5.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e5acb279e6ad3cd1957f8bf41ba948f3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Anita Ward",
+      "deezerTitle": "Ring My Bell"
+    }
+  },
+  {
+    "rank": 35,
+    "artist": "Blondie",
+    "title": "Sunday Girl",
+    "deezer": {
+      "deezerId": 3104485,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5b82a602dce246f11d4ce100a7459f9.mp3?hdnea=exp=1732390484~acl=/api/1/1/b/5/b/0/b5b82a602dce246f11d4ce100a7459f9.mp3*~data=user_id=0,application_id=42~hmac=74bef41c7a4151e67df198228ba5d8264f321708a47e69f030432905e0729fa0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cdc9d8ba7d6f9d8c40c5389bb4577409/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Blondie",
+      "deezerTitle": "Sunday Girl"
+    }
+  },
+  {
+    "rank": 36,
+    "artist": "Umberto Tozzi",
+    "title": "Gloria",
+    "deezer": {
+      "deezerId": 84718345,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/7/0/0b7cf403aa694e1819d2c81131def136.mp3?hdnea=exp=1732390486~acl=/api/1/1/0/b/7/0/0b7cf403aa694e1819d2c81131def136.mp3*~data=user_id=0,application_id=42~hmac=e6daae2884c8c277eff0e3f864e5415e039b1eedf92450dcefba0b39925c6627",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/27a51444a36d021a1bf3b1db302a8ff8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Umberto Tozzi",
+      "deezerTitle": "Gloria"
+    }
+  },
+  {
+    "rank": 37,
+    "artist": "Exile",
+    "title": "Kiss You All Over",
+    "deezer": {
+      "deezerId": 1069077,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/282b3dfd732d002a1cbfdbef4d38b957.mp3?hdnea=exp=1732390487~acl=/api/1/1/2/8/2/0/282b3dfd732d002a1cbfdbef4d38b957.mp3*~data=user_id=0,application_id=42~hmac=8ba90083a372bb6e23b79f44e02d1f5a3a03edbb423b376aacb0d7de4a15c49f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/33df38efbb4b5d891c87eac056e279e4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Exile",
+      "deezerTitle": "Kiss You All Over"
+    }
+  },
+  {
+    "rank": 38,
+    "artist": "Manuel & Pony",
+    "title": "Das Lied von Manuel",
+    "deezer": {
+      "deezerId": 74916119,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd11ce4fc73608b77f67f4027333b09b.mp3?hdnea=exp=1732390488~acl=/api/1/1/c/d/1/0/cd11ce4fc73608b77f67f4027333b09b.mp3*~data=user_id=0,application_id=42~hmac=4dc7c7fc3509c846ccea16f958e9428cd10d206396b6b52953d8a49395d28734",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2b5edcc06cb13899b8fbf31b792ef307/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Manuel & Pony",
+      "deezerTitle": "Das Lied von Manuel"
+    }
+  },
+  {
+    "rank": 39,
+    "artist": "Rod Stewart",
+    "title": "Da' Ya' Think I'm Sexy",
+    "deezer": {
+      "deezerId": 2550736,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/6/0/fa6b3917ef450a630ead36f4141a07e4.mp3?hdnea=exp=1732390489~acl=/api/1/1/f/a/6/0/fa6b3917ef450a630ead36f4141a07e4.mp3*~data=user_id=0,application_id=42~hmac=ee572a61ba4397873c931a88e6533bd19826bb8500366a69accea363c9784001",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/7e9f37495fa32452374d6ff6b8cfa60c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rod Stewart",
+      "deezerTitle": "Da Ya Think I'm Sexy?"
+    }
+  },
+  {
+    "rank": 40,
+    "artist": "Exile",
+    "title": "How Could This Go Wrong",
+    "deezer": {
+      "deezerId": 2799012262,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/7/0/077a4d976ce7f96d1c74d1819be8c81b.mp3?hdnea=exp=1732390491~acl=/api/1/1/0/7/7/0/077a4d976ce7f96d1c74d1819be8c81b.mp3*~data=user_id=0,application_id=42~hmac=45f62de6254a64d72e45467e94b956f007d4094b671c5522f85df7609c91005c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/71f0e7fc1e0fb1d90c1ee559b052304d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Exile",
+      "deezerTitle": "How Could This Go Wrong"
+    }
+  },
+  {
+    "rank": 41,
+    "artist": "Snoopy",
+    "title": "No Time For A Tango",
+    "deezer": {
+      "deezerId": 1229943782,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/4/0/b24f5c20afe662b6ea30c9c62fbd1a8f.mp3?hdnea=exp=1732390492~acl=/api/1/1/b/2/4/0/b24f5c20afe662b6ea30c9c62fbd1a8f.mp3*~data=user_id=0,application_id=42~hmac=c2f51d5ebf7e0ce500d432894f6a87b5a57cd95580dd5e6462df0c32fb6428a5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a69bde7ee4c606b30a3c8f4e5d0bc170/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Snoopy",
+      "deezerTitle": "No Time For A Tango"
+    }
+  },
+  {
+    "rank": 42,
+    "artist": "Cliff Richard",
+    "title": "We Don't Talk Anymore",
+    "deezer": {
+      "deezerId": 3421214,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/a/0/0ead1241383ccd2ed76d867c161b2a4c.mp3?hdnea=exp=1732390493~acl=/api/1/1/0/e/a/0/0ead1241383ccd2ed76d867c161b2a4c.mp3*~data=user_id=0,application_id=42~hmac=95eaa9bfd88ce5c10ce3970e9174d21fd162ed403a300a927c3c5eadbe465598",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a1ce520d509ab4080aca0dd7d9461b93/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Cliff Richard",
+      "deezerTitle": "We Don't Talk Anymore"
+    }
+  },
+  {
+    "rank": 43,
+    "artist": "Supertramp",
+    "title": "The Logical Song",
+    "deezer": {
+      "deezerId": 2503274,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/c/0/ccc7ae19822b2bbfc23e3cbcb8b47660.mp3?hdnea=exp=1732390494~acl=/api/1/1/c/c/c/0/ccc7ae19822b2bbfc23e3cbcb8b47660.mp3*~data=user_id=0,application_id=42~hmac=909e8f6cb55dd8726bc36df93ede8f5f4be2b3c296a6075afdeac6a7160b2ff5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6e982953fde60522577ef2958a17faa2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Supertramp",
+      "deezerTitle": "The Logical Song"
+    }
+  },
+  {
+    "rank": 44,
+    "artist": "Luv'",
+    "title": "You're The Greatest Lover",
+    "deezer": {
+      "deezerId": 88755483,
+      "preview": "https://cdn-preview-7.dzcdn.net/stream/c-798a4f49add8b32e04748d28483c4b73-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c14b55fdf80a2c9814c1bbdc7f36ed6b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Luv'",
+      "deezerTitle": "You're The Greatest Lover"
+    }
+  },
+  {
+    "rank": 45,
+    "artist": "Dr. Hook",
+    "title": "When You're In Love With A Beautiful Woman",
+    "deezer": {
+      "deezerId": 1265037862,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e9234eb9156ec3748e8149a191d92242.mp3?hdnea=exp=1732390497~acl=/api/1/1/e/9/2/0/e9234eb9156ec3748e8149a191d92242.mp3*~data=user_id=0,application_id=42~hmac=fcecca0109fe66dbce36376e58db8c4cb562a7e31514fa27cb0983b6593cb7d4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dd3e5de3ea0607e95306bbd33551aecd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dr. Hook",
+      "deezerTitle": "When You're In Love With A Beautiful Woman"
+    }
+  },
+  {
+    "rank": 46,
+    "artist": "Saragossa Band",
+    "title": "Rasta Man",
+    "deezer": {
+      "deezerId": 15361314,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/0/0/e50241d629effe5dfa94bdf59af9caf5.mp3?hdnea=exp=1732390498~acl=/api/1/1/e/5/0/0/e50241d629effe5dfa94bdf59af9caf5.mp3*~data=user_id=0,application_id=42~hmac=cfc49976ad48d1cb1f38513bdcaa95159fe0b24a04ea11c5de2254780b88f888",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/537334b856b0702805f2c448f6947850/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Saragossa Band",
+      "deezerTitle": "Rastaman (Radiocut)"
+    }
+  },
+  {
+    "rank": 47,
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive",
+    "deezer": {
+      "deezerId": 975366,
+      "preview": "https://cdn-preview-0.dzcdn.net/stream/c-061b009d9a163263f3bdfa9031190ded-1.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d48c2d0afa2cf9276018baba6fffa6a1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gloria Gaynor",
+      "deezerTitle": "I Will Survive (Rerecorded)"
+    }
+  },
+  {
+    "rank": 48,
+    "artist": "The Boomtown Rats",
+    "title": "I Don't Like Mondays",
+    "deezer": {
+      "deezerId": 1172856,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/b/0/8cbd3ddec638c8c874d6cf9b3f979df9.mp3?hdnea=exp=1732390500~acl=/api/1/1/8/c/b/0/8cbd3ddec638c8c874d6cf9b3f979df9.mp3*~data=user_id=0,application_id=42~hmac=b54e4701c769d1f00e08f97d42b104ec76561a81dce4e3a6e05cea7e9857acd1",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5fcfeee4a14b0da78d54501010c523e0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Boomtown Rats",
+      "deezerTitle": "I Don't Like Mondays"
+    }
+  },
+  {
+    "rank": 49,
+    "artist": "Racey",
+    "title": "Boy Oh Boy",
+    "deezer": {
+      "deezerId": 3301436,
+      "preview": "https://cdn-preview-9.dzcdn.net/stream/c-9273672b2b021889a5945f8bb3972cbf-5.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0765bd0410c4af83da4ed36211917423/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Racey",
+      "deezerTitle": "Boy Oh Boy"
+    }
+  },
+  {
+    "rank": 50,
+    "artist": "Boney M.",
+    "title": "Mary's Boy Child / Oh My Lord",
+    "deezer": {
+      "deezerId": 571386682,
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/d/0/5fde9c0e154c7dd4cd963f75460ee1de.mp3?hdnea=exp=1732390503~acl=/api/1/1/5/f/d/0/5fde9c0e154c7dd4cd963f75460ee1de.mp3*~data=user_id=0,application_id=42~hmac=74482a79c3fa726f52c8360a082b260df5ba270f434a840ebd90d6a9ff19a5c2",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/606f180b6b239c79978e024775825c6e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "Mary's Boy Child / Oh My Lord"
+    }
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Schnappi",
+    "title": "Schnappi, das kleine Krokodil"
+  },
+  {
+    "rank": 2,
+    "artist": "Tokio Hotel",
+    "title": "Durch den Monsun"
+  },
+  {
+    "rank": 3,
+    "artist": "Akon",
+    "title": "Lonely"
+  },
+  {
+    "rank": 4,
+    "artist": "K-Maro",
+    "title": "Femme Like U (Donne-moi ton corps)"
+  },
+  {
+    "rank": 5,
+    "artist": "Söhne Mannheims",
+    "title": "Und wenn ein Lied"
+  },
+  {
+    "rank": 6,
+    "artist": "Juanes",
+    "title": "La camisa negra"
+  },
+  {
+    "rank": 7,
+    "artist": "50 Cent feat. Olivia",
+    "title": "Candy Shop"
+  },
+  {
+    "rank": 8,
+    "artist": "The Pussycat Dolls feat. Busta Rhymes",
+    "title": "Don't Cha"
+  },
+  {
+    "rank": 9,
+    "artist": "Die Firma",
+    "title": "Die Eine 2005"
+  },
+  {
+    "rank": 10,
+    "artist": "Ch!pz",
+    "title": "Ch!pz In Black (Who You Gonna Call)"
+  },
+  {
+    "rank": 11,
+    "artist": "Fettes Brot",
+    "title": "Emanuela"
+  },
+  {
+    "rank": 12,
+    "artist": "Melanie C",
+    "title": "First Day Of My Life"
+  },
+  {
+    "rank": 13,
+    "artist": "Jay-Z / Linkin Park",
+    "title": "Numb / Encore"
+  },
+  {
+    "rank": 14,
+    "artist": "Nena",
+    "title": "Liebe ist"
+  },
+  {
+    "rank": 15,
+    "artist": "Sarah Connor",
+    "title": "From Zero To Hero"
+  },
+  {
+    "rank": 16,
+    "artist": "James Blunt",
+    "title": "You're Beautiful"
+  },
+  {
+    "rank": 17,
+    "artist": "Nu Pagadi",
+    "title": "Sweetest Poison"
+  },
+  {
+    "rank": 18,
+    "artist": "Madonna",
+    "title": "Hung Up"
+  },
+  {
+    "rank": 19,
+    "artist": "Sugababes",
+    "title": "Push The Button"
+  },
+  {
+    "rank": 20,
+    "artist": "Joana Zimmer",
+    "title": "I Believe (Give A Little Bit...)"
+  },
+  {
+    "rank": 21,
+    "artist": "Ich + Ich",
+    "title": "Du erinnerst mich an Liebe"
+  },
+  {
+    "rank": 22,
+    "artist": "2Pac",
+    "title": "Ghetto Gospel"
+  },
+  {
+    "rank": 23,
+    "artist": "US5",
+    "title": "Maria"
+  },
+  {
+    "rank": 24,
+    "artist": "Shakira feat. Alejandro Sanz",
+    "title": "La tortura"
+  },
+  {
+    "rank": 25,
+    "artist": "Banaroo",
+    "title": "Dubi Dam Dam"
+  },
+  {
+    "rank": 26,
+    "artist": "Marc Terenzi",
+    "title": "Love To Be Loved By You"
+  },
+  {
+    "rank": 27,
+    "artist": "Mario",
+    "title": "Let Me Love You"
+  },
+  {
+    "rank": 28,
+    "artist": "Crazy Frog",
+    "title": "Axel F"
+  },
+  {
+    "rank": 29,
+    "artist": "Robbie Williams",
+    "title": "Tripping"
+  },
+  {
+    "rank": 30,
+    "artist": "Mustafa Sandal feat. Gentleman",
+    "title": "Isyankar"
+  },
+  {
+    "rank": 31,
+    "artist": "Ilona Mitrecey",
+    "title": "Un monde parfait"
+  },
+  {
+    "rank": 32,
+    "artist": "Global Deejays",
+    "title": "The Sound Of San Francisco"
+  },
+  {
+    "rank": 33,
+    "artist": "Christina Stürmer",
+    "title": "Ich lebe [2005]"
+  },
+  {
+    "rank": 34,
+    "artist": "Ch!pz",
+    "title": "Cowboy"
+  },
+  {
+    "rank": 35,
+    "artist": "Sarah Connor",
+    "title": "Living To Love You"
+  },
+  {
+    "rank": 36,
+    "artist": "Krypteria",
+    "title": "Liberatio"
+  },
+  {
+    "rank": 37,
+    "artist": "Xavier Naidoo",
+    "title": "Dieser Weg"
+  },
+  {
+    "rank": 38,
+    "artist": "Yvonne Catterfeld",
+    "title": "Glaub an mich"
+  },
+  {
+    "rank": 39,
+    "artist": "Rihanna",
+    "title": "Pon de replay"
+  },
+  {
+    "rank": 40,
+    "artist": "Will Smith",
+    "title": "Switch"
+  },
+  {
+    "rank": 41,
+    "artist": "Gwen Stefani",
+    "title": "Hollaback Girl"
+  },
+  {
+    "rank": 42,
+    "artist": "The Chemical Brothers",
+    "title": "Galvanize"
+  },
+  {
+    "rank": 43,
+    "artist": "Gorillaz",
+    "title": "Feel Good Inc"
+  },
+  {
+    "rank": 44,
+    "artist": "Daddy Yankee",
+    "title": "Gasolina"
+  },
+  {
+    "rank": 45,
+    "artist": "DJ Tomekk feat. Fler intr. G-Hot",
+    "title": "Jump Jump (DJ Tomekk kommt)"
+  },
+  {
+    "rank": 46,
+    "artist": "Kool Savas & Azad",
+    "title": "All 4 One"
+  },
+  {
+    "rank": 47,
+    "artist": "Snoop Dogg feat. Pharrell",
+    "title": "Drop It Like It's Hot"
+  },
+  {
+    "rank": 48,
+    "artist": "Fettes Brot mit Finkenauer",
+    "title": "An Tagen wie diesen"
+  },
+  {
+    "rank": 49,
+    "artist": "Fler",
+    "title": "NDW 2005"
+  },
+  {
+    "rank": 50,
+    "artist": "Sean Paul",
+    "title": "We Be Burnin'"
+  },
+  {
+    "rank": 51,
+    "artist": "Snoop Dogg feat. Charlie Wilson and Justin Timberlake",
+    "title": "Signs"
+  },
+  {
+    "rank": 52,
+    "artist": "Daniel Powter",
+    "title": "Bad Day"
+  },
+  {
+    "rank": 53,
+    "artist": "Nelly feat. Tim McGraw",
+    "title": "Over And Over"
+  },
+  {
+    "rank": 54,
+    "artist": "Depeche Mode",
+    "title": "Precious"
+  },
+  {
+    "rank": 55,
+    "artist": "Scooter",
+    "title": "One (Always Hardcore)"
+  },
+  {
+    "rank": 56,
+    "artist": "Jennifer Lopez",
+    "title": "Get Right"
+  },
+  {
+    "rank": 57,
+    "artist": "Phantom Planet",
+    "title": "California"
+  },
+  {
+    "rank": 58,
+    "artist": "Nena",
+    "title": "Willst du mit mir gehn"
+  },
+  {
+    "rank": 59,
+    "artist": "Backstreet Boys",
+    "title": "Incomplete"
+  },
+  {
+    "rank": 60,
+    "artist": "Moby",
+    "title": "Lift Me Up"
+  },
+  {
+    "rank": 61,
+    "artist": "Ich + Ich",
+    "title": "Dienen"
+  },
+  {
+    "rank": 62,
+    "artist": "Green Day",
+    "title": "Boulevard Of Broken Dreams"
+  },
+  {
+    "rank": 63,
+    "artist": "Kelly Clarkson",
+    "title": "Since U Been Gone"
+  },
+  {
+    "rank": 64,
+    "artist": "Ciara feat. Missy Elliott",
+    "title": "1, 2 Step"
+  },
+  {
+    "rank": 65,
+    "artist": "The Game feat. 50 Cent",
+    "title": "How We Do"
+  },
+  {
+    "rank": 66,
+    "artist": "Annett Louisan",
+    "title": "Das Spiel"
+  },
+  {
+    "rank": 67,
+    "artist": "US5",
+    "title": "Just Because Of You"
+  },
+  {
+    "rank": 68,
+    "artist": "t.A.T.u.",
+    "title": "All About Us"
+  },
+  {
+    "rank": 69,
+    "artist": "Ben Moody feat. Anastacia",
+    "title": "Everything Burns"
+  },
+  {
+    "rank": 70,
+    "artist": "Maya Saban + Cosmo Klein",
+    "title": "Das alles ändert nichts daran"
+  },
+  {
+    "rank": 71,
+    "artist": "Eric Prydz",
+    "title": "Call On Me"
+  },
+  {
+    "rank": 72,
+    "artist": "Speedy feat. Lumidee",
+    "title": "Sientelo"
+  },
+  {
+    "rank": 73,
+    "artist": "50 Cent",
+    "title": "Just A Lil Bit"
+  },
+  {
+    "rank": 74,
+    "artist": "Eminem",
+    "title": "Like Toy Soldiers"
+  },
+  {
+    "rank": 75,
+    "artist": "Kylie Minogue",
+    "title": "I Believe In You"
+  },
+  {
+    "rank": 76,
+    "artist": "Schnappi und das Lama",
+    "title": "Ein Lama in Yokohama"
+  },
+  {
+    "rank": 77,
+    "artist": "Seeed feat. Cee-Lo Green",
+    "title": "Aufstehn!"
+  },
+  {
+    "rank": 78,
+    "artist": "Bon Jovi",
+    "title": "Have A Nice Day"
+  },
+  {
+    "rank": 79,
+    "artist": "The Black Eyed Peas",
+    "title": "Don't Phunk With My Heart"
+  },
+  {
+    "rank": 80,
+    "artist": "The Game feat. 50 Cent",
+    "title": "Hate It Or Love It"
+  },
+  {
+    "rank": 81,
+    "artist": "Lukas Hilbert",
+    "title": "Was ich an dir mag"
+  },
+  {
+    "rank": 82,
+    "artist": "Juli",
+    "title": "Geile Zeit"
+  },
+  {
+    "rank": 83,
+    "artist": "50 Cent feat. Mobb Deep",
+    "title": "Outta Control"
+  },
+  {
+    "rank": 84,
+    "artist": "Wir sind Helden",
+    "title": "Nur ein Wort"
+  },
+  {
+    "rank": 85,
+    "artist": "Arash",
+    "title": "Boro Boro"
+  },
+  {
+    "rank": 86,
+    "artist": "Raptile",
+    "title": "Fight Back"
+  },
+  {
+    "rank": 87,
+    "artist": "Gwen Stefani feat. Eve",
+    "title": "Rich Girl"
+  },
+  {
+    "rank": 88,
+    "artist": "Hot Banditoz",
+    "title": "Shake Your Balla (1, 2, 3 Alarma)"
+  },
+  {
+    "rank": 89,
+    "artist": "Destiny's Child",
+    "title": "Lose My Breath"
+  },
+  {
+    "rank": 90,
+    "artist": "Christina Stürmer",
+    "title": "Engel fliegen einsam [2005]"
+  },
+  {
+    "rank": 91,
+    "artist": "Bloodhound Gang",
+    "title": "Foxtrot Uniform Charlie Kilo"
+  },
+  {
+    "rank": 92,
+    "artist": "Mariah Carey",
+    "title": "We Belong Together"
+  },
+  {
+    "rank": 93,
+    "artist": "Akon",
+    "title": "Locked Up"
+  },
+  {
+    "rank": 94,
+    "artist": "Lindsay Lohan",
+    "title": "Rumors"
+  },
+  {
+    "rank": 95,
+    "artist": "Banaroo",
+    "title": "Space Cowboy"
+  },
+  {
+    "rank": 96,
+    "artist": "Ciara feat. Ludacris",
+    "title": "Oh"
+  },
+  {
+    "rank": 97,
+    "artist": "Pachanga",
+    "title": "Loco"
+  },
+  {
+    "rank": 98,
+    "artist": "Jessica Simpson",
+    "title": "These Boots Are Made For Walkin'"
+  },
+  {
+    "rank": 99,
+    "artist": "Juli",
+    "title": "Perfekte Welle"
+  },
+  {
+    "rank": 100,
+    "artist": "Apocalyptica feat. Ville Valo and Lauri Ylönen",
+    "title": "Bittersweet"
+  }
+]

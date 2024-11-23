@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Michel Teló",
+    "title": "Ai se eu te pego!"
+  },
+  {
+    "rank": 2,
+    "artist": "Die Toten Hosen",
+    "title": "Tage wie diese"
+  },
+  {
+    "rank": 3,
+    "artist": "Lykke Li",
+    "title": "I Follow Rivers"
+  },
+  {
+    "rank": 4,
+    "artist": "Gotye feat. Kimbra",
+    "title": "Somebody That I Used To Know"
+  },
+  {
+    "rank": 5,
+    "artist": "Asaf Avidan",
+    "title": "One Day / Reckoning Song (Wankelmut Rmx)"
+  },
+  {
+    "rank": 6,
+    "artist": "Carly Rae Jepsen",
+    "title": "Call Me Maybe"
+  },
+  {
+    "rank": 7,
+    "artist": "Rihanna",
+    "title": "Diamonds"
+  },
+  {
+    "rank": 8,
+    "artist": "Psy",
+    "title": "Gangnam Style"
+  },
+  {
+    "rank": 9,
+    "artist": "Loreen",
+    "title": "Euphoria"
+  },
+  {
+    "rank": 10,
+    "artist": "Olly Murs feat. Rizzle Kicks",
+    "title": "Heart Skips A Beat"
+  },
+  {
+    "rank": 11,
+    "artist": "Alex Clare",
+    "title": "Too Close"
+  },
+  {
+    "rank": 12,
+    "artist": "Sean Paul",
+    "title": "She Doesn't Mind"
+  },
+  {
+    "rank": 13,
+    "artist": "Of Monsters And Men",
+    "title": "Little Talks"
+  },
+  {
+    "rank": 14,
+    "artist": "DJ Antoine feat. The Beat Shakers",
+    "title": "\"Ma chérie\""
+  },
+  {
+    "rank": 15,
+    "artist": "Flo Rida",
+    "title": "Whistle"
+  },
+  {
+    "rank": 16,
+    "artist": "Marteria / Yasha / Miss Platnum",
+    "title": "Lila Wolken"
+  },
+  {
+    "rank": 17,
+    "artist": "Adele",
+    "title": "Skyfall"
+  },
+  {
+    "rank": 18,
+    "artist": "Tacabro",
+    "title": "Tacatá"
+  },
+  {
+    "rank": 19,
+    "artist": "Cro",
+    "title": "Easy"
+  },
+  {
+    "rank": 20,
+    "artist": "Linkin Park",
+    "title": "Burn It Down"
+  },
+  {
+    "rank": 21,
+    "artist": "Lana Del Rey",
+    "title": "Summertime Sadness"
+  },
+  {
+    "rank": 22,
+    "artist": "Gusttavo Lima",
+    "title": "Balada"
+  },
+  {
+    "rank": 23,
+    "artist": "Avicii",
+    "title": "Levels"
+  },
+  {
+    "rank": 24,
+    "artist": "Pitbull",
+    "title": "Back In Time"
+  },
+  {
+    "rank": 25,
+    "artist": "Fun. feat. Janelle Monáe",
+    "title": "We Are Young"
+  },
+  {
+    "rank": 26,
+    "artist": "Klangkarussell",
+    "title": "Sonnentanz"
+  },
+  {
+    "rank": 27,
+    "artist": "David Guetta feat. Sia",
+    "title": "She Wolf (Falling To Pieces)"
+  },
+  {
+    "rank": 28,
+    "artist": "Christina Perri",
+    "title": "Jar Of Hearts"
+  },
+  {
+    "rank": 29,
+    "artist": "Triggerfinger",
+    "title": "I Follow Rivers"
+  },
+  {
+    "rank": 30,
+    "artist": "Maroon 5 feat. Wiz Khalifa",
+    "title": "Payphone"
+  },
+  {
+    "rank": 31,
+    "artist": "Robbie Williams",
+    "title": "Candy"
+  },
+  {
+    "rank": 32,
+    "artist": "Taio Cruz feat. Flo Rida",
+    "title": "Hangover"
+  },
+  {
+    "rank": 33,
+    "artist": "Lana Del Rey",
+    "title": "Video Games"
+  },
+  {
+    "rank": 34,
+    "artist": "Taio Cruz feat. Pitbull",
+    "title": "There She Goes"
+  },
+  {
+    "rank": 35,
+    "artist": "Cro",
+    "title": "Du"
+  },
+  {
+    "rank": 36,
+    "artist": "Gossip",
+    "title": "Move In The Right Direction"
+  },
+  {
+    "rank": 37,
+    "artist": "Deichkind",
+    "title": "Leider geil (leider geil)"
+  },
+  {
+    "rank": 38,
+    "artist": "Emeli Sandé",
+    "title": "Read All About It (Pt. III)"
+  },
+  {
+    "rank": 39,
+    "artist": "The BossHoss",
+    "title": "Don't Gimme That"
+  },
+  {
+    "rank": 40,
+    "artist": "Jason Derulo",
+    "title": "Breathing"
+  },
+  {
+    "rank": 41,
+    "artist": "Train",
+    "title": "Drive By"
+  },
+  {
+    "rank": 42,
+    "artist": "Culcha Candela",
+    "title": "Von allein"
+  },
+  {
+    "rank": 43,
+    "artist": "Lena",
+    "title": "Stardust"
+  },
+  {
+    "rank": 44,
+    "artist": "Deichkind",
+    "title": "Bück dich hoch"
+  },
+  {
+    "rank": 45,
+    "artist": "Oceana",
+    "title": "Endless Summer"
+  },
+  {
+    "rank": 46,
+    "artist": "Taio Cruz",
+    "title": "Troublemaker"
+  },
+  {
+    "rank": 47,
+    "artist": "Flo Rida feat. Sia",
+    "title": "Wild Ones"
+  },
+  {
+    "rank": 48,
+    "artist": "Alicia Keys",
+    "title": "Girl On Fire"
+  },
+  {
+    "rank": 49,
+    "artist": "Aura Dione feat. Rock Mafia",
+    "title": "Friends"
+  },
+  {
+    "rank": 50,
+    "artist": "Die Toten Hosen",
+    "title": "Altes Fieber"
+  },
+  {
+    "rank": 51,
+    "artist": "David Guetta feat. Nicki Minaj",
+    "title": "Turn Me On"
+  },
+  {
+    "rank": 52,
+    "artist": "Mike Candys feat. Evelyn & Patrick Miller",
+    "title": "2012 (If The World Would End)"
+  },
+  {
+    "rank": 53,
+    "artist": "Taio Cruz",
+    "title": "World In Our Hands"
+  },
+  {
+    "rank": 54,
+    "artist": "Adele",
+    "title": "Someone Like You"
+  },
+  {
+    "rank": 55,
+    "artist": "Caligola",
+    "title": "Forgive Forget"
+  },
+  {
+    "rank": 56,
+    "artist": "Seeed",
+    "title": "Augenbling"
+  },
+  {
+    "rank": 57,
+    "artist": "Xavas",
+    "title": "Schau nicht mehr zurück"
+  },
+  {
+    "rank": 58,
+    "artist": "Flo Rida",
+    "title": "Good Feeling"
+  },
+  {
+    "rank": 59,
+    "artist": "Jennifer Lopez feat. Pitbull",
+    "title": "Dance Again"
+  },
+  {
+    "rank": 60,
+    "artist": "Simple Plan feat. Sean Paul",
+    "title": "Summer Paradise"
+  },
+  {
+    "rank": 61,
+    "artist": "Die Ärzte",
+    "title": "M+F"
+  },
+  {
+    "rank": 62,
+    "artist": "Chris Brown",
+    "title": "Don't Wake Me Up"
+  },
+  {
+    "rank": 63,
+    "artist": "Unheilig",
+    "title": "So wie du warst"
+  },
+  {
+    "rank": 64,
+    "artist": "Bruno Mars",
+    "title": "Locked Out Of Heaven"
+  },
+  {
+    "rank": 65,
+    "artist": "Cro",
+    "title": "Einmal um die Welt"
+  },
+  {
+    "rank": 66,
+    "artist": "Owl City and Carly Rae Jepsen",
+    "title": "Good Time"
+  },
+  {
+    "rank": 67,
+    "artist": "Ivy Quainoo",
+    "title": "Do You Like What You See"
+  },
+  {
+    "rank": 68,
+    "artist": "Silbermond",
+    "title": "Himmel auf"
+  },
+  {
+    "rank": 69,
+    "artist": "Marlon Roudette",
+    "title": "Anti-Hero (Brave New World)"
+  },
+  {
+    "rank": 70,
+    "artist": "P!nk",
+    "title": "Try"
+  },
+  {
+    "rank": 71,
+    "artist": "Usher",
+    "title": "Scream"
+  },
+  {
+    "rank": 72,
+    "artist": "Roman Lob",
+    "title": "Standing Still"
+  },
+  {
+    "rank": 73,
+    "artist": "Max Herre feat. Philipp Poisel",
+    "title": "Wolke 7"
+  },
+  {
+    "rank": 74,
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks"
+  },
+  {
+    "rank": 75,
+    "artist": "R.I.O. feat. U-Jean",
+    "title": "Summer Jam"
+  },
+  {
+    "rank": 76,
+    "artist": "Flo Rida",
+    "title": "I Cry"
+  },
+  {
+    "rank": 77,
+    "artist": "Luca Hänni",
+    "title": "Don't Think About Me"
+  },
+  {
+    "rank": 78,
+    "artist": "Nicki Minaj",
+    "title": "Starships"
+  },
+  {
+    "rank": 79,
+    "artist": "Alanis Morissette",
+    "title": "Guardian"
+  },
+  {
+    "rank": 80,
+    "artist": "David Guetta feat. Sia",
+    "title": "Titanium"
+  },
+  {
+    "rank": 81,
+    "artist": "Gossip",
+    "title": "Perfect World"
+  },
+  {
+    "rank": 82,
+    "artist": "Rihanna feat. Calvin Harris",
+    "title": "We Found Love"
+  },
+  {
+    "rank": 83,
+    "artist": "Ed Sheeran",
+    "title": "The A Team"
+  },
+  {
+    "rank": 84,
+    "artist": "LMFAO",
+    "title": "Sexy And I Know It"
+  },
+  {
+    "rank": 85,
+    "artist": "Udo Lindenberg feat. Clueso",
+    "title": "Cello (MTV Unplugged)"
+  },
+  {
+    "rank": 86,
+    "artist": "Snoop Dogg & Wiz Khalifa feat. Bruno Mars",
+    "title": "Young, Wild & Free"
+  },
+  {
+    "rank": 87,
+    "artist": "The Wanted",
+    "title": "Chasing The Sun"
+  },
+  {
+    "rank": 88,
+    "artist": "R.I.O. feat. Nicco",
+    "title": "Party Shaker"
+  },
+  {
+    "rank": 89,
+    "artist": "DJane HouseKat feat. Rameez",
+    "title": "My Party"
+  },
+  {
+    "rank": 90,
+    "artist": "Culcha Candela",
+    "title": "Wildes Ding"
+  },
+  {
+    "rank": 91,
+    "artist": "P!nk",
+    "title": "Blow Me (One Last Kiss)"
+  },
+  {
+    "rank": 92,
+    "artist": "Silbermond",
+    "title": "Ja"
+  },
+  {
+    "rank": 93,
+    "artist": "Emeli Sandé",
+    "title": "Next To Me"
+  },
+  {
+    "rank": 94,
+    "artist": "Swedish House Mafia feat. John Martin",
+    "title": "Don't You Worry Child"
+  },
+  {
+    "rank": 95,
+    "artist": "Justin Bieber",
+    "title": "Boyfriend"
+  },
+  {
+    "rank": 96,
+    "artist": "Far * East Movement feat. Justin Bieber",
+    "title": "Live My Life"
+  },
+  {
+    "rank": 97,
+    "artist": "Kris feat. Dante Thomas",
+    "title": "Diese Tage"
+  },
+  {
+    "rank": 98,
+    "artist": "Guru Josh",
+    "title": "Infinity 2012"
+  },
+  {
+    "rank": 99,
+    "artist": "OneRepublic",
+    "title": "Feel Again"
+  },
+  {
+    "rank": 100,
+    "artist": "Stefanie Heinzmann",
+    "title": "Diggin' In The Dirt"
+  }
+]

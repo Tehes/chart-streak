@@ -7,18 +7,18 @@ self.addEventListener("install", () => {
 });
 
 // Fetch event
-self.addEventListener("fetch", (event) => {
+self.addEventListener("fetch", event => {
     // Only handle GET requests
     if (event.request.method === "GET") {
         // Respond with cache-first strategy and stale-while-revalidate
         event.respondWith(
-            caches.match(event.request).then((cachedResponse) => {
+            caches.match(event.request).then(cachedResponse => {
                 if (cachedResponse) {
                     // Return cached response immediately and update in the background
                     event.waitUntil(
-                        fetch(event.request).then((networkResponse) => {
+                        fetch(event.request).then(networkResponse => {
                             // Open the cache and update the requested resource
-                            caches.open(CACHE_NAME).then((cache) => {
+                            caches.open(CACHE_NAME).then(cache => {
                                 cache.put(event.request, networkResponse.clone());
                             });
                         })
@@ -26,13 +26,11 @@ self.addEventListener("fetch", (event) => {
                     return cachedResponse; // Return stale (cached) response
                 } else {
                     // If not in cache, fetch from network and cache dynamically
-                    return fetch(event.request).then((networkResponse) => {
-                        return caches.open(CACHE_NAME).then((cache) => {
-                            // Cache the new network response dynamically
-                            cache.put(event.request, networkResponse.clone());
-                            return networkResponse; // Return the fresh network response
-                        });
-                    }).catch(() => {
+                    return fetch(event.request).then(networkResponse => caches.open(CACHE_NAME).then(cache => {
+                        // Cache the new network response dynamically
+                        cache.put(event.request, networkResponse.clone());
+                        return networkResponse; // Return the fresh network response
+                    })).catch(() => {
                         // Optionally handle offline scenario for dynamic requests
                     });
                 }
@@ -45,19 +43,17 @@ self.addEventListener("fetch", (event) => {
 });
 
 // Activate event to clear old caches
-self.addEventListener("activate", (event) => {
+self.addEventListener("activate", event => {
     const cacheWhitelist = [CACHE_NAME]; // Only keep the current cache
     event.waitUntil(
-        caches.keys().then((cacheNames) => {
-            return Promise.all(
-                cacheNames.map((cacheName) => {
-                    if (!cacheWhitelist.includes(cacheName)) {
-                        // Delete old caches
-                        return caches.delete(cacheName);
-                    }
-                })
-            );
-        })
+        caches.keys().then(cacheNames => Promise.all(
+            cacheNames.map(cacheName => {
+                if (!cacheWhitelist.includes(cacheName)) {
+                    // Delete old caches
+                    return caches.delete(cacheName);
+                }
+            })
+        ))
     );
     self.clients.claim(); // Ensure service worker takes control of the page immediately
 });

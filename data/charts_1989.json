@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "David Hasselhoff",
+    "title": "Looking For Freedom"
+  },
+  {
+    "rank": 2,
+    "artist": "Mysterious Art",
+    "title": "Das Omen (Teil 1)"
+  },
+  {
+    "rank": 3,
+    "artist": "Robin Beck",
+    "title": "First Time"
+  },
+  {
+    "rank": 4,
+    "artist": "Roxette",
+    "title": "The Look"
+  },
+  {
+    "rank": 5,
+    "artist": "Kaoma",
+    "title": "Lambada"
+  },
+  {
+    "rank": 6,
+    "artist": "Madonna",
+    "title": "Like A Prayer"
+  },
+  {
+    "rank": 7,
+    "artist": "Jive Bunny And The Mastermixers",
+    "title": "Swing The Mood"
+  },
+  {
+    "rank": 8,
+    "artist": "Fine Young Cannibals",
+    "title": "She Drives Me Crazy"
+  },
+  {
+    "rank": 9,
+    "artist": "Soulsister",
+    "title": "The Way To Your Heart"
+  },
+  {
+    "rank": 10,
+    "artist": "Bobby McFerrin",
+    "title": "Don't Worry, Be Happy"
+  },
+  {
+    "rank": 11,
+    "artist": "Marc Almond feat. Gene Pitney",
+    "title": "Something's Gotten Hold Of My Heart"
+  },
+  {
+    "rank": 12,
+    "artist": "The Cure",
+    "title": "Lullaby"
+  },
+  {
+    "rank": 13,
+    "artist": "Holly Johnson",
+    "title": "Americanos"
+  },
+  {
+    "rank": 14,
+    "artist": "Lil Louis",
+    "title": "French Kiss"
+  },
+  {
+    "rank": 15,
+    "artist": "Bangles",
+    "title": "Eternal Flame"
+  },
+  {
+    "rank": 16,
+    "artist": "Tanita Tikaram",
+    "title": "Twist In My Sobriety"
+  },
+  {
+    "rank": 17,
+    "artist": "Paula Abdul",
+    "title": "Straight Up"
+  },
+  {
+    "rank": 18,
+    "artist": "Camouflage",
+    "title": "Love Is A Shield"
+  },
+  {
+    "rank": 19,
+    "artist": "Simple Minds",
+    "title": "Ballad Of The Streets"
+  },
+  {
+    "rank": 20,
+    "artist": "Enya",
+    "title": "Orinoco Flow"
+  },
+  {
+    "rank": 21,
+    "artist": "Neneh Cherry",
+    "title": "Buffalo Stance"
+  },
+  {
+    "rank": 22,
+    "artist": "Edelweiss",
+    "title": "Bring Me Edelweiss"
+  },
+  {
+    "rank": 23,
+    "artist": "Don Johnson",
+    "title": "Tell It Like It Is"
+  },
+  {
+    "rank": 24,
+    "artist": "Technotronic feat. Felly",
+    "title": "Pump Up The Jam"
+  },
+  {
+    "rank": 25,
+    "artist": "Neneh Cherry",
+    "title": "Manchild"
+  },
+  {
+    "rank": 26,
+    "artist": "Phil Collins",
+    "title": "In The Air Tonight ('88 Remix)"
+  },
+  {
+    "rank": 27,
+    "artist": "Tone Loc",
+    "title": "Funky Cold Medina"
+  },
+  {
+    "rank": 28,
+    "artist": "Milli Vanilli",
+    "title": "Blame It On The Rain"
+  },
+  {
+    "rank": 29,
+    "artist": "Tony Carey",
+    "title": "Room With A View"
+  },
+  {
+    "rank": 30,
+    "artist": "Soul II Soul",
+    "title": "Back To Life (However Do You Want Me)"
+  },
+  {
+    "rank": 31,
+    "artist": "Holly Johnson",
+    "title": "Love Train"
+  },
+  {
+    "rank": 32,
+    "artist": "Madonna",
+    "title": "Express Yourself"
+  },
+  {
+    "rank": 33,
+    "artist": "Milli Vanilli",
+    "title": "Girl I'm Gonna Miss You"
+  },
+  {
+    "rank": 34,
+    "artist": "Phil Collins",
+    "title": "Two Hearts"
+  },
+  {
+    "rank": 35,
+    "artist": "Sydney Youngblood",
+    "title": "If Only I Could"
+  },
+  {
+    "rank": 36,
+    "artist": "Inner City",
+    "title": "Big Fun"
+  },
+  {
+    "rank": 37,
+    "artist": "The Beach Boys",
+    "title": "Kokomo"
+  },
+  {
+    "rank": 38,
+    "artist": "Inner City",
+    "title": "Good Life"
+  },
+  {
+    "rank": 39,
+    "artist": "Sam Brown",
+    "title": "Stop!"
+  },
+  {
+    "rank": 40,
+    "artist": "Jason Donovan",
+    "title": "Sealed With A Kiss"
+  },
+  {
+    "rank": 41,
+    "artist": "Tina Turner",
+    "title": "The Best"
+  },
+  {
+    "rank": 42,
+    "artist": "Black Box",
+    "title": "Ride On Time"
+  },
+  {
+    "rank": 43,
+    "artist": "Louis Armstrong",
+    "title": "What A Wonderful World"
+  },
+  {
+    "rank": 44,
+    "artist": "Geoffrey Williams",
+    "title": "Cinderella"
+  },
+  {
+    "rank": 45,
+    "artist": "Roy Orbison",
+    "title": "You Got It"
+  },
+  {
+    "rank": 46,
+    "artist": "Womack & Womack",
+    "title": "Teardrops"
+  },
+  {
+    "rank": 47,
+    "artist": "Queen",
+    "title": "I Want It All"
+  },
+  {
+    "rank": 48,
+    "artist": "Soul II Soul",
+    "title": "Keep On Movin'"
+  },
+  {
+    "rank": 49,
+    "artist": "Prince",
+    "title": "Batdance"
+  },
+  {
+    "rank": 50,
+    "artist": "The Christians, Holly Johnson, Paul McCartney, Gerry Marsden & Stock Aitken Waterman",
+    "title": "Ferry 'Cross The Mersey"
+  },
+  {
+    "rank": 51,
+    "artist": "Mike Oldfield",
+    "title": "Innocent"
+  },
+  {
+    "rank": 52,
+    "artist": "Pet Shop Boys",
+    "title": "It's Alright"
+  },
+  {
+    "rank": 53,
+    "artist": "Bananarama / Lananeeneenoonoo",
+    "title": "Help"
+  },
+  {
+    "rank": 54,
+    "artist": "Gladys Knight",
+    "title": "Licence To Kill"
+  },
+  {
+    "rank": 55,
+    "artist": "Fine Young Cannibals",
+    "title": "Good Thing"
+  },
+  {
+    "rank": 56,
+    "artist": "Donna Summer",
+    "title": "This Time I Know It's For Real"
+  },
+  {
+    "rank": 57,
+    "artist": "Michael Jackson",
+    "title": "Smooth Criminal"
+  },
+  {
+    "rank": 58,
+    "artist": "Hithouse",
+    "title": "Jack To The Sound Of The Underground"
+  },
+  {
+    "rank": 59,
+    "artist": "The Jeremy Days",
+    "title": "Brand New Toy"
+  },
+  {
+    "rank": 60,
+    "artist": "Kylie & Jason",
+    "title": "Especially For You"
+  },
+  {
+    "rank": 61,
+    "artist": "Bee Gees",
+    "title": "Ordinary Lives"
+  },
+  {
+    "rank": 62,
+    "artist": "Kon Kan",
+    "title": "I Beg Your Pardon"
+  },
+  {
+    "rank": 63,
+    "artist": "Milli Vanilli",
+    "title": "Baby Don't Forget My Number"
+  },
+  {
+    "rank": 64,
+    "artist": "Phil Collins",
+    "title": "A Groovy Kind Of Love"
+  },
+  {
+    "rank": 65,
+    "artist": "Sandra",
+    "title": "We'll Be Together"
+  },
+  {
+    "rank": 66,
+    "artist": "Tone Loc",
+    "title": "Wild Thing"
+  },
+  {
+    "rank": 67,
+    "artist": "Hanne Haller",
+    "title": "Mein lieber Mann"
+  },
+  {
+    "rank": 68,
+    "artist": "Rick Astley",
+    "title": "Take Me To Your Heart"
+  },
+  {
+    "rank": 69,
+    "artist": "The Art Of Noise feat. Tom Jones",
+    "title": "Kiss"
+  },
+  {
+    "rank": 70,
+    "artist": "Jason Donovan",
+    "title": "Too Many Broken Hearts"
+  },
+  {
+    "rank": 71,
+    "artist": "Rufus & Chaka Khan",
+    "title": "Ain't Nobody (Remix)"
+  },
+  {
+    "rank": 72,
+    "artist": "Robin Beck",
+    "title": "Save Up All Your Tears"
+  },
+  {
+    "rank": 73,
+    "artist": "Martika",
+    "title": "Toy Soldiers"
+  },
+  {
+    "rank": 74,
+    "artist": "Jürgen Drews",
+    "title": "Irgendwann, irgendwo, irgendwie (seh'n wir uns wieder)"
+  },
+  {
+    "rank": 75,
+    "artist": "Wee Papa Girl Rappers",
+    "title": "Wee Rule"
+  },
+  {
+    "rank": 76,
+    "artist": "Depeche Mode",
+    "title": "Personal Jesus"
+  },
+  {
+    "rank": 77,
+    "artist": "Original Naabtal Duo",
+    "title": "Patrona Bavariae"
+  },
+  {
+    "rank": 78,
+    "artist": "Klaus & Klaus",
+    "title": "Der Eiermann"
+  },
+  {
+    "rank": 79,
+    "artist": "Pet Shop Boys",
+    "title": "Left To My Own Devices"
+  },
+  {
+    "rank": 80,
+    "artist": "Bobby Brown",
+    "title": "My Prerogative"
+  },
+  {
+    "rank": 81,
+    "artist": "Honesty 69",
+    "title": "French Kiss"
+  },
+  {
+    "rank": 82,
+    "artist": "Sandra",
+    "title": "Around My Heart"
+  },
+  {
+    "rank": 83,
+    "artist": "Petula Clark",
+    "title": "Downtown '88"
+  },
+  {
+    "rank": 84,
+    "artist": "David Hasselhoff",
+    "title": "Is Everybody Happy"
+  },
+  {
+    "rank": 85,
+    "artist": "Jermaine Stewart",
+    "title": "Don't Talk Dirty To Me"
+  },
+  {
+    "rank": 86,
+    "artist": "Simply Red",
+    "title": "It's Only Love"
+  },
+  {
+    "rank": 87,
+    "artist": "De La Soul",
+    "title": "Me Myself And I"
+  },
+  {
+    "rank": 88,
+    "artist": "Simply Red",
+    "title": "If You Don't Know Me By Now"
+  },
+  {
+    "rank": 89,
+    "artist": "Depeche Mode",
+    "title": "Everything Counts (Live)"
+  },
+  {
+    "rank": 90,
+    "artist": "Nino de Angelo",
+    "title": "Samuraj"
+  },
+  {
+    "rank": 91,
+    "artist": "Yazz",
+    "title": "Stand Up For Your Love Rights"
+  },
+  {
+    "rank": 92,
+    "artist": "Kylie Minogue",
+    "title": "Hand On Your Heart"
+  },
+  {
+    "rank": 93,
+    "artist": "Bad Boys Blue",
+    "title": "Lady In Black"
+  },
+  {
+    "rank": 94,
+    "artist": "Texas",
+    "title": "I Don't Want A Lover"
+  },
+  {
+    "rank": 95,
+    "artist": "Chris Thompson",
+    "title": "The Challenge (Face It)"
+  },
+  {
+    "rank": 96,
+    "artist": "Erasure",
+    "title": "Crackers International"
+  },
+  {
+    "rank": 97,
+    "artist": "Stephan Remmler",
+    "title": "Keine Angst hat der Papa mir gesagt (Keine Angst hat die Mama mir gesagt)"
+  },
+  {
+    "rank": 98,
+    "artist": "Die Ärzte",
+    "title": "Bitte bitte"
+  },
+  {
+    "rank": 99,
+    "artist": "Inner City",
+    "title": "Ain't Nobody Better"
+  },
+  {
+    "rank": 100,
+    "artist": "Ten City",
+    "title": "That's The Way Love Is"
+  }
+]

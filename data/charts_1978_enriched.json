@@ -4,8 +4,8 @@
     "artist": "Vader Abraham",
     "title": "Das Lied der Schlümpfe",
     "deezer": {
+      "deezerID": 526614342,
       "deezerLink": "https://www.deezer.com/track/526614342",
-      "preview": "https://cdn-preview-a.dzcdn.net/stream/c-afb8a77ae801616468524c892c8d3d85-3.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/689926c385740b8c339c4c456791c29e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Vader Abraham",
       "deezerTitle": "Das Lied der Schlümpfe"
@@ -16,8 +16,8 @@
     "artist": "Boney M.",
     "title": "Rivers Of Babylon",
     "deezer": {
+      "deezerID": 364966,
       "deezerLink": "https://www.deezer.com/track/364966",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/0/0/be07addffdb1d3adf2e6b7a0f2c7cb26.mp3?hdnea=exp=1732441920~acl=/api/1/1/b/e/0/0/be07addffdb1d3adf2e6b7a0f2c7cb26.mp3*~data=user_id=0,application_id=42~hmac=a1bf2a466d6a33788e99ea76d2586d1806de76a4cd3a5c907015975220b634be",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/1c8adc5ca978db9e7a07e61de2becd3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Boney M.",
       "deezerTitle": "Rivers of Babylon"
@@ -28,8 +28,8 @@
     "artist": "Wings",
     "title": "Mull Of Kintyre",
     "deezer": {
+      "deezerID": 5664767,
       "deezerLink": "https://www.deezer.com/track/5664767",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/2940d4c108e8882954bb4dbf2564c744.mp3?hdnea=exp=1732441921~acl=/api/1/1/2/9/4/0/2940d4c108e8882954bb4dbf2564c744.mp3*~data=user_id=0,application_id=42~hmac=75d08ca8d501792be18a51ab0ae3342cd6d6d2e6f40e38c0fd7f1d732b607503",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/e55b667aeba377649885320b499f6113/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wings",
       "deezerTitle": "Mull Of Kintyre"
@@ -40,8 +40,8 @@
     "artist": "John Travolta / Olivia Newton-John",
     "title": "You're The One That I Want",
     "deezer": {
+      "deezerID": 781563062,
       "deezerLink": "https://www.deezer.com/track/781563062",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/a/0/f0a17e425f0741318b9808c1ce1e718e.mp3?hdnea=exp=1732441922~acl=/api/1/1/f/0/a/0/f0a17e425f0741318b9808c1ce1e718e.mp3*~data=user_id=0,application_id=42~hmac=e9ea86b9a9bb297bc5e26170f91f8c186cca78c2c4bafbd4c3b9596f14081d86",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/337355fa64d7bb7cb64dec282415488d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "John Travolta",
       "deezerTitle": "You're The One That I Want"
@@ -52,11 +52,11 @@
     "artist": "Bee Gees",
     "title": "Stayin' Alive",
     "deezer": {
-      "deezerLink": "https://www.deezer.com/track/406815322",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/9/0/319c89b68405e15329ed21a4139fff38.mp3?hdnea=exp=1732441923~acl=/api/1/1/3/1/9/0/319c89b68405e15329ed21a4139fff38.mp3*~data=user_id=0,application_id=42~hmac=fa21de8f53fcb7e2f94daa400814ceabd88b17ea736a3e17ebe2e3b6a95c185d",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/062e4071ebfc701e5f1ca935e69a0b5b/500x500-000000-80-0-0.jpg",
+      "deezerID": 139138743,
+      "deezerLink": "https://www.deezer.com/track/139138743",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/abf272cffad9fb2b1552421ac6fac9c2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bee Gees",
-      "deezerTitle": "Stayin' Alive"
+      "deezerTitle": "Stayin Alive"
     }
   },
   {
@@ -64,8 +64,8 @@
     "artist": "Amanda Lear",
     "title": "Follow Me",
     "deezer": {
+      "deezerID": 1003804,
       "deezerLink": "https://www.deezer.com/track/1003804",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/9/0/3b9c8d6c19fe494c834db517985aa41c.mp3?hdnea=exp=1732441924~acl=/api/1/1/3/b/9/0/3b9c8d6c19fe494c834db517985aa41c.mp3*~data=user_id=0,application_id=42~hmac=eee8420c6124cffb5de3cc4408420fb3d870f5b4422de28609053a8caaf04903",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/df53aeeedf0b73604c74692d513f2939/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Amanda Lear",
       "deezerTitle": "Follow Me"
@@ -76,8 +76,8 @@
     "artist": "Bee Gees",
     "title": "Night Fever",
     "deezer": {
+      "deezerID": 139138751,
       "deezerLink": "https://www.deezer.com/track/139138751",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a824451b82af8ad41abbdee5e26426ea.mp3?hdnea=exp=1732441925~acl=/api/1/1/a/8/2/0/a824451b82af8ad41abbdee5e26426ea.mp3*~data=user_id=0,application_id=42~hmac=35af0334055a61e88dd11a004bdb3578fc02fc71de7663746a202320f3452e58",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/abf272cffad9fb2b1552421ac6fac9c2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bee Gees",
       "deezerTitle": "Night Fever"
@@ -88,8 +88,8 @@
     "artist": "Gerry Rafferty",
     "title": "Baker Street",
     "deezer": {
+      "deezerID": 3169189,
       "deezerLink": "https://www.deezer.com/track/3169189",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/0528aadbdfd7a7e005ec09464105cd19.mp3?hdnea=exp=1732441927~acl=/api/1/1/0/5/2/0/0528aadbdfd7a7e005ec09464105cd19.mp3*~data=user_id=0,application_id=42~hmac=4ed27a51ce6af4cc62fe474aaeee6f5aaf8e1277603df45bebf43b078707ea04",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/a4a40656ade105b7010c58687a14bd06/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gerry Rafferty",
       "deezerTitle": "Baker Street"
@@ -100,8 +100,8 @@
     "artist": "Wishful Thinking",
     "title": "Hiroshima",
     "deezer": {
+      "deezerID": 84744779,
       "deezerLink": "https://www.deezer.com/track/84744779",
-      "preview": "https://cdn-preview-0.dzcdn.net/stream/c-0e596d4fb3938fc432d60f10eaa88e52-2.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/df15e21b7bb3a7b12485a15931d7a1f1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wishful Thinking",
       "deezerTitle": "Hiroshima"
@@ -112,8 +112,8 @@
     "artist": "Eruption feat. Precious Wilson",
     "title": "I Can't Stand The Rain",
     "deezer": {
+      "deezerID": 13020404,
       "deezerLink": "https://www.deezer.com/track/13020404",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a5cc499e52145f3373dc47473840f8.mp3?hdnea=exp=1732441929~acl=/api/1/1/e/8/a/0/e8a5cc499e52145f3373dc47473840f8.mp3*~data=user_id=0,application_id=42~hmac=d462ce508859bbeab3a0e329833440d974801f44931cb0d4abdbe0e8982ef2bb",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/e686eca29b2d775d5f8deec5093cb2b6/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Eruption",
       "deezerTitle": "I Can't Stand the Rain"
@@ -124,8 +124,8 @@
     "artist": "Andrea Jürgens",
     "title": "...und dabei liebe ich euch beide",
     "deezer": {
+      "deezerID": 390751801,
       "deezerLink": "https://www.deezer.com/track/390751801",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/8/0/fb83c5955146610f6d968bfcdc1794c0.mp3?hdnea=exp=1732441930~acl=/api/1/1/f/b/8/0/fb83c5955146610f6d968bfcdc1794c0.mp3*~data=user_id=0,application_id=42~hmac=ffc5eb8c8c91d0f7987ce4c9429d5bbc790b24cb1f21238138c04b4130e4e980",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/b51bfad1a84afbbc091bf8f63c6d75f9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Andrea Jürgens",
       "deezerTitle": "Und dabei liebe ich euch beide"
@@ -136,8 +136,8 @@
     "artist": "Gitti und Erica",
     "title": "Heidi",
     "deezer": {
+      "deezerID": 697232812,
       "deezerLink": "https://www.deezer.com/track/697232812",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/e/0/38ecbf08247b87d9798da875ff378052.mp3?hdnea=exp=1732441931~acl=/api/1/1/3/8/e/0/38ecbf08247b87d9798da875ff378052.mp3*~data=user_id=0,application_id=42~hmac=0c55cfb0f4b2c453e4d71112f58d648210ae2dbe30549a0388073d048fccdf1d",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/d0f152e927e8c057688ec21944ed6e03/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gitti & Erika",
       "deezerTitle": "Heidi"
@@ -148,8 +148,8 @@
     "artist": "ABBA",
     "title": "Take A Chance On Me",
     "deezer": {
+      "deezerID": 76376859,
       "deezerLink": "https://www.deezer.com/track/76376859",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/a/0/76a70c601de293723fe5b5b10098fc71.mp3?hdnea=exp=1732441932~acl=/api/1/1/7/6/a/0/76a70c601de293723fe5b5b10098fc71.mp3*~data=user_id=0,application_id=42~hmac=94c1db94d32e6192c73bf5fa6ff39e877dddeeabfff5372b7bc0a6ee977a0cc8",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/36133053035ca8f184eb469901965ac0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "ABBA",
       "deezerTitle": "Take A Chance On Me"
@@ -160,8 +160,8 @@
     "artist": "John Paul Young",
     "title": "Love Is In The Air",
     "deezer": {
+      "deezerID": 145533808,
       "deezerLink": "https://www.deezer.com/track/145533808",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f07ff58c56891d56dd1b1e6c7e971ff.mp3?hdnea=exp=1732441934~acl=/api/1/1/8/f/0/0/8f07ff58c56891d56dd1b1e6c7e971ff.mp3*~data=user_id=0,application_id=42~hmac=36dc3348c81fe25ddc593406d43340bb9baeaa66aee9c85a76774171b533d108",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/1a2b82334c30f47b6698913af136380b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "John Paul Young",
       "deezerTitle": "Love Is In The Air"
@@ -172,9 +172,9 @@
     "artist": "La Bionda",
     "title": "One For You, One For Me",
     "deezer": {
-      "deezerLink": "https://www.deezer.com/track/1056216",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/f/0/22ff5363d55f1ad312a2e9f54d7f7a0a.mp3?hdnea=exp=1732441935~acl=/api/1/1/2/2/f/0/22ff5363d55f1ad312a2e9f54d7f7a0a.mp3*~data=user_id=0,application_id=42~hmac=ea6f8bd9d151bc7ef09a3c82c17ac1ca99a17773e0412077be6ee6df2610f7ff",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/298aa767613e798fb36e963e9bf8f958/500x500-000000-80-0-0.jpg",
+      "deezerID": 1000134,
+      "deezerLink": "https://www.deezer.com/track/1000134",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c913729189b0f4ee15604befe9ffe7a3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "La Bionda",
       "deezerTitle": "One for You, One for Me"
     }
@@ -184,8 +184,8 @@
     "artist": "Plastic Bertrand",
     "title": "Ça plane pour moi",
     "deezer": {
+      "deezerID": 12216125,
       "deezerLink": "https://www.deezer.com/track/12216125",
-      "preview": "https://cdn-preview-f.dzcdn.net/stream/c-fccc60d352c61435a28848a5a59a56ae-2.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/00abf5ccea361c45a212e73773f7c309/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Plastic Bertrand",
       "deezerTitle": "Ca Plane Pour Moi"
@@ -196,8 +196,8 @@
     "artist": "Luisa Fernandez",
     "title": "Lay Love On You",
     "deezer": {
+      "deezerID": 2423942765,
       "deezerLink": "https://www.deezer.com/track/2423942765",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/c/0/3acdc1e3f1c4ed41f94d9c5baed29e64.mp3?hdnea=exp=1732441937~acl=/api/1/1/3/a/c/0/3acdc1e3f1c4ed41f94d9c5baed29e64.mp3*~data=user_id=0,application_id=42~hmac=48c1f23253521ed30ce2a609d7c76e770e0313cb71e3726566d00241fc7691b3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/9d7c72ecf724229503614e76b6578cf4/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Luisa Fernandez",
       "deezerTitle": "Lay Love on You"
@@ -208,8 +208,8 @@
     "artist": "Genesis",
     "title": "Follow You Follow Me",
     "deezer": {
+      "deezerID": 14640457,
       "deezerLink": "https://www.deezer.com/track/14640457",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/8/0/0d83a6c2aa5fb6afec97bb30dc372c49.mp3?hdnea=exp=1732441938~acl=/api/1/1/0/d/8/0/0d83a6c2aa5fb6afec97bb30dc372c49.mp3*~data=user_id=0,application_id=42~hmac=844a7d724f898638b75d804cc345a03e647db67bf1f990b385680b7c65bd1f81",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/19485889cad4f7fce45745ebff0146ff/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Genesis",
       "deezerTitle": "Follow You Follow Me"
@@ -220,8 +220,8 @@
     "artist": "Queen",
     "title": "We Are The Champions",
     "deezer": {
+      "deezerID": 67503808,
       "deezerLink": "https://www.deezer.com/track/67503808",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/7/0/bb7b50b48ed25fc67029e196708da1a5.mp3?hdnea=exp=1732441939~acl=/api/1/1/b/b/7/0/bb7b50b48ed25fc67029e196708da1a5.mp3*~data=user_id=0,application_id=42~hmac=7b0fbfe129fd32c58b976d61b42be96afa402ea806b2b49c45e6489d5d5516fe",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/1e1883d47e9e07a3b6dbf5c9249452d8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Queen",
       "deezerTitle": "We Are The Champions"
@@ -232,8 +232,8 @@
     "artist": "Bonnie Tyler",
     "title": "It's A Heartache",
     "deezer": {
+      "deezerID": 131593760,
       "deezerLink": "https://www.deezer.com/track/131593760",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/4/0/b54cb6b08d2190b7a3d4ab798e4f75de.mp3?hdnea=exp=1732441940~acl=/api/1/1/b/5/4/0/b54cb6b08d2190b7a3d4ab798e4f75de.mp3*~data=user_id=0,application_id=42~hmac=b9a396106b443c3b1f205d5efe8b59fe59ad6bf766af11526d6d6a611c705a16",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/2f2ca22b3c46e26cbd8683bc08b42279/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bonnie Tyler",
       "deezerTitle": "It's a Heartache"
@@ -244,8 +244,8 @@
     "artist": "Howard Carpendale",
     "title": "Ti amo",
     "deezer": {
+      "deezerID": 3489487,
       "deezerLink": "https://www.deezer.com/track/3489487",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/7/0/db7e35502fe5c41c15d21dc1f9873224.mp3?hdnea=exp=1732441941~acl=/api/1/1/d/b/7/0/db7e35502fe5c41c15d21dc1f9873224.mp3*~data=user_id=0,application_id=42~hmac=ae556dc55869b0da72bcabeb35edddc716b76260360b9c92650d58b0cda78b4c",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/5910aaf593da12715d15316b5d7ed7c6/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Howard Carpendale",
       "deezerTitle": "Ti amo"
@@ -256,8 +256,8 @@
     "artist": "Smokie",
     "title": "Oh Carol",
     "deezer": {
+      "deezerID": 1495231932,
       "deezerLink": "https://www.deezer.com/track/1495231932",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/5/0/9058b0fda4772b2ccfaccddce9db9498.mp3?hdnea=exp=1732441942~acl=/api/1/1/9/0/5/0/9058b0fda4772b2ccfaccddce9db9498.mp3*~data=user_id=0,application_id=42~hmac=c1a909b808ff58a20ac266a2557e9f49c73b4fa5413c1e9d962baba6c6b82a9a",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/02b1411d693af08fdced2ea702656cab/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Smokie",
       "deezerTitle": "Oh Carol"
@@ -268,8 +268,8 @@
     "artist": "Uriah Heep",
     "title": "Free Me",
     "deezer": {
+      "deezerID": 131290556,
       "deezerLink": "https://www.deezer.com/track/131290556",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/a/0/f5a11e4fb320afa20256ef7c9032b906.mp3?hdnea=exp=1732441944~acl=/api/1/1/f/5/a/0/f5a11e4fb320afa20256ef7c9032b906.mp3*~data=user_id=0,application_id=42~hmac=187bd0d8c7c0ed2b1d4e1006bbb0a148ec424c01b8f0d8db757fcf290648bd49",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/a97abfa96d215fc2e63de377ee0be05b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Uriah Heep",
       "deezerTitle": "Free Me"
@@ -280,8 +280,8 @@
     "artist": "Suzi Quatro",
     "title": "If You Can't Give Me Love",
     "deezer": {
+      "deezerID": 1787375817,
       "deezerLink": "https://www.deezer.com/track/1787375817",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/6/0/436fce0e30a01e4a4b3da0fc3934ff1d.mp3?hdnea=exp=1732441945~acl=/api/1/1/4/3/6/0/436fce0e30a01e4a4b3da0fc3934ff1d.mp3*~data=user_id=0,application_id=42~hmac=d5af20bbe20d110a80309b96f5345a6e309daf6fd39de388c41ecea3e9487f56",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/546390401bb0475c42fcbffd9a7c90f6/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Suzi Quatro",
       "deezerTitle": "If You Can't Give Me Love"
@@ -292,8 +292,8 @@
     "artist": "Dee D. Jackson",
     "title": "Automatic Lover",
     "deezer": {
+      "deezerID": 121657468,
       "deezerLink": "https://www.deezer.com/track/121657468",
-      "preview": "https://cdn-preview-1.dzcdn.net/stream/c-1ef60ce57466743346acdb870f496ccd-4.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/a8dec60262202eb362b2115f9e637ae1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Dee D. Jackson",
       "deezerTitle": "Automatic Lover"
@@ -304,8 +304,8 @@
     "artist": "Andrea Jürgens",
     "title": "Ich zeige dir mein Paradies",
     "deezer": {
+      "deezerID": 390751811,
       "deezerLink": "https://www.deezer.com/track/390751811",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/a/0/aea4cbf38c61e6e83644ff3235546092.mp3?hdnea=exp=1732441947~acl=/api/1/1/a/e/a/0/aea4cbf38c61e6e83644ff3235546092.mp3*~data=user_id=0,application_id=42~hmac=6eb3731506475c46966482a384223489792e486ec726bfd98bf2a8284c503084",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/b51bfad1a84afbbc091bf8f63c6d75f9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Andrea Jürgens",
       "deezerTitle": "Ich zeige dir mein Paradies"
@@ -316,8 +316,8 @@
     "artist": "Uriah Heep",
     "title": "Lady In Black",
     "deezer": {
+      "deezerID": 132201116,
       "deezerLink": "https://www.deezer.com/track/132201116",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/6/0/bb6cea36e6d0abdf2223c95bfb850697.mp3?hdnea=exp=1732441948~acl=/api/1/1/b/b/6/0/bb6cea36e6d0abdf2223c95bfb850697.mp3*~data=user_id=0,application_id=42~hmac=cedb2f0ce6b9712f0b28b55d1e8948a2a9c6efe24b3f5fc4c05856aab9ca1b1e",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/a4173fdbb3f0b62d117f3a5f6a1dc474/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Uriah Heep",
       "deezerTitle": "Lady In Black"
@@ -328,9 +328,9 @@
     "artist": "Udo Jürgens und die Fußball-Nationalmannschaft",
     "title": "Buenos dias Argentina",
     "deezer": {
-      "deezerLink": "https://www.deezer.com/track/136859288",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/b/0/4ab92b2154bd9a5bcc37c321f806386a.mp3?hdnea=exp=1732441949~acl=/api/1/1/4/a/b/0/4ab92b2154bd9a5bcc37c321f806386a.mp3*~data=user_id=0,application_id=42~hmac=745a8a872d0551d1bedad2d438fdce31090387d1f8f46c8ef0bfb391cd5aa029",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/43a85babb9770238403ac0798df95269/500x500-000000-80-0-0.jpg",
+      "deezerID": 2999009891,
+      "deezerLink": "https://www.deezer.com/track/2999009891",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dc0897407971172d60d5e905a2dff11f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Udo Jürgens",
       "deezerTitle": "Buenos Dias Argentina"
     }
@@ -340,8 +340,8 @@
     "artist": "Marshall, Hain",
     "title": "Dancing In The City",
     "deezer": {
+      "deezerID": 12549089,
       "deezerLink": "https://www.deezer.com/track/12549089",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/2/0/312e2c0d877643c31f1f06f448ebe3c4.mp3?hdnea=exp=1732441950~acl=/api/1/1/3/1/2/0/312e2c0d877643c31f1f06f448ebe3c4.mp3*~data=user_id=0,application_id=42~hmac=96f4f4146e8a99c9074c35321e05f00a785fb9bba60e0c0ee8af6411b9a2a268",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/125e4e5756cab0d98d71b209c1d974eb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Marshall Hain",
       "deezerTitle": "Dancing in the City"
@@ -352,8 +352,8 @@
     "artist": "Status Quo",
     "title": "Rockin' All Over The World",
     "deezer": {
+      "deezerID": 2718504,
       "deezerLink": "https://www.deezer.com/track/2718504",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/a/0/02ad2e863fe158b6376dd100defeb61c.mp3?hdnea=exp=1732441952~acl=/api/1/1/0/2/a/0/02ad2e863fe158b6376dd100defeb61c.mp3*~data=user_id=0,application_id=42~hmac=3c435cd5a5b2eae11ab9cf770d12786aefdfe05bfb4137aa963980b383ede9ea",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/d4f886919936112ca25c8c46470fd278/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Status Quo",
       "deezerTitle": "Rockin' All Over The World"
@@ -364,8 +364,8 @@
     "artist": "Henry Valentino + Uschi",
     "title": "Im Wagen vor mir",
     "deezer": {
+      "deezerID": 5150017,
       "deezerLink": "https://www.deezer.com/track/5150017",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/f/0/a0f3200c8bf5644d568592204a3eaf1b.mp3?hdnea=exp=1732441953~acl=/api/1/1/a/0/f/0/a0f3200c8bf5644d568592204a3eaf1b.mp3*~data=user_id=0,application_id=42~hmac=aa2de6872476d72c1bdbb17e2219dc92a62714b36e4301610683022c094c04db",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/3a45a73a3370c51e4a145374ea938ce2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Henry Valentino",
       "deezerTitle": "Im Wagen vor mir"
@@ -376,8 +376,8 @@
     "artist": "Smokie",
     "title": "For A Few Dollars More",
     "deezer": {
+      "deezerID": 96061572,
       "deezerLink": "https://www.deezer.com/track/96061572",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/c/0/98c87ec79d72b99caa4c035e2da68cc5.mp3?hdnea=exp=1732441954~acl=/api/1/1/9/8/c/0/98c87ec79d72b99caa4c035e2da68cc5.mp3*~data=user_id=0,application_id=42~hmac=ee576566d6ffb22520f61259a5372b8cfd9e994818da76fd882f36050a739da0",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/0a714399f7788d3eb7db8641b05745dc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Smokie",
       "deezerTitle": "For a Few Dollars More"
@@ -388,8 +388,8 @@
     "artist": "ABBA",
     "title": "Eagle",
     "deezer": {
+      "deezerID": 76376893,
       "deezerLink": "https://www.deezer.com/track/76376893",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/0/0/270ae09a1c91bced77c23dc2e9d004c0.mp3?hdnea=exp=1732441955~acl=/api/1/1/2/7/0/0/270ae09a1c91bced77c23dc2e9d004c0.mp3*~data=user_id=0,application_id=42~hmac=adae14c5103aaa4136a1a6869f77a65cb781a22129dc33dae2e95d447e9dce29",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/36133053035ca8f184eb469901965ac0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "ABBA",
       "deezerTitle": "Eagle"
@@ -400,8 +400,8 @@
     "artist": "Bino",
     "title": "Mama Leone",
     "deezer": {
+      "deezerID": 481953302,
       "deezerLink": "https://www.deezer.com/track/481953302",
-      "preview": "https://cdn-preview-7.dzcdn.net/stream/c-7410ce94f671631954c461deb7eeaedf-3.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/61e73c0c49a56dd3e6c1cd8d397dc8a8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bino",
       "deezerTitle": "Mama Leone"
@@ -412,8 +412,8 @@
     "artist": "El Pasador",
     "title": "Amada mia amore mio",
     "deezer": {
+      "deezerID": 2838136822,
       "deezerLink": "https://www.deezer.com/track/2838136822",
-      "preview": "https://cdn-preview-2.dzcdn.net/stream/c-2b44e97e8a70d86c1fd78badda9457db-1.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/0aa87c671d6b0abdc0b20584c650b48d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "El Pasador",
       "deezerTitle": "Amada Mia, Amore Mio"
@@ -424,8 +424,8 @@
     "artist": "Supermax",
     "title": "Lovemachine",
     "deezer": {
+      "deezerID": 661301,
       "deezerLink": "https://www.deezer.com/track/661301",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c38495bf76735a56e2ccc09940cf5964.mp3?hdnea=exp=1732441958~acl=/api/1/1/c/3/8/0/c38495bf76735a56e2ccc09940cf5964.mp3*~data=user_id=0,application_id=42~hmac=202eaecf421973a25078f773c50832e7919c8d38f625cf0f77e9b5dbda76d617",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/49a64be64d22f24b0ff6a296ceec5f49/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Supermax",
       "deezerTitle": "Lovemachine"
@@ -436,8 +436,8 @@
     "artist": "Santa Esmeralda starring Leroy Gomez",
     "title": "Don't Let Me Be Misunderstood + Esmeralda Suite",
     "deezer": {
+      "deezerID": 114219510,
       "deezerLink": "https://www.deezer.com/track/114219510",
-      "preview": "https://cdn-preview-d.dzcdn.net/stream/c-d2022b529af70d18340ccdd4b17ad142-6.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/d83e0a7beb2a14867346d119618bdfc2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Santa Esmeralda",
       "deezerTitle": "Don't Let Me Be Misunderstood / Esmeralda Suite"
@@ -448,8 +448,8 @@
     "artist": "Clout",
     "title": "Substitute",
     "deezer": {
+      "deezerID": 474962702,
       "deezerLink": "https://www.deezer.com/track/474962702",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/7/0/037300b12bd107a57f90c1ace70b5dbb.mp3?hdnea=exp=1732441960~acl=/api/1/1/0/3/7/0/037300b12bd107a57f90c1ace70b5dbb.mp3*~data=user_id=0,application_id=42~hmac=485c16fb2fc50bf0087ae370f963be0ea6ea29bcc82b4a92a72709da2f8d77fa",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/5d9bb5508f0a6c04ab86df11d9b3d2b7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Clout",
       "deezerTitle": "Substitute"
@@ -460,8 +460,8 @@
     "artist": "The Teens",
     "title": "Gimme Gimme Gimme Gimme Gimme Your Love (Heartache Number One)",
     "deezer": {
+      "deezerID": 15400687,
       "deezerLink": "https://www.deezer.com/track/15400687",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77bb11350f8a4e4cb67bc4220f5b226c.mp3?hdnea=exp=1732441961~acl=/api/1/1/7/7/b/0/77bb11350f8a4e4cb67bc4220f5b226c.mp3*~data=user_id=0,application_id=42~hmac=1a700cef45d5cf64e91469334b772e71fa21a8b020bd0457b5564f0f17527e79",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/4c616da250eba85927bd317a07d223a4/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Teens",
       "deezerTitle": "Gimme Gimme Gimme Gimme Gimme Your Love"
@@ -472,8 +472,8 @@
     "artist": "Roland Kaiser",
     "title": "Sieben Fässer Wein",
     "deezer": {
+      "deezerID": 67040987,
       "deezerLink": "https://www.deezer.com/track/67040987",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/0/0/0f0846a817dfd2c7a0681609a87b74ca.mp3?hdnea=exp=1732441963~acl=/api/1/1/0/f/0/0/0f0846a817dfd2c7a0681609a87b74ca.mp3*~data=user_id=0,application_id=42~hmac=2671364ba76f5fa3267908e5893807e8fa2606d4e7d09421d4789f28d83956cc",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/c3aecd950ca643a55d15b2af9455e596/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roland Kaiser",
       "deezerTitle": "Sieben Fässer Wein"
@@ -489,8 +489,8 @@
     "artist": "Johanna von Koczian",
     "title": "Das bisschen Haushalt... sagt mein Mann",
     "deezer": {
+      "deezerID": 70058198,
       "deezerLink": "https://www.deezer.com/track/70058198",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/e/0/50e352048ced5b6830a6d0ab1c0ccbb9.mp3?hdnea=exp=1732441964~acl=/api/1/1/5/0/e/0/50e352048ced5b6830a6d0ab1c0ccbb9.mp3*~data=user_id=0,application_id=42~hmac=e7d7205a8e0d1407bc7b5f0a94c4a3d7eb9032b61f7fb1cfa7c98f04268d4751",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/551b69160a624f4476a4b15f99472006/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Johanna Von Koczian",
       "deezerTitle": "Das bisschen Haushalt... sagt mein Mann"
@@ -501,8 +501,8 @@
     "artist": "The Rolling Stones",
     "title": "Miss You",
     "deezer": {
+      "deezerID": 14458087,
       "deezerLink": "https://www.deezer.com/track/14458087",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/b/0/cbba636dcd12d4f709e16f4652aeb3bd.mp3?hdnea=exp=1732441965~acl=/api/1/1/c/b/b/0/cbba636dcd12d4f709e16f4652aeb3bd.mp3*~data=user_id=0,application_id=42~hmac=ae5faa0b4966c016d7ebccd19fd247e18d4508be7e96ef1eb25e98e56f722fa5",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/4daeaee9a15329dc861f62976d0cbb7c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Rolling Stones",
       "deezerTitle": "Miss You"
@@ -513,8 +513,8 @@
     "artist": "Belle Epoque",
     "title": "Miss Broadway",
     "deezer": {
+      "deezerID": 954197972,
       "deezerLink": "https://www.deezer.com/track/954197972",
-      "preview": "https://cdn-preview-c.dzcdn.net/stream/c-c5a939dd61d562ecce71a8e75f51709c-2.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/6d8bd740a8e59e8b3cdef621ec194444/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Belle Epoque",
       "deezerTitle": "Miss Broadway"
@@ -525,8 +525,8 @@
     "artist": "Kate Bush",
     "title": "Wuthering Heights",
     "deezer": {
+      "deezerID": 3128004,
       "deezerLink": "https://www.deezer.com/track/3128004",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f988ea084bdb557a2e8afcba60cf221f.mp3?hdnea=exp=1732441967~acl=/api/1/1/f/9/8/0/f988ea084bdb557a2e8afcba60cf221f.mp3*~data=user_id=0,application_id=42~hmac=af575fae1d951ba42d775aa704f96ed9242867f5619190543a5325cdb9dafa3a",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/b194a70e8338817a14066fd8014b1632/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kate Bush",
       "deezerTitle": "Wuthering Heights"
@@ -537,8 +537,8 @@
     "artist": "Tony Marshall",
     "title": "Bora Bora",
     "deezer": {
+      "deezerID": 130893564,
       "deezerLink": "https://www.deezer.com/track/130893564",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/a/0/64a2969c08f12b8bbb219db6f294ca90.mp3?hdnea=exp=1732441968~acl=/api/1/1/6/4/a/0/64a2969c08f12b8bbb219db6f294ca90.mp3*~data=user_id=0,application_id=42~hmac=2e2bd6378266a32ae9d02b039fae99db4ac649bb9f3571d8ecf9d04eac3549c8",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/481963c352f5b105350ddcb815816a18/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tony Marshall",
       "deezerTitle": "Bora Bora"
@@ -549,8 +549,8 @@
     "artist": "The Sweet",
     "title": "Love Is Like Oxygen",
     "deezer": {
+      "deezerID": 1702028937,
       "deezerLink": "https://www.deezer.com/track/1702028937",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/1/0/68165738350ba087961435c02da99895.mp3?hdnea=exp=1732441969~acl=/api/1/1/6/8/1/0/68165738350ba087961435c02da99895.mp3*~data=user_id=0,application_id=42~hmac=83715822b886448fb570b1622b11397f958a315cf1f461e66876d7b474e7c386",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/d0e77324fb1d2d6696330b9929f69ccb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sweet",
       "deezerTitle": "Love Is Like Oxygen"
@@ -561,8 +561,8 @@
     "artist": "Belle Epoque",
     "title": "Black Is Black",
     "deezer": {
+      "deezerID": 820193602,
       "deezerLink": "https://www.deezer.com/track/820193602",
-      "preview": "https://cdn-preview-4.dzcdn.net/stream/c-4012e9edf1ef1e11ebd5b05392a010d2-3.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/8d92363c43b947e4f7b681ef4b572ca1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Belle Epoque",
       "deezerTitle": "Black Is Black I"
@@ -573,8 +573,8 @@
     "artist": "Bruce Low",
     "title": "Die Legende von Babylon",
     "deezer": {
+      "deezerID": 756521,
       "deezerLink": "https://www.deezer.com/track/756521",
-      "preview": "https://cdn-preview-c.dzcdn.net/stream/c-c9bda71444689d59351b6433bb07458e-3.mp3",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/223392e2f5d5009cbabfc25fa6c876bc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bruce Low",
       "deezerTitle": "Die Legende Von Babylon"
@@ -585,8 +585,8 @@
     "artist": "Boney M.",
     "title": "Rasputin",
     "deezer": {
+      "deezerID": 364962,
       "deezerLink": "https://www.deezer.com/track/364962",
-      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/1/0/5615cf01cb62a54ad3690825af373cb1.mp3?hdnea=exp=1732441973~acl=/api/1/1/5/6/1/0/5615cf01cb62a54ad3690825af373cb1.mp3*~data=user_id=0,application_id=42~hmac=c4620bc1657616ae8d65479ab0a236cce50a5e6e42fcc879d905ca498e554799",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/1c8adc5ca978db9e7a07e61de2becd3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Boney M.",
       "deezerTitle": "Rasputin"

@@ -8,11 +8,11 @@ const deezerBaseURL = "https://api.deezer.com/search?q=";
 // Bereinige Künstlernamen
 function cleanArtistName(artist) {
     return artist
-        .replace(/\./g, "") // Entferne Punkte aus Künstlernamen
         .replace(/^(the|a|an)\s+/i, "") // Entferne Artikel am Anfang
         .replace(/'/g, "") // Entferne einfache Apostrophe
         .replace(/’/g, "") // Entferne typografische Apostrophe
         .replace(/(feat\.|featuring|&|und|starring|pres\.|with).*$/gi, "") // Entferne alles ab den Begriffen
+        .replace(/\./g, "") // Entferne Punkte aus Künstlernamen
         .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen auf eines
         .trim(); // Entferne führende und nachfolgende Leerzeichen
@@ -30,7 +30,6 @@ function cleanTitle(title) {
         .trim(); // Entferne führende und nachfolgende Leerzeichen
 }
 
-// Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
 // Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
 function isArtistNameSimilar(deezerArtist, cleanedArtist) {
     const normalize = str => str
@@ -134,7 +133,7 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
     const cleanedArtist = cleanArtistName(artist);
     const cleanedTitle = cleanTitle(title);
     const query = encodeURIComponent(`${cleanedTitle} ${cleanedArtist}`);
-    const url = `${deezerBaseURL}${query}&order=ALBUM_ASC`;
+    const url = `${deezerBaseURL}${query}`;
 
     try {
         const response = await fetch(url);
@@ -151,8 +150,8 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
                 ) {
                     await new Promise(resolve => setTimeout(resolve, 2000)); // API-Limit
                     return {
+                        deezerID: result.id,
                         deezerLink: result.link,
-                        preview: result.preview,
                         cover: result.album.cover_big,
                         deezerArtist: deezerArtist,
                         deezerTitle: result.title_short
@@ -232,4 +231,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1989, 1989).catch(console.error);
+enrichAllYears(1978, 1978).catch(console.error);

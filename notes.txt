@@ -1,0 +1,2 @@
+https://api.deezer.com/search?q=xxx
+https://www.deezer.com/de/track/xxx

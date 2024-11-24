@@ -8,6 +8,7 @@ const deezerBaseURL = "https://api.deezer.com/search?q=";
 // Bereinige Künstlernamen
 function cleanArtistName(artist) {
     return artist
+        .replace(/^(the|a|an)\s+/i, "") // Entferne Artikel am Anfang
         .replace(/(feat\.|featuring|&|und|starring|pres\.).*$/gi, "") // Entferne alles ab den Begriffen
         .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen auf eines
@@ -22,7 +23,24 @@ function cleanTitle(title) {
         .trim(); // Entferne führende und nachfolgende Leerzeichen
 }
 
-// Deezer-Suche für einen Song mit dynamischem Jahr
+// Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
+function isArtistNameSimilar(deezerArtist, cleanedArtist) {
+    // Zerlege den bereinigten Künstlernamen in Teile (z. B. "Henry Valentino" und "Uschi")
+    const artistParts = cleanedArtist.split(/[+\/,]/).map(part => part.trim().toLowerCase());
+    const deezerArtistLower = deezerArtist.toLowerCase();
+
+    // Prüfe, ob mindestens ein Teil des bereinigten Namens im Deezer-Künstlernamen vorkommt
+    const matchFound = artistParts.some(part => deezerArtistLower.includes(part));
+
+    return matchFound;
+}
+
+// Funktion zur Überprüfung, ob ein Titel "Remix" enthält
+function isRemix(title) {
+    return title.toLowerCase().includes("remix");
+}
+
+// Deezer-Suche
 async function searchDeezer(title, artist, year) {
     const cleanedArtist = cleanArtistName(artist); // Bereinige Künstlernamen
     const cleanedTitle = cleanTitle(title);       // Bereinige Titel
@@ -34,29 +52,29 @@ async function searchDeezer(title, artist, year) {
         const data = await response.json();
 
         if (data && data.data && data.data.length > 0) {
-            // Priorisiere Ergebnisse, die dem Jahr entsprechen
-            const originalMatch = data.data.find(track =>
-                track.release_date && track.release_date.startsWith(year.toString())
-            );
+            for (const result of data.data) {
+                const deezerArtist = result.artist.name;
 
-            const result = originalMatch || data.data[0]; // Fallback auf erstes Ergebnis
-            await new Promise(resolve => setTimeout(resolve, 1000)); // API-Limit
+                // Überprüfe auf Übereinstimmung des Künstlers und schließe Remixe aus
+                if (isArtistNameSimilar(deezerArtist, cleanedArtist) && !isRemix(result.title)) {
+                    console.log(`Match found for: "${result.title}" by "${deezerArtist}"`);
+                    await new Promise(resolve => setTimeout(resolve, 1000)); // API-Limit
 
-            return {
-                deezerId: result.id,
-                preview: result.preview,
-                cover: result.album.cover_big,
-                deezerArtist: result.artist.name, // Rückgabewert von Deezer
-                deezerTitle: result.title         // Rückgabewert von Deezer
-            };
+                    return {
+                        deezerLink: `https://www.deezer.com/track/${result.id}`,
+                        preview: result.preview,
+                        cover: result.album.cover_big,
+                        deezerArtist: deezerArtist,
+                        deezerTitle: result.title_short
+                    };
+                }
+            }
         }
     } catch (error) {
         console.error(`Error fetching data for query "${query}":`, error.message);
-        console.log(`No results for: "${title}" by "${artist}"`);
-        return null; // Rückgabe bei Fehler
     }
 
-    console.log(`No results for: "${title}" by "${artist}"`); // Keine Treffer
+    console.log(`No results for: "${title}" by "${artist}"`);
     return null;
 }
 

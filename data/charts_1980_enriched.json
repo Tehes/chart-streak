@@ -1,0 +1,874 @@
+[
+  {
+    "rank": 1,
+    "artist": "Goombay Dance Band",
+    "title": "Sun Of Jamaica",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/122356884",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4cca401b9c27acbf97d651021fb8d7f2.mp3?hdnea=exp=1732449912~acl=/api/1/1/4/c/c/0/4cca401b9c27acbf97d651021fb8d7f2.mp3*~data=user_id=0,application_id=42~hmac=4c426a24bc6712e55373ee8dda1d5710a6bedbd9416846fdff8da58fc9e7fd85",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/16a394bc9941c57287c8e80b6ae684d7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Goombay Dance Band",
+      "deezerTitle": "Sun of Jamaica"
+    }
+  },
+  {
+    "rank": 2,
+    "artist": "Pink Floyd",
+    "title": "Another Brick In The Wall (Part II)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3173225",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/6/0/12618f6dfb1823856171892c1d84fb15.mp3?hdnea=exp=1732449914~acl=/api/1/1/1/2/6/0/12618f6dfb1823856171892c1d84fb15.mp3*~data=user_id=0,application_id=42~hmac=0da49f9307655ddf1b50954a706316a546f3b384c2a3cabedf3f804342b3c9b8",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/3b526d2d4cc6baf6ebe7f133ec15814b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Pink Floyd",
+      "deezerTitle": "Another Brick In The Wall"
+    }
+  },
+  {
+    "rank": 3,
+    "artist": "Ottawan",
+    "title": "D.I.S.C.O.",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1436213772",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/4/0/fa4a7e95dfc6a30600ba028b418a09ed.mp3?hdnea=exp=1732449916~acl=/api/1/1/f/a/4/0/fa4a7e95dfc6a30600ba028b418a09ed.mp3*~data=user_id=0,application_id=42~hmac=c23b47e8b40b7ab21e8220945f0fdd2ee793eb982d84fdd7c925f955326bcf22",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/028f2fd23a87aea6458b82f6e2c925e3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ottawan",
+      "deezerTitle": "D.I.S.C.O."
+    }
+  },
+  {
+    "rank": 4,
+    "artist": "Peter Kent",
+    "title": "It's A Real Good Feeling",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2506673731",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/c/0/b1cb9ccb5e650ef98e426580ed77c70e.mp3?hdnea=exp=1732449918~acl=/api/1/1/b/1/c/0/b1cb9ccb5e650ef98e426580ed77c70e.mp3*~data=user_id=0,application_id=42~hmac=87686d0f0a89e82d579db6b54dd722db60cb3ded32a9595b0703fda651bd0770",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f6d6c5c7fcb7d1e3c0f6647d84fb53ab/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Kent",
+      "deezerTitle": "It's A Real Good Feeling"
+    }
+  },
+  {
+    "rank": 5,
+    "artist": "Styx",
+    "title": "Boat On The River",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/61286644",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3f75877793a94405f3980c4ecee9b9.mp3?hdnea=exp=1732449920~acl=/api/1/1/3/e/3/0/3e3f75877793a94405f3980c4ecee9b9.mp3*~data=user_id=0,application_id=42~hmac=81c0ec850f4ebe60c7c5d23e8fa45b71d2a01ba69eb778c4b9fcf44e386263fb",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/87bef520784bf1c12a498ef45570f2b4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Styx",
+      "deezerTitle": "Boat On The River"
+    }
+  },
+  {
+    "rank": 6,
+    "artist": "Frank Zappa",
+    "title": "Bobby Brown",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/53959111",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/5/0/3255cc391b03866de485031fd1a39575.mp3?hdnea=exp=1732449923~acl=/api/1/1/3/2/5/0/3255cc391b03866de485031fd1a39575.mp3*~data=user_id=0,application_id=42~hmac=b5df4c030b7e97e9ec4fae3c5a00736705593ebfd5e5a6b52a500a95b005d234",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/32480f84e57a6bafa216fe485f8a3ab2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frank Zappa",
+      "deezerTitle": "Bobby Brown Goes Down"
+    }
+  },
+  {
+    "rank": 7,
+    "artist": "Marti Webb",
+    "title": "Take That Look Off Your Face"
+  },
+  {
+    "rank": 8,
+    "artist": "Earth & Fire",
+    "title": "Weekend",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/60703926",
+      "preview": "https://cdn-preview-f.dzcdn.net/stream/c-fd9b1c862675960601957cb4c5a51df9-2.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b6b36b93c8a6d1295a245104bd1182eb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Earth & Fire",
+      "deezerTitle": "Weekend"
+    }
+  },
+  {
+    "rank": 9,
+    "artist": "Garland Jeffreys",
+    "title": "Matador",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/61280208",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/8/0/188d278f5114b09512a0889bb6cc4c4a.mp3?hdnea=exp=1732449927~acl=/api/1/1/1/8/8/0/188d278f5114b09512a0889bb6cc4c4a.mp3*~data=user_id=0,application_id=42~hmac=84535f6e44ad9a6e94834d9ea674b6372bf12a4ba223bced795a0973f15c7e4e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/bd0498b91d8166770fc609a27e9a3bc2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Garland Jeffreys",
+      "deezerTitle": "Matador"
+    }
+  },
+  {
+    "rank": 10,
+    "artist": "Mike Krüger",
+    "title": "Der Nippel",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1701406707",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/1/0/371c8f338134b7b7299bae6b30fd61c0.mp3?hdnea=exp=1732449929~acl=/api/1/1/3/7/1/0/371c8f338134b7b7299bae6b30fd61c0.mp3*~data=user_id=0,application_id=42~hmac=9311f3ffc9f39fc6d2ae9a85702685a78e7e49e61ede4c83bae3646213edb7ef",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0d33268a9933172a5edaea2c0c0c0a3c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mike Krüger",
+      "deezerTitle": "Der Nippel"
+    }
+  },
+  {
+    "rank": 11,
+    "artist": "Sugarhill Gang",
+    "title": "Rapper's Delight",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/143035958",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/d/0/7dd6e3764b9b091725df80ee9742e7c5.mp3?hdnea=exp=1732449931~acl=/api/1/1/7/d/d/0/7dd6e3764b9b091725df80ee9742e7c5.mp3*~data=user_id=0,application_id=42~hmac=c0631234632b0873dfcf82bb3630a4942802ed7587d52bbd6f68a026f4ccbf33",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/56c1ec7ddcbf2a71b013518c172b7f02/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Sugarhill Gang",
+      "deezerTitle": "Rapper's Delight"
+    }
+  },
+  {
+    "rank": 12,
+    "artist": "Marianne Faithfull",
+    "title": "The Ballad Of Lucy Jordan",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/63375337",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/8/0/52801869621739b3dcdf7175ff866a9f.mp3?hdnea=exp=1732449933~acl=/api/1/1/5/2/8/0/52801869621739b3dcdf7175ff866a9f.mp3*~data=user_id=0,application_id=42~hmac=4084c3865edea20a42df1b45140632e3f076ffbc248c8772e11b815151b1b3ca",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/369fdf4b1a3c0b9226d1d4a3d7f28a18/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Marianne Faithfull",
+      "deezerTitle": "The Ballad Of Lucy Jordan"
+    }
+  },
+  {
+    "rank": 13,
+    "artist": "Lipps, Inc.",
+    "title": "Funkytown",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/906566",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/9/0/6f9f908c9ad1929242d0d74ec18288bf.mp3?hdnea=exp=1732449935~acl=/api/1/1/6/f/9/0/6f9f908c9ad1929242d0d74ec18288bf.mp3*~data=user_id=0,application_id=42~hmac=479cbb07335567ff661a7c70f23e0c09859f655030896dc6f2e935ed727dc909",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e993fe7d2c6e0a4fe259485d940aa7a5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Lipps Inc.",
+      "deezerTitle": "Funkytown"
+    }
+  },
+  {
+    "rank": 14,
+    "artist": "Secret Service",
+    "title": "Oh Susie",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1241592912",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d678972b902b65e96a3b527195bac061.mp3?hdnea=exp=1732449938~acl=/api/1/1/d/6/7/0/d678972b902b65e96a3b527195bac061.mp3*~data=user_id=0,application_id=42~hmac=599406d9e50c0b68ea0c12b88e7c74049118a00666295f66c57974daa863e9b8",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9db1405453142904a870de0140a386ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Secret Service",
+      "deezerTitle": "Oh Susie"
+    }
+  },
+  {
+    "rank": 15,
+    "artist": "Gibson Brothers",
+    "title": "Que sera mi vida (If You Should Go)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/86745331",
+      "preview": "https://cdn-preview-7.dzcdn.net/stream/c-7c6815e65431a23d2db2f92828834da5-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/07b827b6d1d3d0de808ff5ac921d67be/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gibson Brothers",
+      "deezerTitle": "Que Sera Mi Vida"
+    }
+  },
+  {
+    "rank": 16,
+    "artist": "Olivia Newton-John & Electric Light Orchestra",
+    "title": "Xanadu",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13163936",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c93e34533f581f106a201782c4109692.mp3?hdnea=exp=1732449942~acl=/api/1/1/c/9/3/0/c93e34533f581f106a201782c4109692.mp3*~data=user_id=0,application_id=42~hmac=e4f315595e751ebfc38417b70b5bc23c107b6936fb0aea53118cc841fc365e59",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fa9f36f3d4a7d4262c5da75597339ccb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Olivia Newton-John",
+      "deezerTitle": "Xanadu"
+    }
+  },
+  {
+    "rank": 17,
+    "artist": "Saragossa Band",
+    "title": "Zabadak",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/67282517",
+      "preview": "https://cdn-preview-a.dzcdn.net/stream/c-a66254487e5feb2a0e420eb9b4726275-1.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/046dbab5ba2a600fc03923668e4ae75a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Saragossa Band",
+      "deezerTitle": "Zabadak"
+    }
+  },
+  {
+    "rank": 18,
+    "artist": "Dr. Hook",
+    "title": "Sexy Eyes",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1265037882",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/b/0/a1b01946ac4650a5b4d466743b3039d8.mp3?hdnea=exp=1732449946~acl=/api/1/1/a/1/b/0/a1b01946ac4650a5b4d466743b3039d8.mp3*~data=user_id=0,application_id=42~hmac=2cb37fb64abaab031e1d39b996fdf224c4bbe5283b518e3602a266fa25f6c013",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dd3e5de3ea0607e95306bbd33551aecd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dr. Hook",
+      "deezerTitle": "Sexy Eyes"
+    }
+  },
+  {
+    "rank": 19,
+    "artist": "ABBA",
+    "title": "I Have A Dream",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/884034",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/6/0/206599d779dc1c7e71b08c9569cbe32f.mp3?hdnea=exp=1732449948~acl=/api/1/1/2/0/6/0/206599d779dc1c7e71b08c9569cbe32f.mp3*~data=user_id=0,application_id=42~hmac=7cc4c663c2c36abb8c0e475600684853d3d2d2db376439ec970908f5d1e5a8b5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "I Have A Dream"
+    }
+  },
+  {
+    "rank": 20,
+    "artist": "Matchbox",
+    "title": "Midnite Dynamos",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/774981",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/6/0/f363783a229f2e512b123ac1e14ace64.mp3?hdnea=exp=1732449950~acl=/api/1/1/f/3/6/0/f363783a229f2e512b123ac1e14ace64.mp3*~data=user_id=0,application_id=42~hmac=0953050b8aa791e6db5b7fd7231437b81d60c6a84fbe8c761b589ca8d9446f0e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cf6f6c14bc69fabc3ad905cf1b806db3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Matchbox",
+      "deezerTitle": "Midnight Dynamos"
+    }
+  },
+  {
+    "rank": 21,
+    "artist": "Hot Chocolate",
+    "title": "No Doubt About It",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3152638",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/6/0/5961f1f2a5db0eae28a80314763cef27.mp3?hdnea=exp=1732449952~acl=/api/1/1/5/9/6/0/5961f1f2a5db0eae28a80314763cef27.mp3*~data=user_id=0,application_id=42~hmac=9b7853d8eca63d2a34c288d47756f384e6474c147db4946cbf0eee13493c3e30",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/916e64fef235a99c7020b7bc4d4012ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Hot Chocolate",
+      "deezerTitle": "No Doubt About It"
+    }
+  },
+  {
+    "rank": 22,
+    "artist": "Oliver Onions",
+    "title": "Santa Maria",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/470724002",
+      "preview": "https://cdn-preview-a.dzcdn.net/stream/c-a5d43fcf2b65542ef67b66b3501cf53e-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2f32fd51565ebe6757fd92dc0e8e0339/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Oliver Onions",
+      "deezerTitle": "Santamaria"
+    }
+  },
+  {
+    "rank": 23,
+    "artist": "Johnny Logan",
+    "title": "What's Another Year",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/10287180",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aac58b0cf2a087cdf7f78fef4ebb4fd.mp3?hdnea=exp=1732449957~acl=/api/1/1/0/a/a/0/0aac58b0cf2a087cdf7f78fef4ebb4fd.mp3*~data=user_id=0,application_id=42~hmac=908ad138000b558c68676e102ac78996931a59d0928e64c934fdaeebda3de0d6",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dd7a00f240f5e5ec50b84da099fcb45c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Johnny Logan",
+      "deezerTitle": "What's Another Year"
+    }
+  },
+  {
+    "rank": 24,
+    "artist": "Eruption",
+    "title": "Go Johnnie Go (Keep On Walking, John B.)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13020405",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/3/0/4f35c532bc9bb6ff06f0b1fe2225e7bb.mp3?hdnea=exp=1732449959~acl=/api/1/1/4/f/3/0/4f35c532bc9bb6ff06f0b1fe2225e7bb.mp3*~data=user_id=0,application_id=42~hmac=1dca645209f456537f92eb196118d0d2fd7ac5368e5e16db69b1f8dc1fafddae",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e686eca29b2d775d5f8deec5093cb2b6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Eruption",
+      "deezerTitle": "Go Johnny Go"
+    }
+  },
+  {
+    "rank": 25,
+    "artist": "Boney M.",
+    "title": "I See A Boat On The River",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/96061256",
+      "preview": "https://cdn-preview-4.dzcdn.net/stream/c-409003137c014b266d4dc97c515603d6-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/67ee13c4a5e71fc7081c2a8be883c43b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "I See a Boat on the River"
+    }
+  },
+  {
+    "rank": 26,
+    "artist": "Secret Service",
+    "title": "Ten O'Clock Postman",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1170310",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/c/0/99cd745c90773bd5741368ce04394cc2.mp3?hdnea=exp=1732449963~acl=/api/1/1/9/9/c/0/99cd745c90773bd5741368ce04394cc2.mp3*~data=user_id=0,application_id=42~hmac=b4ef33b36486981158549be9d1204cea308eaeaf0a2d4516fd9e0b3ce4033e9e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/78ea74682cc519fbb012c685701b67ca/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Secret Service",
+      "deezerTitle": "Ten O'Clock Postman"
+    }
+  },
+  {
+    "rank": 27,
+    "artist": "Orlando Riva Sound",
+    "title": "Indian Reservation"
+  },
+  {
+    "rank": 28,
+    "artist": "Dschinghis Khan",
+    "title": "Rom",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/470544002",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/0/0/b106888fda7b927e79f5ff75f1f3abd9.mp3?hdnea=exp=1732449965~acl=/api/1/1/b/1/0/0/b106888fda7b927e79f5ff75f1f3abd9.mp3*~data=user_id=0,application_id=42~hmac=3eeed30510704a587dec1880243e5e9122270f13889c5012a30421afbf159d7b",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/58e50ff71735b3ca889d25f8363d68dd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dschinghis Khan",
+      "deezerTitle": "Rom"
+    }
+  },
+  {
+    "rank": 29,
+    "artist": "AC/DC",
+    "title": "Highway To Hell",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/92719900",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3?hdnea=exp=1732449967~acl=/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3*~data=user_id=0,application_id=42~hmac=fc7dc828350c32863f5bf4a8d5dc1c3a11edc7d9ffbfee1dd2e46257db3d9061",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "AC/DC",
+      "deezerTitle": "Highway to Hell"
+    }
+  },
+  {
+    "rank": 30,
+    "artist": "Electric Light Orchestra",
+    "title": "Confusion",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13816435",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7cc570bfe5ed15f594afd6b01d39f3c.mp3?hdnea=exp=1732449970~acl=/api/1/1/f/7/c/0/f7cc570bfe5ed15f594afd6b01d39f3c.mp3*~data=user_id=0,application_id=42~hmac=6eaae95ea4f80c8df546e9662c4c709f785a7c83723c98cfb2b53317be892870",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/66277f760cf2ecd83bd7a5c1581617e7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Electric Light Orchestra",
+      "deezerTitle": "Confusion"
+    }
+  },
+  {
+    "rank": 31,
+    "artist": "ABBA",
+    "title": "The Winner Takes It All",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/884035",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9f04923f459973a863f4802647a248f.mp3?hdnea=exp=1732449972~acl=/api/1/1/f/9/f/0/f9f04923f459973a863f4802647a248f.mp3*~data=user_id=0,application_id=42~hmac=de7587e61997fd6ef93ea8fafbd8949ece0f8b0ac8a77cd6c79c5910b8b7fc44",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "The Winner Takes It All"
+    }
+  },
+  {
+    "rank": 32,
+    "artist": "Thom Pace",
+    "title": "Maybe",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/6288603",
+      "preview": "https://cdn-preview-e.dzcdn.net/stream/c-ec9ff425f5ca09319798889e056c71aa-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/de2f91a20cc044111c2289b473a7d48d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Thom Pace",
+      "deezerTitle": "Maybe"
+    }
+  },
+  {
+    "rank": 33,
+    "artist": "The Alan Parsons Project",
+    "title": "Lucifer",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/15387905",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/a/0/4aacd6aac52119cb50e434bc2cdd7069.mp3?hdnea=exp=1732449976~acl=/api/1/1/4/a/a/0/4aacd6aac52119cb50e434bc2cdd7069.mp3*~data=user_id=0,application_id=42~hmac=449f86a55e901fe4ee0a3a3e9616be98c9f8ac595f9984bc71d5deb204f0d52b",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5acfe47654326eb5f3b3d792178bbee0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Alan Parsons Project",
+      "deezerTitle": "Lucifer"
+    }
+  },
+  {
+    "rank": 34,
+    "artist": "Spargo",
+    "title": "You And Me",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/613454372",
+      "preview": "https://cdn-preview-d.dzcdn.net/stream/c-defeaf855aa6c8cb9dccfe978454218f-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6a1e8f2622f4366bb95a0f7c25ddeb00/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Spargo",
+      "deezerTitle": "You And Me"
+    }
+  },
+  {
+    "rank": 35,
+    "artist": "Gitte",
+    "title": "Freu' dich bloß nicht zu früh",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2304206445",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/3/0/9c392275b025a3e333cbe7c86f0cef1a.mp3?hdnea=exp=1732449980~acl=/api/1/1/9/c/3/0/9c392275b025a3e333cbe7c86f0cef1a.mp3*~data=user_id=0,application_id=42~hmac=03ae5662e427f7a71aaf275ef1e1197248a99cde3c1465e8bb439e36b68c1df5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5033f4f7d435db47a6e85ebc95b402cd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gitte Haenning",
+      "deezerTitle": "Freu dich bloß nicht zu früh"
+    }
+  },
+  {
+    "rank": 36,
+    "artist": "Chilly",
+    "title": "We Are The Popkings",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13112316",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/f/0/86f7df3329f804c202b58dde95df609f.mp3?hdnea=exp=1732449982~acl=/api/1/1/8/6/f/0/86f7df3329f804c202b58dde95df609f.mp3*~data=user_id=0,application_id=42~hmac=bfcc0f62cce580b081e180ed76bd7227cb2a4abc56dfe5b6f764a37122a6ec3e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fae4f432282d4490ae6000593667e2ab/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chilly",
+      "deezerTitle": "We Are The Popkings"
+    }
+  },
+  {
+    "rank": 37,
+    "artist": "Howard Carpendale",
+    "title": "Wie frei willst du sein?",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/75299867",
+      "preview": "https://cdn-preview-9.dzcdn.net/stream/c-9a0f5850ffb3924fdd2f775613ea6bf6-5.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/7e428c7df340b11f4c09ad25fb08c004/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Howard Carpendale",
+      "deezerTitle": "Wie frei willst du sein"
+    }
+  },
+  {
+    "rank": 38,
+    "artist": "Tony Holiday",
+    "title": "Nie mehr allein sein"
+  },
+  {
+    "rank": 39,
+    "artist": "Orlando Riva Sound",
+    "title": "Fire On The Water"
+  },
+  {
+    "rank": 40,
+    "artist": "Goombay Dance Band",
+    "title": "Aloha-Oe, Until We Meet Again",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/443620302",
+      "preview": "https://cdn-preview-6.dzcdn.net/stream/c-6216d9eb9d61c13b2d34d59b606dfa1c-6.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dcc554a0c77e696a19955efda95993e7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Goombay Dance Band",
+      "deezerTitle": "Aloha-oe, Until We Meet Again"
+    }
+  },
+  {
+    "rank": 41,
+    "artist": "Roland Kaiser",
+    "title": "Santa Maria",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/66506378",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/7/0/3c7472207943780dda6a8981c6d1a344.mp3?hdnea=exp=1732449989~acl=/api/1/1/3/c/7/0/3c7472207943780dda6a8981c6d1a344.mp3*~data=user_id=0,application_id=42~hmac=cf357b5eae0796f5a7088d09d36474d2e0f0dd49acb702b348bf3ce02b1d61cc",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f7517f567bc7f492172860b47cd37e7f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roland Kaiser",
+      "deezerTitle": "Santa Maria"
+    }
+  },
+  {
+    "rank": 42,
+    "artist": "Blondie",
+    "title": "Call Me",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3104486",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e2c63b1987196fc7ca4cf928a53980.mp3?hdnea=exp=1732449991~acl=/api/1/1/0/1/e/0/01e2c63b1987196fc7ca4cf928a53980.mp3*~data=user_id=0,application_id=42~hmac=b547a641dfca58cecf8305ffa71deb12b309a649f14da9925b76873666aa093d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cdc9d8ba7d6f9d8c40c5389bb4577409/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Blondie",
+      "deezerTitle": "Call Me"
+    }
+  },
+  {
+    "rank": 43,
+    "artist": "Buggles",
+    "title": "Video Killed The Radio Star",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2509817",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b977d5ed3f6da1bdb56f18d0acb819.mp3?hdnea=exp=1732449993~acl=/api/1/1/b/2/b/0/b2b977d5ed3f6da1bdb56f18d0acb819.mp3*~data=user_id=0,application_id=42~hmac=cb920115a7aae72f61ec64b13c9a5b3942e0af52da0850736bdb238380b122e1",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/439a6dac5585b1d5adfa7af05ae5f205/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Buggles",
+      "deezerTitle": "Video Killed The Radio Star"
+    }
+  },
+  {
+    "rank": 44,
+    "artist": "Diana Ross",
+    "title": "Upside Down",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/4677572",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab87d07617b2b77d1bf691dc790439b4.mp3?hdnea=exp=1732449995~acl=/api/1/1/a/b/8/0/ab87d07617b2b77d1bf691dc790439b4.mp3*~data=user_id=0,application_id=42~hmac=c21d072c892993028eecc8c8bfd4aad7bd06962917701fe203bbeb2b350e4116",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b7694952d41739a995da2e56eec6ee46/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Diana Ross",
+      "deezerTitle": "Upside Down"
+    }
+  },
+  {
+    "rank": 45,
+    "artist": "AC/DC",
+    "title": "Touch Too Much",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/92719906",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/d/0/55d6926f98d7c32493d233d1bf160549.mp3?hdnea=exp=1732449997~acl=/api/1/1/5/5/d/0/55d6926f98d7c32493d233d1bf160549.mp3*~data=user_id=0,application_id=42~hmac=ecb6d0e7dadd6f5f4725bb87d0ad3782dd8f250223fc58729444a60f7341f437",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "AC/DC",
+      "deezerTitle": "Touch Too Much"
+    }
+  },
+  {
+    "rank": 46,
+    "artist": "Truck Stop",
+    "title": "Der wilde wilde Westen",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/143783086",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/b/0/76b57b586171c631a280cd81b09b71e5.mp3?hdnea=exp=1732450000~acl=/api/1/1/7/6/b/0/76b57b586171c631a280cd81b09b71e5.mp3*~data=user_id=0,application_id=42~hmac=b1c0f040a3bd7b74fa7d41c385bd0323185b2e9be110e831fe31608874e3e8bd",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/ebec4d596284faed8ffab3e58f37386b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Truck Stop",
+      "deezerTitle": "Der wilde, wilde Westen"
+    }
+  },
+  {
+    "rank": 47,
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/664454",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/1388f42c9b360bea54670273696c05a1.mp3?hdnea=exp=1732450002~acl=/api/1/1/1/3/8/0/1388f42c9b360bea54670273696c05a1.mp3*~data=user_id=0,application_id=42~hmac=daad2dd6f9c10b9070c72b860334b973da5f81fe22fd5ee29b995d353cfcc284",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fae8305ef18ac327a4c19436672d5d5b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Fleetwood Mac",
+      "deezerTitle": "Tusk"
+    }
+  },
+  {
+    "rank": 48,
+    "artist": "B.A. Robertson",
+    "title": "Bang Bang",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/481482472",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/c/0/80c240b10917a0a15ab9809b831867fb.mp3?hdnea=exp=1732450004~acl=/api/1/1/8/0/c/0/80c240b10917a0a15ab9809b831867fb.mp3*~data=user_id=0,application_id=42~hmac=1c87fa09297478c287104e3dcfb0296a201241450c4f161b0991f2b55f667892",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b2fd4e2f943f08facbc85d948878a8df/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "BA Robertson",
+      "deezerTitle": "Bang Bang"
+    }
+  },
+  {
+    "rank": 49,
+    "artist": "Matchbox",
+    "title": "Rockabilly Rebel",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/849970182",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/5/0/455daba20f304556888f96046d227d86.mp3?hdnea=exp=1732450006~acl=/api/1/1/4/5/5/0/455daba20f304556888f96046d227d86.mp3*~data=user_id=0,application_id=42~hmac=0c05d9d999d5732f06e8450526eea7e6a8c9d906c7cf458192497e3d0c23f090",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/4584b0a3ed8e257bb12fed4ead067026/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Matchbox",
+      "deezerTitle": "Rockabilly Rebel"
+    }
+  },
+  {
+    "rank": 50,
+    "artist": "Ottawan",
+    "title": "You're O.K.",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1436238662",
+      "preview": "https://cdn-preview-d.dzcdn.net/stream/c-d742eb4e585075e94c53d1940cdeeacf-2.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6f49c1e790318d1f2a8414487c98ec69/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ottawan",
+      "deezerTitle": "You're OK"
+    }
+  },
+  {
+    "rank": 51,
+    "artist": "Sheila & B. Devotion",
+    "title": "Spacer",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/740773",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/b/0/8db3423b10217a3b9274491d654a2d2a.mp3?hdnea=exp=1732450010~acl=/api/1/1/8/d/b/0/8db3423b10217a3b9274491d654a2d2a.mp3*~data=user_id=0,application_id=42~hmac=699183f0cde5cdbc3527136e9bf251d181edeede1e31e0b435d9b8c9a008ea44",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1d03314a211cfe672ce5b887226d23f3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sheila",
+      "deezerTitle": "Spacer"
+    }
+  },
+  {
+    "rank": 52,
+    "artist": "Gottlieb Wendehals",
+    "title": "Herbert",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/41263841",
+      "preview": "https://cdn-preview-8.dzcdn.net/stream/c-8f3e3f54f5b0ec960fe5a8872c3e144b-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c77203b4a3770f34f523b6201791f275/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gottlieb Wendehals",
+      "deezerTitle": "Herbert"
+    }
+  },
+  {
+    "rank": 53,
+    "artist": "Gibson Brothers",
+    "title": "Mariana",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13025945",
+      "preview": "https://cdn-preview-3.dzcdn.net/stream/c-3ee350a9aef42f8e0800e2e3304d2a68-7.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c35cfb30d146837c13844540fbbd3075/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gibson Brothers",
+      "deezerTitle": "Mariana"
+    }
+  },
+  {
+    "rank": 54,
+    "artist": "ABBA",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/884041",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/226a47aea4a61fe2e70fa4b5ae1beac5.mp3?hdnea=exp=1732450017~acl=/api/1/1/2/2/6/0/226a47aea4a61fe2e70fa4b5ae1beac5.mp3*~data=user_id=0,application_id=42~hmac=3b72a1ceedb486648c51e2b7f6d9e192810d3c1d55c2058bf0dfdbf08bc4607a",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "Gimme! Gimme! Gimme!"
+    }
+  },
+  {
+    "rank": 55,
+    "artist": "Dschinghis Khan",
+    "title": "Hadschi Halef Omar",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1104840",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/2/0/9e2c5668b20540962eafc244d64c35d1.mp3?hdnea=exp=1732450019~acl=/api/1/1/9/e/2/0/9e2c5668b20540962eafc244d64c35d1.mp3*~data=user_id=0,application_id=42~hmac=e57800065a73bac452c36104596c6a3374f9ddb8562e9057bd6999093bfb67b7",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1fe797f9462a1056b77ab8fa90695446/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dschinghis Khan",
+      "deezerTitle": "Hadschi Halef Omar"
+    }
+  },
+  {
+    "rank": 56,
+    "artist": "Queen",
+    "title": "Crazy Little Thing Called Love",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/568121002",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e84ca26dc530e3f1170d17a5bdd5afef.mp3?hdnea=exp=1732450021~acl=/api/1/1/e/8/4/0/e84ca26dc530e3f1170d17a5bdd5afef.mp3*~data=user_id=0,application_id=42~hmac=36d05bb67ca5eb6273e97cdbfecd7df0c80ef423a76f32ca46a3b333cd876600",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/8b8fc5d117f9357b79f0a0a410a170e8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Queen",
+      "deezerTitle": "Crazy Little Thing Called Love"
+    }
+  },
+  {
+    "rank": 57,
+    "artist": "Spinners",
+    "title": "Working My Way Back To You",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/496357772",
+      "preview": "https://cdn-preview-b.dzcdn.net/stream/c-b3df50566e26d5852a4f532c48fb5b3d-8.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/7b3614888d207a3d657c08038a96cd84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Spinners",
+      "deezerTitle": "Working My Way Back to You"
+    }
+  },
+  {
+    "rank": 58,
+    "artist": "Katja Ebstein",
+    "title": "Abschied ist ein bißchen wie sterben",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/69913179",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e6c110dfdf9c7e56b65a2ccf0d76662.mp3?hdnea=exp=1732450025~acl=/api/1/1/5/e/6/0/5e6c110dfdf9c7e56b65a2ccf0d76662.mp3*~data=user_id=0,application_id=42~hmac=d5f9c28aa26fa419a0570b68ddfe8a4c1bb8ae45c58d314826a669a46c97e25d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/350afa3e633e8b7e3b760604187b7a82/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Katja Ebstein",
+      "deezerTitle": "Abschied ist ein bisschen wie sterben"
+    }
+  },
+  {
+    "rank": 59,
+    "artist": "Boney M.",
+    "title": "I'm Born Again",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/364983",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/5/0/fc5540a7e13eeee91e95bde0d8730ca0.mp3?hdnea=exp=1732450027~acl=/api/1/1/f/c/5/0/fc5540a7e13eeee91e95bde0d8730ca0.mp3*~data=user_id=0,application_id=42~hmac=0fa03e720be30ca0860d680c2e78e8f84ae4878ee211910b0ae2ebd88ecf6500",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5aba1132e8590317dd568e846d34efe0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "I'm Born Again"
+    }
+  },
+  {
+    "rank": 60,
+    "artist": "Joe Bataan",
+    "title": "Rap-O Clap-O",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/100432660",
+      "preview": "https://cdn-preview-c.dzcdn.net/stream/c-cc7a73b3edbb5a6f6344ce62640f1045-6.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c6293f0c5d1af514222fe863771779b9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Joe Bataan",
+      "deezerTitle": "Rap O Clap O"
+    }
+  },
+  {
+    "rank": 61,
+    "artist": "Bob Marley & The Wailers",
+    "title": "Could You Be Loved",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2542703",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/e/0/02e9a09ea790764292cffb6ea747b7a0.mp3?hdnea=exp=1732450032~acl=/api/1/1/0/2/e/0/02e9a09ea790764292cffb6ea747b7a0.mp3*~data=user_id=0,application_id=42~hmac=1d3f1196045e33d67392a3ba6c6c9898a5660524ea6d8ebe95231bb729935565",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/8d66bb5d623fed6a464415dbc744df21/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bob Marley & The Wailers",
+      "deezerTitle": "Could You Be Loved"
+    }
+  },
+  {
+    "rank": 62,
+    "artist": "Blondie",
+    "title": "Dreaming",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3104489",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/a/0/23a0d5390342739e72d3148c6678d63d.mp3?hdnea=exp=1732450034~acl=/api/1/1/2/3/a/0/23a0d5390342739e72d3148c6678d63d.mp3*~data=user_id=0,application_id=42~hmac=c16c623e4efa1466b038cd0ad2034d47bd231b8c5b594273e74a727e61aa179d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cdc9d8ba7d6f9d8c40c5389bb4577409/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Blondie",
+      "deezerTitle": "Dreaming"
+    }
+  },
+  {
+    "rank": 63,
+    "artist": "Howard Carpendale",
+    "title": "Nachts, wenn alles schläft",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/116941940",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87c7c5d9aff6b5eda4b5aceed3ba742b.mp3?hdnea=exp=1732450036~acl=/api/1/1/8/7/c/0/87c7c5d9aff6b5eda4b5aceed3ba742b.mp3*~data=user_id=0,application_id=42~hmac=acf96c09cd5ae45838bfcacf33fc8a79b1458fa232f33290a76d187718582db9",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e17c008a5eeed342b6996cecedf134d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Howard Carpendale",
+      "deezerTitle": "Nachts, wenn alles schläft"
+    }
+  },
+  {
+    "rank": 64,
+    "artist": "Paul McCartney",
+    "title": "Coming Up",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5664753",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc8ba947a9a5ed920d2e50ff3f9cd8c7.mp3?hdnea=exp=1732450038~acl=/api/1/1/d/c/8/0/dc8ba947a9a5ed920d2e50ff3f9cd8c7.mp3*~data=user_id=0,application_id=42~hmac=90f451c5eb49bafabd1729b54080ca37db9cf9ede2b4b7f6f6905b916f0b22bd",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e55b667aeba377649885320b499f6113/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Paul McCartney",
+      "deezerTitle": "Coming Up"
+    }
+  },
+  {
+    "rank": 65,
+    "artist": "Gianna Nannini",
+    "title": "America",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/604056",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/5/0/b857a7b414ff2a166a72f3483bceaf89.mp3?hdnea=exp=1732450040~acl=/api/1/1/b/8/5/0/b857a7b414ff2a166a72f3483bceaf89.mp3*~data=user_id=0,application_id=42~hmac=7975ab168b9be46ef4ed6db15075fa4e1f476346b02d6bae7e00fe8347693e42",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a137341b84422711620574bcd5139f1e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gianna Nannini",
+      "deezerTitle": "America"
+    }
+  },
+  {
+    "rank": 66,
+    "artist": "Tony Christie",
+    "title": "Sweet September",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/126779021",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d59a1b0d35cde1c1b046e9bbe69e8df.mp3?hdnea=exp=1732450042~acl=/api/1/1/3/d/5/0/3d59a1b0d35cde1c1b046e9bbe69e8df.mp3*~data=user_id=0,application_id=42~hmac=1a9838e024bc0494aaf663cef0dfe7dad0ca88cfc06c6f29afdc0a7a47ca7ba8",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/56507e6876e7413b53eac9d1b0954ffe/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tony Christie",
+      "deezerTitle": "Sweet September"
+    }
+  },
+  {
+    "rank": 67,
+    "artist": "Barbara Dickson",
+    "title": "January - February",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2246267",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/7/0/2177969ddb1787825e495288172a737d.mp3?hdnea=exp=1732450045~acl=/api/1/1/2/1/7/0/2177969ddb1787825e495288172a737d.mp3*~data=user_id=0,application_id=42~hmac=b2c01195894dba6cc908da129aaa4fc406a36e51ef8a889cd262192e4557bc35",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/50079decb0e289cb91156f98d8b3e33a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Barbara Dickson",
+      "deezerTitle": "January, February"
+    }
+  },
+  {
+    "rank": 68,
+    "artist": "Kelly Family",
+    "title": "David's Song (Who'll Come With Me)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1786535897",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/962229d9ff3ba2296d88c874d6ef025b.mp3?hdnea=exp=1732450047~acl=/api/1/1/9/6/2/0/962229d9ff3ba2296d88c874d6ef025b.mp3*~data=user_id=0,application_id=42~hmac=01653d7b8994f6b5033dae221060ed979328f92c32579fb9852f34afdbc3868e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/ddd01e61f3512fc0b23f11e579264296/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Kelly Family",
+      "deezerTitle": "Who'll Come With Me (David's Song)"
+    }
+  },
+  {
+    "rank": 69,
+    "artist": "Robert Palmer",
+    "title": "What's It Take?",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/7633338",
+      "preview": "https://cdn-preview-f.dzcdn.net/stream/c-fb53575b842f2a38158c0acbc9d66dc3-2.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/8113e64ebc7be89f74327fee875e4d22/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Robert Palmer",
+      "deezerTitle": "What's It Take?"
+    }
+  },
+  {
+    "rank": 70,
+    "artist": "Howard Carpendale",
+    "title": "Es geht um mehr",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2191743727",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/8/0/958d2af48fc6b7a01f52224dbe04caf8.mp3?hdnea=exp=1732450051~acl=/api/1/1/9/5/8/0/958d2af48fc6b7a01f52224dbe04caf8.mp3*~data=user_id=0,application_id=42~hmac=a3d790951394cea9776da01567eeea31e5bfcc5a3f609c74c53cfd27fc311a1f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/451cda2924cbae504817bd7f12ea6713/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Howard Carpendale",
+      "deezerTitle": "Es geht um mehr"
+    }
+  },
+  {
+    "rank": 71,
+    "artist": "Racey",
+    "title": "Such A Night",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3851674",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/f/0/44f5cafb0e98a01d94a40055a206dc40.mp3?hdnea=exp=1732450053~acl=/api/1/1/4/4/f/0/44f5cafb0e98a01d94a40055a206dc40.mp3*~data=user_id=0,application_id=42~hmac=c80ff8438b284297378b52143b62cef45456ef1670252877b6d5bf8aae6f2707",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e0aaf588ec7cf344fa0c2d346e8e5e50/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Racey",
+      "deezerTitle": "Such a Night"
+    }
+  },
+  {
+    "rank": 72,
+    "artist": "Alan Sorrenti",
+    "title": "Tu sei l'unica donna per me",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3370893",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/5/0/e656aae7e930e137c00a65bef36f5942.mp3?hdnea=exp=1732450055~acl=/api/1/1/e/6/5/0/e656aae7e930e137c00a65bef36f5942.mp3*~data=user_id=0,application_id=42~hmac=3ca3900e4d22a602cd32365e9f95c6b14055b9ac4f033b11c52321b8e5d567f5",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/439e9527baf7baac8dfb9a939d54dafc/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Alan Sorrenti",
+      "deezerTitle": "Tu Sei L'Unica Donna Per Me"
+    }
+  },
+  {
+    "rank": 73,
+    "artist": "Sky",
+    "title": "Toccata",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/903403392",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/7/0/007d0e03395d9ede8acc9826f2c4ab00.mp3?hdnea=exp=1732450057~acl=/api/1/1/0/0/7/0/007d0e03395d9ede8acc9826f2c4ab00.mp3*~data=user_id=0,application_id=42~hmac=ec5524e7a062fbd584453f6c68f3fc090b73e5045f9e558cdd7fec269df241d4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/00636ca45b47f622cfea5394099582d2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sky",
+      "deezerTitle": "Toccata"
+    }
+  },
+  {
+    "rank": 74,
+    "artist": "Peter Kent",
+    "title": "You're All I Need",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5536859",
+      "preview": "https://cdn-preview-a.dzcdn.net/stream/c-a3567dff88079f71fef5e23fbca19b8b-2.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f51d13a308ecacde799af9f25d8695c0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Kent & Friends",
+      "deezerTitle": "You're All I Need"
+    }
+  },
+  {
+    "rank": 75,
+    "artist": "Alan Sorrenti",
+    "title": "Non so che darei",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/4445853",
+      "preview": "https://cdn-preview-6.dzcdn.net/stream/c-694c2e3657f12964ee7d5d0dd2a9f0ac-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9d2067cfced2a25315785df39eb35cd6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Alan Sorrenti",
+      "deezerTitle": "Non so che darei"
+    }
+  }
+]

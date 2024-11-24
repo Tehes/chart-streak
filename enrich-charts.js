@@ -8,8 +8,11 @@ const deezerBaseURL = "https://api.deezer.com/search?q=";
 // Bereinige Künstlernamen
 function cleanArtistName(artist) {
     return artist
+        .replace(/\./g, "") // Entferne Punkte aus Künstlernamen
         .replace(/^(the|a|an)\s+/i, "") // Entferne Artikel am Anfang
-        .replace(/(feat\.|featuring|&|und|starring|pres\.).*$/gi, "") // Entferne alles ab den Begriffen
+        .replace(/'/g, "") // Entferne einfache Apostrophe
+        .replace(/’/g, "") // Entferne typografische Apostrophe
+        .replace(/(feat\.|featuring|&|und|starring|pres\.|with).*$/gi, "") // Entferne alles ab den Begriffen
         .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen auf eines
         .trim(); // Entferne führende und nachfolgende Leerzeichen
@@ -18,21 +21,102 @@ function cleanArtistName(artist) {
 // Bereinige Songtitel
 function cleanTitle(title) {
     return title
+        .replace(/'/g, "") // Entferne einfache Apostrophe
+        .replace(/’/g, "") // Entferne typografische Apostrophe
         .replace(/\([^)]*\)/g, "") // Entferne Inhalte in runden Klammern
+        .replace(/-/g, " ") // Ersetze Bindestriche durch Leerzeichen
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
+        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "") // Entferne alle Interpunktionszeichen
         .trim(); // Entferne führende und nachfolgende Leerzeichen
 }
 
 // Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
+// Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
 function isArtistNameSimilar(deezerArtist, cleanedArtist) {
-    // Zerlege den bereinigten Künstlernamen in Teile (z. B. "Henry Valentino" und "Uschi")
-    const artistParts = cleanedArtist.split(/[+\/,]/).map(part => part.trim().toLowerCase());
-    const deezerArtistLower = deezerArtist.toLowerCase();
+    const normalize = str => str
+        .replace(/\./g, "") // Entferne Punkte
+        .replace(/'/g, "") // Entferne einfache Apostrophe
+        .replace(/’/g, "") // Entferne typografische Apostrophe
+        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
+        .trim()
+        .toLowerCase();
 
-    // Prüfe, ob mindestens ein Teil des bereinigten Namens im Deezer-Künstlernamen vorkommt
-    const matchFound = artistParts.some(part => deezerArtistLower.includes(part));
+    const deezerArtistNormalized = normalize(deezerArtist);
+    const cleanedArtistNormalized = normalize(cleanedArtist);
 
-    return matchFound;
+    const artistParts = cleanedArtist
+        .split(/[+\/,]/) // Zerlege Künstlernamen in Teile
+        .map(part => normalize(part));
+
+    if (
+        deezerArtistNormalized.includes(cleanedArtistNormalized) ||
+        cleanedArtistNormalized.includes(deezerArtistNormalized)
+    ) {
+        return true;
+    }
+
+    // Prüfe sowohl mit "&", "and" und "und"
+    return artistParts.some(part => {
+        const variations = [
+            part,
+            part.replace(/\band\b/g, "&"), // "and" -> "&"
+            part.replace(/\bund\b/g, "&"), // "und" -> "&"
+            part.replace(/&/g, "and"),     // "&" -> "and"
+            part.replace(/&/g, "und"),      // "&" -> "und"
+            part.replace(/\b'N\b/g, "&"),     // "'N'" -> "&"
+            part.replace(/\b'N\b/g, "and"),   // "'N'" -> "and"
+            part.replace(/\b'N\b/g, "und"),    // "'N'" -> "und"
+            part.replace(/\b'n\b/g, "&"),     // "'n'" -> "&"
+            part.replace(/\b'n\b/g, "and"),   // "'n'" -> "and"
+            part.replace(/\b'n\b/g, "und")    // "'n'" -> "und"
+        ];
+
+        // Überprüfe alle Varianten
+        return variations.some(variation => deezerArtistNormalized.includes(variation));
+    });
+}
+
+// Vergleicht, ob Teile des bereinigten Titels im Deezer-Titel enthalten sind.
+function isTitleSimilar(deezerTitle, cleanedTitle) {
+    const normalize = str => str
+        .replace(/'/g, "") // Entferne einfache Apostrophe
+        .replace(/’/g, "") // Entferne typografische Apostrophe
+        .replace(/\./g, "") // Entferne Punkte
+        .replace(/-/g, " ") // Ersetze Bindestriche durch Leerzeichen
+        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
+        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "") // Entferne alle Interpunktionszeichen
+        .trim()
+        .toLowerCase();
+
+    const deezerTitleNormalized = normalize(deezerTitle);
+    const cleanedTitleNormalized = normalize(cleanedTitle);
+
+    // Direkter Vergleich
+    if (
+        deezerTitleNormalized.includes(cleanedTitleNormalized) ||
+        cleanedTitleNormalized.includes(deezerTitleNormalized)
+    ) {
+        return true;
+    }
+
+    // Prüfe Varianten für "and", "und", "&", "'N'"
+    const titleParts = cleanedTitleNormalized.split(/\s+/); // Zerlege in einzelne Worte
+    const titleVariations = titleParts.map(part => [
+        part,
+        part.replace(/\band\b/g, "&"), // "and" -> "&"
+        part.replace(/\bund\b/g, "&"), // "und" -> "&"
+        part.replace(/&/g, "and"),     // "&" -> "and"
+        part.replace(/&/g, "und"),      // "&" -> "und"
+        part.replace(/\b'N\b/g, "&"),     // "'N'" -> "&"
+        part.replace(/\b'N\b/g, "and"),   // "'N'" -> "and"
+        part.replace(/\b'N\b/g, "und"),   // "'N'" -> "und"
+        part.replace(/\b'n\b/g, "&"),     // "'n'" -> "&"
+        part.replace(/\b'n\b/g, "and"),   // "'n'" -> "and"
+        part.replace(/\b'n\b/g, "und")    // "'n'" -> "und"
+    ]).flat(); // Flache Liste aller Varianten
+
+    // Überprüfe jede Variante auf Ähnlichkeit
+    return titleVariations.some(variation => deezerTitleNormalized.includes(variation));
 }
 
 // Funktion zur Überprüfung, ob ein Titel "Remix" enthält
@@ -41,9 +125,14 @@ function isRemix(title) {
 }
 
 // Deezer-Suche
-async function searchDeezer(title, artist, year) {
-    const cleanedArtist = cleanArtistName(artist); // Bereinige Künstlernamen
-    const cleanedTitle = cleanTitle(title);       // Bereinige Titel
+async function searchDeezer(title, artist, year, retryCount = 0) {
+    if (retryCount > 3) {
+        console.error(`Max retries reached for query "${title}" by "${artist}"`);
+        return null;
+    }
+
+    const cleanedArtist = cleanArtistName(artist);
+    const cleanedTitle = cleanTitle(title);
     const query = encodeURIComponent(`${cleanedTitle} ${cleanedArtist}`);
     const url = `${deezerBaseURL}${query}&order=ALBUM_ASC`;
 
@@ -55,13 +144,14 @@ async function searchDeezer(title, artist, year) {
             for (const result of data.data) {
                 const deezerArtist = result.artist.name;
 
-                // Überprüfe auf Übereinstimmung des Künstlers und schließe Remixe aus
-                if (isArtistNameSimilar(deezerArtist, cleanedArtist) && !isRemix(result.title)) {
-                    console.log(`Match found for: "${result.title}" by "${deezerArtist}"`);
-                    await new Promise(resolve => setTimeout(resolve, 1000)); // API-Limit
-
+                if (
+                    isArtistNameSimilar(deezerArtist, cleanedArtist) &&
+                    isTitleSimilar(result.title_short, cleanedTitle) &&
+                    !isRemix(result.title)
+                ) {
+                    await new Promise(resolve => setTimeout(resolve, 2000)); // API-Limit
                     return {
-                        deezerLink: `https://www.deezer.com/track/${result.id}`,
+                        deezerLink: result.link,
                         preview: result.preview,
                         cover: result.album.cover_big,
                         deezerArtist: deezerArtist,
@@ -72,6 +162,11 @@ async function searchDeezer(title, artist, year) {
         }
     } catch (error) {
         console.error(`Error fetching data for query "${query}":`, error.message);
+
+        // Wartezeit vor erneutem Versuch
+        console.log("Retrying...");
+        await new Promise(resolve => setTimeout(resolve, 5000));
+        return await searchDeezer(title, artist, year, retryCount + 1);
     }
 
     console.log(`No results for: "${title}" by "${artist}"`);
@@ -137,4 +232,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1979, 1979).catch(console.error);
+enrichAllYears(1984, 1984).catch(console.error);

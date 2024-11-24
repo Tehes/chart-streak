@@ -1,0 +1,881 @@
+[
+  {
+    "rank": 1,
+    "artist": "Electronica's",
+    "title": "Dance Little Bird"
+  },
+  {
+    "rank": 2,
+    "artist": "Stars On 45",
+    "title": "Stars On 45",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/60703711",
+      "preview": "https://cdn-preview-4.dzcdn.net/stream/c-4a25b9ce31c63aecec41a91b9991d16b-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6f69fb81b81ab67c98980205beb8b815/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Stars On 45",
+      "deezerTitle": "Stars On 45"
+    }
+  },
+  {
+    "rank": 3,
+    "artist": "Kim Wilde",
+    "title": "Kids In America",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2891799832",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/8/0/1e85e14803860975c8322b36d85576ff.mp3?hdnea=exp=1732456507~acl=/api/1/1/1/e/8/0/1e85e14803860975c8322b36d85576ff.mp3*~data=user_id=0,application_id=42~hmac=75f1cbe1a43ca81c1e1d73ccbdef37d7b5c3bdcb3ceeb1a84ae4d6c7781e037d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/757e61221dd279212b585eb0745453cb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kim Wilde",
+      "deezerTitle": "Kids In America"
+    }
+  },
+  {
+    "rank": 4,
+    "artist": "Visage",
+    "title": "Fade To Grey",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2285082",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/0/0/de07b5762bd7cffe1a561404dbd220f1.mp3?hdnea=exp=1732456510~acl=/api/1/1/d/e/0/0/de07b5762bd7cffe1a561404dbd220f1.mp3*~data=user_id=0,application_id=42~hmac=08d70a7d851216e84109546eaf6394299452cecc3f891265b7ca5f468e27676f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/781c39ede94bbc40ae3b2744b3673ae5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Visage",
+      "deezerTitle": "Fade To Grey"
+    }
+  },
+  {
+    "rank": 5,
+    "artist": "Phil Collins",
+    "title": "In The Air Tonight",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/134036212",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/e/0/7ae98a206f52ed24eb6166804b9fb797.mp3?hdnea=exp=1732456512~acl=/api/1/1/7/a/e/0/7ae98a206f52ed24eb6166804b9fb797.mp3*~data=user_id=0,application_id=42~hmac=f58d3434b5014c8c3738e622984230d781eba498743b1d2f63edfd73c318057d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/73e6481676a8ab3e93f0f7b79a9cff68/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Phil Collins",
+      "deezerTitle": "In the Air Tonight"
+    }
+  },
+  {
+    "rank": 6,
+    "artist": "Barclay James Harvest",
+    "title": "Life Is For Living",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1178567",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77f5b2cb9d606523ae3ba6b20b42c814.mp3?hdnea=exp=1732456514~acl=/api/1/1/7/7/f/0/77f5b2cb9d606523ae3ba6b20b42c814.mp3*~data=user_id=0,application_id=42~hmac=dd2c867cdaf6dd36c9fb937b7a120955fc1f193f7543e0cd826b863f337d20e3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6cdf23f1f3636055457568dadaf984d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Barclay James Harvest",
+      "deezerTitle": "Life Is For Living"
+    }
+  },
+  {
+    "rank": 7,
+    "artist": "Roland Kaiser",
+    "title": "Lieb' mich ein letztes Mal",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1723527587",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/5/0/2e53c8b4d7379994cd7b084a64fe080f.mp3?hdnea=exp=1732456516~acl=/api/1/1/2/e/5/0/2e53c8b4d7379994cd7b084a64fe080f.mp3*~data=user_id=0,application_id=42~hmac=bd2a53514514723e3428cb923027ac2b6b36423b5876ad08a0381db9a8b4beea",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b816b67a32304ff1bbc31eac10d88467/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roland Kaiser",
+      "deezerTitle": "Lieb mich ein letztes Mal"
+    }
+  },
+  {
+    "rank": 8,
+    "artist": "Frank Duval & Orchestra",
+    "title": "Angel Of Mine",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1536795952",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/5/0/015a3dae6dd60d6e581ef74b4fd55f78.mp3?hdnea=exp=1732456518~acl=/api/1/1/0/1/5/0/015a3dae6dd60d6e581ef74b4fd55f78.mp3*~data=user_id=0,application_id=42~hmac=c47cd145d416593f045a4ccc699dbabbc8222d1d57cff35175ec283b0fc872de",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dcb8d9cf01ea9f9a3c18cd145b306a46/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frank Duval",
+      "deezerTitle": "Angel Of Mine"
+    }
+  },
+  {
+    "rank": 9,
+    "artist": "Ottawan",
+    "title": "Hands Up (Give Me Your Heart)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1436220782",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/7/0/d17315883f608f3b70ed7b682dd56dc2.mp3?hdnea=exp=1732456520~acl=/api/1/1/d/1/7/0/d17315883f608f3b70ed7b682dd56dc2.mp3*~data=user_id=0,application_id=42~hmac=3c43a19431b060dd4ac5131242b597c5b353faa4ba06e0fbb439367cdcbf56fd",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/4cd1c97f740c14c3b67f992185fdf480/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ottawan",
+      "deezerTitle": "Hands Up"
+    }
+  },
+  {
+    "rank": 10,
+    "artist": "Kim Carnes",
+    "title": "Bette Davis Eyes",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3153065",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/914e316431b8f170cc514948cea067db.mp3?hdnea=exp=1732456522~acl=/api/1/1/9/1/4/0/914e316431b8f170cc514948cea067db.mp3*~data=user_id=0,application_id=42~hmac=c45033dadb427a2e6b76788d49c483db567a0568b6904c8cfd0552d9df9f028a",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a49a8fa4ba167dcb8227edfdab793b91/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kim Carnes",
+      "deezerTitle": "Bette Davis Eyes"
+    }
+  },
+  {
+    "rank": 11,
+    "artist": "ABBA",
+    "title": "Super Trouper",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/884033",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/f/0/c2fa632fab2dcea1831a2832f91cddd9.mp3?hdnea=exp=1732456525~acl=/api/1/1/c/2/f/0/c2fa632fab2dcea1831a2832f91cddd9.mp3*~data=user_id=0,application_id=42~hmac=9ab0ed9d88bee2cd96af2e3afee5f2e4f72398889b0e26b933f3402f61f69b64",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "Super Trouper"
+    }
+  },
+  {
+    "rank": 12,
+    "artist": "Bernie Paul",
+    "title": "Oh No No",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13783378",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dc411a17efb643f4676a74bf51550d9.mp3?hdnea=exp=1732456527~acl=/api/1/1/4/d/c/0/4dc411a17efb643f4676a74bf51550d9.mp3*~data=user_id=0,application_id=42~hmac=96a5f2032f218edfef4c6815d28b9b434e535978ce4ae0e48218db2de45f970c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/bf886ba1485fa9bdd27e6f375d40056a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bernie Paul",
+      "deezerTitle": "Oh No No"
+    }
+  },
+  {
+    "rank": 13,
+    "artist": "Jona Lewie",
+    "title": "Stop The Cavalry",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/594710542",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/7/0/3e7e6246f719859b2fb97910e13d53dd.mp3?hdnea=exp=1732456529~acl=/api/1/1/3/e/7/0/3e7e6246f719859b2fb97910e13d53dd.mp3*~data=user_id=0,application_id=42~hmac=9c0a601d9b92cf1a92c1b78ef6a5946d6585c9876546ead7dc06c4359564cbc9",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cb70bb6156255f1f6d79e238b7336fbe/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Jona Lewie",
+      "deezerTitle": "Stop the Cavalry"
+    }
+  },
+  {
+    "rank": 14,
+    "artist": "Queen",
+    "title": "Flash",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/12325096",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/b/0/5bbaa7e814fbff8ebde08e2960e3d981.mp3?hdnea=exp=1732456531~acl=/api/1/1/5/b/b/0/5bbaa7e814fbff8ebde08e2960e3d981.mp3*~data=user_id=0,application_id=42~hmac=04a4d8f03b487c6cbc79e10b0cf878ffb6b1bab1a3a5f38514a6b09c23abc276",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fe7e337213f8a8c064cb5b0c3a251e23/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Queen",
+      "deezerTitle": "Flash"
+    }
+  },
+  {
+    "rank": 15,
+    "artist": "Shakin' Stevens",
+    "title": "Marie, Marie",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1132667162",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/5/0/9f50aa39adc9ee8891dca00df93a1c7a.mp3?hdnea=exp=1732456533~acl=/api/1/1/9/f/5/0/9f50aa39adc9ee8891dca00df93a1c7a.mp3*~data=user_id=0,application_id=42~hmac=685acf1a7ff080faa7d5d750a4440a80f67205d96647983e2e052e519e9a38d3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "Marie, Marie"
+    }
+  },
+  {
+    "rank": 16,
+    "artist": "Robert Palmer",
+    "title": "Johnny And Mary",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/610867942",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/4/0/c74fb1e47cb932f3e61a2c3dca8dc29d.mp3?hdnea=exp=1732456535~acl=/api/1/1/c/7/4/0/c74fb1e47cb932f3e61a2c3dca8dc29d.mp3*~data=user_id=0,application_id=42~hmac=b07750287c9d74c258b10da5ec32164b0c7ab929c7e4fafd607e224e7bddd2cd",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/7ab973937a1f2a776cc9ed6a8167ca78/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Robert Palmer",
+      "deezerTitle": "Johnny And Mary"
+    }
+  },
+  {
+    "rank": 17,
+    "artist": "Joe Dolce Music Theatre",
+    "title": "Shaddap You Face"
+  },
+  {
+    "rank": 18,
+    "artist": "Robert Palmer",
+    "title": "Looking For Clues",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/541625512",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/7/0/2073ad4113b2faad006cc0483098693f.mp3?hdnea=exp=1732456537~acl=/api/1/1/2/0/7/0/2073ad4113b2faad006cc0483098693f.mp3*~data=user_id=0,application_id=42~hmac=48a25b569093a4cd81d0df6a786d952da49344625b65e2c8ebb6b4c2bcb6f5e9",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e3ad12eb19a3a9cc7fe32c74ece75690/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Robert Palmer",
+      "deezerTitle": "Looking For Clues"
+    }
+  },
+  {
+    "rank": 19,
+    "artist": "Hanne Haller",
+    "title": "Samstag abend",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1007732",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/8/0/bb80c5529c7cb735f0e9bd0bab92a981.mp3?hdnea=exp=1732456540~acl=/api/1/1/b/b/8/0/bb80c5529c7cb735f0e9bd0bab92a981.mp3*~data=user_id=0,application_id=42~hmac=98fd9b4a9848d70adbef7af6a10eaae735e0c79940be6cb8ac9dcd99c79c562c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6befebb891ed58cc0abf7e8cfa4fce57/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Hanne Haller",
+      "deezerTitle": "Samstag Abend"
+    }
+  },
+  {
+    "rank": 20,
+    "artist": "John Lennon",
+    "title": "Woman",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/7163159",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/3/0/303d86d4908a31c15c83fd0b4e90a897.mp3?hdnea=exp=1732456542~acl=/api/1/1/3/0/3/0/303d86d4908a31c15c83fd0b4e90a897.mp3*~data=user_id=0,application_id=42~hmac=d66878de49f8655f2259cd6b6d1005e4ed623a7b7dcaf49dc134b40314c03844",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d06a154d9a233d46917ef47e8484ea74/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "John Lennon",
+      "deezerTitle": "Woman"
+    }
+  },
+  {
+    "rank": 21,
+    "artist": "Shakin' Stevens",
+    "title": "You Drive Me Crazy",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1152437152",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/5/0/bc56c5969e6685098b32832a1684a8a8.mp3?hdnea=exp=1732456544~acl=/api/1/1/b/c/5/0/bc56c5969e6685098b32832a1684a8a8.mp3*~data=user_id=0,application_id=42~hmac=93d41cc09fa6f3936fd774569cfbb8f661b8633c6aa2f22c13290106b7b3ad4b",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/488b78e595767f9b102a6838b5bbf4e3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "You Drive Me Crazy"
+    }
+  },
+  {
+    "rank": 22,
+    "artist": "Shakin' Stevens",
+    "title": "This Ole House",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5404536",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/f/0/2bf2eb972d41f9d82ef282abf482f252.mp3?hdnea=exp=1732456546~acl=/api/1/1/2/b/f/0/2bf2eb972d41f9d82ef282abf482f252.mp3*~data=user_id=0,application_id=42~hmac=0633df22de138d97b6e346bcb25865b8bc95a059bfda1223b261e6a69b37b9c4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "This Ole House"
+    }
+  },
+  {
+    "rank": 23,
+    "artist": "Secret Service",
+    "title": "Ye-si-ca",
+    "deezer": {
+        "deezerLink": "https://www.deezer.com/track/1241591872",
+        "preview": "https://cdn-preview-8.dzcdn.net/stream/c-8efffcfe32bccee7858c52106a6bc37c-4.mp3",
+        "cover": "https://e-cdns-images.dzcdn.net/images/cover/faa7934706007d91edcc10b59f4901ca/500x500-000000-80-0-0.jpg",
+        "deezerArtist": "Secret Service",
+        "deezerTitle": "Ye Si Ca"
+    }
+  },
+  {
+    "rank": 24,
+    "artist": "Kim Wilde",
+    "title": "Chequered Love",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2896479021",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/a/0/a8a1ed77bd044d4c728c0b09f7875573.mp3?hdnea=exp=1732456551~acl=/api/1/1/a/8/a/0/a8a1ed77bd044d4c728c0b09f7875573.mp3*~data=user_id=0,application_id=42~hmac=5aa61967e1b516ed1c5ed06be64229bf2849a67418c93e7f9f9d98e0dc9f421a",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/37b799b17ab0578911f7bb8df57d73d3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kim Wilde",
+      "deezerTitle": "Chequered Love"
+    }
+  },
+  {
+    "rank": 25,
+    "artist": "The Boomtown Rats",
+    "title": "Banana Republic",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1567678",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/b/0/34b9f480efaa51272c100234d3308bed.mp3?hdnea=exp=1732456553~acl=/api/1/1/3/4/b/0/34b9f480efaa51272c100234d3308bed.mp3*~data=user_id=0,application_id=42~hmac=6593b6112d8b8402abc2c54759d68492d7d41cfb1de02b0fda80b91fc38bbbea",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/720195a8a4ea5305dcb174cf5602e259/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Boomtown Rats",
+      "deezerTitle": "Banana Republic"
+    }
+  },
+  {
+    "rank": 26,
+    "artist": "Boney M.",
+    "title": "Felicidad (Margherita)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1051017",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/b/0/d3bc24a11e04c90a9cbb9353c210fc72.mp3?hdnea=exp=1732456555~acl=/api/1/1/d/3/b/0/d3bc24a11e04c90a9cbb9353c210fc72.mp3*~data=user_id=0,application_id=42~hmac=15f69419ba9900b39f64760ee66bac9c71fc785ee77e067ac3e5311304a1c85e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/5b95e4fc13571a55f02478665f3e2ec9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Boney M.",
+      "deezerTitle": "Felicidad"
+    }
+  },
+  {
+    "rank": 27,
+    "artist": "Nicole",
+    "title": "Flieg nicht so hoch, mein kleiner Freund",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1082131",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/d/0/0ed9ba4aa31b24d90bd84ad3e09562fe.mp3?hdnea=exp=1732456557~acl=/api/1/1/0/e/d/0/0ed9ba4aa31b24d90bd84ad3e09562fe.mp3*~data=user_id=0,application_id=42~hmac=0c5a70b48dc4fb823c77c4d4e38c1e63bf26574ad19391b1d4a9ff42016e6fcf",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/6db67567dd788c85c8ea0a3d5e958758/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nicole",
+      "deezerTitle": "Flieg' nicht so hoch, mein kleiner Freund"
+    }
+  },
+  {
+    "rank": 28,
+    "artist": "Goombay Dance Band",
+    "title": "Seven Tears",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/443620252",
+      "preview": "https://cdn-preview-e.dzcdn.net/stream/c-e628f5e5c4a339483e3b5d66545eed52-5.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/dcc554a0c77e696a19955efda95993e7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Goombay Dance Band",
+      "deezerTitle": "Seven Tears"
+    }
+  },
+  {
+    "rank": 29,
+    "artist": "John Lennon",
+    "title": "(Just Like) Starting Over",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/122210000",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/2/0/0221774471ebb3c56954e16d4dc9e965.mp3?hdnea=exp=1732456561~acl=/api/1/1/0/2/2/0/0221774471ebb3c56954e16d4dc9e965.mp3*~data=user_id=0,application_id=42~hmac=e58dd17f4675dfd3937c1da5a8e8fbaae8f19733d7c2a9f410ef74f239cfcfb7",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/c6d75d013bcf43ea92c8116f13c30df9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "John Lennon",
+      "deezerTitle": "(Just Like) Starting Over"
+    }
+  },
+  {
+    "rank": 30,
+    "artist": "Telly Savalas",
+    "title": "Some Broken Hearts Never Mend",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2351986305",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/6/0/df6693f0414cee96d6540b8de781b7c6.mp3?hdnea=exp=1732456563~acl=/api/1/1/d/f/6/0/df6693f0414cee96d6540b8de781b7c6.mp3*~data=user_id=0,application_id=42~hmac=6d4216143914071557d13e9373d8adb339ab72551c7ee9b3303aedd2f365003d",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0b488608e872e2014771037acd387506/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Telly Savalas",
+      "deezerTitle": "Some Broken Hearts Never Mend"
+    }
+  },
+  {
+    "rank": 31,
+    "artist": "Eddy Grant",
+    "title": "Do You Feel My Love?",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3006369841",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/f/0/16f3a25309881b415b9c0aa4b7078f5f.mp3?hdnea=exp=1732456566~acl=/api/1/1/1/6/f/0/16f3a25309881b415b9c0aa4b7078f5f.mp3*~data=user_id=0,application_id=42~hmac=ae60ea83de892170362d98257d0d707f10b0a66af986757c01da53b0df172623",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/201cc47ebb0b1828f4fcdee7fe12ad06/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Eddy Grant",
+      "deezerTitle": "Do You Feel My Love"
+    }
+  },
+  {
+    "rank": 32,
+    "artist": "Barbra Streisand",
+    "title": "Woman In Love",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/625398",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/3/0/7930130f3a1f8c4c1686cd53e463d3f5.mp3?hdnea=exp=1732456568~acl=/api/1/1/7/9/3/0/7930130f3a1f8c4c1686cd53e463d3f5.mp3*~data=user_id=0,application_id=42~hmac=8ba30b8e4c0129c73e3260310239e11ab6dc5288810234036a3118622a81eaf6",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e27ca5bbf16094af0a93b2efcc03c5a7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Barbra Streisand",
+      "deezerTitle": "Woman In Love"
+    }
+  },
+  {
+    "rank": 33,
+    "artist": "Keith Marshall",
+    "title": "Only Crying",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1693333937",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/1/0/a9165c2261ee7a7ca3d9bba0227afd6a.mp3?hdnea=exp=1732456570~acl=/api/1/1/a/9/1/0/a9165c2261ee7a7ca3d9bba0227afd6a.mp3*~data=user_id=0,application_id=42~hmac=5d4b44abf3c08d02d75b00068e1ed520beaee979154decf6aad2d5ad85601f13",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/99c1ce897888afc9de8fc5c297c21569/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Keith Marshall",
+      "deezerTitle": "Only Crying"
+    }
+  },
+  {
+    "rank": 34,
+    "artist": "Loretta Goggi",
+    "title": "Maledetta primavera",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/4090061",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780afa8e58a51f38c4de230aef1f4b30.mp3?hdnea=exp=1732456572~acl=/api/1/1/7/8/0/0/780afa8e58a51f38c4de230aef1f4b30.mp3*~data=user_id=0,application_id=42~hmac=cb2fc9d6568aaf3c60bb752d1981ce10852407a2596fc92bb7894816a80956a2",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f5db6a713e363614578293aa5a494426/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Loretta Goggi",
+      "deezerTitle": "Maledetta primavera"
+    }
+  },
+  {
+    "rank": 35,
+    "artist": "Emmylou Harris",
+    "title": "Mister Sandman",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5618717",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f716c473b4131213fe53cbe2a739b7d.mp3?hdnea=exp=1732456574~acl=/api/1/1/4/f/7/0/4f716c473b4131213fe53cbe2a739b7d.mp3*~data=user_id=0,application_id=42~hmac=3c7194fdd3292e4e904c08ede5f6ed80dcf7d3a4abe709478a9c22501400f2d3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/3079059ec09c2031c57bf8d41cea0958/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Emmylou Harris",
+      "deezerTitle": "Mister Sandman"
+    }
+  },
+  {
+    "rank": 36,
+    "artist": "Nana Mouskouri",
+    "title": "La Provence (du blühendes Land)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2319544",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce19b5a5b3d0e571e57bfa02d01b746d.mp3?hdnea=exp=1732456576~acl=/api/1/1/c/e/1/0/ce19b5a5b3d0e571e57bfa02d01b746d.mp3*~data=user_id=0,application_id=42~hmac=ba0e40c3c1a48caa1b97b9bfc1ced1d82d8c16f3167c4ce8ddce44be04babe76",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b1cf79be45cbb451931313bf467e88ab/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nana Mouskouri",
+      "deezerTitle": "La Provence (Du blühendes Land)"
+    }
+  },
+  {
+    "rank": 37,
+    "artist": "Electric Light Orchestra",
+    "title": "Hold On Tight",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/15310533",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/f/0/3ef3f7d880481a76c021dec6b8810d7b.mp3?hdnea=exp=1732456578~acl=/api/1/1/3/e/f/0/3ef3f7d880481a76c021dec6b8810d7b.mp3*~data=user_id=0,application_id=42~hmac=5ebf3a33c91259503c3d724b475cc601a0663dc43bae5cb91c3ca52070b9bceb",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0c9f9b5f3253d783bdad0ea4e9331798/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Electric Light Orchestra",
+      "deezerTitle": "Hold On Tight"
+    }
+  },
+  {
+    "rank": 38,
+    "artist": "Peter Maffay",
+    "title": "Über sieben Brücken mußt du gehn",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/566832",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/1/0/1f1c02d0ec9dc4f6092817dcabb272b9.mp3?hdnea=exp=1732456580~acl=/api/1/1/1/f/1/0/1f1c02d0ec9dc4f6092817dcabb272b9.mp3*~data=user_id=0,application_id=42~hmac=ad40980824a583d9b7c40c16eb669ec11cce3e63c552ae29a4cda32e4947608f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9c1fc90b6bbf68a855e5603b1c26b9a8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Maffay",
+      "deezerTitle": "Über sieben Brücken musst du geh'n"
+    }
+  },
+  {
+    "rank": 39,
+    "artist": "Dschinghis Khan",
+    "title": "Loreley",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/15641575",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/052f407e8813bbed2888b234ca7e62db.mp3?hdnea=exp=1732456582~acl=/api/1/1/0/5/2/0/052f407e8813bbed2888b234ca7e62db.mp3*~data=user_id=0,application_id=42~hmac=9a47d8d2affbd0e91ecaec7c7860c97bfadde52f7a1e8e8494dc1aa2c736b834",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/69fd9dc57ee7226dc2dd0f2be68ff412/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dschinghis Khan",
+      "deezerTitle": "Loreley"
+    }
+  },
+  {
+    "rank": 40,
+    "artist": "Ricchi & Poveri",
+    "title": "Sarà perché ti amo",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/636405",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/c/0/f6cfec4620f9fd54224a0cfd9b3cacff.mp3?hdnea=exp=1732456584~acl=/api/1/1/f/6/c/0/f6cfec4620f9fd54224a0cfd9b3cacff.mp3*~data=user_id=0,application_id=42~hmac=a84a9bd1ef2b7aa334cc6f149f35e32cce127fc1651cd54207fd31cb177413d0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9f173ad75f8deb47cc739208fac80e08/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ricchi e Poveri",
+      "deezerTitle": "Sarà perché ti amo"
+    }
+  },
+  {
+    "rank": 41,
+    "artist": "Bucks Fizz",
+    "title": "Making Your Mind Up",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/599530",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/7/0/917a32e9713d54825d3327806eecd466.mp3?hdnea=exp=1732456587~acl=/api/1/1/9/1/7/0/917a32e9713d54825d3327806eecd466.mp3*~data=user_id=0,application_id=42~hmac=630dbc3aea8ec4508238757b0a894df32a7c59a74db35a42256a07c890b1b23b",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/49967d38304897865022d4373fd962c1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bucks Fizz",
+      "deezerTitle": "Making Your Mind Up"
+    }
+  },
+  {
+    "rank": 42,
+    "artist": "The Police",
+    "title": "De Do Do Do De Da Da Da",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2525870",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/7/0/857676dba7d6cccfd374edb8708977d4.mp3?hdnea=exp=1732456589~acl=/api/1/1/8/5/7/0/857676dba7d6cccfd374edb8708977d4.mp3*~data=user_id=0,application_id=42~hmac=1d943dffbecfb33f1eb24fd52c2c6ac2ca40045e6651acb7ed3619527847e506",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Police",
+      "deezerTitle": "De Do Do Do, De Da Da Da"
+    }
+  },
+  {
+    "rank": 43,
+    "artist": "Peter Kent",
+    "title": "Stop 'N' Go",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5536863",
+      "preview": "https://cdn-preview-f.dzcdn.net/stream/c-f40bb6dc715bac7a7114c27432e2a743-2.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f51d13a308ecacde799af9f25d8695c0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Kent & Friends",
+      "deezerTitle": "Stop And Go"
+    }
+  },
+  {
+    "rank": 44,
+    "artist": "Goombay Dance Band",
+    "title": "Eldorado",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/122357160",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/b/0/82b52c6384c2b6e8b4e3cc1d2df326e9.mp3?hdnea=exp=1732456593~acl=/api/1/1/8/2/b/0/82b52c6384c2b6e8b4e3cc1d2df326e9.mp3*~data=user_id=0,application_id=42~hmac=9a2c3c8ce3fa6ffe81952f37453c506279f26fcadca8ff425aa73083c3929c07",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/949042b1ed8a8cac51fcfa4765cc187b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Goombay Dance Band",
+      "deezerTitle": "Eldorado"
+    }
+  },
+  {
+    "rank": 45,
+    "artist": "Saragossa Band",
+    "title": "Agadou",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/410757232",
+      "preview": "https://cdn-preview-7.dzcdn.net/stream/c-7d15947f0ee5d288f606e5c5be99be15-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/24c24cd8f28d8d999c241c0dc5dcf2e6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Saragossa Band",
+      "deezerTitle": "Agadou"
+    }
+  },
+  {
+    "rank": 46,
+    "artist": "Lio",
+    "title": "Amoureux solitaires",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/122545118",
+      "preview": "https://cdn-preview-1.dzcdn.net/stream/c-1b156218f74255586654ef331f0c914a-6.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/56c84cb9f9a0ce112a06819594b9063a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Lio",
+      "deezerTitle": "Amoureux solitaires"
+    }
+  },
+  {
+    "rank": 47,
+    "artist": "Arabesque",
+    "title": "Marigot Bay",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/18228332",
+      "preview": "https://cdn-preview-4.dzcdn.net/stream/c-44e50b68afaad60bdb8456aa642beea0-6.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/89a2bae8dedb5ddc454525c9e62c4e9d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Arabesque",
+      "deezerTitle": "Marigot Bay"
+    }
+  },
+  {
+    "rank": 48,
+    "artist": "Precious Wilson",
+    "title": "We Are On The Race Track",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/567445",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/1/0/6a14b44a86d08d6549f1305aa239c415.mp3?hdnea=exp=1732456602~acl=/api/1/1/6/a/1/0/6a14b44a86d08d6549f1305aa239c415.mp3*~data=user_id=0,application_id=42~hmac=8f60197fe68ab3a9b1653aa1a799ce952d8706f492c73b8ab27e60b16a28599c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/011878e25d3e343483a85169123ffb53/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Precious Wilson",
+      "deezerTitle": "We Are on the Race Track"
+    }
+  },
+  {
+    "rank": 49,
+    "artist": "Max Werner",
+    "title": "Rain In May",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1013203512",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fc47dd2f36e9f180a95dcc282d7b86.mp3?hdnea=exp=1732456604~acl=/api/1/1/b/3/f/0/b3fc47dd2f36e9f180a95dcc282d7b86.mp3*~data=user_id=0,application_id=42~hmac=3bba80b1e390932d50e15bd5f32ddd493b54787c7fec2a1bc55a813782d8d60f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a6b6e66db0d1fb1cb1265e41427d1357/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Max Werner",
+      "deezerTitle": "Rain In May"
+    }
+  },
+  {
+    "rank": 50,
+    "artist": "Odyssey",
+    "title": "Going Back To My Roots",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/5495627",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/c/0/b9cee2119e829e1c97c50693814cdd4a.mp3?hdnea=exp=1732456606~acl=/api/1/1/b/9/c/0/b9cee2119e829e1c97c50693814cdd4a.mp3*~data=user_id=0,application_id=42~hmac=495eec85b37c1f5d1bfacf28f4ff93495ae789fa09a3a76bdb33c83f9abdecec",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Odyssey",
+      "deezerTitle": "Going Back to My Roots"
+    }
+  },
+  {
+    "rank": 51,
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/7193834",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc9e6e7fd857d23c06e58da584e8e7d5.mp3?hdnea=exp=1732456608~acl=/api/1/1/f/c/9/0/fc9e6e7fd857d23c06e58da584e8e7d5.mp3*~data=user_id=0,application_id=42~hmac=92d3400c5967197c175af47bcc306c8751161c41160dadb6babfe8ec01dc66f0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "John Lennon",
+      "deezerTitle": "Imagine"
+    }
+  },
+  {
+    "rank": 52,
+    "artist": "Roland Kaiser",
+    "title": "Santa Maria",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/66506378",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/7/0/3c7472207943780dda6a8981c6d1a344.mp3?hdnea=exp=1732456610~acl=/api/1/1/3/c/7/0/3c7472207943780dda6a8981c6d1a344.mp3*~data=user_id=0,application_id=42~hmac=af41974885daa1bb37516e0d12dfe3d121f7e0a13986ec975f22af63d77b8776",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f7517f567bc7f492172860b47cd37e7f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roland Kaiser",
+      "deezerTitle": "Santa Maria"
+    }
+  },
+  {
+    "rank": 53,
+    "artist": "Secret Service",
+    "title": "L.A. Goodbye",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1170320",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/f/0/f7f9ea507dbba65a01157b356252144d.mp3?hdnea=exp=1732456612~acl=/api/1/1/f/7/f/0/f7f9ea507dbba65a01157b356252144d.mp3*~data=user_id=0,application_id=42~hmac=1f786b3b21739add4502ab5d47c65a9d02ab22e0b1055e27a4eab801a901123e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/78ea74682cc519fbb012c685701b67ca/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Secret Service",
+      "deezerTitle": "L.A. Goodbye"
+    }
+  },
+  {
+    "rank": 54,
+    "artist": "Stars On 45",
+    "title": "Stars On 45 Vol. 2"
+  },
+  {
+    "rank": 55,
+    "artist": "Fred Sonnenschein und seine Freunde",
+    "title": "Ja, wenn wir alle Englein wären",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/661831872",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/7/0/df7958d545b20b4a1b2a569328be1c99.mp3?hdnea=exp=1732456615~acl=/api/1/1/d/f/7/0/df7958d545b20b4a1b2a569328be1c99.mp3*~data=user_id=0,application_id=42~hmac=055d80ef9f1a02be9ce61b1c53f3aa0e6b6bf18518bc482a0fa6091ff98cfbe0",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/684b0c97cb11b0ad9790aea573fbc0ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Fred Sonnenschein & seine Freunde",
+      "deezerTitle": "Ja, wenn wir alle Englein wären (Dance Little Bird)"
+    }
+  },
+  {
+    "rank": 56,
+    "artist": "Rod Stewart",
+    "title": "Passion",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2550608",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/c/0/2ecfcf2841e7e7e040c8639f73795227.mp3?hdnea=exp=1732456617~acl=/api/1/1/2/e/c/0/2ecfcf2841e7e7e040c8639f73795227.mp3*~data=user_id=0,application_id=42~hmac=0a7fe196575f95e3ebe5a72908498f67b697c7446215984b00fc8b1405c1aa97",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/873fafc66b71f5ea3b3b7219894c8389/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rod Stewart",
+      "deezerTitle": "Passion"
+    }
+  },
+  {
+    "rank": 57,
+    "artist": "Adam And The Ants",
+    "title": "Stand And Deliver",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/564953",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/7/0/e373d69191f4cc42ca75a95584843df0.mp3?hdnea=exp=1732456619~acl=/api/1/1/e/3/7/0/e373d69191f4cc42ca75a95584843df0.mp3*~data=user_id=0,application_id=42~hmac=5b19c617e49ffe0605c417965ba76a97be3371e472f62373398fc9b481aa548f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/4df526e0ae63c6f5f3eb1ffbeccda303/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Adam & The Ants",
+      "deezerTitle": "Stand and Deliver"
+    }
+  },
+  {
+    "rank": 58,
+    "artist": "Paola",
+    "title": "Der Teufel und der junge Mann",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/15258317",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/c/0/5dcb7c8d1402d41fde178c8641419a0e.mp3?hdnea=exp=1732456621~acl=/api/1/1/5/d/c/0/5dcb7c8d1402d41fde178c8641419a0e.mp3*~data=user_id=0,application_id=42~hmac=238b6032215f60a19d171d8ef54d46ecd6841a12849c0481a48085c45720caf3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/0f6824ef9719ed13fb18018905ad9ad0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Paola",
+      "deezerTitle": "Der Teufel und der junge Mann"
+    }
+  },
+  {
+    "rank": 59,
+    "artist": "Kool & The Gang",
+    "title": "Celebration",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/95873824",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/7/0/c57461b9c73e665145f093881eca75e5.mp3?hdnea=exp=1732456623~acl=/api/1/1/c/5/7/0/c57461b9c73e665145f093881eca75e5.mp3*~data=user_id=0,application_id=42~hmac=ff28988464602511cf2b87b73b6188599fc39d51eeed672bd0eebf3c8b773a35",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9953aecd3b6bad65f5b0acf711316fdd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kool & The Gang",
+      "deezerTitle": "Celebration"
+    }
+  },
+  {
+    "rank": 60,
+    "artist": "Rex Gildo",
+    "title": "Wenn ich je deine Liebe verlier",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1415410532",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/e/0/3be48f67981f3592d05bc92fd069233f.mp3?hdnea=exp=1732456625~acl=/api/1/1/3/b/e/0/3be48f67981f3592d05bc92fd069233f.mp3*~data=user_id=0,application_id=42~hmac=449d09e4b3e812d638846874406c5e31eb3284711c0dc356e05e3f9bf68bf545",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/a8fae9bd0640dca2d5f7f38802990486/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rex Gildo",
+      "deezerTitle": "Du, wenn ich je deine Liebe verlier'"
+    }
+  },
+  {
+    "rank": 61,
+    "artist": "G.G. Anderson",
+    "title": "Mama Lorraine",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/103235370",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/8/0/57836df569fbb3c4897a36067b32b838.mp3?hdnea=exp=1732456627~acl=/api/1/1/5/7/8/0/57836df569fbb3c4897a36067b32b838.mp3*~data=user_id=0,application_id=42~hmac=eacb0211cbbfe61170d77c70daae8c1009b47267310c33e6909c3107683d6b00",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/d148df213f316d496445036919aeaef0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "G.G. Anderson",
+      "deezerTitle": "Mama Lorraine"
+    }
+  },
+  {
+    "rank": 62,
+    "artist": "Shakin' Stevens",
+    "title": "Green Door",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1132667122",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/c/0/7bc15485cc59ca9fd50760c2dabbce94.mp3?hdnea=exp=1732456629~acl=/api/1/1/7/b/c/0/7bc15485cc59ca9fd50760c2dabbce94.mp3*~data=user_id=0,application_id=42~hmac=023477b4855a8af5bbe08d3c44b4caefa14fcf881fdb0b2c2c5bb000551efc5c",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "Green Door"
+    }
+  },
+  {
+    "rank": 63,
+    "artist": "Visage",
+    "title": "Mind Of A Toy",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/2285083",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/c/0/4ac1a4a5490cf0a699317284dd309c38.mp3?hdnea=exp=1732456631~acl=/api/1/1/4/a/c/0/4ac1a4a5490cf0a699317284dd309c38.mp3*~data=user_id=0,application_id=42~hmac=b4e3264c31eb66ee670ca113afb263f8fe6b9ca87cc3d63c994496d9728e4c62",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/781c39ede94bbc40ae3b2744b3673ae5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Visage",
+      "deezerTitle": "Mind Of A Toy"
+    }
+  },
+  {
+    "rank": 64,
+    "artist": "Ultravox",
+    "title": "Vienna",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1787693427",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/f/0/c7f5be12bc51a1ef2fcbe63c1a5f325b.mp3?hdnea=exp=1732456634~acl=/api/1/1/c/7/f/0/c7f5be12bc51a1ef2fcbe63c1a5f325b.mp3*~data=user_id=0,application_id=42~hmac=b728d3970cac6088c168a8ac8aea547c9b7e9d60dca9e41577bb9bcc3e7a03ad",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/021d5ee3fc37bf7137dc0d75832f8e23/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ultravox",
+      "deezerTitle": "Vienna"
+    }
+  },
+  {
+    "rank": 65,
+    "artist": "Howard Carpendale",
+    "title": "Wem",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/780614812",
+      "preview": "https://cdn-preview-d.dzcdn.net/stream/c-d1e296c844ec48fa220593ef9c7905f5-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/361c0c6d9333820e04829e8bdbf96d77/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Howard Carpendale",
+      "deezerTitle": "Wem..."
+    }
+  },
+  {
+    "rank": 66,
+    "artist": "Leo Sayer",
+    "title": "More Than I Can Say",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/62820813",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/f/0/e6fdb7af49cb239f549ffce22e5f0519.mp3?hdnea=exp=1732456638~acl=/api/1/1/e/6/f/0/e6fdb7af49cb239f549ffce22e5f0519.mp3*~data=user_id=0,application_id=42~hmac=b868399ab808f2ca4cb55f59441e2ede84aa5e3138c55ee9caae3023614d17a4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f28f88eb1c44824057caf8699deb4ea0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Leo Sayer",
+      "deezerTitle": "More Than I Can Say"
+    }
+  },
+  {
+    "rank": 67,
+    "artist": "Grace Jones",
+    "title": "I've Seen That Face Before (Libertango)",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/1117193",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/3/0/6c311a658d14ed658218e1e4c037e2da.mp3?hdnea=exp=1732456640~acl=/api/1/1/6/c/3/0/6c311a658d14ed658218e1e4c037e2da.mp3*~data=user_id=0,application_id=42~hmac=f4a6002dde391590f750e6338e125bc6a1c960b4f1d478cb26f80f1d88b2562f",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9ae532be97f739fd49585bf660b9b414/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Grace Jones",
+      "deezerTitle": "I've Seen That Face Before (Libertango)"
+    }
+  },
+  {
+    "rank": 68,
+    "artist": "Aneka",
+    "title": "Japanese Boy",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/6162649",
+      "preview": "https://cdn-preview-2.dzcdn.net/stream/c-21d97ac30948308ddb55ceb8b2d2745f-4.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1bdd14f2a7aaf8948b1a58e3f99f8a53/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Aneka",
+      "deezerTitle": "Japanese Boy"
+    }
+  },
+  {
+    "rank": 69,
+    "artist": "Roland Kaiser",
+    "title": "Dich zu lieben",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/64949074",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/40203fa7a5fbb65ce73c5c275b9ad507.mp3?hdnea=exp=1732456644~acl=/api/1/1/4/0/2/0/40203fa7a5fbb65ce73c5c275b9ad507.mp3*~data=user_id=0,application_id=42~hmac=e9be9bf842fbd0f0aaf2758f57a4dabc9c6699ef1651075e60f50c5979bfb6d4",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2eb49d61c939b7ba47a0fa900bc754f1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roland Kaiser",
+      "deezerTitle": "Dich zu lieben"
+    }
+  },
+  {
+    "rank": 70,
+    "artist": "Doris D And The Pins",
+    "title": "Shine Up",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/10768581",
+      "preview": "https://cdn-preview-3.dzcdn.net/stream/c-397bbfda49823df576a3f1cabf6edb6a-3.mp3",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/b06f5a33db6f6edd5ad4dfc142bdd565/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Doris D.",
+      "deezerTitle": "Shine Up"
+    }
+  },
+  {
+    "rank": 71,
+    "artist": "Queen",
+    "title": "Another One Bites The Dust",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/12206946",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/4/0/3e49a6a7252db65362160dfe7b379c67.mp3?hdnea=exp=1732456649~acl=/api/1/1/3/e/4/0/3e49a6a7252db65362160dfe7b379c67.mp3*~data=user_id=0,application_id=42~hmac=777c9fe356313b70dc188e3e6c71fe5e566acf8d634c9f5b9ae73182a7d64fb6",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9a20f8b2547cbb74635539c219de3a84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Queen",
+      "deezerTitle": "Another One Bites The Dust"
+    }
+  },
+  {
+    "rank": 72,
+    "artist": "REO Speedwagon",
+    "title": "Keep On Loving You",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/581979",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/f/0/faf5477f2853b610c1cbdd339aa405a9.mp3?hdnea=exp=1732456651~acl=/api/1/1/f/a/f/0/faf5477f2853b610c1cbdd339aa405a9.mp3*~data=user_id=0,application_id=42~hmac=61e5ea19833c5a3e3a4231b3150d1c90884a4545fcec1129d1761fc0fded47a1",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9425493d82c7ee7f31a9c97c32041182/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "REO Speedwagon",
+      "deezerTitle": "Keep on Loving You"
+    }
+  },
+  {
+    "rank": 73,
+    "artist": "Roxy Music",
+    "title": "Jealous Guy",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3088610",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/e/0/30ee4d2a80ffd18ea07c4b001f8b41da.mp3?hdnea=exp=1732456653~acl=/api/1/1/3/0/e/0/30ee4d2a80ffd18ea07c4b001f8b41da.mp3*~data=user_id=0,application_id=42~hmac=791f3027a58fd4de8a17ecbed07576f6af7382ad1473f4e9915684c6f508199e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/76f8c831acade571ced85f9260e916ac/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roxy Music",
+      "deezerTitle": "Jealous Guy"
+    }
+  },
+  {
+    "rank": 74,
+    "artist": "Sheena Easton",
+    "title": "For Your Eyes Only",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/3363581",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/7/0/2f75aa06ff12176cc6a8e672a506322e.mp3?hdnea=exp=1732456655~acl=/api/1/1/2/f/7/0/2f75aa06ff12176cc6a8e672a506322e.mp3*~data=user_id=0,application_id=42~hmac=b4c182bacda01ea24e683cb5935dda548834446301debaedb6212d5d1596b98e",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/eba81865bbb686d44ef8ad0a1277f08c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sheena Easton",
+      "deezerTitle": "For Your Eyes Only"
+    }
+  },
+  {
+    "rank": 75,
+    "artist": "Blondie",
+    "title": "The Tide Is High",
+    "deezer": {
+      "deezerLink": "https://www.deezer.com/track/13569204",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/8/0/8e85892b09919411674c15777312e6b1.mp3?hdnea=exp=1732456657~acl=/api/1/1/8/e/8/0/8e85892b09919411674c15777312e6b1.mp3*~data=user_id=0,application_id=42~hmac=4b4ac007b0258f01c8b567324e4afe84bb8580acedec4144acede7bc61ac3e86",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/def8084221498b886f9dc105121dbc3d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Blondie",
+      "deezerTitle": "The Tide Is High"
+    }
+  }
+]

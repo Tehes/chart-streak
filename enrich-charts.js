@@ -115,10 +115,12 @@ function isRemix(originalTitle, deezerTitle) {
     return !includesRemix(originalTitle) && includesRemix(deezerTitle);
 }
 
-// Funktion zur Überprüfung, ob ein Titel "Instrumental" enthält
-function isInstrumental(title) {
+function shouldExcludeTitle(title) {
     const normalizedTitle = title.toLowerCase().trim();
-    return normalizedTitle.includes("instrumental");
+    return (
+        normalizedTitle.includes("instrumental") ||
+        normalizedTitle.includes("medley")
+    );
 }
 
 // Deezer-Suche
@@ -145,7 +147,7 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
                     isArtistNameSimilar(deezerArtist, cleanedArtist) &&
                     isTitleSimilar(result.title_short, cleanedTitle) &&
                     !isRemix(cleanedTitle, result.title) &&
-                    !isInstrumental(result.title)
+                    !shouldExcludeTitle(result.title)
                 ) {
                     await new Promise(resolve => setTimeout(resolve, 2000)); // API-Limit
                     return {
@@ -230,4 +232,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1978, 1990).catch(console.error);
+enrichAllYears(1991, 2000).catch(console.error);

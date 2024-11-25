@@ -78,49 +78,47 @@ function isArtistNameSimilar(deezerArtist, cleanedArtist) {
 // Vergleicht, ob Teile des bereinigten Titels im Deezer-Titel enthalten sind.
 function isTitleSimilar(deezerTitle, cleanedTitle) {
     const normalize = str => str
+        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
         .replace(/'/g, "") // Entferne einfache Apostrophe
         .replace(/’/g, "") // Entferne typografische Apostrophe
         .replace(/\./g, "") // Entferne Punkte
         .replace(/-/g, " ") // Ersetze Bindestriche durch Leerzeichen
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
         .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "") // Entferne alle Interpunktionszeichen
+        .replace(/ß/g, "ss")
+        .replace(/ö/g, "oe")
+        .replace(/ä/g, "ae")
+        .replace(/ü/g, "ue")
+        .replace(/\b(the|and|a|an|und|mit|von)\b/gi, "") // Entferne Stopwörter
         .trim()
         .toLowerCase();
 
     const deezerTitleNormalized = normalize(deezerTitle);
     const cleanedTitleNormalized = normalize(cleanedTitle);
 
-    // Direkter Vergleich
-    if (
-        deezerTitleNormalized.includes(cleanedTitleNormalized) ||
-        cleanedTitleNormalized.includes(deezerTitleNormalized)
-    ) {
-        return true;
-    }
+    const deezerWords = deezerTitleNormalized.split(/\s+/);
+    const cleanedWords = cleanedTitleNormalized.split(/\s+/);
 
-    // Prüfe Varianten für "and", "und", "&", "'N'"
-    const titleParts = cleanedTitleNormalized.split(/\s+/); // Zerlege in einzelne Worte
-    const titleVariations = titleParts.map(part => [
-        part,
-        part.replace(/\band\b/g, "&"), // "and" -> "&"
-        part.replace(/\bund\b/g, "&"), // "und" -> "&"
-        part.replace(/&/g, "and"),     // "&" -> "and"
-        part.replace(/&/g, "und"),      // "&" -> "und"
-        part.replace(/\b'N\b/g, "&"),     // "'N'" -> "&"
-        part.replace(/\b'N\b/g, "and"),   // "'N'" -> "and"
-        part.replace(/\b'N\b/g, "und"),   // "'N'" -> "und"
-        part.replace(/\b'n\b/g, "&"),     // "'n'" -> "&"
-        part.replace(/\b'n\b/g, "and"),   // "'n'" -> "and"
-        part.replace(/\b'n\b/g, "und")    // "'n'" -> "und"
-    ]).flat(); // Flache Liste aller Varianten
+    // Berechnung der Übereinstimmung
+    const matchingWords = cleanedWords.filter(word => deezerWords.includes(word));
+    const matchPercentage = (matchingWords.length / cleanedWords.length) * 100;
 
-    // Überprüfe jede Variante auf Ähnlichkeit
-    return titleVariations.some(variation => deezerTitleNormalized.includes(variation));
+    // Dynamischer Schwellenwert: Kürzere Titel erlauben geringere Übereinstimmung
+    const threshold = cleanedWords.length <= 3 ? 50 : 70;
+
+    return matchPercentage >= threshold;
 }
 
 // Funktion zur Überprüfung, ob ein Titel "Remix" enthält
-function isRemix(title) {
-    return title.toLowerCase().includes("remix");
+function isRemix(originalTitle, deezerTitle) {
+    const includesRemix = str => str.toLowerCase().includes("remix");
+    return !includesRemix(originalTitle) && includesRemix(deezerTitle);
+}
+
+// Funktion zur Überprüfung, ob ein Titel "Instrumental" enthält
+function isInstrumental(title) {
+    const normalizedTitle = title.toLowerCase().trim();
+    return normalizedTitle.includes("instrumental");
 }
 
 // Deezer-Suche
@@ -146,7 +144,8 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
                 if (
                     isArtistNameSimilar(deezerArtist, cleanedArtist) &&
                     isTitleSimilar(result.title_short, cleanedTitle) &&
-                    !isRemix(result.title)
+                    !isRemix(cleanedTitle, result.title) &&
+                    !isInstrumental(result.title)
                 ) {
                     await new Promise(resolve => setTimeout(resolve, 2000)); // API-Limit
                     return {
@@ -231,4 +230,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1978, 1978).catch(console.error);
+enrichAllYears(1978, 1990).catch(console.error);

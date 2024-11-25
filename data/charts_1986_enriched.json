@@ -1,0 +1,895 @@
+[
+  {
+    "rank": 1,
+    "artist": "Falco",
+    "title": "Jeanny Part I",
+    "deezer": {
+      "deezerID": 686916,
+      "deezerLink": "https://www.deezer.com/track/686916",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1be5bd48b8f61e509f2589f1b7e4fef8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Falco",
+      "deezerTitle": "Jeanny Part I"
+    }
+  },
+  {
+    "rank": 2,
+    "artist": "Chris Norman",
+    "title": "Midnight Lady",
+    "deezer": {
+      "deezerID": 61695090,
+      "deezerLink": "https://www.deezer.com/track/61695090",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b55093ef263b7f47cfb758d071fb12ab/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chris Norman",
+      "deezerTitle": "Midnight Lady"
+    }
+  },
+  {
+    "rank": 3,
+    "artist": "Level 42",
+    "title": "Lessons In Love",
+    "deezer": {
+      "deezerID": 92871830,
+      "deezerLink": "https://www.deezer.com/track/92871830",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39ee4496f18ff7bb16a3c6dce58a57db/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Level 42",
+      "deezerTitle": "Lessons In Love"
+    }
+  },
+  {
+    "rank": 4,
+    "artist": "Münchener Freiheit",
+    "title": "Ohne dich (schlaf ich heut Nacht nicht ein)",
+    "deezer": {
+      "deezerID": 630374,
+      "deezerLink": "https://www.deezer.com/track/630374",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0193a450141cb93e7947afe506c91133/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Münchener Freiheit",
+      "deezerTitle": "Ohne Dich (schlaf' ich heut Nacht nicht ein)"
+    }
+  },
+  {
+    "rank": 5,
+    "artist": "M.C. Miker 'G' & Deejay Sven",
+    "title": "Holiday Rap",
+    "deezer": {
+      "deezerID": 73645551,
+      "deezerLink": "https://www.deezer.com/track/73645551",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/21fc4c6433debc4fb4481eb92bddef3c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "MC MIKER G & DEEJAY SVEN",
+      "deezerTitle": "Holiday Rap"
+    }
+  },
+  {
+    "rank": 6,
+    "artist": "Sam Cooke",
+    "title": "Wonderful World",
+    "deezer": {
+      "deezerID": 2689687,
+      "deezerLink": "https://www.deezer.com/track/2689687",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd9d1aeabc4eade0c2c779aff609b4ad/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sam Cooke",
+      "deezerTitle": "Wonderful World"
+    }
+  },
+  {
+    "rank": 7,
+    "artist": "Samantha Fox",
+    "title": "Touch Me (I Want Your Body)",
+    "deezer": {
+      "deezerID": 601886,
+      "deezerLink": "https://www.deezer.com/track/601886",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ba10e64d73935f753e53141f06c2efe/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samantha Fox",
+      "deezerTitle": "Touch Me (I Want Your Body)"
+    }
+  },
+  {
+    "rank": 8,
+    "artist": "Bruce & Bongo",
+    "title": "Geil",
+    "deezer": {
+      "deezerID": 128947020,
+      "deezerLink": "https://www.deezer.com/track/128947020",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0a5de4e47c921ea24a87e036e8846b3c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bruce & Bongo",
+      "deezerTitle": "Geil"
+    }
+  },
+  {
+    "rank": 9,
+    "artist": "Europe",
+    "title": "The Final Countdown",
+    "deezer": {
+      "deezerID": 619310,
+      "deezerLink": "https://www.deezer.com/track/619310",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/da44873bbb18e25f946863209fcbbbe0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Europe",
+      "deezerTitle": "The Final Countdown"
+    }
+  },
+  {
+    "rank": 10,
+    "artist": "Bananarama",
+    "title": "Venus",
+    "deezer": {
+      "deezerID": 421388682,
+      "deezerLink": "https://www.deezer.com/track/421388682",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb91386979aeac25773fab2a3779abd9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bananarama",
+      "deezerTitle": "Venus"
+    }
+  },
+  {
+    "rank": 11,
+    "artist": "Modern Talking",
+    "title": "Atlantis Is Calling (S.O.S. For Love)",
+    "deezer": {
+      "deezerID": 374123511,
+      "deezerLink": "https://www.deezer.com/track/374123511",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8861de03edc42a17ba31d38e1fffc268/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Modern Talking",
+      "deezerTitle": "Atlantis Is Calling"
+    }
+  },
+  {
+    "rank": 12,
+    "artist": "Elton John",
+    "title": "Nikita",
+    "deezer": {
+      "deezerID": 1146286,
+      "deezerLink": "https://www.deezer.com/track/1146286",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/255444f7eb6ad95d948fc099ed1d66dd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Elton John",
+      "deezerTitle": "Nikita"
+    }
+  },
+  {
+    "rank": 13,
+    "artist": "Pet Shop Boys",
+    "title": "West End Girls",
+    "deezer": {
+      "deezerID": 462775272,
+      "deezerLink": "https://www.deezer.com/track/462775272",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2fe9c9aa95c17d4f8f773fc16f9e012d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Pet Shop Boys",
+      "deezerTitle": "West End Girls"
+    }
+  },
+  {
+    "rank": 14,
+    "artist": "Modern Talking",
+    "title": "Brother Louie",
+    "deezer": {
+      "deezerID": 548510,
+      "deezerLink": "https://www.deezer.com/track/548510",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f5ab7814eda8bdbab33e9bb6941655f3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Modern Talking",
+      "deezerTitle": "Brother Louie"
+    }
+  },
+  {
+    "rank": 15,
+    "artist": "Frankie Goes To Hollywood",
+    "title": "Rage Hard",
+    "deezer": {
+      "deezerID": 478187282,
+      "deezerLink": "https://www.deezer.com/track/478187282",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9018f220ced04dae64945dd99d6e0ded/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frankie Goes to Hollywood",
+      "deezerTitle": "Rage Hard"
+    }
+  },
+  {
+    "rank": 16,
+    "artist": "Billy Ocean",
+    "title": "When The Going Gets Tough, The Tough Get Going",
+    "deezer": {
+      "deezerID": 6071028,
+      "deezerLink": "https://www.deezer.com/track/6071028",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8ba46c9d4354710600f14508eaa76d8d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Billy Ocean",
+      "deezerTitle": "When the Going Gets Tough, The Tough Get Going"
+    }
+  },
+  {
+    "rank": 17,
+    "artist": "Stéphanie",
+    "title": "Irresistible",
+    "deezer": {
+      "deezerID": 745829982,
+      "deezerLink": "https://www.deezer.com/track/745829982",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6e51fb407199d5626f76fdfe799a655/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Stéphanie",
+      "deezerTitle": "Irresistible"
+    }
+  },
+  {
+    "rank": 18,
+    "artist": "Madonna",
+    "title": "Papa Don't Preach",
+    "deezer": {
+      "deezerID": 4209660,
+      "deezerLink": "https://www.deezer.com/track/4209660",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/195d3d2c1196b20711cfb6ad76e1c2ba/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Madonna",
+      "deezerTitle": "Papa Don't Preach"
+    }
+  },
+  {
+    "rank": 19,
+    "artist": "Animotion",
+    "title": "I Engineer",
+    "deezer": {
+      "deezerID": 1758952397,
+      "deezerLink": "https://www.deezer.com/track/1758952397",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1757a69297bb0f8fc84ef8ec223f11c6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Animotion",
+      "deezerTitle": "I Engineer"
+    }
+  },
+  {
+    "rank": 20,
+    "artist": "Peter Gabriel",
+    "title": "Sledgehammer",
+    "deezer": {
+      "deezerID": 540503442,
+      "deezerLink": "https://www.deezer.com/track/540503442",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5f6501830e0fd1309550d25dd2056c18/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Gabriel",
+      "deezerTitle": "Sledgehammer"
+    }
+  },
+  {
+    "rank": 21,
+    "artist": "Sheila E.",
+    "title": "A Love Bizarre",
+    "deezer": {
+      "deezerID": 678356,
+      "deezerLink": "https://www.deezer.com/track/678356",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/25920fbb1493d2aa026f8c8bba3e16f2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sheila E.",
+      "deezerTitle": "A Love Bizarre"
+    }
+  },
+  {
+    "rank": 22,
+    "artist": "Bangles",
+    "title": "Manic Monday",
+    "deezer": {
+      "deezerID": 608749,
+      "deezerLink": "https://www.deezer.com/track/608749",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/938d17e5a07d6178bcabbe2349a79ba0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Bangles",
+      "deezerTitle": "Manic Monday"
+    }
+  },
+  {
+    "rank": 23,
+    "artist": "Nu Shooz",
+    "title": "I Can't Wait",
+    "deezer": {
+      "deezerID": 644342542,
+      "deezerLink": "https://www.deezer.com/track/644342542",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c87d6ff3f7852025516ad46140084cc/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nu Shooz",
+      "deezerTitle": "I Can't Wait"
+    }
+  },
+  {
+    "rank": 24,
+    "artist": "Queen",
+    "title": "A Kind Of Magic",
+    "deezer": {
+      "deezerID": 13499039,
+      "deezerLink": "https://www.deezer.com/track/13499039",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Queen",
+      "deezerTitle": "A Kind Of Magic"
+    }
+  },
+  {
+    "rank": 25,
+    "artist": "The Human League",
+    "title": "Being Boiled",
+    "deezer": {
+      "deezerID": 3092890,
+      "deezerLink": "https://www.deezer.com/track/3092890",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/063bac5d2a91d9ca44a40fc9a550692c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Human League",
+      "deezerTitle": "Being Boiled"
+    }
+  },
+  {
+    "rank": 26,
+    "artist": "Sandra",
+    "title": "In The Heat Of The Night",
+    "deezer": {
+      "deezerID": 3092549,
+      "deezerLink": "https://www.deezer.com/track/3092549",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9bb20f386c104a7de06379e8637d726c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sandra",
+      "deezerTitle": "In The Heat Of The Night"
+    }
+  },
+  {
+    "rank": 27,
+    "artist": "Falco",
+    "title": "The Sound Of Musik",
+    "deezer": {
+      "deezerID": 6469183,
+      "deezerLink": "https://www.deezer.com/track/6469183",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/423cdfaf506ad5f660f3c3dcbecbb69b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Falco",
+      "deezerTitle": "The Sound of Musik"
+    }
+  },
+  {
+    "rank": 28,
+    "artist": "Prince & The Revolution",
+    "title": "Kiss",
+    "deezer": {
+      "deezerID": 664178,
+      "deezerLink": "https://www.deezer.com/track/664178",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6488e3e2ba3121f6e5c0b06a82c4effe/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Prince",
+      "deezerTitle": "Kiss"
+    }
+  },
+  {
+    "rank": 29,
+    "artist": "Cock Robin",
+    "title": "The Promise You Made",
+    "deezer": {
+      "deezerID": 895054,
+      "deezerLink": "https://www.deezer.com/track/895054",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39456997ce1001dc76d76568fc75377f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Cock Robin",
+      "deezerTitle": "The Promise You Made"
+    }
+  },
+  {
+    "rank": 30,
+    "artist": "Survivor",
+    "title": "Burning Heart",
+    "deezer": {
+      "deezerID": 576423,
+      "deezerLink": "https://www.deezer.com/track/576423",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e66b5d3a40f69690c1633afb73cc590c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Survivor",
+      "deezerTitle": "Burning Heart"
+    }
+  },
+  {
+    "rank": 31,
+    "artist": "Mike Oldfield",
+    "title": "Pictures In The Dark"
+  },
+  {
+    "rank": 32,
+    "artist": "Bronski Beat",
+    "title": "Hit That Perfect Beat",
+    "deezer": {
+      "deezerID": 428692132,
+      "deezerLink": "https://www.deezer.com/track/428692132",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2d9f46f60ab7bdc1699c140e685d9868/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bronski Beat",
+      "deezerTitle": "Hit That Perfect Beat"
+    }
+  },
+  {
+    "rank": 33,
+    "artist": "Wham!",
+    "title": "The Edge Of Heaven",
+    "deezer": {
+      "deezerID": 14525094,
+      "deezerLink": "https://www.deezer.com/track/14525094",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Wham!",
+      "deezerTitle": "The Edge of Heaven"
+    }
+  },
+  {
+    "rank": 34,
+    "artist": "a-ha",
+    "title": "Take On Me",
+    "deezer": {
+      "deezerID": 664107,
+      "deezerLink": "https://www.deezer.com/track/664107",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "a-ha",
+      "deezerTitle": "Take on Me"
+    }
+  },
+  {
+    "rank": 35,
+    "artist": "Hubert Kah",
+    "title": "Limousine",
+    "deezer": {
+      "deezerID": 81760068,
+      "deezerLink": "https://www.deezer.com/track/81760068",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bd0275e9137ebf859387741c8b611472/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Hubert Kah",
+      "deezerTitle": "Limousine"
+    }
+  },
+  {
+    "rank": 36,
+    "artist": "Falco",
+    "title": "Coming Home (Jeanny Part 2, ein Jahr danach)",
+    "deezer": {
+      "deezerID": 6469180,
+      "deezerLink": "https://www.deezer.com/track/6469180",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/423cdfaf506ad5f660f3c3dcbecbb69b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Falco",
+      "deezerTitle": "Coming Home"
+    }
+  },
+  {
+    "rank": 37,
+    "artist": "Tina Turner",
+    "title": "Typical Male",
+    "deezer": {
+      "deezerID": 3120280,
+      "deezerLink": "https://www.deezer.com/track/3120280",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7b5022390f35e035d14edd5e0d6cfb92/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tina Turner",
+      "deezerTitle": "Typical Male"
+    }
+  },
+  {
+    "rank": 38,
+    "artist": "Jennifer Rush",
+    "title": "Destiny",
+    "deezer": {
+      "deezerID": 8238050,
+      "deezerLink": "https://www.deezer.com/track/8238050",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/835d1c426b71bfb162bd4e3727286d31/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Jennifer Rush",
+      "deezerTitle": "Destiny"
+    }
+  },
+  {
+    "rank": 39,
+    "artist": "a-ha",
+    "title": "The Sun Always Shines On T.V.",
+    "deezer": {
+      "deezerID": 412539632,
+      "deezerLink": "https://www.deezer.com/track/412539632",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/17a72bef8b06d425c5a5087956a1cfbd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "a-ha",
+      "deezerTitle": "The Sun Always Shines On TV"
+    }
+  },
+  {
+    "rank": 40,
+    "artist": "Miami Sound Machine",
+    "title": "Bad Boy",
+    "deezer": {
+      "deezerID": 9437107,
+      "deezerLink": "https://www.deezer.com/track/9437107",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f6f13b49be07389f4875afc34347a4c5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Miami Sound Machine",
+      "deezerTitle": "Bad Boy"
+    }
+  },
+  {
+    "rank": 41,
+    "artist": "Feargal Sharkey",
+    "title": "A Good Heart",
+    "deezer": {
+      "deezerID": 3156940,
+      "deezerLink": "https://www.deezer.com/track/3156940",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36897e961100789e53a09643b3dc4a33/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Feargal Sharkey",
+      "deezerTitle": "A Good Heart"
+    }
+  },
+  {
+    "rank": 42,
+    "artist": "Grace Jones",
+    "title": "Slave To The Rhythm",
+    "deezer": {
+      "deezerID": 2960647,
+      "deezerLink": "https://www.deezer.com/track/2960647",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa5f986de7f585955f15a753f6e9ed2f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Grace Jones",
+      "deezerTitle": "Slave To The Rhythm"
+    }
+  },
+  {
+    "rank": 43,
+    "artist": "Berlin",
+    "title": "Take My Breath Away",
+    "deezer": {
+      "deezerID": 7675055,
+      "deezerLink": "https://www.deezer.com/track/7675055",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/021a1143e9f19493379b8cf01fa1c7c5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Berlin",
+      "deezerTitle": "Take My Breath Away"
+    }
+  },
+  {
+    "rank": 44,
+    "artist": "Johnny Nash",
+    "title": "Rock Me Baby",
+    "deezer": {
+      "deezerID": 3006369871,
+      "deezerLink": "https://www.deezer.com/track/3006369871",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/201cc47ebb0b1828f4fcdee7fe12ad06/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Johnny Nash",
+      "deezerTitle": "Rock Me Baby"
+    }
+  },
+  {
+    "rank": 45,
+    "artist": "Trio Rio",
+    "title": "New York - Rio - Tokyo",
+    "deezer": {
+      "deezerID": 2198592,
+      "deezerLink": "https://www.deezer.com/track/2198592",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6936cc899746f67e9465864fbdd7a048/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Trio Rio",
+      "deezerTitle": "New York-Rio-Tokyo"
+    }
+  },
+  {
+    "rank": 46,
+    "artist": "Sigue Sigue Sputnik",
+    "title": "Love Missile F1-11",
+    "deezer": {
+      "deezerID": 3241756,
+      "deezerLink": "https://www.deezer.com/track/3241756",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8bf337b3f625565b9f61134d1faa0c81/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sigue Sigue Sputnik",
+      "deezerTitle": "Love Missile F1-11"
+    }
+  },
+  {
+    "rank": 47,
+    "artist": "Samantha Fox",
+    "title": "Do Ya Do Ya (Wanna Please Me)",
+    "deezer": {
+      "deezerID": 603026,
+      "deezerLink": "https://www.deezer.com/track/603026",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ba10e64d73935f753e53141f06c2efe/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samantha Fox",
+      "deezerTitle": "Do Ya Do Ya (Wanna Please Me)"
+    }
+  },
+  {
+    "rank": 48,
+    "artist": "Depeche Mode",
+    "title": "Stripped",
+    "deezer": {
+      "deezerID": 68515048,
+      "deezerLink": "https://www.deezer.com/track/68515048",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e73716d037ee24f1331a8c0332526590/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Depeche Mode",
+      "deezerTitle": "Stripped"
+    }
+  },
+  {
+    "rank": 49,
+    "artist": "Lionel Richie",
+    "title": "Say You, Say Me",
+    "deezer": {
+      "deezerID": 905697,
+      "deezerLink": "https://www.deezer.com/track/905697",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/856346cf571510544bd136b07743f8b9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Lionel Richie",
+      "deezerTitle": "Say You, Say Me"
+    }
+  },
+  {
+    "rank": 50,
+    "artist": "Sting",
+    "title": "Russians",
+    "deezer": {
+      "deezerID": 1140665,
+      "deezerLink": "https://www.deezer.com/track/1140665",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43216748bbeee4aa12f3e2407599a4ea/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sting",
+      "deezerTitle": "Russians"
+    }
+  },
+  {
+    "rank": 51,
+    "artist": "Van Halen",
+    "title": "Why Can't This Be Love",
+    "deezer": {
+      "deezerID": 3826810,
+      "deezerLink": "https://www.deezer.com/track/3826810",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/465140120c450f58b2c045205a6469bc/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Van Halen",
+      "deezerTitle": "Why Can't This Be Love"
+    }
+  },
+  {
+    "rank": 52,
+    "artist": "Diana Ross",
+    "title": "Chain Reaction",
+    "deezer": {
+      "deezerID": 3436849,
+      "deezerLink": "https://www.deezer.com/track/3436849",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/51a2ccad603ffd3bc626160a1ce93680/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Diana Ross",
+      "deezerTitle": "Chain Reaction"
+    }
+  },
+  {
+    "rank": 53,
+    "artist": "Münchener Freiheit",
+    "title": "Tausendmal du",
+    "deezer": {
+      "deezerID": 627690,
+      "deezerLink": "https://www.deezer.com/track/627690",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/78caa59f32f23112c1182ab52794fe12/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Münchener Freiheit",
+      "deezerTitle": "Tausendmal Du"
+    }
+  },
+  {
+    "rank": 54,
+    "artist": "Mr. Mister",
+    "title": "Kyrie",
+    "deezer": {
+      "deezerID": 15391704,
+      "deezerLink": "https://www.deezer.com/track/15391704",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a68a0febe6f24646658e52968b26a35c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mr. Mister",
+      "deezerTitle": "Kyrie"
+    }
+  },
+  {
+    "rank": 55,
+    "artist": "Chris De Burgh",
+    "title": "The Lady In Red",
+    "deezer": {
+      "deezerID": 1158202,
+      "deezerLink": "https://www.deezer.com/track/1158202",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4507359752a023d0d4e91370c779acd2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chris de Burgh",
+      "deezerTitle": "The Lady In Red"
+    }
+  },
+  {
+    "rank": 56,
+    "artist": "Erste Allgemeine Verunsicherung",
+    "title": "Ba Ba Banküberfall",
+    "deezer": {
+      "deezerID": 3444759,
+      "deezerLink": "https://www.deezer.com/track/3444759",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/42abb9fa6794f42f19663d796cca5e34/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "EAV",
+      "deezerTitle": "Ba-Ba Banküberfall"
+    }
+  },
+  {
+    "rank": 57,
+    "artist": "Mr. Mister",
+    "title": "Broken Wings",
+    "deezer": {
+      "deezerID": 15391705,
+      "deezerLink": "https://www.deezer.com/track/15391705",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a68a0febe6f24646658e52968b26a35c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mr. Mister",
+      "deezerTitle": "Broken Wings"
+    }
+  },
+  {
+    "rank": 58,
+    "artist": "a-ha",
+    "title": "Hunting High And Low",
+    "deezer": {
+      "deezerID": 664110,
+      "deezerLink": "https://www.deezer.com/track/664110",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "a-ha",
+      "deezerTitle": "Hunting High and Low"
+    }
+  },
+  {
+    "rank": 59,
+    "artist": "Depeche Mode",
+    "title": "A Question Of Lust",
+    "deezer": {
+      "deezerID": 68515049,
+      "deezerLink": "https://www.deezer.com/track/68515049",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e73716d037ee24f1331a8c0332526590/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Depeche Mode",
+      "deezerTitle": "A Question of Lust"
+    }
+  },
+  {
+    "rank": 60,
+    "artist": "Doctor & The Medics",
+    "title": "Spirit In The Sky",
+    "deezer": {
+      "deezerID": 2125288077,
+      "deezerLink": "https://www.deezer.com/track/2125288077",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0a1c39e70c9c0444717d3d12bcd6a319/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Doctor & The Medics",
+      "deezerTitle": "Spirit in the Sky"
+    }
+  },
+  {
+    "rank": 61,
+    "artist": "Stan Ridgway",
+    "title": "Camouflage",
+    "deezer": {
+      "deezerID": 3263247,
+      "deezerLink": "https://www.deezer.com/track/3263247",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c45ed3e9de73d2635974c8dac24a1bf/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Stan Ridgway",
+      "deezerTitle": "Camouflage"
+    }
+  },
+  {
+    "rank": 62,
+    "artist": "The Human League",
+    "title": "Human",
+    "deezer": {
+      "deezerID": 67547365,
+      "deezerLink": "https://www.deezer.com/track/67547365",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7be630be64f0b0b2ba513615b5b07088/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Human League",
+      "deezerTitle": "Human"
+    }
+  },
+  {
+    "rank": 63,
+    "artist": "Matia Bazar",
+    "title": "Ti sento",
+    "deezer": {
+      "deezerID": 18111574,
+      "deezerLink": "https://www.deezer.com/track/18111574",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/311a4acc81f76ded3c2701a68608e7af/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Matia Bazar",
+      "deezerTitle": "Ti Sento"
+    }
+  },
+  {
+    "rank": 64,
+    "artist": "Marietta",
+    "title": "Fire And Ice",
+    "deezer": {
+      "deezerID": 139926537,
+      "deezerLink": "https://www.deezer.com/track/139926537",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cdb8b357c855fdaf7290e1eea9c11ec4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Marietta",
+      "deezerTitle": "Fire and Ice"
+    }
+  },
+  {
+    "rank": 65,
+    "artist": "Mike & The Mechanics",
+    "title": "Silent Running (On Dangerous Ground)",
+    "deezer": {
+      "deezerID": 140525671,
+      "deezerLink": "https://www.deezer.com/track/140525671",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/750f280a944598f08ee42dcd7aff91f8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mike + The Mechanics",
+      "deezerTitle": "Silent Running"
+    }
+  },
+  {
+    "rank": 66,
+    "artist": "Heinz Rudolf Kunze",
+    "title": "Dein ist mein ganzes Herz",
+    "deezer": {
+      "deezerID": 699130,
+      "deezerLink": "https://www.deezer.com/track/699130",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/982e39db2592c0b53de8b4923d67aaa9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Heinz Rudolf Kunze",
+      "deezerTitle": "Dein ist mein ganzes Herz"
+    }
+  },
+  {
+    "rank": 67,
+    "artist": "C.C. Catch",
+    "title": "Strangers By Night",
+    "deezer": {
+      "deezerID": 61504410,
+      "deezerLink": "https://www.deezer.com/track/61504410",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/50eb990fddbe6fbc44c174e613dfee4c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "C.C. Catch",
+      "deezerTitle": "Strangers by Night"
+    }
+  },
+  {
+    "rank": 68,
+    "artist": "The Real Thing",
+    "title": "You To Me Are Everything (The Decade Remix 76-86)",
+    "deezer": {
+      "deezerID": 131212852,
+      "deezerLink": "https://www.deezer.com/track/131212852",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/60b94f7b8b7094cc606f22c6e407c54c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Real Thing",
+      "deezerTitle": "You To Me Are Everything"
+    }
+  },
+  {
+    "rank": 69,
+    "artist": "C.C. Catch",
+    "title": "'Cause You Are Young",
+    "deezer": {
+      "deezerID": 61504406,
+      "deezerLink": "https://www.deezer.com/track/61504406",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/50eb990fddbe6fbc44c174e613dfee4c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "C.C. Catch",
+      "deezerTitle": "Cause You Are Young"
+    }
+  },
+  {
+    "rank": 70,
+    "artist": "Depeche Mode",
+    "title": "A Question Of Time",
+    "deezer": {
+      "deezerID": 1441425652,
+      "deezerLink": "https://www.deezer.com/track/1441425652",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ac00f6338d900524c14fce148b70675b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Depeche Mode",
+      "deezerTitle": "A Question of Time"
+    }
+  },
+  {
+    "rank": 71,
+    "artist": "Communards with Sarah Jane Morris",
+    "title": "Don't Leave Me This Way",
+    "deezer": {
+      "deezerID": 428735742,
+      "deezerLink": "https://www.deezer.com/track/428735742",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ffbbe6dfa1ff0d6ff551379a496b8f85/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Communards",
+      "deezerTitle": "Don't Leave Me This Way (with Sarah Jane Morris)"
+    }
+  },
+  {
+    "rank": 72,
+    "artist": "George Michael",
+    "title": "A Different Corner",
+    "deezer": {
+      "deezerID": 10392083,
+      "deezerLink": "https://www.deezer.com/track/10392083",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "George Michael",
+      "deezerTitle": "A Different Corner"
+    }
+  },
+  {
+    "rank": 73,
+    "artist": "David Bowie",
+    "title": "Absolute Beginners",
+    "deezer": {
+      "deezerID": 3108557,
+      "deezerLink": "https://www.deezer.com/track/3108557",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9fc38d7417ce6169decba081e374dbd6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "David Bowie",
+      "deezerTitle": "Absolute Beginners"
+    }
+  },
+  {
+    "rank": 74,
+    "artist": "Madonna",
+    "title": "Live To Tell",
+    "deezer": {
+      "deezerID": 678369,
+      "deezerLink": "https://www.deezer.com/track/678369",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43a8e2b1b035391f58b0927cf1040bc4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Madonna",
+      "deezerTitle": "Live to Tell"
+    }
+  },
+  {
+    "rank": 75,
+    "artist": "Karel Gott und Darinka",
+    "title": "Fang das Licht",
+    "deezer": {
+      "deezerID": 2186121,
+      "deezerLink": "https://www.deezer.com/track/2186121",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d12460b82b393418cfedf5c75d5a4f8c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Karel Gott",
+      "deezerTitle": "Fang das Licht"
+    }
+  }
+]

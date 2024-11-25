@@ -1,0 +1,881 @@
+[
+  {
+    "rank": 1,
+    "artist": "OMD (Orchestral Manoeuvres In The Dark)",
+    "title": "Maid Of Orleans (The Waltz Joan Of Arc)"
+  },
+  {
+    "rank": 2,
+    "artist": "Spider Murphy Gang",
+    "title": "Skandal im Sperrbezirk",
+    "deezer": {
+      "deezerID": 3123329,
+      "deezerLink": "https://www.deezer.com/track/3123329",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ba80f264e3b7c2426e409399d3c22f84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Spider Murphy Gang",
+      "deezerTitle": "Skandal im Sperrbezirk"
+    }
+  },
+  {
+    "rank": 3,
+    "artist": "Al Bano & Romina Power",
+    "title": "Felicità",
+    "deezer": {
+      "deezerID": 1005379,
+      "deezerLink": "https://www.deezer.com/track/1005379",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd274040f1c627d9237cdb98d0b49f78/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Al Bano & Romina Power",
+      "deezerTitle": "Felicità"
+    }
+  },
+  {
+    "rank": 4,
+    "artist": "Andy Borg",
+    "title": "Adios amor",
+    "deezer": {
+      "deezerID": 15362314,
+      "deezerLink": "https://www.deezer.com/track/15362314",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be11dfd617513e6aeca3d3863795d58b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Andy Borg",
+      "deezerTitle": "Adios Amor"
+    }
+  },
+  {
+    "rank": 5,
+    "artist": "Falco",
+    "title": "Der Kommissar",
+    "deezer": {
+      "deezerID": 142334565,
+      "deezerLink": "https://www.deezer.com/track/142334565",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8bfb068c2769c3e87bb90c0fa5a37d1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Falco",
+      "deezerTitle": "Der Kommissar"
+    }
+  },
+  {
+    "rank": 6,
+    "artist": "Trio",
+    "title": "Da da da ich lieb dich nicht du liebst mich nicht aha aha aha",
+    "deezer": {
+      "deezerID": 2531310,
+      "deezerLink": "https://www.deezer.com/track/2531310",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2644ec20dd2b1660e8f4a68d23efe78b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Trio",
+      "deezerTitle": "Da Da Da ich lieb dich nicht du liebst mich nicht aha aha aha"
+    }
+  },
+  {
+    "rank": 7,
+    "artist": "Joachim Witt",
+    "title": "Goldener Reiter",
+    "deezer": {
+      "deezerID": 700835,
+      "deezerLink": "https://www.deezer.com/track/700835",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5631571f81b8fbd5d318bf22051fdf87/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Joachim Witt",
+      "deezerTitle": "Goldener Reiter"
+    }
+  },
+  {
+    "rank": 8,
+    "artist": "Nicole",
+    "title": "Ein bißchen Frieden",
+    "deezer": {
+      "deezerID": 15755556,
+      "deezerLink": "https://www.deezer.com/track/15755556",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e6fa09fe8275a981484537c1f3c2fe3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nicole",
+      "deezerTitle": "Ein bisschen Frieden"
+    }
+  },
+  {
+    "rank": 9,
+    "artist": "Alice",
+    "title": "Una notte speciale",
+    "deezer": {
+      "deezerID": 3374153,
+      "deezerLink": "https://www.deezer.com/track/3374153",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/775fc149e941b1c5e340100fc6c44ac2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Alice",
+      "deezerTitle": "Una Notte Speciale"
+    }
+  },
+  {
+    "rank": 10,
+    "artist": "Markus",
+    "title": "Ich will Spaß",
+    "deezer": {
+      "deezerID": 663173602,
+      "deezerLink": "https://www.deezer.com/track/663173602",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95edc5da8829892ad0b6fd565d1b69d7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Markus",
+      "deezerTitle": "Ich will Spaß"
+    }
+  },
+  {
+    "rank": 11,
+    "artist": "Al Bano & Romina Power",
+    "title": "Sharazan",
+    "deezer": {
+      "deezerID": 1005384,
+      "deezerLink": "https://www.deezer.com/track/1005384",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd274040f1c627d9237cdb98d0b49f78/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Al Bano & Romina Power",
+      "deezerTitle": "Sharazan"
+    }
+  },
+  {
+    "rank": 12,
+    "artist": "Hubert Kah",
+    "title": "Rosemarie",
+    "deezer": {
+      "deezerID": 2446108,
+      "deezerLink": "https://www.deezer.com/track/2446108",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/73a64dc89414bf64fee3bb279614bea5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Hubert Kah",
+      "deezerTitle": "Rosemarie"
+    }
+  },
+  {
+    "rank": 13,
+    "artist": "Imagination",
+    "title": "Just An Illusion",
+    "deezer": {
+      "deezerID": 133238776,
+      "deezerLink": "https://www.deezer.com/track/133238776",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad7c31bb1f47d45e790b487dd967f995/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Imagination",
+      "deezerTitle": "Just an Illusion"
+    }
+  },
+  {
+    "rank": 14,
+    "artist": "Paul McCartney & Stevie Wonder",
+    "title": "Ebony And Ivory",
+    "deezer": {
+      "deezerID": 5664754,
+      "deezerLink": "https://www.deezer.com/track/5664754",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e55b667aeba377649885320b499f6113/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Paul McCartney",
+      "deezerTitle": "Ebony And Ivory"
+    }
+  },
+  {
+    "rank": 15,
+    "artist": "Kim Wilde",
+    "title": "Cambodia",
+    "deezer": {
+      "deezerID": 2896479041,
+      "deezerLink": "https://www.deezer.com/track/2896479041",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37b799b17ab0578911f7bb8df57d73d3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kim Wilde",
+      "deezerTitle": "Cambodia"
+    }
+  },
+  {
+    "rank": 16,
+    "artist": "Grauzone",
+    "title": "Eisbär",
+    "deezer": {
+      "deezerID": 594253182,
+      "deezerLink": "https://www.deezer.com/track/594253182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7831f929fa8ffaffc1a350bfb922c6e2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Grauzone",
+      "deezerTitle": "Eisbär"
+    }
+  },
+  {
+    "rank": 17,
+    "artist": "Spliff",
+    "title": "Carbonara",
+    "deezer": {
+      "deezerID": 582479,
+      "deezerLink": "https://www.deezer.com/track/582479",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b7def35caaae072abd5eb19742bea461/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Spliff",
+      "deezerTitle": "Carbonara"
+    }
+  },
+  {
+    "rank": 18,
+    "artist": "Men At Work",
+    "title": "Down Under",
+    "deezer": {
+      "deezerID": 1030221,
+      "deezerLink": "https://www.deezer.com/track/1030221",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/968a09e7739dfeee3448a1a79555504a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Men at Work",
+      "deezerTitle": "Down Under"
+    }
+  },
+  {
+    "rank": 19,
+    "artist": "Christian Franke",
+    "title": "Ich wünsch' dir die Hölle auf Erden (wenn du heut' gehst)",
+    "deezer": {
+      "deezerID": 2857163342,
+      "deezerLink": "https://www.deezer.com/track/2857163342",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/53a693624f4e28634a7e70427a7afd2a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Christian Franke",
+      "deezerTitle": "Ich wünsch' dir die Hölle auf Erden (wenn du heut' gehst)"
+    }
+  },
+  {
+    "rank": 20,
+    "artist": "Gottlieb Wendehals",
+    "title": "Polonäse Blankenese",
+    "deezer": {
+      "deezerID": 41263831,
+      "deezerLink": "https://www.deezer.com/track/41263831",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c77203b4a3770f34f523b6201791f275/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gottlieb Wendehals",
+      "deezerTitle": "Polonäse Blankenese"
+    }
+  },
+  {
+    "rank": 21,
+    "artist": "Ricchi & Poveri",
+    "title": "Made In Italy",
+    "deezer": {
+      "deezerID": 636404,
+      "deezerLink": "https://www.deezer.com/track/636404",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9f173ad75f8deb47cc739208fac80e08/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ricchi e Poveri",
+      "deezerTitle": "Made in Italy"
+    }
+  },
+  {
+    "rank": 22,
+    "artist": "Karat",
+    "title": "Der blaue Planet",
+    "deezer": {
+      "deezerID": 987946,
+      "deezerLink": "https://www.deezer.com/track/987946",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cfaf506ceb8f8bc75758c4816a288f78/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Karat",
+      "deezerTitle": "Der blaue Planet"
+    }
+  },
+  {
+    "rank": 23,
+    "artist": "Shakin' Stevens",
+    "title": "Oh Julie",
+    "deezer": {
+      "deezerID": 1132667212,
+      "deezerLink": "https://www.deezer.com/track/1132667212",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "Oh Julie"
+    }
+  },
+  {
+    "rank": 24,
+    "artist": "Spider Murphy Gang",
+    "title": "Schickeria",
+    "deezer": {
+      "deezerID": 3123334,
+      "deezerLink": "https://www.deezer.com/track/3123334",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ba80f264e3b7c2426e409399d3c22f84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Spider Murphy Gang",
+      "deezerTitle": "Schickeria"
+    }
+  },
+  {
+    "rank": 25,
+    "artist": "ABBA",
+    "title": "One Of Us",
+    "deezer": {
+      "deezerID": 884043,
+      "deezerLink": "https://www.deezer.com/track/884043",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ABBA",
+      "deezerTitle": "One Of Us"
+    }
+  },
+  {
+    "rank": 26,
+    "artist": "Spider Murphy Gang",
+    "title": "Wo bist du?",
+    "deezer": {
+      "deezerID": 3123337,
+      "deezerLink": "https://www.deezer.com/track/3123337",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ba80f264e3b7c2426e409399d3c22f84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Spider Murphy Gang",
+      "deezerTitle": "Wo bist du?"
+    }
+  },
+  {
+    "rank": 27,
+    "artist": "Claudia Mori",
+    "title": "Non succederà più",
+    "deezer": {
+      "deezerID": 72089500,
+      "deezerLink": "https://www.deezer.com/track/72089500",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7b010c1d373374b9f1d847ec1a2b792/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Claudia Mori",
+      "deezerTitle": "Non Succederà Più"
+    }
+  },
+  {
+    "rank": 28,
+    "artist": "Ph.D.",
+    "title": "I Won't Let You Down",
+    "deezer": {
+      "deezerID": 1191387212,
+      "deezerLink": "https://www.deezer.com/track/1191387212",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/06a84f95f61a7378d7b0854972f563d0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ph.d.",
+      "deezerTitle": "I Won't Let You Down"
+    }
+  },
+  {
+    "rank": 29,
+    "artist": "Dave Stewart with Barbara Gaskin",
+    "title": "It's My Party",
+    "deezer": {
+      "deezerID": 1905344467,
+      "deezerLink": "https://www.deezer.com/track/1905344467",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43e35a786d8faf078cf532888d22edce/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dave Stewart",
+      "deezerTitle": "It's My Party"
+    }
+  },
+  {
+    "rank": 30,
+    "artist": "Jon And Vangelis",
+    "title": "I'll Find My Way Home",
+    "deezer": {
+      "deezerID": 1173024,
+      "deezerLink": "https://www.deezer.com/track/1173024",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2f198865e0c1ac6e7d4b921a3c7ba267/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Jon & Vangelis",
+      "deezerTitle": "I'll Find My Way Home"
+    }
+  },
+  {
+    "rank": 31,
+    "artist": "Extrabreit",
+    "title": "Hurra, hurra, die Schule brennt",
+    "deezer": {
+      "deezerID": 1146212,
+      "deezerLink": "https://www.deezer.com/track/1146212",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3518728137c8b4eb9e8d585bbc36dd86/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Extrabreit",
+      "deezerTitle": "Hurra, hurra, die Schule brennt"
+    }
+  },
+  {
+    "rank": 32,
+    "artist": "Steve Miller Band",
+    "title": "Abracadabra",
+    "deezer": {
+      "deezerID": 404237102,
+      "deezerLink": "https://www.deezer.com/track/404237102",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d0edd4144289b933d49d158201cef9b6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Steve Miller Band",
+      "deezerTitle": "Abracadabra"
+    }
+  },
+  {
+    "rank": 33,
+    "artist": "UKW",
+    "title": "Sommersprossen",
+    "deezer": {
+      "deezerID": 664400612,
+      "deezerLink": "https://www.deezer.com/track/664400612",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eac00b4a4894fc89991c713bebee6fa1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "UKW",
+      "deezerTitle": "Sommersprossen"
+    }
+  },
+  {
+    "rank": 34,
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock'n Roll",
+    "deezer": {
+      "deezerID": 545992732,
+      "deezerLink": "https://www.deezer.com/track/545992732",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c4fb793cfedbb94d6e8926f3647eb8b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Joan Jett and the Blackhearts",
+      "deezerTitle": "I Love Rock 'N Roll"
+    }
+  },
+  {
+    "rank": 35,
+    "artist": "Soft Cell",
+    "title": "Tainted Love",
+    "deezer": {
+      "deezerID": 1173622,
+      "deezerLink": "https://www.deezer.com/track/1173622",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a809e8767a0cc557be1c894c5ed1c71e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Soft Cell",
+      "deezerTitle": "Tainted Love"
+    }
+  },
+  {
+    "rank": 36,
+    "artist": "Peter Cornelius",
+    "title": "Du entschuldige - i kenn' di",
+    "deezer": {
+      "deezerID": 109070344,
+      "deezerLink": "https://www.deezer.com/track/109070344",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e7d5bb805c315267b20a4d3273e501d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Cornelius",
+      "deezerTitle": "Du entschuldige i kenn di"
+    }
+  },
+  {
+    "rank": 37,
+    "artist": "Roger Whittaker",
+    "title": "Albany",
+    "deezer": {
+      "deezerID": 1048957,
+      "deezerLink": "https://www.deezer.com/track/1048957",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5cf0cd7383d54560a3602b9a5886500f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Roger Whittaker",
+      "deezerTitle": "Albany"
+    }
+  },
+  {
+    "rank": 38,
+    "artist": "ZaZa",
+    "title": "Zauberstab",
+    "deezer": {
+      "deezerID": 2617049102,
+      "deezerLink": "https://www.deezer.com/track/2617049102",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f80bf8cc252b700b406bb5de0b8a9842/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Zaza",
+      "deezerTitle": "Zauberstab"
+    }
+  },
+  {
+    "rank": 39,
+    "artist": "Hot Chocolate",
+    "title": "Girl Crazy",
+    "deezer": {
+      "deezerID": 3152644,
+      "deezerLink": "https://www.deezer.com/track/3152644",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/916e64fef235a99c7020b7bc4d4012ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Hot Chocolate",
+      "deezerTitle": "Girl Crazy"
+    }
+  },
+  {
+    "rank": 40,
+    "artist": "The J. Geils Band",
+    "title": "Centerfold",
+    "deezer": {
+      "deezerID": 3168236,
+      "deezerLink": "https://www.deezer.com/track/3168236",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cc1722705a41d9221bff919895c236bf/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The J. Geils Band",
+      "deezerTitle": "Centerfold"
+    }
+  },
+  {
+    "rank": 41,
+    "artist": "Ricky King",
+    "title": "Halé, Hey Louise",
+    "deezer": {
+      "deezerID": 2330168,
+      "deezerLink": "https://www.deezer.com/track/2330168",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95e929eec6e8ee848f3019d2ca388be0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ricky King",
+      "deezerTitle": "Hale, hey Louise"
+    }
+  },
+  {
+    "rank": 42,
+    "artist": "James Last",
+    "title": "Biscaya",
+    "deezer": {
+      "deezerID": 666384992,
+      "deezerLink": "https://www.deezer.com/track/666384992",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/175dfd9549e0a7e07b1c5ecb9a5040d6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "James Last",
+      "deezerTitle": "Biscaya"
+    }
+  },
+  {
+    "rank": 43,
+    "artist": "Kraftwerk",
+    "title": "Das Model",
+    "deezer": {
+      "deezerID": 13473872,
+      "deezerLink": "https://www.deezer.com/track/13473872",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c584b96eb0c57371d3e9571a6f09ee5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kraftwerk",
+      "deezerTitle": "Das Model"
+    }
+  },
+  {
+    "rank": 44,
+    "artist": "Bucks Fizz",
+    "title": "The Land Of Make Believe",
+    "deezer": {
+      "deezerID": 5404576,
+      "deezerLink": "https://www.deezer.com/track/5404576",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bucks Fizz",
+      "deezerTitle": "The Land of Make Believe"
+    }
+  },
+  {
+    "rank": 45,
+    "artist": "Rheingold",
+    "title": "Dreiklangs-Dimensionen",
+    "deezer": {
+      "deezerID": 13928512,
+      "deezerLink": "https://www.deezer.com/track/13928512",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aae54ae97fc546b42cd615d6613d0448/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rheingold",
+      "deezerTitle": "Dreiklangsdimensionen"
+    }
+  },
+  {
+    "rank": 46,
+    "artist": "Tight Fit",
+    "title": "The Lion Sleeps Tonight",
+    "deezer": {
+      "deezerID": 5404577,
+      "deezerLink": "https://www.deezer.com/track/5404577",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tight Fit",
+      "deezerTitle": "The Lion Sleeps Tonight"
+    }
+  },
+  {
+    "rank": 47,
+    "artist": "F-R David",
+    "title": "Words"
+  },
+  {
+    "rank": 48,
+    "artist": "David Christie",
+    "title": "Saddle Up",
+    "deezer": {
+      "deezerID": 457406002,
+      "deezerLink": "https://www.deezer.com/track/457406002",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bdf9e8e8de5331302194044dafcb4aab/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "David Christie",
+      "deezerTitle": "Saddle Up"
+    }
+  },
+  {
+    "rank": 49,
+    "artist": "Barrabas",
+    "title": "On The Road Again",
+    "deezer": {
+      "deezerID": 1070326572,
+      "deezerLink": "https://www.deezer.com/track/1070326572",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/913b9b490180777ad48c706f757dae78/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Barrabas",
+      "deezerTitle": "On The Road Again"
+    }
+  },
+  {
+    "rank": 50,
+    "artist": "Adam Ant",
+    "title": "Goody Two Shoes",
+    "deezer": {
+      "deezerID": 564952,
+      "deezerLink": "https://www.deezer.com/track/564952",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4df526e0ae63c6f5f3eb1ffbeccda303/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Adam Ant",
+      "deezerTitle": "Goody Two Shoes"
+    }
+  },
+  {
+    "rank": 51,
+    "artist": "Kim Wilde",
+    "title": "View From A Bridge",
+    "deezer": {
+      "deezerID": 2896479051,
+      "deezerLink": "https://www.deezer.com/track/2896479051",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37b799b17ab0578911f7bb8df57d73d3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kim Wilde",
+      "deezerTitle": "View From a Bridge"
+    }
+  },
+  {
+    "rank": 52,
+    "artist": "Peter Maffay",
+    "title": "Lieber Gott...",
+    "deezer": {
+      "deezerID": 1078418,
+      "deezerLink": "https://www.deezer.com/track/1078418",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/13e10f344672eca8c8bfa713c175023c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Maffay",
+      "deezerTitle": "Lieber Gott"
+    }
+  },
+  {
+    "rank": 53,
+    "artist": "Yazoo",
+    "title": "Don't Go",
+    "deezer": {
+      "deezerID": 143041044,
+      "deezerLink": "https://www.deezer.com/track/143041044",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef4398eafe1f753c3c35adfabc0dcc77/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Yazoo",
+      "deezerTitle": "Don't Go"
+    }
+  },
+  {
+    "rank": 54,
+    "artist": "The Human League",
+    "title": "Don't You Want Me",
+    "deezer": {
+      "deezerID": 67547368,
+      "deezerLink": "https://www.deezer.com/track/67547368",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7be630be64f0b0b2ba513615b5b07088/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Human League",
+      "deezerTitle": "Don't You Want Me"
+    }
+  },
+  {
+    "rank": 55,
+    "artist": "Asia",
+    "title": "Heat Of The Moment",
+    "deezer": {
+      "deezerID": 552379902,
+      "deezerLink": "https://www.deezer.com/track/552379902",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/face06ef2f3f2d99fbcbc92783c1119f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Asia",
+      "deezerTitle": "Heat Of The Moment"
+    }
+  },
+  {
+    "rank": 56,
+    "artist": "BAP",
+    "title": "Verdamp lang her",
+    "deezer": {
+      "deezerID": 3390998,
+      "deezerLink": "https://www.deezer.com/track/3390998",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/111112c90587e80254bf96a59918866a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "BAP",
+      "deezerTitle": "Verdamp lang her"
+    }
+  },
+  {
+    "rank": 57,
+    "artist": "Helen Schneider",
+    "title": "Rock'n'Roll Gypsy",
+    "deezer": {
+      "deezerID": 819105,
+      "deezerLink": "https://www.deezer.com/track/819105",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33e003c19f7197efda313476aaaa1ebf/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Helen Schneider",
+      "deezerTitle": "Rock'n'Roll Gypsy"
+    }
+  },
+  {
+    "rank": 58,
+    "artist": "Karat",
+    "title": "Jede Stunde",
+    "deezer": {
+      "deezerID": 1048689,
+      "deezerLink": "https://www.deezer.com/track/1048689",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ea4421e052202b7f0ee729aad80c4ea1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Karat",
+      "deezerTitle": "Jede Stunde"
+    }
+  },
+  {
+    "rank": 59,
+    "artist": "Jawoll",
+    "title": "Taxi"
+  },
+  {
+    "rank": 60,
+    "artist": "Rolf und seine Freunde",
+    "title": "... und ganz doll mich (ich mag)",
+    "deezer": {
+      "deezerID": 1256904802,
+      "deezerLink": "https://www.deezer.com/track/1256904802",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/155292780f0cd7243cf68bce534f98a6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rolf Zuckowski",
+      "deezerTitle": "...und ganz doll mich (Ich mag)"
+    }
+  },
+  {
+    "rank": 61,
+    "artist": "Olivia Newton-John",
+    "title": "Physical",
+    "deezer": {
+      "deezerID": 548100032,
+      "deezerLink": "https://www.deezer.com/track/548100032",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c311d904d1b0a0b83705f3e868c1f0c5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Olivia Newton-John",
+      "deezerTitle": "Physical"
+    }
+  },
+  {
+    "rank": 62,
+    "artist": "Frank Zander",
+    "title": "Da da da ich weiß Bescheid, du weißt Bescheid",
+    "deezer": {
+      "deezerID": 1078109,
+      "deezerLink": "https://www.deezer.com/track/1078109",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/92ff4619c4348a22be6eea6cf2530864/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frank Zander",
+      "deezerTitle": "Da da da - ich weiss Bescheid, du weisst Bescheid"
+    }
+  },
+  {
+    "rank": 63,
+    "artist": "Aneka",
+    "title": "Little Lady",
+    "deezer": {
+      "deezerID": 6162656,
+      "deezerLink": "https://www.deezer.com/track/6162656",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1bdd14f2a7aaf8948b1a58e3f99f8a53/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Aneka",
+      "deezerTitle": "Little Lady"
+    }
+  },
+  {
+    "rank": 64,
+    "artist": "Ideal",
+    "title": "Eiszeit",
+    "deezer": {
+      "deezerID": 662377,
+      "deezerLink": "https://www.deezer.com/track/662377",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dd5b3cbd88085df2f51882dba79648af/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ideal",
+      "deezerTitle": "Eiszeit"
+    }
+  },
+  {
+    "rank": 65,
+    "artist": "Peter Alexander",
+    "title": "Der Papa wird's schon richten",
+    "deezer": {
+      "deezerID": 957277,
+      "deezerLink": "https://www.deezer.com/track/957277",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5926cfd235cc6ea8402fbb4191d4dc89/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Alexander",
+      "deezerTitle": "Der Papa wird's schon richten"
+    }
+  },
+  {
+    "rank": 66,
+    "artist": "Chicago",
+    "title": "Hard To Say I'm Sorry",
+    "deezer": {
+      "deezerID": 61467891,
+      "deezerLink": "https://www.deezer.com/track/61467891",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/332489672367b93d9e8d9978932023a6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chicago",
+      "deezerTitle": "Hard to Say I'm Sorry"
+    }
+  },
+  {
+    "rank": 67,
+    "artist": "Udo Lindenberg & Pascal",
+    "title": "Wozu sind Kriege da?",
+    "deezer": {
+      "deezerID": 662088,
+      "deezerLink": "https://www.deezer.com/track/662088",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c366b142dcbc0c0fa49f2126563c356b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Udo Lindenberg",
+      "deezerTitle": "Wozu sind Kriege da?"
+    }
+  },
+  {
+    "rank": 68,
+    "artist": "Shakin' Stevens",
+    "title": "Shirley",
+    "deezer": {
+      "deezerID": 1132667262,
+      "deezerLink": "https://www.deezer.com/track/1132667262",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Shakin' Stevens",
+      "deezerTitle": "Shirley"
+    }
+  },
+  {
+    "rank": 69,
+    "artist": "Fred Sonnenschein und seine Freunde",
+    "title": "Ja, wenn wir alle Englein wären",
+    "deezer": {
+      "deezerID": 661831872,
+      "deezerLink": "https://www.deezer.com/track/661831872",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/684b0c97cb11b0ad9790aea573fbc0ae/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Fred Sonnenschein & seine Freunde",
+      "deezerTitle": "Ja, wenn wir alle Englein wären (Dance Little Bird)"
+    }
+  },
+  {
+    "rank": 70,
+    "artist": "Falco",
+    "title": "Maschine brennt",
+    "deezer": {
+      "deezerID": 142334569,
+      "deezerLink": "https://www.deezer.com/track/142334569",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8bfb068c2769c3e87bb90c0fa5a37d1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Falco",
+      "deezerTitle": "Maschine brennt"
+    }
+  },
+  {
+    "rank": 71,
+    "artist": "Nena",
+    "title": "Nur geträumt",
+    "deezer": {
+      "deezerID": 639454152,
+      "deezerLink": "https://www.deezer.com/track/639454152",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bce3bde50b8451780ce7d582ad6731e4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nena",
+      "deezerTitle": "Nur geträumt"
+    }
+  },
+  {
+    "rank": 72,
+    "artist": "Relax",
+    "title": "Weil i di mog",
+    "deezer": {
+      "deezerID": 982516,
+      "deezerLink": "https://www.deezer.com/track/982516",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e4058e9e8c3edafc39746965abd49a0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Relax",
+      "deezerTitle": "Weil i di mog"
+    }
+  },
+  {
+    "rank": 73,
+    "artist": "Frl. Menke",
+    "title": "Hohe Berge",
+    "deezer": {
+      "deezerID": 140344157,
+      "deezerLink": "https://www.deezer.com/track/140344157",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c3bf3a29a7a252606c49884122c7087/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frl. Menke",
+      "deezerTitle": "Hohe Berge"
+    }
+  },
+  {
+    "rank": 74,
+    "artist": "Foreigner",
+    "title": "Urgent",
+    "deezer": {
+      "deezerID": 2814888,
+      "deezerLink": "https://www.deezer.com/track/2814888",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7545dbac40fbecabeafc4847bcba549/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Foreigner",
+      "deezerTitle": "Urgent"
+    }
+  },
+  {
+    "rank": 75,
+    "artist": "Frida",
+    "title": "I Know There's Something Going On",
+    "deezer": {
+      "deezerID": 503337892,
+      "deezerLink": "https://www.deezer.com/track/503337892",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9de40673689626db0a4151a521bc1c44/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Frida",
+      "deezerTitle": "I Know There's Something Going On"
+    }
+  }
+]

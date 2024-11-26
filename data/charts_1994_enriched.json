@@ -710,7 +710,15 @@
   {
     "rank": 60,
     "artist": "Cinematic feat. Heinz Rühmann & Oliver Grimm",
-    "title": "Unser Lied (La Le Lu)"
+    "title": "Unser Lied (La Le Lu)",
+    "deezer": {
+      "deezerID": 1048580,
+      "deezerLink": "https://www.deezer.com/track/1048580",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95cfd2bb481cbcb5c71438295431aad4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Cinematic",
+      "deezerTitle": "La Le Lu (Unser Lied) (feat. H. Rühmann & O. Grimm)"
+    }
+
   },
   {
     "rank": 61,
@@ -960,7 +968,14 @@
   {
     "rank": 82,
     "artist": "The B.C. 52's",
-    "title": "(Meet) The Flintstones"
+    "title": "(Meet) The Flintstones",
+    "deezer": {
+      "deezerID": 1667977522,
+      "deezerLink": "https://www.deezer.com/track/1667977522",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d050be75c288d033afa3e933cc4e9403/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The BC-52's",
+      "deezerTitle": "(Meet) The Flintstones"
+    }
   },
   {
     "rank": 83,

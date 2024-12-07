@@ -232,4 +232,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1991, 2000).catch(console.error);
+enrichAllYears(2001, 2023).catch(console.error);

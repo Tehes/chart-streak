@@ -1019,7 +1019,6 @@
     "rank": 88,
     "artist": "Nelly",
     "title": "#1",
-    {
       "deezer": {
         "deezerID": "2447449",
         "deezerLink": "https://www.deezer.com/track/2447449",
@@ -1027,7 +1026,6 @@
         "deezerArtist": "Nelly",
         "deezerTitle": "#1"
       }
-    }
   },
   {
     "rank": 89,
@@ -1069,7 +1067,6 @@
     "rank": 92,
     "artist": "Right Said Fred",
     "title": "Lovesong",
-    {
       "deezer": {
         "deezerID": "2120015157",
         "deezerLink": "https://www.deezer.com/track/2120015157",
@@ -1077,7 +1074,6 @@
         "deezerArtist": "Right Said Fred",
         "deezerTitle": "Love Song"
       }
-    }
   },
   {
     "rank": 93,

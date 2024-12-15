@@ -158,7 +158,14 @@
   {
     "rank": 14,
     "artist": "DJ Antoine feat. The Beat Shakers",
-    "title": "\"Ma chérie\""
+    "title": "\"Ma chérie\"",
+    "deezer": {
+      "deezerID": "17074763",
+      "deezerLink": "https://www.deezer.com/track/17074763",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/54717e97cee6bcfa873110a9d76493ac/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "DJ Antoine",
+      "deezerTitle": "Ma Chérie"
+    }
   },
   {
     "rank": 15,
@@ -199,7 +206,14 @@
   {
     "rank": 18,
     "artist": "Tacabro",
-    "title": "Tacatá"
+    "title": "Tacatá",
+    "deezer": {
+      "deezerID": "2512495531",
+      "deezerLink": "https://www.deezer.com/track/2512495531",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/22d516efad8d2ee48128e6ba9290f05c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tacabro",
+      "deezerTitle": "Tacatà"
+    }
   },
   {
     "rank": 19,
@@ -701,7 +715,14 @@
   {
     "rank": 61,
     "artist": "Die Ärzte",
-    "title": "M+F"
+    "title": "M+F",
+    "deezer": {
+      "deezerID": 1006099762,
+      "deezerLink": "https://www.deezer.com/track/1006099762",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a70aa0db3e8ecefe627efef6270f1beb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Die Ärzte",
+      "deezerTitle": "M&F"
+    }
   },
   {
     "rank": 62,
@@ -1114,7 +1135,14 @@
   {
     "rank": 96,
     "artist": "Far * East Movement feat. Justin Bieber",
-    "title": "Live My Life"
+    "title": "Live My Life",
+    "deezer": {
+      "deezerID": "728269432",
+      "deezerLink": "https://www.deezer.com/track/728269432",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cc4a49e97b484db583ffc9ad88c5ba77/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Far East Movement",
+      "deezerTitle": "Live My Life"
+    }
   },
   {
     "rank": 97,
@@ -1133,11 +1161,11 @@
     "artist": "Guru Josh",
     "title": "Infinity 2012",
     "deezer": {
-      "deezerID": 61848339,
-      "deezerLink": "https://www.deezer.com/track/61848339",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1adef58dc17ddccf209a7ffc90ef89e0/500x500-000000-80-0-0.jpg",
+      "deezerID": 61239665,
+      "deezerLink": "https://www.deezer.com/track/61239665",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8b3a35cdf9b0a7fc4b3e44dda2ddb003/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Guru Josh Project",
-      "deezerTitle": "Infinity 2008"
+      "deezerTitle": "Infinity 2012 (DJ Antoine vs. Mad Mark Radio Edit)"
     }
   },
   {

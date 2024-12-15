@@ -64,11 +64,11 @@
     "artist": "El Profesor",
     "title": "Bella ciao (Hugel Remix)",
     "deezer": {
-      "deezerID": 533484652,
-      "deezerLink": "https://www.deezer.com/track/533484652",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0b2b530d6928d87a5862a3cfdd71f294/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "El Profesor D'Agostino",
-      "deezerTitle": "In My Mind Bella Ciao"
+      "deezerID": "486717512",
+      "deezerLink": "https://www.deezer.com/track/486717512",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fdc0721f216b653f663e1ca0a0b812e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "El Profesor",
+      "deezerTitle": "Bella ciao (HUGEL Remix)"
     }
   },
   {
@@ -386,7 +386,14 @@
   {
     "rank": 33,
     "artist": "Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya",
-    "title": "So Far Away"
+    "title": "So Far Away",
+    "deezer": {
+      "deezerID": "431492032",
+      "deezerLink": "https://www.deezer.com/track/431492032",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b3b122c4a71ddcae575bcbbbff785fcb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "David Guetta",
+      "deezerTitle": "So Far Away (feat. Jamie Scott & Romy Dya)"
+    }
   },
   {
     "rank": 34,
@@ -654,7 +661,7 @@
   },
   {
     "rank": 56,
-    "artist": "Justin Bieber + BloodPop®",
+    "artist": "Justin Bieber + BloodPop",
     "title": "Friends",
     "deezer": {
       "deezerID": 395664742,
@@ -691,7 +698,14 @@
   {
     "rank": 59,
     "artist": "Kay One feat. Pietro Lombardi",
-    "title": "Señorita"
+    "title": "Señorita",
+    "deezer": {
+      "deezerID": "400837582",
+      "deezerLink": "https://www.deezer.com/track/400837582",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88bad435ed5c605f1b84e538458a4cc0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kay One",
+      "deezerTitle": "Senorita"
+    }
   },
   {
     "rank": 60,
@@ -731,8 +745,15 @@
   },
   {
     "rank": 63,
-    "artist": "Eli [DE]",
-    "title": "Change Your Mind"
+    "artist": "Eli",
+    "title": "Change Your Mind",
+    "deezer": {
+      "deezerID": "482869212",
+      "deezerLink": "https://www.deezer.com/track/482869212",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/400bac83401aea0e5e8b92e47544c6d3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Eli",
+      "deezerTitle": "Change Your Mind"
+    }
   },
   {
     "rank": 64,
@@ -953,7 +974,14 @@
   {
     "rank": 82,
     "artist": "Axwell Λ Ingrosso",
-    "title": "More Than You Know"
+    "title": "More Than You Know",
+    "deezer": {
+      "deezerID": "362795841",
+      "deezerLink": "https://www.deezer.com/track/362795841",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f85129789df4495478e970a47b8f957f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Axwell / Ingrosso",
+      "deezerTitle": "More Than You Know"
+    }
   },
   {
     "rank": 83,

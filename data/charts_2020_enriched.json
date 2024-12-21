@@ -220,7 +220,7 @@
     "artist": "Dua Lipa",
     "title": "Don't Start Now",
     "deezer": {
-      "deezerID": 788708262,
+      "deezerID": "788708262",
       "deezerLink": "https://www.deezer.com/track/788708262",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1ed09baa6f27de521f9837d22545ee5b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Dua Lipa",
@@ -268,11 +268,11 @@
     "artist": "Lum!x & Gabry Ponte",
     "title": "Monster",
     "deezer": {
-      "deezerID": 2320335575,
-      "deezerLink": "https://www.deezer.com/track/2320335575",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/91816a86b96710a72e18778ec8889e3e/500x500-000000-80-0-0.jpg",
+      "deezerID": 666178752,
+      "deezerLink": "https://www.deezer.com/track/666178752",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91c0f3ac8dfddccacb734d540f02105b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "LUM!X",
-      "deezerTitle": "Monster (LUM!X VIP MIX)"
+      "deezerTitle": "Monster"
     }
   },
   {
@@ -280,9 +280,9 @@
     "artist": "Juju x Loredana",
     "title": "Kein Wort",
     "deezer": {
-      "deezerID": 2690569632,
-      "deezerLink": "https://www.deezer.com/track/2690569632",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/14c2716884c7a37e8a2ba16b65e73ac4/500x500-000000-80-0-0.jpg",
+      "deezerID": 851311772,
+      "deezerLink": "https://www.deezer.com/track/851311772",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84d4c47551a8dbb37bc442f33112a020/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Juju",
       "deezerTitle": "Kein Wort"
     }
@@ -400,9 +400,9 @@
     "artist": "Internet Money & Gunna feat. Don Toliver & Nav",
     "title": "Lemonade",
     "deezer": {
-      "deezerID": 2493888291,
-      "deezerLink": "https://www.deezer.com/track/2493888291",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f2af2bf567516685af6c31779b6d7d5/500x500-000000-80-0-0.jpg",
+      "deezerID": 2497030721,
+      "deezerLink": "https://www.deezer.com/track/2497030721",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d0e47782cd55788cfcbf54670f58231/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Internet money",
       "deezerTitle": "Lemonade (feat. NAV)"
     }
@@ -446,7 +446,14 @@
   {
     "rank": 38,
     "artist": "Bausa x Joshi Mizu x Maxwell",
-    "title": "Skifahren"
+    "title": "Skifahren",
+    "deezer": {
+      "deezerID": 798366802,
+      "deezerLink": "https://www.deezer.com/track/798366802",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/34eef9aaf86f201e027f23240baa94aa/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Cratez",
+      "deezerTitle": "Skifahren (feat. Joshi Mizu)"
+    }
   },
   {
     "rank": 39,
@@ -559,14 +566,7 @@
   {
     "rank": 48,
     "artist": "Dua Lipa",
-    "title": "Physical",
-    "deezer": {
-      "deezerID": 860771562,
-      "deezerLink": "https://www.deezer.com/track/860771562",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/30236ed2faf55691eed8677fd5e8e39e/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Dua Lipa",
-      "deezerTitle": "Physical"
-    }
+    "title": "Physical"
   },
   {
     "rank": 49,
@@ -595,7 +595,14 @@
   {
     "rank": 51,
     "artist": "Vize x Joker Bra x Leony",
-    "title": "Paradise"
+    "title": "Paradise",
+    "deezer": {
+      "deezerID": 1044967912,
+      "deezerLink": "https://www.deezer.com/track/1044967912",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/494c0587269de95f95ddcf4b068e8a06/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Vize",
+      "deezerTitle": "Paradise"
+    }
   },
   {
     "rank": 52,
@@ -660,7 +667,14 @@
   {
     "rank": 57,
     "artist": "Capital Bra x Loredana",
-    "title": "Nicht verdient"
+    "title": "Nicht verdient",
+    "deezer": {
+      "deezerID": 941534182,
+      "deezerLink": "https://www.deezer.com/track/941534182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/097fe09febe2a5a1e0d5e1604bb114ce/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Nicht verdient"
+    }
   },
   {
     "rank": 58,
@@ -689,7 +703,14 @@
   {
     "rank": 60,
     "artist": "Capital Bra x Clueso x KC Rebell",
-    "title": "Andere Welt"
+    "title": "Andere Welt",
+    "deezer": {
+      "deezerID": 1026608152,
+      "deezerLink": "https://www.deezer.com/track/1026608152",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88009e4360940100aa0715fc0e226271/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Andere Welt"
+    }
   },
   {
     "rank": 61,
@@ -730,7 +751,14 @@
   {
     "rank": 64,
     "artist": "Capital Bra x Cro",
-    "title": "Frühstück in Paris"
+    "title": "Frühstück in Paris",
+    "deezer": {
+      "deezerID": 1052600282,
+      "deezerLink": "https://www.deezer.com/track/1052600282",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/409ea222d41290a3752b4de5baaffe54/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Frühstück in Paris"
+    }
   },
   {
     "rank": 65,
@@ -795,7 +823,14 @@
   {
     "rank": 70,
     "artist": "Bausa x Juju",
-    "title": "2012"
+    "title": "2012",
+    "deezer": {
+      "deezerID": 1053953022,
+      "deezerLink": "https://www.deezer.com/track/1053953022",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7b9d9a278cacb37a242b2ad10f550eb4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bausa",
+      "deezerTitle": "2012"
+    }
   },
   {
     "rank": 71,
@@ -812,16 +847,23 @@
   {
     "rank": 72,
     "artist": "Riton x Oliver Heldens feat. Vula",
-    "title": "Turn Me On"
+    "title": "Turn Me On",
+    "deezer": {
+      "deezerID": 741480472,
+      "deezerLink": "https://www.deezer.com/track/741480472",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/79309e0a60b7fb24721749f20bb09de5/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Riton",
+      "deezerTitle": "Turn Me On (feat. Vula)"
+    }
   },
   {
     "rank": 73,
     "artist": "RIN & Bausa",
     "title": "Keine Liebe",
     "deezer": {
-      "deezerID": 811114692,
-      "deezerLink": "https://www.deezer.com/track/811114692",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/da15ce5a696d08f0a050659c851a6295/500x500-000000-80-0-0.jpg",
+      "deezerID": 769313522,
+      "deezerLink": "https://www.deezer.com/track/769313522",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/623539deb1a3de55679b7c61976277e9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rin",
       "deezerTitle": "Keine Liebe"
     }
@@ -865,16 +907,23 @@
   {
     "rank": 77,
     "artist": "Samra x Elif",
-    "title": "Zu Ende"
+    "title": "Zu Ende",
+    "deezer": {
+      "deezerID": 855927672,
+      "deezerLink": "https://www.deezer.com/track/855927672",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/754f1c39979ee0719d735066b81139ee/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samra",
+      "deezerTitle": "Zu Ende"
+    }
   },
   {
     "rank": 78,
     "artist": "Purple Disco Machine & Sophie And The Giants",
     "title": "Hypnotized",
     "deezer": {
-      "deezerID": 958092372,
-      "deezerLink": "https://www.deezer.com/track/958092372",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e492f199fadedbc621deeb9ccf02aa9d/500x500-000000-80-0-0.jpg",
+      "deezerID": 914108092,
+      "deezerLink": "https://www.deezer.com/track/914108092",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b15fc3f4d3dc12bce8c4e32293f4d1c2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Purple Disco Machine",
       "deezerTitle": "Hypnotized"
     }
@@ -894,18 +943,25 @@
   {
     "rank": 80,
     "artist": "KC Rebell x Summer Cem",
-    "title": "Fly"
+    "title": "Fly",
+    "deezer": {
+      "deezerID": 972037402,
+      "deezerLink": "https://www.deezer.com/track/972037402",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d72991140fa2c829b3de83f5a4d0ecc9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "KC Rebell",
+      "deezerTitle": "FLY"
+    }
   },
   {
     "rank": 81,
     "artist": "Kool Savas x Alies",
     "title": "AMG",
     "deezer": {
-      "deezerID": 1237489442,
-      "deezerLink": "https://www.deezer.com/track/1237489442",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/93604ea0aab1f3415475cfba510d15ef/500x500-000000-80-0-0.jpg",
+      "deezerID": 2470731711,
+      "deezerLink": "https://www.deezer.com/track/2470731711",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad9c764ea4c548a43a98851448cf0bc0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kool Savas",
-      "deezerTitle": "AMG (feat. MoTrip, Sierra Kidd, Edo Saiya, Celo & Abdi & Kelvyn Colt)"
+      "deezerTitle": "AMG"
     }
   },
   {
@@ -934,7 +990,7 @@
   },
   {
     "rank": 84,
-    "artist": "Céline [DE]",
+    "artist": "Céline",
     "title": "Tränen aus Kajal",
     "deezer": {
       "deezerID": 1755834617,
@@ -1006,12 +1062,12 @@
   },
   {
     "rank": 90,
-    "artist": "Jerome [DE]",
+    "artist": "Jerome",
     "title": "Light",
     "deezer": {
-      "deezerID": 793327122,
-      "deezerLink": "https://www.deezer.com/track/793327122",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc919f49b1123af060d6b1895b40b60c/500x500-000000-80-0-0.jpg",
+      "deezerID": 671599912,
+      "deezerLink": "https://www.deezer.com/track/671599912",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/63dc800de96065c8280b7fc82bd6e603/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jerome",
       "deezerTitle": "Light"
     }

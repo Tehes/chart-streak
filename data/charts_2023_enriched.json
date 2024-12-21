@@ -52,11 +52,11 @@
     "artist": "David Guetta & Bebe Rexha",
     "title": "I'm Good (Blue)",
     "deezer": {
-      "deezerID": 1936423177,
-      "deezerLink": "https://www.deezer.com/track/1936423177",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/74b51f872bd5f9c50e38b9d17de9c801/500x500-000000-80-0-0.jpg",
+      "deezerID": 1874467717,
+      "deezerLink": "https://www.deezer.com/track/1874467717",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88ce18db5ef5ec9d895b849228d70445/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
-      "deezerTitle": "I'M GOOD"
+      "deezerTitle": "I'm Good (Blue)"
     }
   },
   {
@@ -220,9 +220,9 @@
     "artist": "Rema",
     "title": "Calm Down",
     "deezer": {
-      "deezerID": 1644464022,
-      "deezerLink": "https://www.deezer.com/track/1644464022",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3071378af24d789b8fc69e95162041e4/500x500-000000-80-0-0.jpg",
+      "deezerID": 1873297197,
+      "deezerLink": "https://www.deezer.com/track/1873297197",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d4291391724a969f243406cc92be66/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rema",
       "deezerTitle": "Calm Down"
     }
@@ -268,9 +268,9 @@
     "artist": "Metro Boomin with The Weeknd & 21 Savage",
     "title": "Creepin'",
     "deezer": {
-      "deezerID": 2047700277,
-      "deezerLink": "https://www.deezer.com/track/2047700277",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1e673a65f489d85fc48343fec7a76d8c/500x500-000000-80-0-0.jpg",
+      "deezerID": 2047662477,
+      "deezerLink": "https://www.deezer.com/track/2047662477",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Metro Boomin",
       "deezerTitle": "Creepin'"
     }
@@ -376,9 +376,9 @@
     "artist": "Purple Disco Machine x Kungs feat. Julian Perretta",
     "title": "Substitution",
     "deezer": {
-      "deezerID": 2977654441,
-      "deezerLink": "https://www.deezer.com/track/2977654441",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/86cd31b35302c20bef92681404b1aa09/500x500-000000-80-0-0.jpg",
+      "deezerID": 2180342597,
+      "deezerLink": "https://www.deezer.com/track/2180342597",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/98912af014cbc6f8daa0f90752262b32/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Purple Disco Machine",
       "deezerTitle": "Substitution (feat. Julian Perretta)"
     }
@@ -640,9 +640,9 @@
     "artist": "Kontra K",
     "title": "Summertime",
     "deezer": {
-      "deezerID": 2526306261,
-      "deezerLink": "https://www.deezer.com/track/2526306261",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/85570f95f59225cc4b1b9a53230ac18f/500x500-000000-80-0-0.jpg",
+      "deezerID": 2395821035,
+      "deezerLink": "https://www.deezer.com/track/2395821035",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8194e6cf3334be7d9efbee49d6d19196/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kontra K",
       "deezerTitle": "Summertime"
     }
@@ -770,7 +770,14 @@
   {
     "rank": 65,
     "artist": "Ikke Hüftgold x Schürze x DJ Robin",
-    "title": "Bumsbar"
+    "title": "Bumsbar",
+    "deezer": {
+      "deezerID": 2540170701,
+      "deezerLink": "https://www.deezer.com/track/2540170701",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2438c5f2a1c4bf0d479b49107aa9103a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ikke Hüftgold",
+      "deezerTitle": "Bumsbar"
+    }
   },
   {
     "rank": 66,
@@ -1168,7 +1175,7 @@
   },
   {
     "rank": 100,
-    "artist": "Miguel [US]",
+    "artist": "Miguel",
     "title": "Sure Thing",
     "deezer": {
       "deezerID": 7675649,

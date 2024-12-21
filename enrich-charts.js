@@ -2,8 +2,14 @@ import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 
-const dataDir = path.resolve("data");
+const chartsDir = path.resolve("data", "charts");
+const enrichedDir = path.resolve("data", "enriched");
 const deezerBaseURL = "https://api.deezer.com/search?q=";
+
+// Stelle sicher, dass die notwendigen Ordner existieren
+if (!fs.existsSync(enrichedDir)) {
+    fs.mkdirSync(enrichedDir, { recursive: true });
+}
 
 // Bereinige Künstlernamen
 function cleanArtistName(artist) {
@@ -177,11 +183,11 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
 
 // Anreichern der Daten für ein Jahr mit Fortschrittsanzeige
 async function enrichYear(year) {
-    const filePath = path.join(dataDir, `charts_${year}.json`);
-    const outputFilePath = path.join(dataDir, `charts_${year}_enriched.json`);
+    const inputFilePath = path.join(chartsDir, `charts_${year}.json`);
+    const outputFilePath = path.join(enrichedDir, `charts_${year}_enriched.json`);
 
-    if (!fs.existsSync(filePath)) {
-        console.error(`File not found: ${filePath}`);
+    if (!fs.existsSync(inputFilePath)) {
+        console.error(`File not found: ${inputFilePath}`);
         return;
     }
 
@@ -190,7 +196,7 @@ async function enrichYear(year) {
         return;
     }
 
-    const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    const data = JSON.parse(fs.readFileSync(inputFilePath, "utf-8"));
     console.log(`Enriching data for year ${year}...`);
 
     let processed = 0;
@@ -234,4 +240,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(2019, 2023).catch(console.error);
+enrichAllYears(2019, 2024).catch(console.error);

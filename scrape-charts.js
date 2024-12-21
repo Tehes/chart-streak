@@ -3,9 +3,9 @@ import fs from "fs"; // File System importieren
 import path from "path"; // Importiere path für plattformübergreifende Pfade
 
 // Stelle sicher, dass der Ordner 'data' existiert
-const dataDir = path.resolve("data");
-if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true }); // Erstelle den Ordner, falls er nicht existiert
+const chartsDir = path.resolve("data", "charts");
+if (!fs.existsSync(chartsDir)) {
+    fs.mkdirSync(chartsDir, { recursive: true }); // Erstelle den Ordner, falls er nicht existiert
 }
 
 async function scrapeYear(year) {
@@ -53,7 +53,7 @@ async function scrapeAllYears(startYear, endYear) {
     const allData = {};
 
     for (let year = startYear; year <= endYear; year++) {
-        const filePath = path.join(dataDir, `charts_${year}.json`);
+        const filePath = path.join(chartsDir, `charts_${year}.json`);
 
         // Fortschritt sichern: Überspringe Jahre, die bereits gespeichert wurden
         if (fs.existsSync(filePath)) {
@@ -69,9 +69,9 @@ async function scrapeAllYears(startYear, endYear) {
             filePath,
             JSON.stringify(yearData, null, 2)
         );
-        console.log(`Saved data for ${year} to data/charts_${year}.json`);
+        console.log(`Saved data for ${year} to ${filePath}`);
     }
 }
 
 // Starte den Scraping-Prozess
-scrapeAllYears(1978, 2023).catch(console.error);
+scrapeAllYears(1978, 2024).catch(console.error);

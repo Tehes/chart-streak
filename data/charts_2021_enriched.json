@@ -38,7 +38,14 @@
   {
     "rank": 4,
     "artist": "Riton x Nightcrawlers feat. Mufasa & Hypeman",
-    "title": "Friday (Dopamine Re-Edit)"
+    "title": "Friday (Dopamine Re-Edit)",
+    "deezer": {
+      "deezerID": 1178599842,
+      "deezerLink": "https://www.deezer.com/track/1178599842",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09e6c71f102c979723ea3ea1b3c185d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nightcrawlers",
+      "deezerTitle": "Friday (feat. Mufasa & Hypeman)"
+    }
   },
   {
     "rank": 5,
@@ -69,17 +76,24 @@
     "artist": "Shouse",
     "title": "Love Tonight",
     "deezer": {
-      "deezerID": 435303962,
-      "deezerLink": "https://www.deezer.com/track/435303962",
+      "deezerID": 435303972,
+      "deezerLink": "https://www.deezer.com/track/435303972",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2f7ad427688d524e6cdb59369b630b44/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shouse",
-      "deezerTitle": "Love Tonight"
+      "deezerTitle": "Love Tonight (Edit)"
     }
   },
   {
     "rank": 8,
     "artist": "atb x Topic x A7S",
-    "title": "Your Love (9PM)"
+    "title": "Your Love (9PM)",
+    "deezer": {
+      "deezerID": 1200359872,
+      "deezerLink": "https://www.deezer.com/track/1200359872",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d59a3057c3e0636760992fecb3e0e5d0/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "ATB",
+      "deezerTitle": "Your Love (9PM)"
+    }
   },
   {
     "rank": 9,
@@ -192,7 +206,14 @@
   {
     "rank": 18,
     "artist": "Kasimir1441 x Badmómzjay",
-    "title": "Ohne Dich"
+    "title": "Ohne Dich",
+    "deezer": {
+      "deezerID": 1199814512,
+      "deezerLink": "https://www.deezer.com/track/1199814512",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/40129f028c841f64dd9dd727c0567281/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kasimir1441",
+      "deezerTitle": "Ohne Dich"
+    }
   },
   {
     "rank": 19,
@@ -391,9 +412,9 @@
     "artist": "Meduza feat. Dermot Kennedy",
     "title": "Paradise",
     "deezer": {
-      "deezerID": 2485999361,
-      "deezerLink": "https://www.deezer.com/track/2485999361",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/979102416bdc46a3668975b0a2835dd2/500x500-000000-80-0-0.jpg",
+      "deezerID": 1118064072,
+      "deezerLink": "https://www.deezer.com/track/1118064072",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd3da3749dd2da1b9db449395c47180b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Meduza",
       "deezerTitle": "Paradise"
     }
@@ -415,9 +436,9 @@
     "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
     "title": "Peaches",
     "deezer": {
-      "deezerID": 1287253792,
-      "deezerLink": "https://www.deezer.com/track/1287253792",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6206e9b880a160a91ec9b89b4d9373d2/500x500-000000-80-0-0.jpg",
+      "deezerID": 1280165222,
+      "deezerLink": "https://www.deezer.com/track/1280165222",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/87468622c8e7ac9dce7b541be136aa4c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Justin Bieber",
       "deezerTitle": "Peaches"
     }
@@ -449,7 +470,14 @@
   {
     "rank": 40,
     "artist": "Mark Forster x Lea",
-    "title": "Drei Uhr nachts"
+    "title": "Drei Uhr nachts",
+    "deezer": {
+      "deezerID": 1288053342,
+      "deezerLink": "https://www.deezer.com/track/1288053342",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/92a252e009a3d4ead0dd5390006d01db/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mark Forster",
+      "deezerTitle": "Drei Uhr Nachts"
+    }
   },
   {
     "rank": 41,
@@ -468,9 +496,9 @@
     "artist": "Dua Lipa",
     "title": "Levitating",
     "deezer": {
-      "deezerID": 1122003492,
-      "deezerLink": "https://www.deezer.com/track/1122003492",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/24bd258ef3f363d8fb2621f396a23ea1/500x500-000000-80-0-0.jpg",
+      "deezerID": 1094348592,
+      "deezerLink": "https://www.deezer.com/track/1094348592",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eb915a0a4696a5bb122f97b68a1c16ba/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Dua Lipa",
       "deezerTitle": "Levitating"
     }
@@ -540,9 +568,9 @@
     "artist": "Purple Disco Machine & Sophie And The Giants",
     "title": "Hypnotized",
     "deezer": {
-      "deezerID": 958092372,
-      "deezerLink": "https://www.deezer.com/track/958092372",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e492f199fadedbc621deeb9ccf02aa9d/500x500-000000-80-0-0.jpg",
+      "deezerID": 914108092,
+      "deezerLink": "https://www.deezer.com/track/914108092",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b15fc3f4d3dc12bce8c4e32293f4d1c2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Purple Disco Machine",
       "deezerTitle": "Hypnotized"
     }
@@ -552,9 +580,9 @@
     "artist": "Elton John & Dua Lipa",
     "title": "Cold Heart",
     "deezer": {
-      "deezerID": 1483915542,
-      "deezerLink": "https://www.deezer.com/track/1483915542",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e218791a06a77001733594856343c9fd/500x500-000000-80-0-0.jpg",
+      "deezerID": 1516899042,
+      "deezerLink": "https://www.deezer.com/track/1516899042",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Elton John",
       "deezerTitle": "Cold Heart"
     }
@@ -562,7 +590,14 @@
   {
     "rank": 50,
     "artist": "Vize x Tokio Hotel",
-    "title": "White Lies"
+    "title": "White Lies",
+    "deezer": {
+      "deezerID": 1185213682,
+      "deezerLink": "https://www.deezer.com/track/1185213682",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4857a8bc0ad1c5a8252dc9cb23991be4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Vize",
+      "deezerTitle": "White Lies"
+    }
   },
   {
     "rank": 51,
@@ -591,7 +626,14 @@
   {
     "rank": 53,
     "artist": "Samra x Topic42",
-    "title": "Lost"
+    "title": "Lost",
+    "deezer": {
+      "deezerID": 1164978732,
+      "deezerLink": "https://www.deezer.com/track/1164978732",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c82b8ea4c3501bd7c400efd555628bf3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samra",
+      "deezerTitle": "Lost"
+    }
   },
   {
     "rank": 54,
@@ -634,9 +676,9 @@
     "artist": "Wes Nelson & Yxng Bane",
     "title": "Nice To Meet Ya",
     "deezer": {
-      "deezerID": 1286954622,
-      "deezerLink": "https://www.deezer.com/track/1286954622",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7051b72950ebd4d9b8fe0e8ed5b68214/500x500-000000-80-0-0.jpg",
+      "deezerID": 1426624882,
+      "deezerLink": "https://www.deezer.com/track/1426624882",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/888e8b68fab410e7c94e37b7d7a273c0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wes Nelson",
       "deezerTitle": "Nice To Meet Ya"
     }
@@ -658,11 +700,11 @@
     "artist": "CKay feat. ElGrande Toto",
     "title": "Love Nwantiti (North African Remix)",
     "deezer": {
-      "deezerID": 752155092,
-      "deezerLink": "https://www.deezer.com/track/752155092",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ed3944c139089af1359c26d78843d435/500x500-000000-80-0-0.jpg",
+      "deezerID": 1053890812,
+      "deezerLink": "https://www.deezer.com/track/1053890812",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/75ae57364aac308391c0e7e5116facd1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "CKay",
-      "deezerTitle": "love nwantiti (ah ah ah)"
+      "deezerTitle": "love nwantiti (feat. ElGrande Toto)"
     }
   },
   {
@@ -824,7 +866,14 @@
   {
     "rank": 73,
     "artist": "ART [DE]",
-    "title": "Belgisches Viertel"
+    "title": "Belgisches Viertel",
+    "deezer": {
+      "deezerID": 1755844237,
+      "deezerLink": "https://www.deezer.com/track/1755844237",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c59f64b18dc2e5763320afdf973e575/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Art",
+      "deezerTitle": "Belgisches Viertel"
+    }
   },
   {
     "rank": 74,
@@ -901,12 +950,26 @@
   {
     "rank": 80,
     "artist": "Santos x Sido x Samra",
-    "title": "Leere Hände"
+    "title": "Leere Hände",
+    "deezer": {
+      "deezerID": 1303009942,
+      "deezerLink": "https://www.deezer.com/track/1303009942",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fe0d16754dde189ec44ff8fe18ed377b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Santos",
+      "deezerTitle": "Leere Hände"
+    }
   },
   {
     "rank": 81,
     "artist": "RAF Camora x Juju",
-    "title": "Wenn du mich siehst"
+    "title": "Wenn du mich siehst",
+    "deezer": {
+      "deezerID": 1754009037,
+      "deezerLink": "https://www.deezer.com/track/1754009037",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5a40755c4e299830e54a16e35697fd57/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "RAF Camora",
+      "deezerTitle": "Wenn du mich siehst"
+    }
   },
   {
     "rank": 82,
@@ -961,11 +1024,11 @@
     "artist": "Super-Hi x Neeka",
     "title": "Following The Sun",
     "deezer": {
-      "deezerID": 1852616587,
-      "deezerLink": "https://www.deezer.com/track/1852616587",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e2c2a543f7a92244ed2a635b0d08503e/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "NEEKA",
-      "deezerTitle": "Following El Sol"
+      "deezerID": 1436196472,
+      "deezerLink": "https://www.deezer.com/track/1436196472",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1cf98e43b5eca848e31520da5cd6c663/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "SUPER-Hi",
+      "deezerTitle": "Following the Sun"
     }
   },
   {
@@ -994,7 +1057,7 @@
   },
   {
     "rank": 89,
-    "artist": "Luna [DE]",
+    "artist": "Luna",
     "title": "Verlierer",
     "deezer": {
       "deezerID": 1143820532,
@@ -1033,9 +1096,9 @@
     "artist": "Doja Cat feat. SZA",
     "title": "Kiss Me More",
     "deezer": {
-      "deezerID": 1321495602,
-      "deezerLink": "https://www.deezer.com/track/1321495602",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a01ca085f6f58193d93a280c7afb04a7/500x500-000000-80-0-0.jpg",
+      "deezerID": 1416359352,
+      "deezerLink": "https://www.deezer.com/track/1416359352",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/197465c226ae2aa5c04d2112de322da2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Doja Cat",
       "deezerTitle": "Kiss Me More (feat. SZA)"
     }
@@ -1055,7 +1118,14 @@
   {
     "rank": 94,
     "artist": "Vize x Joker Bra x Leony",
-    "title": "Paradise"
+    "title": "Paradise",
+    "deezer": {
+      "deezerID": 1044967912,
+      "deezerLink": "https://www.deezer.com/track/1044967912",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/494c0587269de95f95ddcf4b068e8a06/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Vize",
+      "deezerTitle": "Paradise"
+    }
   },
   {
     "rank": 95,
@@ -1083,7 +1153,7 @@
   },
   {
     "rank": 97,
-    "artist": "HBz",
+    "artist": "HBZ",
     "title": "King Kong",
     "deezer": {
       "deezerID": 1372137322,
@@ -1098,9 +1168,9 @@
     "artist": "Internet Money & Gunna feat. Don Toliver & Nav",
     "title": "Lemonade",
     "deezer": {
-      "deezerID": 2493888291,
-      "deezerLink": "https://www.deezer.com/track/2493888291",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f2af2bf567516685af6c31779b6d7d5/500x500-000000-80-0-0.jpg",
+      "deezerID": 2497030721,
+      "deezerLink": "https://www.deezer.com/track/2497030721",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d0e47782cd55788cfcbf54670f58231/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Internet money",
       "deezerTitle": "Lemonade (feat. NAV)"
     }

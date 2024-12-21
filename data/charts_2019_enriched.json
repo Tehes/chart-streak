@@ -88,9 +88,9 @@
     "artist": "Ed Sheeran & Justin Bieber",
     "title": "I Don't Care",
     "deezer": {
-      "deezerID": 686630572,
-      "deezerLink": "https://www.deezer.com/track/686630572",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/df1eb3ecc8da74a07ad6280c4971cca8/500x500-000000-80-0-0.jpg",
+      "deezerID": 678017492,
+      "deezerLink": "https://www.deezer.com/track/678017492",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45a1c033dabe1e25689db3f8c9624042/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Ed Sheeran",
       "deezerTitle": "I Don't Care"
     }
@@ -98,7 +98,14 @@
   {
     "rank": 9,
     "artist": "Capital Bra x Samra",
-    "title": "Tilidin"
+    "title": "Tilidin",
+    "deezer": {
+      "deezerID": 696967382,
+      "deezerLink": "https://www.deezer.com/track/696967382",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c771055df562b28f8462a0866e4af04e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Tilidin"
+    }
   },
   {
     "rank": 10,
@@ -199,7 +206,14 @@
   {
     "rank": 18,
     "artist": "Mabel [UK]",
-    "title": "Don't Call Me Up"
+    "title": "Don't Call Me Up",
+    "deezer": {
+      "deezerID": 616963582,
+      "deezerLink": "https://www.deezer.com/track/616963582",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cd7b09177d233e7c11bd93bcaf466e5e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mabel",
+      "deezerTitle": "Don't Call Me Up"
+    }
   },
   {
     "rank": 19,
@@ -626,9 +640,9 @@
     "artist": "Shindy",
     "title": "Affalterbach",
     "deezer": {
-      "deezerID": 709543272,
-      "deezerLink": "https://www.deezer.com/track/709543272",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/88e4f2011df401899809a60600626b33/500x500-000000-80-0-0.jpg",
+      "deezerID": 654819072,
+      "deezerLink": "https://www.deezer.com/track/654819072",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8b028caa1c673ef67285a3c4c3e1aff/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shindy",
       "deezerTitle": "Affalterbach"
     }
@@ -648,7 +662,14 @@
   {
     "rank": 56,
     "artist": "Capital Bra x Samra",
-    "title": "Wir ticken"
+    "title": "Wir ticken",
+    "deezer": {
+      "deezerID": 646320332,
+      "deezerLink": "https://www.deezer.com/track/646320332",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/978a46f63f71042c0cb9552aafb155c3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Wir ticken"
+    }
   },
   {
     "rank": 57,
@@ -665,7 +686,14 @@
   {
     "rank": 58,
     "artist": "Kygo x Whitney Houston",
-    "title": "Higher Love"
+    "title": "Higher Love",
+    "deezer": {
+      "deezerID": 701281342,
+      "deezerLink": "https://www.deezer.com/track/701281342",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5f45ec14c6cc67e1428a60e3548be46c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Kygo",
+      "deezerTitle": "Higher Love"
+    }
   },
   {
     "rank": 59,
@@ -744,11 +772,11 @@
     "artist": "Lum!x & Gabry Ponte",
     "title": "Monster",
     "deezer": {
-      "deezerID": 2320335575,
-      "deezerLink": "https://www.deezer.com/track/2320335575",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/91816a86b96710a72e18778ec8889e3e/500x500-000000-80-0-0.jpg",
+      "deezerID": 666178752,
+      "deezerLink": "https://www.deezer.com/track/666178752",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91c0f3ac8dfddccacb734d540f02105b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "LUM!X",
-      "deezerTitle": "Monster (LUM!X VIP MIX)"
+      "deezerTitle": "Monster"
     }
   },
   {
@@ -768,9 +796,9 @@
     "artist": "R3hab x A Touch Of Class",
     "title": "All Around The World (La La La)",
     "deezer": {
-      "deezerID": 2877055612,
-      "deezerLink": "https://www.deezer.com/track/2877055612",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9a323dd75624343701b9d4198b80cce2/500x500-000000-80-0-0.jpg",
+      "deezerID": 657782312,
+      "deezerLink": "https://www.deezer.com/track/657782312",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/046f9e045773abcc90dd167763f7af01/500x500-000000-80-0-0.jpg",
       "deezerArtist": "R3HAB",
       "deezerTitle": "All Around The World (La La La)"
     }
@@ -838,7 +866,14 @@
   {
     "rank": 73,
     "artist": "Samra x Capital Bra",
-    "title": "Huracan"
+    "title": "Huracan",
+    "deezer": {
+      "deezerID": 743713052,
+      "deezerLink": "https://www.deezer.com/track/743713052",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1c794ef9385a5e937a28e0ab093488c2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samra",
+      "deezerTitle": "Huracan"
+    }
   },
   {
     "rank": 74,
@@ -903,7 +938,14 @@
   {
     "rank": 79,
     "artist": "Lena x Nico Santos",
-    "title": "Better"
+    "title": "Better",
+    "deezer": {
+      "deezerID": 729601632,
+      "deezerLink": "https://www.deezer.com/track/729601632",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9131e520eaddd0fd54499740ad8f1c2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Lena",
+      "deezerTitle": "Better"
+    }
   },
   {
     "rank": 80,
@@ -920,16 +962,23 @@
   {
     "rank": 81,
     "artist": "Samra x Capital Bra",
-    "title": "Zombie"
+    "title": "Zombie",
+    "deezer": {
+      "deezerID": 709627962,
+      "deezerLink": "https://www.deezer.com/track/709627962",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e33f47b8052282b62aea8aab88851d4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Samra",
+      "deezerTitle": "Zombie"
+    }
   },
   {
     "rank": 82,
     "artist": "Kerstin Ott & Helene Fischer",
     "title": "Regenbogenfarben",
     "deezer": {
-      "deezerID": 531244251,
-      "deezerLink": "https://www.deezer.com/track/531244251",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d2043781b7cd4b18b5ccfb157c089f88/500x500-000000-80-0-0.jpg",
+      "deezerID": 607895352,
+      "deezerLink": "https://www.deezer.com/track/607895352",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52d3b1a9fa010da0e6aee4692d580547/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kerstin Ott",
       "deezerTitle": "Regenbogenfarben"
     }
@@ -999,9 +1048,9 @@
     "artist": "RIN & Bausa",
     "title": "Keine Liebe",
     "deezer": {
-      "deezerID": 811114692,
-      "deezerLink": "https://www.deezer.com/track/811114692",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/da15ce5a696d08f0a050659c851a6295/500x500-000000-80-0-0.jpg",
+      "deezerID": 769313522,
+      "deezerLink": "https://www.deezer.com/track/769313522",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/623539deb1a3de55679b7c61976277e9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rin",
       "deezerTitle": "Keine Liebe"
     }
@@ -1117,7 +1166,14 @@
   {
     "rank": 98,
     "artist": "Capital Bra x Samra",
-    "title": "Nummer 1"
+    "title": "Nummer 1",
+    "deezer": {
+      "deezerID": 734470972,
+      "deezerLink": "https://www.deezer.com/track/734470972",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2585ff1cb26eae3f67fc50c5180f7cc2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Capital Bra",
+      "deezerTitle": "Nummer 1"
+    }
   },
   {
     "rank": 99,

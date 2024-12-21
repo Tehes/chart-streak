@@ -12,8 +12,10 @@ function cleanArtistName(artist) {
         .replace(/'/g, "") // Entferne einfache Apostrophe
         .replace(/’/g, "") // Entferne typografische Apostrophe
         .replace(/(feat\.|featuring|&|und|starring|pres\.|with).*$/gi, "") // Entferne alles ab den Begriffen
+        .replace(/\s+x\s+.*$/gi, "") // Entferne Kollaborationen mit ' x '
         .replace(/\./g, "") // Entferne Punkte aus Künstlernamen
-        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
+        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in runden Klammern
+        .replace(/\[[^\]]*\]/g, "") // Entferne Inhalte in eckigen Klammern
         .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen auf eines
         .trim(); // Entferne führende und nachfolgende Leerzeichen
 }
@@ -232,4 +234,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(2001, 2023).catch(console.error);
+enrichAllYears(2019, 2023).catch(console.error);

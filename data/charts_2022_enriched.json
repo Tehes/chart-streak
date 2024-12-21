@@ -100,9 +100,9 @@
     "artist": "Elton John & Dua Lipa",
     "title": "Cold Heart",
     "deezer": {
-      "deezerID": 1483915542,
-      "deezerLink": "https://www.deezer.com/track/1483915542",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e218791a06a77001733594856343c9fd/500x500-000000-80-0-0.jpg",
+      "deezerID": 1516899042,
+      "deezerLink": "https://www.deezer.com/track/1516899042",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Elton John",
       "deezerTitle": "Cold Heart"
     }
@@ -170,7 +170,14 @@
   {
     "rank": 15,
     "artist": "Ion Miles / SiraOne / BHZ",
-    "title": "Powerade"
+    "title": "Powerade",
+    "deezer": {
+      "deezerID": "2849923752",
+      "deezerLink": "https://www.deezer.com/track/2849923752",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5c1d84d5b748873ca6573dae4fa6021/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "BHZ",
+      "deezerTitle": "Powerade"
+    }
   },
   {
     "rank": 16,
@@ -201,11 +208,11 @@
     "artist": "Imagine Dragons x JID",
     "title": "Enemy",
     "deezer": {
-      "deezerID": 1535046792,
-      "deezerLink": "https://www.deezer.com/track/1535046792",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/59e97030824a55b87304485e549a2451/500x500-000000-80-0-0.jpg",
+      "deezerID": 2817563352,
+      "deezerLink": "https://www.deezer.com/track/2817563352",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8f656d53671853888652be6659617949/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Imagine Dragons",
-      "deezerTitle": "Enemy"
+      "deezerTitle": "Enemy (from the series Arcane League of Legends)"
     }
   },
   {
@@ -297,11 +304,11 @@
     "artist": "Shouse",
     "title": "Love Tonight",
     "deezer": {
-      "deezerID": 435303962,
-      "deezerLink": "https://www.deezer.com/track/435303962",
+      "deezerID": 435303972,
+      "deezerLink": "https://www.deezer.com/track/435303972",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2f7ad427688d524e6cdb59369b630b44/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shouse",
-      "deezerTitle": "Love Tonight"
+      "deezerTitle": "Love Tonight (Edit)"
     }
   },
   {
@@ -345,11 +352,11 @@
     "artist": "David Guetta & Bebe Rexha",
     "title": "I'm Good (Blue)",
     "deezer": {
-      "deezerID": 1936423177,
-      "deezerLink": "https://www.deezer.com/track/1936423177",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/74b51f872bd5f9c50e38b9d17de9c801/500x500-000000-80-0-0.jpg",
+      "deezerID": 1874467717,
+      "deezerLink": "https://www.deezer.com/track/1874467717",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88ce18db5ef5ec9d895b849228d70445/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
-      "deezerTitle": "I'M GOOD"
+      "deezerTitle": "I'm Good (Blue)"
     }
   },
   {
@@ -357,8 +364,8 @@
     "artist": "Öwnboss & Sevek",
     "title": "Move Your Body",
     "deezer": {
-      "deezerID": 1692556817,
-      "deezerLink": "https://www.deezer.com/track/1692556817",
+      "deezerID": 1514340882,
+      "deezerLink": "https://www.deezer.com/track/1514340882",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e38209b158e3a9a5eb63e5a799bf6da8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Öwnboss",
       "deezerTitle": "Move Your Body"
@@ -417,9 +424,9 @@
     "artist": "Kummer feat. Fred Rabe",
     "title": "Der letzte Song (Alles wird gut)",
     "deezer": {
-      "deezerID": 1543624002,
-      "deezerLink": "https://www.deezer.com/track/1543624002",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4351e77fb3c42446dcaf6710380dd0ae/500x500-000000-80-0-0.jpg",
+      "deezerID": 1566928472,
+      "deezerLink": "https://www.deezer.com/track/1566928472",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5ea6bdc060540d9d47407f4cdbc72ce1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "KUMMER",
       "deezerTitle": "DER LETZTE SONG (ALLES WIRD GUT)"
     }
@@ -583,7 +590,14 @@
   {
     "rank": 50,
     "artist": "Elley Duhé",
-    "title": "Middle Of The Night"
+    "title": "Middle Of The Night",
+    "deezer": {
+      "deezerID": "845927962",
+      "deezerLink": "https://www.deezer.com/track/845927962",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d75b61ef70ad84baaaea8f205dc101b6/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Elley Duhé",
+      "deezerTitle": "MIDDLE OF THE NIGHT"
+    }
   },
   {
     "rank": 51,
@@ -660,7 +674,14 @@
   {
     "rank": 57,
     "artist": "Glockenbach x ClockClock",
-    "title": "Brooklyn"
+    "title": "Brooklyn",
+    "deezer": {
+      "deezerID": 1509454442,
+      "deezerLink": "https://www.deezer.com/track/1509454442",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95dc21140bba44d1bcd6cc9be7a2bf2f/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Glockenbach",
+      "deezerTitle": "Brooklyn"
+    }
   },
   {
     "rank": 58,
@@ -893,7 +914,14 @@
   {
     "rank": 77,
     "artist": "Topic x A7S",
-    "title": "Kernkraft 400 (A Better Day)"
+    "title": "Kernkraft 400 (A Better Day)",
+    "deezer": {
+      "deezerID": 1786536327,
+      "deezerLink": "https://www.deezer.com/track/1786536327",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0222f0350deeea9e9af681959ff14b42/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Topic",
+      "deezerTitle": "Kernkraft 400 (A Better Day)"
+    }
   },
   {
     "rank": 78,
@@ -910,7 +938,14 @@
   {
     "rank": 79,
     "artist": "Riton x Nightcrawlers feat. Mufasa & Hypeman",
-    "title": "Friday (Dopamine Re-Edit)"
+    "title": "Friday (Dopamine Re-Edit)",
+    "deezer": {
+      "deezerID": 1178599842,
+      "deezerLink": "https://www.deezer.com/track/1178599842",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09e6c71f102c979723ea3ea1b3c185d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nightcrawlers",
+      "deezerTitle": "Friday (feat. Mufasa & Hypeman)"
+    }
   },
   {
     "rank": 80,
@@ -929,8 +964,8 @@
     "artist": "Nicky Youre & Dazy",
     "title": "Sunroof",
     "deezer": {
-      "deezerID": 1858151527,
-      "deezerLink": "https://www.deezer.com/track/1858151527",
+      "deezerID": 1858151477,
+      "deezerLink": "https://www.deezer.com/track/1858151477",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9b49a393d1769ae0fd5e3f7435ff9c3a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nicky Youre",
       "deezerTitle": "Sunroof"
@@ -989,9 +1024,9 @@
     "artist": "Coldplay x BTS",
     "title": "My Universe",
     "deezer": {
-      "deezerID": 1518077912,
-      "deezerLink": "https://www.deezer.com/track/1518077912",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1abb9a47ab25986493537b08f00c57d3/500x500-000000-80-0-0.jpg",
+      "deezerID": 1498546032,
+      "deezerLink": "https://www.deezer.com/track/1498546032",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9133002f605093482a187335b2dac24/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Coldplay",
       "deezerTitle": "My Universe"
     }
@@ -1025,11 +1060,11 @@
     "artist": "CKay feat. ElGrande Toto",
     "title": "Love Nwantiti (North African Remix)",
     "deezer": {
-      "deezerID": 752155092,
-      "deezerLink": "https://www.deezer.com/track/752155092",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ed3944c139089af1359c26d78843d435/500x500-000000-80-0-0.jpg",
+      "deezerID": 1053890812,
+      "deezerLink": "https://www.deezer.com/track/1053890812",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/75ae57364aac308391c0e7e5116facd1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "CKay",
-      "deezerTitle": "love nwantiti (ah ah ah)"
+      "deezerTitle": "love nwantiti (feat. ElGrande Toto)"
     }
   },
   {
@@ -1037,9 +1072,9 @@
     "artist": "Rema",
     "title": "Calm Down",
     "deezer": {
-      "deezerID": 1644464022,
-      "deezerLink": "https://www.deezer.com/track/1644464022",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3071378af24d789b8fc69e95162041e4/500x500-000000-80-0-0.jpg",
+      "deezerID": 1873297197,
+      "deezerLink": "https://www.deezer.com/track/1873297197",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d4291391724a969f243406cc92be66/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rema",
       "deezerTitle": "Calm Down"
     }
@@ -1049,11 +1084,11 @@
     "artist": "Pascal Letoublon feat. Leony",
     "title": "Friendships (Lost My Love)",
     "deezer": {
-      "deezerID": 1695933887,
-      "deezerLink": "https://www.deezer.com/track/1695933887",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cc10e54fe317b4358472147b85fd89ee/500x500-000000-80-0-0.jpg",
+      "deezerID": 1133387562,
+      "deezerLink": "https://www.deezer.com/track/1133387562",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/620d74ccae4cd7ee697566d197c02b9e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pascal Letoublon",
-      "deezerTitle": "Friendships"
+      "deezerTitle": "Friendships (Lost My Love)"
     }
   },
   {
@@ -1090,9 +1125,9 @@
     "artist": "Swedish House Mafia & The Weeknd",
     "title": "Moth To A Flame",
     "deezer": {
-      "deezerID": 1713175757,
-      "deezerLink": "https://www.deezer.com/track/1713175757",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9bd2f0768b8b53cb3338f546526796ec/500x500-000000-80-0-0.jpg",
+      "deezerID": 1793762327,
+      "deezerLink": "https://www.deezer.com/track/1793762327",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f5d3f860ea2542b6a99d13de7ccb4d47/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Swedish House Mafia",
       "deezerTitle": "Moth To A Flame"
     }
@@ -1102,9 +1137,9 @@
     "artist": "Bonez MC & RAF Camora",
     "title": "Letztes Mal",
     "deezer": {
-      "deezerID": 1817460847,
-      "deezerLink": "https://www.deezer.com/track/1817460847",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7c13a65989122c00bc8816c751a9b8e3/500x500-000000-80-0-0.jpg",
+      "deezerID": 1896477027,
+      "deezerLink": "https://www.deezer.com/track/1896477027",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cf228d3a090907230ad25de22f006bae/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bonez MC",
       "deezerTitle": "Letztes Mal"
     }

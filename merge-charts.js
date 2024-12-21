@@ -13,7 +13,8 @@ const outputFile = path.join(__dirname, "data/merged-charts.json");
 // Funktion zur Zusammenführung der Daten
 const mergeCharts = () => {
     const mergedData = {};
-    const seenDeezerIDs = new Map(); // Map für DeezerID und Jahr des ersten Vorkommens
+    const seenDeezerIDs = new Map(); // Map für DeezerID und deren Details
+    const ignoredSongs = []; // Liste für ignorierte Songs
 
     const files = fs.readdirSync(dataDir).sort(); // Ältere Jahre zuerst
 
@@ -42,15 +43,20 @@ const mergeCharts = () => {
 
                 const deezerID = song.deezer.deezerID;
                 if (seenDeezerIDs.has(deezerID)) {
-                    const firstYear = seenDeezerIDs.get(deezerID);
-                    console.log(
-                        `Song ignoriert (Duplikat): ${song.title} (${deezerID}), erstes Jahr: ${firstYear}, ignoriert in Jahr: ${currentYear}`
-                    );
+                    const { year: firstYear, rank: firstRank } = seenDeezerIDs.get(deezerID);
+                    ignoredSongs.push({
+                        Title: song.title,
+                        DeezerID: deezerID,
+                        "Erstes Jahr": firstYear,
+                        "Ignoriertes Jahr": currentYear,
+                        "Platzierung (ignoriert)": song.rank,
+                        "Platzierung (erstes Jahr)": firstRank,
+                    });
                     return;
                 }
 
                 mergedData[currentYear].push(song);
-                seenDeezerIDs.set(deezerID, currentYear); // DeezerID mit aktuellem Jahr registrieren
+                seenDeezerIDs.set(deezerID, { year: currentYear, rank: song.rank }); // DeezerID mit Jahr und Rank speichern
             });
         } catch (error) {
             console.error(`Fehler beim Verarbeiten der Datei ${file}:`, error.message);
@@ -68,6 +74,13 @@ const mergeCharts = () => {
         console.log(`Zusammengeführte Daten wurden in ${outputFile} gespeichert.`);
     } catch (error) {
         console.error(`Fehler beim Speichern der Datei: ${error.message}`);
+    }
+
+    // Zeige ignorierte Songs in einer Tabelle
+    if (ignoredSongs.length > 0) {
+        console.table(ignoredSongs);
+    } else {
+        console.log("Keine Duplikate gefunden.");
     }
 };
 

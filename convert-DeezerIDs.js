@@ -29,7 +29,6 @@ const processAllYears = () => {
                     const numericDeezerID = Number(song.deezer.deezerID);
                     if (!isNaN(numericDeezerID)) {
                         console.log(`Konvertiere DeezerID für Jahr ${year}:`, {
-                            Title: song.title,
                             OldDeezerID: song.deezer.deezerID,
                             NewDeezerID: numericDeezerID
                         });

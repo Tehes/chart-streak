@@ -26121,7 +26121,7 @@
       "artist": "Novaspace",
       "title": "Dancing With Tears In My Eyes 2004",
       "deezer": {
-        "deezerID": "2045592657",
+        "deezerID": 2045592657,
         "deezerLink": "https://www.deezer.com/track/2045592657",
         "cover": "https://cdn-images.dzcdn.net/images/cover/346eaf923e10edc4e56e5b87d89a3f58/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Novaspace",
@@ -26303,7 +26303,7 @@
       "artist": "Ch!pz",
       "title": "Ch!pz In Black (Who You Gonna Call)",
       "deezer": {
-        "deezerID": "728097702",
+        "deezerID": 728097702,
         "deezerLink": "https://www.deezer.com/track/728097702",
         "cover": "https://cdn-images.dzcdn.net/images/cover/7f6f177786b04e5ad240b15a2a684740/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Chipz",
@@ -26339,7 +26339,7 @@
       "artist": "Jay-Z / Linkin Park",
       "title": "Numb / Encore",
       "deezer": {
-        "deezerID": "676954",
+        "deezerID": 676954,
         "deezerLink": "https://www.deezer.com/track/676954",
         "cover": "https://cdn-images.dzcdn.net/images/cover/7245b8fe756d39f20a53020163168dbe/500x500-000000-80-0-0.jpg",
         "deezerArtist": "JAY-Z",
@@ -26567,7 +26567,7 @@
       "artist": "Christina Stürmer",
       "title": "Ich lebe [2005]",
       "deezer": {
-        "deezerID": "120685028",
+        "deezerID": 120685028,
         "deezerLink": "https://www.deezer.com/track/120685028",
         "cover": "https://cdn-images.dzcdn.net/images/cover/46e67bc54f4e0ef30f6bfea1291a7ad8/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Christina Stürmer",
@@ -26579,7 +26579,7 @@
       "artist": "Ch!pz",
       "title": "Cowboy",
       "deezer": {
-        "deezerID": "763636132",
+        "deezerID": 763636132,
         "deezerLink": "https://www.deezer.com/track/763636132",
         "cover": "https://cdn-images.dzcdn.net/images/cover/42e71302f0a3b956b3f0b1b432960b86/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Chipz",
@@ -26723,7 +26723,7 @@
       "artist": "Fettes Brot mit Finkenauer",
       "title": "An Tagen wie diesen",
       "deezer": {
-        "deezerID": "1758715947",
+        "deezerID": 1758715947,
         "deezerLink": "https://www.deezer.com/track/1758715947",
         "cover": "https://cdn-images.dzcdn.net/images/cover/53ac4c58ba7f34a62a720de634511b65/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Fettes Brot",
@@ -27275,7 +27275,7 @@
       "artist": "Pachanga",
       "title": "Loco",
       "deezer": {
-        "deezerID": "518817542",
+        "deezerID": 518817542,
         "deezerLink": "https://www.deezer.com/track/518817542",
         "cover": "https://cdn-images.dzcdn.net/images/cover/484799b2112f2daa7ea9bd4793666bef/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Pachanga",
@@ -27637,7 +27637,7 @@
       "artist": "Ch!pz",
       "title": "1001 Arabian Nights",
       "deezer": {
-        "deezerID": "743437582",
+        "deezerID": 743437582,
         "deezerLink": "https://www.deezer.com/track/743437582",
         "cover": "https://cdn-images.dzcdn.net/images/cover/3211a2dd8d526646115a9ea2b275632d/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Chipz",
@@ -30005,7 +30005,7 @@
       "artist": "Fettes Brot mit Modeselektor",
       "title": "Bettina zieh dir bitte etwas an",
       "deezer": {
-        "deezerID": "2096896557",
+        "deezerID": 2096896557,
         "deezerLink": "https://www.deezer.com/track/2096896557",
         "cover": "https://cdn-images.dzcdn.net/images/cover/55200530c07f2057d9a76586be7fbc1a/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Fettes Brot",
@@ -30185,7 +30185,7 @@
       "artist": "Lützenkirchen",
       "title": "3 Tage wach",
       "deezer": {
-        "deezerID": "1582062812",
+        "deezerID": 1582062812,
         "deezerLink": "https://www.deezer.com/track/1582062812",
         "cover": "https://cdn-images.dzcdn.net/images/cover/a131f531c9042ddc25310729ce7143fa/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Luetzenkirchen",
@@ -30233,7 +30233,7 @@
       "artist": "Olaf Henning",
       "title": "Cowboy und Indianer [Hit Version]",
       "deezer": {
-        "deezerID": "379270421",
+        "deezerID": 379270421,
         "deezerLink": "https://www.deezer.com/track/379270421",
         "cover": "https://cdn-images.dzcdn.net/images/cover/ad2f73afdf462fd68cece3e162d7753f/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Olaf Henning",
@@ -30329,7 +30329,7 @@
       "artist": "Sido",
       "title": "Augen auf / Halt dein Maul",
       "deezer": {
-        "deezerID": "474811732",
+        "deezerID": 474811732,
         "deezerLink": "https://www.deezer.com/track/474811732",
         "cover": "https://cdn-images.dzcdn.net/images/cover/04a2fc83d9eca9513c88ac1909f75dbb/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Sido",
@@ -30835,7 +30835,7 @@
       "artist": "Frauenarzt & Manny Marc",
       "title": "Das geht ab! (Wir feiern die ganze Nacht)",
       "deezer": {
-        "deezerID": "702871922",
+        "deezerID": 702871922,
         "deezerLink": "https://www.deezer.com/track/702871922",
         "cover": "https://cdn-images.dzcdn.net/images/cover/111b73f5d8f7f10c14656d012bc2df9d/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Die Atzen",
@@ -31183,7 +31183,7 @@
       "artist": "Curse mit Silbermond",
       "title": "Bis zum Schluss",
       "deezer": {
-        "deezerID": "1421497852",
+        "deezerID": 1421497852,
         "deezerLink": "https://www.deezer.com/track/1421497852",
         "cover": "https://cdn-images.dzcdn.net/images/cover/6c8f138cd496987851b204f7c413848d/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Curse",
@@ -31653,7 +31653,7 @@
       "artist": "Israel IZ Kamakawiwo'ole",
       "title": "Over The Rainbow",
       "deezer": {
-        "deezerID": "418130622",
+        "deezerID": 418130622,
         "deezerLink": "https://www.deezer.com/track/418130622",
         "cover": "https://cdn-images.dzcdn.net/images/cover/82eae07e8eda8a91ff1bcc0919807a71/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Israel Kamakawiwo'ole",
@@ -31761,7 +31761,7 @@
       "artist": "Ke$ha",
       "title": "TiK ToK",
       "deezer": {
-        "deezerID": "4764905",
+        "deezerID": 4764905,
         "deezerLink": "https://www.deezer.com/track/4764905",
         "cover": "https://cdn-images.dzcdn.net/images/cover/6b4c12d69aafd210b11bd74836ce3311/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Ke$ha",
@@ -31929,7 +31929,7 @@
       "artist": "Die Atzen (Frauenarzt & Manny Marc)",
       "title": "Disco Pogo",
       "deezer": {
-        "deezerID": "1366251182",
+        "deezerID": 1366251182,
         "deezerLink": "https://www.deezer.com/track/1366251182",
         "cover": "https://cdn-images.dzcdn.net/images/cover/96030e5fca2ee9514296ef9de0d89d74/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Die Atzen",
@@ -32313,7 +32313,7 @@
       "artist": "Jay-Z + Alicia Keys",
       "title": "Empire State Of Mind",
       "deezer": {
-        "deezerID": "90533119",
+        "deezerID": 90533119,
         "deezerLink": "https://www.deezer.com/track/90533119",
         "cover": "https://cdn-images.dzcdn.net/images/cover/e0edb930ad843bb002c04956a81ce7de/500x500-000000-80-0-0.jpg",
         "deezerArtist": "JAY-Z",
@@ -32529,7 +32529,7 @@
       "artist": "Aura Dione",
       "title": "Song For Sophie - I Hope She Flies",
       "deezer": {
-        "deezerID": "1392533",
+        "deezerID": 1392533,
         "deezerLink": "https://www.deezer.com/track/1392533",
         "cover": "https://cdn-images.dzcdn.net/images/cover/4c4399e58c16c032c70b640493994763/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Aura",
@@ -32541,7 +32541,7 @@
       "artist": "Die Fantastischen Vier",
       "title": "Gebt uns ruhig die Schuld - den Rest könnt ihr behalten",
       "deezer": {
-        "deezerID": "6082092",
+        "deezerID": 6082092,
         "deezerLink": "https://www.deezer.com/track/6082092",
         "cover": "https://cdn-images.dzcdn.net/images/cover/669b26e705c1cd59392dad3cc3160048/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Die Fantastischen Vier",
@@ -32673,7 +32673,7 @@
       "artist": "Cee Lo Green",
       "title": "Fuck You!",
       "deezer": {
-        "deezerID": "7303269",
+        "deezerID": 7303269,
         "deezerLink": "https://www.deezer.com/track/7303269",
         "cover": "https://cdn-images.dzcdn.net/images/cover/e267f32162f75d39149c924e421f857e/500x500-000000-80-0-0.jpg",
         "deezerArtist": "CeeLo Green",
@@ -33275,7 +33275,7 @@
       "artist": "Diddy Dirty Money feat. Skylar Grey",
       "title": "Coming Home",
       "deezer": {
-        "deezerID": "7988088",
+        "deezerID": 7988088,
         "deezerLink": "https://www.deezer.com/track/7988088",
         "cover": "https://cdn-images.dzcdn.net/images/cover/b44cdb356a07a172ae2abccc0045ef5b/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Diddy - Dirty Money",
@@ -33877,7 +33877,7 @@
       "artist": "DJ Antoine feat. The Beat Shakers",
       "title": "\"Ma chérie\"",
       "deezer": {
-        "deezerID": "17074763",
+        "deezerID": 17074763,
         "deezerLink": "https://www.deezer.com/track/17074763",
         "cover": "https://cdn-images.dzcdn.net/images/cover/54717e97cee6bcfa873110a9d76493ac/500x500-000000-80-0-0.jpg",
         "deezerArtist": "DJ Antoine",
@@ -33925,7 +33925,7 @@
       "artist": "Tacabro",
       "title": "Tacatá",
       "deezer": {
-        "deezerID": "2512495531",
+        "deezerID": 2512495531,
         "deezerLink": "https://www.deezer.com/track/2512495531",
         "cover": "https://cdn-images.dzcdn.net/images/cover/22d516efad8d2ee48128e6ba9290f05c/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Tacabro",
@@ -34729,7 +34729,7 @@
       "artist": "Far * East Movement feat. Justin Bieber",
       "title": "Live My Life",
       "deezer": {
-        "deezerID": "728269432",
+        "deezerID": 728269432,
         "deezerLink": "https://www.deezer.com/track/728269432",
         "cover": "https://cdn-images.dzcdn.net/images/cover/cc4a49e97b484db583ffc9ad88c5ba77/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Far East Movement",
@@ -35211,7 +35211,7 @@
       "artist": "Wax [US Rap]",
       "title": "Rosana",
       "deezer": {
-        "deezerID": "62824934",
+        "deezerID": 62824934,
         "deezerLink": "https://www.deezer.com/track/62824934",
         "cover": "https://cdn-images.dzcdn.net/images/cover/2debaac4add396dc6f6d732ea930fd60/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Wax",
@@ -35571,7 +35571,7 @@
       "artist": "Maxim",
       "title": "Meine Soldaten",
       "deezer": {
-        "deezerID": "66006335",
+        "deezerID": 66006335,
         "deezerLink": "https://www.deezer.com/track/66006335",
         "cover": "https://cdn-images.dzcdn.net/images/cover/7a16885c00902679a0a5052c0839c30b/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Maxim",
@@ -35583,7 +35583,7 @@
       "artist": "Wiz Khalifa feat. 2 Chainz",
       "title": "We Own It (Fast & Furious 6)",
       "deezer": {
-        "deezerID": "67344566",
+        "deezerID": 67344566,
         "deezerLink": "https://www.deezer.com/track/67344566",
         "cover": "https://cdn-images.dzcdn.net/images/cover/3dc90e4691d3f58eab63e4dfce0559bf/500x500-000000-80-0-0.jpg",
         "deezerArtist": "2 Chainz",
@@ -39047,7 +39047,7 @@
       "artist": "The Chainsmokers & Coldplay",
       "title": "Something Just Like This",
       "deezer": {
-        "deezerID": "142706538",
+        "deezerID": 142706538,
         "deezerLink": "https://www.deezer.com/track/142706538",
         "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Coldplay",
@@ -39083,7 +39083,7 @@
       "artist": "Axwell Λ Ingrosso",
       "title": "More Than You Know",
       "deezer": {
-        "deezerID": "362795841",
+        "deezerID": 362795841,
         "deezerLink": "https://www.deezer.com/track/362795841",
         "cover": "https://cdn-images.dzcdn.net/images/cover/f85129789df4495478e970a47b8f957f/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Axwell / Ingrosso",
@@ -39299,7 +39299,7 @@
       "artist": "Kay One feat. Pietro Lombardi",
       "title": "Señorita",
       "deezer": {
-        "deezerID": "400837582",
+        "deezerID": 400837582,
         "deezerLink": "https://www.deezer.com/track/400837582",
         "cover": "https://cdn-images.dzcdn.net/images/cover/88bad435ed5c605f1b84e538458a4cc0/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Kay One",
@@ -39923,7 +39923,7 @@
       "artist": "Alma",
       "title": "Chasing Highs",
       "deezer": {
-        "deezerID": "144828912",
+        "deezerID": 144828912,
         "deezerLink": "https://www.deezer.com/track/144828912",
         "cover": "https://cdn-images.dzcdn.net/images/cover/c78334f1344783a2962fe43be566dfd9/500x500-000000-80-0-0.jpg",
         "deezerArtist": "ALMA",
@@ -39959,7 +39959,7 @@
       "artist": "KC Rebell x Summer Cem",
       "title": "Murcielago",
       "deezer": {
-        "deezerID": "368439041",
+        "deezerID": 368439041,
         "deezerLink": "https://www.deezer.com/track/368439041",
         "cover": "https://cdn-images.dzcdn.net/images/cover/70140540b5e0a7b3b54853666c228ead/500x500-000000-80-0-0.jpg",
         "deezerArtist": "KC Rebell",
@@ -40177,7 +40177,7 @@
       "artist": "El Profesor",
       "title": "Bella ciao (Hugel Remix)",
       "deezer": {
-        "deezerID": "486717512",
+        "deezerID": 486717512,
         "deezerLink": "https://www.deezer.com/track/486717512",
         "cover": "https://cdn-images.dzcdn.net/images/cover/6fdc0721f216b653f663e1ca0a0b812e/500x500-000000-80-0-0.jpg",
         "deezerArtist": "El Profesor",
@@ -40477,7 +40477,7 @@
       "artist": "Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya",
       "title": "So Far Away",
       "deezer": {
-        "deezerID": "431492032",
+        "deezerID": 431492032,
         "deezerLink": "https://www.deezer.com/track/431492032",
         "cover": "https://cdn-images.dzcdn.net/images/cover/b3b122c4a71ddcae575bcbbbff785fcb/500x500-000000-80-0-0.jpg",
         "deezerArtist": "David Guetta",
@@ -40789,7 +40789,7 @@
       "artist": "Eli",
       "title": "Change Your Mind",
       "deezer": {
-        "deezerID": "482869212",
+        "deezerID": 482869212,
         "deezerLink": "https://www.deezer.com/track/482869212",
         "cover": "https://cdn-images.dzcdn.net/images/cover/400bac83401aea0e5e8b92e47544c6d3/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Eli",
@@ -42449,7 +42449,7 @@
       "artist": "Dua Lipa",
       "title": "Don't Start Now",
       "deezer": {
-        "deezerID": "788708262",
+        "deezerID": 788708262,
         "deezerLink": "https://www.deezer.com/track/788708262",
         "cover": "https://cdn-images.dzcdn.net/images/cover/1ed09baa6f27de521f9837d22545ee5b/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Dua Lipa",
@@ -44385,7 +44385,7 @@
       "artist": "Ion Miles / SiraOne / BHZ",
       "title": "Powerade",
       "deezer": {
-        "deezerID": "2849923752",
+        "deezerID": 2849923752,
         "deezerLink": "https://www.deezer.com/track/2849923752",
         "cover": "https://cdn-images.dzcdn.net/images/cover/c5c1d84d5b748873ca6573dae4fa6021/500x500-000000-80-0-0.jpg",
         "deezerArtist": "BHZ",
@@ -44733,7 +44733,7 @@
       "artist": "Elley Duhé",
       "title": "Middle Of The Night",
       "deezer": {
-        "deezerID": "845927962",
+        "deezerID": 845927962,
         "deezerLink": "https://www.deezer.com/track/845927962",
         "cover": "https://cdn-images.dzcdn.net/images/cover/d75b61ef70ad84baaaea8f205dc101b6/500x500-000000-80-0-0.jpg",
         "deezerArtist": "Elley Duhé",

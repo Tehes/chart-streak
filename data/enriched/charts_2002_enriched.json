@@ -69,7 +69,7 @@
     "artist": "Tiziano Ferro",
     "title": "Perdono",
     "deezer": {
-      "deezerID": "90581917",
+      "deezerID": 90581917,
       "deezerLink": "https://www.deezer.com/track/90581917",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cd8132b2f60243170885f53439a15829/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tiziano Ferro",
@@ -477,7 +477,7 @@
     "artist": "Will Smith intr. Tra-Knox",
     "title": "Black Suits Comin' (Nod Ya Head)",
     "deezer": {
-      "deezerID": "14892806",
+      "deezerID": 14892806,
       "deezerLink": "https://www.deezer.com/track/14892806",
       "cover": "https://cdn-images.dzcdn.net/images/cover/43356c3ef4c48c441f00147b40397e22/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Will Smith introducing TRÂ-KNOX",
@@ -804,7 +804,7 @@
     "artist": "Master P",
     "title": "Ooohhhwee",
     "deezer": {
-      "deezerID": "2418293465",
+      "deezerID": 2418293465,
       "deezerLink": "https://www.deezer.com/track/2418293465",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1c7f27c472b012ea6e5093638defe8d1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Master P",
@@ -840,7 +840,7 @@
     "artist": "'N Sync feat. Nelly",
     "title": "Girlfriend (Remix)",
     "deezer": {
-      "deezerID": "14880685",
+      "deezerID": 14880685,
       "deezerLink": "https://www.deezer.com/track/14880685",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9c86390863bc26a71e43318402a8d293/500x500-000000-80-0-0.jpg",
       "deezerArtist": "*NSYNC",
@@ -876,7 +876,7 @@
     "artist": "Mark 'Oh Meets Digital Rockers",
     "title": "Because I Love You",
     "deezer": {
-      "deezerID": "61533520",
+      "deezerID": 61533520,
       "deezerLink": "https://www.deezer.com/track/61533520",
       "cover": "https://cdn-images.dzcdn.net/images/cover/11fcec633a66c8cc38d863a6b9855247/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mark 'Oh",
@@ -1019,13 +1019,13 @@
     "rank": 88,
     "artist": "Nelly",
     "title": "#1",
-      "deezer": {
-        "deezerID": "2447449",
-        "deezerLink": "https://www.deezer.com/track/2447449",
-        "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/500x500-000000-80-0-0.jpg",
-        "deezerArtist": "Nelly",
-        "deezerTitle": "#1"
-      }
+    "deezer": {
+      "deezerID": 2447449,
+      "deezerLink": "https://www.deezer.com/track/2447449",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nelly",
+      "deezerTitle": "#1"
+    }
   },
   {
     "rank": 89,
@@ -1067,13 +1067,13 @@
     "rank": 92,
     "artist": "Right Said Fred",
     "title": "Lovesong",
-      "deezer": {
-        "deezerID": "2120015157",
-        "deezerLink": "https://www.deezer.com/track/2120015157",
-        "cover": "https://cdn-images.dzcdn.net/images/cover/e8dfc44c8088ad5f7ef13728d4517508/500x500-000000-80-0-0.jpg",
-        "deezerArtist": "Right Said Fred",
-        "deezerTitle": "Love Song"
-      }
+    "deezer": {
+      "deezerID": 2120015157,
+      "deezerLink": "https://www.deezer.com/track/2120015157",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8dfc44c8088ad5f7ef13728d4517508/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Right Said Fred",
+      "deezerTitle": "Love Song"
+    }
   },
   {
     "rank": 93,

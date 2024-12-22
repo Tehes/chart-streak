@@ -816,7 +816,7 @@
     "artist": "Scooter",
     "title": "Posse - I Need You On The Floor",
     "deezer": {
-      "deezerID": "2168791397",
+      "deezerID": 2168791397,
       "deezerLink": "https://www.deezer.com/track/2168791397",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b59f0ab1628e28db545386acf53a6ff5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Scooter",
@@ -852,7 +852,7 @@
     "artist": "R. Kelly feat. Jay-Z and Boo & Gotti",
     "title": "Fiesta (Remix)",
     "deezer": {
-      "deezerID": "629328",
+      "deezerID": 629328,
       "deezerLink": "https://www.deezer.com/track/629328",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc7637895e982429854e76d654fbf0fc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "R. Kelly",
@@ -1104,12 +1104,12 @@
     "artist": "Sofaplanet",
     "title": "Liebficken",
     "deezer": {
-  "deezerID": "2546110362",
-  "deezerLink": "https://www.deezer.com/track/2546110362",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/470d44adc784a0e9134a2dcede0eb5d8/500x500-000000-80-0-0.jpg",
-  "deezerArtist": "Sofaplanet",
-  "deezerTitle": "Liebficken"
-}
+      "deezerID": 2546110362,
+      "deezerLink": "https://www.deezer.com/track/2546110362",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/470d44adc784a0e9134a2dcede0eb5d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sofaplanet",
+      "deezerTitle": "Liebficken"
+    }
   },
   {
     "rank": 96,

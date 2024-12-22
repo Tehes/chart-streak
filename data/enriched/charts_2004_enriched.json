@@ -40,7 +40,7 @@
     "artist": "Eamon",
     "title": "Fuck It (I Don't Want You Back)",
     "deezer": {
-      "deezerID": "599423",
+      "deezerID": 599423,
       "deezerLink": "https://www.deezer.com/track/599423",
       "cover": "https://cdn-images.dzcdn.net/images/cover/858099fdcd613eb37f92db466979f374/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Eamon",
@@ -184,7 +184,7 @@
     "artist": "Bluelagoon",
     "title": "Break My Stride",
     "deezer": {
-      "deezerID": "2045618747",
+      "deezerID": 2045618747,
       "deezerLink": "https://www.deezer.com/track/2045618747",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e9e55a074c22f7efb9c53092b5866808/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Blue Lagoon",
@@ -732,7 +732,7 @@
     "artist": "Tupac feat. The Notorious B.I.G.",
     "title": "Runnin' (Dying To Live) [2003]",
     "deezer": {
-      "deezerID": "646309972",
+      "deezerID": 646309972,
       "deezerLink": "https://www.deezer.com/track/646309972",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e6756021e1ec3c270875ddaa05b3ff7b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "2Pac",

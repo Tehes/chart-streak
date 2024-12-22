@@ -42,15 +42,24 @@ const mergeCharts = () => {
                 }
 
                 const deezerID = song.deezer.deezerID;
+
+                if (typeof deezerID === "string") {
+                    console.log(`Achtung: DeezerID ist ein String:`, {
+                        Year: currentYear,
+                        Rank: song.rank
+                    });
+                }
+
                 if (seenDeezerIDs.has(deezerID)) {
                     const { year: firstYear, rank: firstRank } = seenDeezerIDs.get(deezerID);
                     ignoredSongs.push({
                         Title: song.title,
                         DeezerID: deezerID,
                         "Erstes Jahr": firstYear,
-                        "Ignoriertes Jahr": currentYear,
-                        "Platzierung (ignoriert)": song.rank,
                         "Platzierung (erstes Jahr)": firstRank,
+                        "Ignoriertes Jahr": currentYear,
+                        "Platzierung (ignoriert)": song.rank
+
                     });
                     return;
                 }

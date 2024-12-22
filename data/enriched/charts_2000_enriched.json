@@ -314,7 +314,7 @@
     "artist": "Tom Jones and Mousse T.",
     "title": "Sex Bomb",
     "deezer": {
-      "deezerID": "2459527",
+      "deezerID": 2459527,
       "deezerLink": "https://www.deezer.com/track/2459527",
       "cover": "https://cdn-images.dzcdn.net/images/cover/be7a8eaf564cca20a4e76a72cb39aa74/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tom Jones",
@@ -374,7 +374,7 @@
     "artist": "Jan Delay a. k. a. Eissfeldt feat. Dennis Dubplate / Absolute Beginner",
     "title": "Irgendwie, irgendwo, irgendwann",
     "deezer": {
-      "deezerID": "779967292",
+      "deezerID": 779967292,
       "deezerLink": "https://www.deezer.com/track/779967292",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1e854eeabc44ec22701b19cf3c6ad7bd/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jan Delay",
@@ -487,7 +487,7 @@
     "artist": "Whitney Houston & Enrique Iglesias",
     "title": "Could I Have This Kiss Forever",
     "deezer": {
-      "deezerID": "765849122",
+      "deezerID": 765849122,
       "deezerLink": "https://www.deezer.com/track/765849122",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Enrique Iglesias",
@@ -571,7 +571,7 @@
     "artist": "*N Sync",
     "title": "Bye Bye Bye",
     "deezer": {
-      "deezerID": "632447",
+      "deezerID": 632447,
       "deezerLink": "https://www.deezer.com/track/632447",
       "cover": "https://cdn-images.dzcdn.net/images/cover/01fdca2ecf54d678ff005162b5b6cc92/500x500-000000-80-0-0.jpg",
       "deezerArtist": "*NSYNC",
@@ -583,7 +583,7 @@
     "artist": "Olsen Brothers",
     "title": "Fly On The Wings Of Love",
     "deezer": {
-      "deezerID": "9831968",
+      "deezerID": 9831968,
       "deezerLink": "https://www.deezer.com/track/9831968",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dbdcd92bf95195e4df5faf90c8af99ec/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Brødrene Olsen",
@@ -655,7 +655,7 @@
     "artist": "Manu Chao avec Anouk",
     "title": "Bongo Bong - Je ne t'aime plus",
     "deezer": {
-      "deezerID": "71590747",
+      "deezerID": 71590747,
       "deezerLink": "https://www.deezer.com/track/71590747",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d8799322e229f514cc543874e7726517/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Manu Chao",
@@ -816,7 +816,7 @@
     "artist": "Blink 182",
     "title": "All The Small Things",
     "deezer": {
-      "deezerID": "127354207",
+      "deezerID": 127354207,
       "deezerLink": "https://www.deezer.com/track/127354207",
       "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "blink-182",
@@ -977,7 +977,7 @@
     "artist": "H-Blockx vs. Dr. Ring-Ding",
     "title": "Ring Of Fire",
     "deezer": {
-      "deezerID": "1163041",
+      "deezerID": 1163041,
       "deezerLink": "https://www.deezer.com/track/1163041",
       "cover": "https://cdn-images.dzcdn.net/images/cover/52db69c03ff66791cf32b138778d889d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "H-Blockx",
@@ -1013,7 +1013,7 @@
     "artist": "Music Instructor feat. Dean",
     "title": "Super Fly (Upper MC)",
     "deezer": {
-      "deezerID": "1542644892",
+      "deezerID": 1542644892,
       "deezerLink": "https://www.deezer.com/track/1542644892",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9826bd2c31efe88d8c2efe4a76c5bd1f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Music Instructor",

@@ -544,7 +544,7 @@
     "artist": "Fettes Brot mit Modeselektor",
     "title": "Bettina zieh dir bitte etwas an",
     "deezer": {
-      "deezerID": "2096896557",
+      "deezerID": 2096896557,
       "deezerLink": "https://www.deezer.com/track/2096896557",
       "cover": "https://cdn-images.dzcdn.net/images/cover/55200530c07f2057d9a76586be7fbc1a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fettes Brot",
@@ -724,7 +724,7 @@
     "artist": "Lützenkirchen",
     "title": "3 Tage wach",
     "deezer": {
-      "deezerID": "1582062812",
+      "deezerID": 1582062812,
       "deezerLink": "https://www.deezer.com/track/1582062812",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a131f531c9042ddc25310729ce7143fa/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Luetzenkirchen",
@@ -772,7 +772,7 @@
     "artist": "Olaf Henning",
     "title": "Cowboy und Indianer [Hit Version]",
     "deezer": {
-      "deezerID": "379270421",
+      "deezerID": 379270421,
       "deezerLink": "https://www.deezer.com/track/379270421",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ad2f73afdf462fd68cece3e162d7753f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Olaf Henning",
@@ -868,7 +868,7 @@
     "artist": "Sido",
     "title": "Augen auf / Halt dein Maul",
     "deezer": {
-      "deezerID": "474811732",
+      "deezerID": 474811732,
       "deezerLink": "https://www.deezer.com/track/474811732",
       "cover": "https://cdn-images.dzcdn.net/images/cover/04a2fc83d9eca9513c88ac1909f75dbb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sido",

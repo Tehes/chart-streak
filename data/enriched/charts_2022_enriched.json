@@ -172,7 +172,7 @@
     "artist": "Ion Miles / SiraOne / BHZ",
     "title": "Powerade",
     "deezer": {
-      "deezerID": "2849923752",
+      "deezerID": 2849923752,
       "deezerLink": "https://www.deezer.com/track/2849923752",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c5c1d84d5b748873ca6573dae4fa6021/500x500-000000-80-0-0.jpg",
       "deezerArtist": "BHZ",
@@ -592,7 +592,7 @@
     "artist": "Elley Duhé",
     "title": "Middle Of The Night",
     "deezer": {
-      "deezerID": "845927962",
+      "deezerID": 845927962,
       "deezerLink": "https://www.deezer.com/track/845927962",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d75b61ef70ad84baaaea8f205dc101b6/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Elley Duhé",

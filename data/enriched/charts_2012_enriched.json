@@ -160,7 +160,7 @@
     "artist": "DJ Antoine feat. The Beat Shakers",
     "title": "\"Ma chérie\"",
     "deezer": {
-      "deezerID": "17074763",
+      "deezerID": 17074763,
       "deezerLink": "https://www.deezer.com/track/17074763",
       "cover": "https://cdn-images.dzcdn.net/images/cover/54717e97cee6bcfa873110a9d76493ac/500x500-000000-80-0-0.jpg",
       "deezerArtist": "DJ Antoine",
@@ -208,7 +208,7 @@
     "artist": "Tacabro",
     "title": "Tacatá",
     "deezer": {
-      "deezerID": "2512495531",
+      "deezerID": 2512495531,
       "deezerLink": "https://www.deezer.com/track/2512495531",
       "cover": "https://cdn-images.dzcdn.net/images/cover/22d516efad8d2ee48128e6ba9290f05c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tacabro",
@@ -1137,7 +1137,7 @@
     "artist": "Far * East Movement feat. Justin Bieber",
     "title": "Live My Life",
     "deezer": {
-      "deezerID": "728269432",
+      "deezerID": 728269432,
       "deezerLink": "https://www.deezer.com/track/728269432",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cc4a49e97b484db583ffc9ad88c5ba77/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Far East Movement",

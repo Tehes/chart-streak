@@ -448,7 +448,7 @@
     "artist": "Wax [US Rap]",
     "title": "Rosana",
     "deezer": {
-      "deezerID": "62824934",
+      "deezerID": 62824934,
       "deezerLink": "https://www.deezer.com/track/62824934",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2debaac4add396dc6f6d732ea930fd60/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wax",
@@ -892,7 +892,7 @@
     "artist": "Maxim",
     "title": "Meine Soldaten",
     "deezer": {
-      "deezerID": "66006335",
+      "deezerID": 66006335,
       "deezerLink": "https://www.deezer.com/track/66006335",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7a16885c00902679a0a5052c0839c30b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Maxim",
@@ -904,7 +904,7 @@
     "artist": "Wiz Khalifa feat. 2 Chainz",
     "title": "We Own It (Fast & Furious 6)",
     "deezer": {
-      "deezerID": "67344566",
+      "deezerID": 67344566,
       "deezerLink": "https://www.deezer.com/track/67344566",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3dc90e4691d3f58eab63e4dfce0559bf/500x500-000000-80-0-0.jpg",
       "deezerArtist": "2 Chainz",

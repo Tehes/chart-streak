@@ -3,13 +3,13 @@
     "rank": 1,
     "artist": "Israel IZ Kamakawiwo'ole",
     "title": "Over The Rainbow",
-      "deezer": {
-        "deezerID": "418130622",
-        "deezerLink": "https://www.deezer.com/track/418130622",
-        "cover": "https://cdn-images.dzcdn.net/images/cover/82eae07e8eda8a91ff1bcc0919807a71/500x500-000000-80-0-0.jpg",
-        "deezerArtist": "Israel Kamakawiwo'ole",
-        "deezerTitle": "Over the Rainbow"
-      }
+    "deezer": {
+      "deezerID": 418130622,
+      "deezerLink": "https://www.deezer.com/track/418130622",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82eae07e8eda8a91ff1bcc0919807a71/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Israel Kamakawiwo'ole",
+      "deezerTitle": "Over the Rainbow"
+    }
   },
   {
     "rank": 2,
@@ -112,7 +112,7 @@
     "artist": "Ke$ha",
     "title": "TiK ToK",
     "deezer": {
-      "deezerID": "4764905",
+      "deezerID": 4764905,
       "deezerLink": "https://www.deezer.com/track/4764905",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6b4c12d69aafd210b11bd74836ce3311/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Ke$ha",
@@ -292,7 +292,7 @@
     "artist": "Die Atzen (Frauenarzt & Manny Marc)",
     "title": "Disco Pogo",
     "deezer": {
-      "deezerID": "1366251182",
+      "deezerID": 1366251182,
       "deezerLink": "https://www.deezer.com/track/1366251182",
       "cover": "https://cdn-images.dzcdn.net/images/cover/96030e5fca2ee9514296ef9de0d89d74/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Atzen",
@@ -688,7 +688,7 @@
     "artist": "Frauenarzt & Manny Marc",
     "title": "Das geht ab! (Wir feiern die ganze Nacht)",
     "deezer": {
-      "deezerID": "702871922",
+      "deezerID": 702871922,
       "deezerLink": "https://www.deezer.com/track/702871922",
       "cover": "https://cdn-images.dzcdn.net/images/cover/111b73f5d8f7f10c14656d012bc2df9d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Atzen",
@@ -760,7 +760,7 @@
     "artist": "Jay-Z + Alicia Keys",
     "title": "Empire State Of Mind",
     "deezer": {
-      "deezerID": "90533119",
+      "deezerID": 90533119,
       "deezerLink": "https://www.deezer.com/track/90533119",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e0edb930ad843bb002c04956a81ce7de/500x500-000000-80-0-0.jpg",
       "deezerArtist": "JAY-Z",
@@ -1000,7 +1000,7 @@
     "artist": "Aura Dione",
     "title": "Song For Sophie - I Hope She Flies",
     "deezer": {
-      "deezerID": "1392533",
+      "deezerID": 1392533,
       "deezerLink": "https://www.deezer.com/track/1392533",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4c4399e58c16c032c70b640493994763/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Aura",
@@ -1012,7 +1012,7 @@
     "artist": "Die Fantastischen Vier",
     "title": "Gebt uns ruhig die Schuld - den Rest könnt ihr behalten",
     "deezer": {
-      "deezerID": "6082092",
+      "deezerID": 6082092,
       "deezerLink": "https://www.deezer.com/track/6082092",
       "cover": "https://cdn-images.dzcdn.net/images/cover/669b26e705c1cd59392dad3cc3160048/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Fantastischen Vier",
@@ -1156,7 +1156,7 @@
     "artist": "Cee Lo Green",
     "title": "Fuck You!",
     "deezer": {
-      "deezerID": "7303269",
+      "deezerID": 7303269,
       "deezerLink": "https://www.deezer.com/track/7303269",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e267f32162f75d39149c924e421f857e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "CeeLo Green",

@@ -268,7 +268,7 @@
     "artist": "Frauenarzt & Manny Marc",
     "title": "Das geht ab! (Wir feiern die ganze Nacht)",
     "deezer": {
-      "deezerID": "702871922",
+      "deezerID": 702871922,
       "deezerLink": "https://www.deezer.com/track/702871922",
       "cover": "https://cdn-images.dzcdn.net/images/cover/111b73f5d8f7f10c14656d012bc2df9d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Atzen",
@@ -664,7 +664,7 @@
     "artist": "Curse mit Silbermond",
     "title": "Bis zum Schluss",
     "deezer": {
-      "deezerID": "1421497852",
+      "deezerID": 1421497852,
       "deezerLink": "https://www.deezer.com/track/1421497852",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6c8f138cd496987851b204f7c413848d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Curse",

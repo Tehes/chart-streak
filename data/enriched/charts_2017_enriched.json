@@ -28,7 +28,7 @@
     "artist": "The Chainsmokers & Coldplay",
     "title": "Something Just Like This",
     "deezer": {
-      "deezerID": "142706538",
+      "deezerID": 142706538,
       "deezerLink": "https://www.deezer.com/track/142706538",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Coldplay",
@@ -64,7 +64,7 @@
     "artist": "Axwell Λ Ingrosso",
     "title": "More Than You Know",
     "deezer": {
-      "deezerID": "362795841",
+      "deezerID": 362795841,
       "deezerLink": "https://www.deezer.com/track/362795841",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f85129789df4495478e970a47b8f957f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Axwell / Ingrosso",
@@ -292,7 +292,7 @@
     "artist": "Kay One feat. Pietro Lombardi",
     "title": "Señorita",
     "deezer": {
-      "deezerID": "400837582",
+      "deezerID": 400837582,
       "deezerLink": "https://www.deezer.com/track/400837582",
       "cover": "https://cdn-images.dzcdn.net/images/cover/88bad435ed5c605f1b84e538458a4cc0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kay One",
@@ -940,7 +940,7 @@
     "artist": "Alma",
     "title": "Chasing Highs",
     "deezer": {
-      "deezerID": "144828912",
+      "deezerID": 144828912,
       "deezerLink": "https://www.deezer.com/track/144828912",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c78334f1344783a2962fe43be566dfd9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "ALMA",
@@ -976,7 +976,7 @@
     "artist": "KC Rebell x Summer Cem",
     "title": "Murcielago",
     "deezer": {
-      "deezerID": "368439041",
+      "deezerID": 368439041,
       "deezerLink": "https://www.deezer.com/track/368439041",
       "cover": "https://cdn-images.dzcdn.net/images/cover/70140540b5e0a7b3b54853666c228ead/500x500-000000-80-0-0.jpg",
       "deezerArtist": "KC Rebell",

@@ -1,3 +1,4 @@
+import { START_YEAR, END_YEAR } from "../config.js";
 import puppeteer from "puppeteer"; // Puppeteer importieren
 import fs from "fs"; // File System importieren
 import path from "path"; // Importiere path für plattformübergreifende Pfade
@@ -53,10 +54,10 @@ async function scrapeYear(year) {
     }
 }
 
-async function scrapeAllYears(startYear, endYear) {
+async function scrapeAllYears() {
     const allData = {};
 
-    for (let year = startYear; year <= endYear; year++) {
+    for (let year = START_YEAR; year <= END_YEAR; year++) {
         const filePath = path.join(chartsDir, `charts_${year}.json`);
 
         // Fortschritt sichern: Überspringe Jahre, die bereits gespeichert wurden
@@ -78,4 +79,4 @@ async function scrapeAllYears(startYear, endYear) {
 }
 
 // Starte den Scraping-Prozess
-scrapeAllYears(1978, 2024).catch(console.error);
+scrapeAllYears().catch(console.error);

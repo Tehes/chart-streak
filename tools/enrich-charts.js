@@ -1,3 +1,4 @@
+import { START_YEAR, END_YEAR } from "../config.js";
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -226,8 +227,8 @@ async function enrichYear(year) {
 }
 
 // Alle Jahre anreichern
-async function enrichAllYears(startYear, endYear) {
-    for (let year = startYear; year <= endYear; year++) {
+async function enrichAllYears() {
+    for (let year = START_YEAR; year <= END_YEAR; year++) {
         console.log(`Processing year ${year}...`);
         const start = Date.now();
 
@@ -246,4 +247,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(1978, 2024).catch(console.error);
+enrichAllYears().catch(console.error);

@@ -1,3 +1,4 @@
+import { START_YEAR, END_YEAR } from "../config.js";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -72,7 +73,7 @@ const mergeCharts = () => {
         }
     });
 
-    for (let year = 1978; year <= 2024; year++) {
+    for (let year = START_YEAR; year <= END_YEAR; year++) {
         if (!mergedData[year]) {
             mergedData[year] = [];
         }

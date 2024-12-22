@@ -1,3 +1,4 @@
+import { START_YEAR, END_YEAR } from "../config.js";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -11,7 +12,7 @@ const dataDir = path.join(__dirname, "../data/enriched");
 
 // Funktion zum Konvertieren von DeezerIDs und Überschreiben der Dateien
 const processAllYears = () => {
-    for (let year = 1978; year <= 2024; year++) {
+    for (let year = START_YEAR; year <= END_YEAR; year++) {
         const filePath = path.join(dataDir, `charts_${year}_enriched.json`);
 
         try {

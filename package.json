@@ -4,7 +4,10 @@
   "description": "Scraping and building JSON data for Chart Streak.",
   "type": "module",
   "scripts": {
-    "start": "node scrape-charts.js"
+    "scrape-charts": "node tools/scrape-charts.js",
+    "convert-deezer-ids": "node tools/convert-Deezer-ids.js",
+    "enrich-charts": "node tools/enrich-charts.js",
+    "merge-charts": "node tools/merge-charts.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2",

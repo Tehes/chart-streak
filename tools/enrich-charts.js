@@ -1,9 +1,15 @@
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
+import { fileURLToPath } from "url";
 
-const chartsDir = path.resolve("data", "charts");
-const enrichedDir = path.resolve("data", "enriched");
+// __dirname für ESM-Module definieren
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Angepasste Pfade
+const chartsDir = path.resolve(__dirname, "../data/charts");
+const enrichedDir = path.resolve(__dirname, "../data/enriched");
 const deezerBaseURL = "https://api.deezer.com/search?q=";
 
 // Stelle sicher, dass die notwendigen Ordner existieren
@@ -240,4 +246,4 @@ async function enrichAllYears(startYear, endYear) {
 }
 
 // Starte den Anreicherungsprozess
-enrichAllYears(2019, 2024).catch(console.error);
+enrichAllYears(1978, 2024).catch(console.error);

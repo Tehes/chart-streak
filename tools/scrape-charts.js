@@ -1,9 +1,13 @@
 import puppeteer from "puppeteer"; // Puppeteer importieren
 import fs from "fs"; // File System importieren
 import path from "path"; // Importiere path für plattformübergreifende Pfade
+import { fileURLToPath } from "url"; // Für __dirname in ESM-Modulen
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Stelle sicher, dass der Ordner 'data' existiert
-const chartsDir = path.resolve("data", "charts");
+const chartsDir = path.resolve(__dirname, "../data/charts");
 if (!fs.existsSync(chartsDir)) {
     fs.mkdirSync(chartsDir, { recursive: true }); // Erstelle den Ordner, falls er nicht existiert
 }

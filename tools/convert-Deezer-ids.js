@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Verzeichnis definieren
-const dataDir = path.join(__dirname, "data/enriched");
+const dataDir = path.join(__dirname, "../data/enriched");
 
 // Funktion zum Konvertieren von DeezerIDs und Überschreiben der Dateien
 const processAllYears = () => {

@@ -7,8 +7,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Verzeichnisse und Zielpfad definieren
-const dataDir = path.join(__dirname, "data/enriched");
-const outputFile = path.join(__dirname, "data/merged-charts.json");
+const dataDir = path.join(__dirname, "../data/enriched");
+const outputFile = path.join(__dirname, "../data/merged-charts.json");
 
 // Funktion zur Zusammenführung der Daten
 const mergeCharts = () => {

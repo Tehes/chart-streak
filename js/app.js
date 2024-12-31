@@ -1,11 +1,21 @@
 /* --------------------------------------------------------------------------------------------------
 Imports
 ---------------------------------------------------------------------------------------------------*/
+async function fetchData(filePath) {
+    try {
+        const response = await fetch(filePath);
+        if (!response.ok) throw new Error(`Failed to fetch: ${response.status}`);
+        return await response.json();
+    } catch (error) {
+        console.error("Error loading charts data:", error);
+    }
+}
 
 /* --------------------------------------------------------------------------------------------------
 Variables
 ---------------------------------------------------------------------------------------------------*/
-
+const charts = await fetchData("data/merged-charts.json");
+console.log(charts);
 
 /* --------------------------------------------------------------------------------------------------
 functions

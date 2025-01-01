@@ -17,7 +17,10 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
-console.log(randomChartEntries);
+const randomSong = getRandomSong(randomChartEntries);
+console.log("Selected song:", randomSong);
+console.log("Remaining songs:", randomChartEntries);
+embedDeezerTrack(randomSong.deezer.deezerID);
 
 /* --------------------------------------------------------------------------------------------------
 functions
@@ -34,6 +37,29 @@ function getRandomChartEntries(charts) {
         }
     });
     return randomEntries; // Return the array of random entries, one per year
+}
+
+function getRandomSong(randomChartEntries) {
+    if (randomChartEntries.length === 0) {
+        console.warn("No more songs available to select.");
+        return null; // Return null if the array is empty
+    }
+    const randomIndex = Math.floor(Math.random() * randomChartEntries.length);
+    const selectedSong = randomChartEntries.splice(randomIndex, 1)[0]; // Remove and return the selected song
+    return selectedSong;
+}
+
+function embedDeezerTrack(deezerID) {
+    const iframe = document.createElement("iframe");
+    iframe.src = `https://www.deezer.com/plugins/player?type=tracks&id=${deezerID}&format=classic&autoplay=false`;
+    iframe.width = "300";
+    iframe.height = "300";
+    iframe.frameBorder = "0";
+    iframe.allowTransparency = "true";
+    iframe.allow = "encrypted-media";
+
+    // Füge den `iframe` zur gewünschten Stelle in deinem DOM hinzu
+    document.getElementById("deezer-player").appendChild(iframe);
 }
 
 function init() {

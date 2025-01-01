@@ -8,6 +8,7 @@ async function fetchData(filePath) {
         return await response.json();
     } catch (error) {
         console.error("Error loading charts data:", error);
+        return {};
     }
 }
 
@@ -15,11 +16,25 @@ async function fetchData(filePath) {
 Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
-console.log(charts);
+const randomChartEntries = getRandomChartEntries(charts);
+console.log(randomChartEntries);
 
 /* --------------------------------------------------------------------------------------------------
 functions
 ---------------------------------------------------------------------------------------------------*/
+function getRandomChartEntries(charts) {
+    const randomEntries = [];
+    // Iterate over each year in the charts object to select a random song from each
+    Object.keys(charts).forEach(year => {
+        const entries = charts[year]; // Get all songs for the given year
+        if (entries.length > 0) {
+            const randomIndex = Math.floor(Math.random() * entries.length);
+            const randomEntry = { ...entries[randomIndex], year }; // Include the year in the entry
+            randomEntries.push(randomEntry); // Add the selected entry to the results
+        }
+    });
+    return randomEntries; // Return the array of random entries, one per year
+}
 
 function init() {
     // The following touchstart event listener was used as a workaround for older iOS devices

@@ -51,14 +51,15 @@ function getRandomSong(randomChartEntries) {
 
 function embedDeezerTrack(deezerID) {
     const iframe = document.createElement("iframe");
-    iframe.src = `https://www.deezer.com/plugins/player?type=tracks&id=${deezerID}&format=classic&autoplay=false`;
+    iframe.title = "deezer-widget"; // Set the iframe title for accessibility
+    iframe.src = `https://widget.deezer.com/widget/auto/track/${deezerID}?tracklist=false`;
     iframe.width = "300";
     iframe.height = "300";
     iframe.frameBorder = "0";
     iframe.allowTransparency = "true";
-    iframe.allow = "encrypted-media";
+    iframe.allow = "encrypted-media; clipboard-write"; // Add permissions for media playback and clipboard access
 
-    // Füge den `iframe` zur gewünschten Stelle in deinem DOM hinzu
+    // Append the iframe to the specified DOM element
     document.getElementById("deezer-player").appendChild(iframe);
 }
 

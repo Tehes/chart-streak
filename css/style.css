@@ -118,12 +118,19 @@ main img {
     box-shadow: var(--shadow);
 }
 
+.add:hover {
+    transform: scale(1.1);
+    background-color: var(--header-bg);
+    color: var(--bg-color);
+}
+
 .title {
     font-weight: 600;
 }
 
-.artist {
-    margin-bottom: 1rem;
+.year {
+    font-size: 2rem;
+    font-weight: 800;
 }
 
 /*

@@ -104,7 +104,7 @@ function insertRandomSong(randomSong) {
     // Set the year
     const yearElement = clone.querySelector(".year");
     if (yearElement) {
-        yearElement.textContent = `Jahr: ${randomSong.year}`;
+        yearElement.textContent = randomSong.year;
     }
 
     // Append the cloned content to the main element

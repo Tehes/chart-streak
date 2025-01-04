@@ -23,6 +23,8 @@ console.log("Remaining songs:", randomChartEntries);
 embedDeezerTrack(randomSong.deezer.deezerID);
 const startSong = getRandomSong();
 insertRandomSong(startSong);
+insertRandomSong(getRandomSong());
+insertRandomSong(getRandomSong());
 
 /* --------------------------------------------------------------------------------------------------
 functions
@@ -93,12 +95,6 @@ function insertRandomSong(randomSong) {
     const artistElement = clone.querySelector(".artist");
     if (artistElement) {
         artistElement.textContent = randomSong.artist;
-    }
-
-    // Set the rank
-    const rankElement = clone.querySelector(".rank");
-    if (rankElement) {
-        rankElement.textContent = `Platz: ${randomSong.rank}`;
     }
 
     // Set the year

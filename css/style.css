@@ -94,6 +94,17 @@ main {
     display: flex;
     justify-content: center;
     gap: 2vmin;
+    width: 100vw;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+.song {
+    scroll-snap-align: center;
+}
+
+main:has(.song ~ .song) {
+    justify-content: flex-start;
 }
 
 main img {
@@ -124,13 +135,23 @@ main img {
     color: var(--bg-color);
 }
 
+main:where(:is(.artist, .title)) {
+    overflow-x: ellipsis;
+}
+
 .title {
     font-weight: 600;
+    max-width: 30dvh;
+}
+
+.artist {
+    max-width: 30dvh;
 }
 
 .year {
     font-size: 2rem;
     font-weight: 800;
+    max-width: 30dvh;
 }
 
 /*

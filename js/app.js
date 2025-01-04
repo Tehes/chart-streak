@@ -17,10 +17,12 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
-const randomSong = getRandomSong(randomChartEntries);
+const randomSong = getRandomSong();
 console.log("Selected song:", randomSong);
 console.log("Remaining songs:", randomChartEntries);
 embedDeezerTrack(randomSong.deezer.deezerID);
+const startSong = getRandomSong();
+insertRandomSong(startSong);
 
 /* --------------------------------------------------------------------------------------------------
 functions
@@ -39,7 +41,7 @@ function getRandomChartEntries(charts) {
     return randomEntries; // Return the array of random entries, one per year
 }
 
-function getRandomSong(randomChartEntries) {
+function getRandomSong() {
     if (randomChartEntries.length === 0) {
         console.warn("No more songs available to select.");
         return null; // Return null if the array is empty
@@ -53,14 +55,60 @@ function embedDeezerTrack(deezerID) {
     const iframe = document.createElement("iframe");
     iframe.title = "deezer-widget"; // Set the iframe title for accessibility
     iframe.src = `https://widget.deezer.com/widget/auto/track/${deezerID}?tracklist=false`;
-    iframe.width = "300";
-    iframe.height = "300";
     iframe.frameBorder = "0";
     iframe.allowTransparency = "true";
     iframe.allow = "encrypted-media; clipboard-write"; // Add permissions for media playback and clipboard access
 
     // Append the iframe to the specified DOM element
     document.getElementById("deezer-player").appendChild(iframe);
+}
+
+function insertRandomSong(randomSong) {
+    // Select the template and main element
+    const template = document.querySelector("#timeline-template");
+    const main = document.querySelector("main");
+
+    if (!template || !main) {
+        console.error("Template or main element not found.");
+        return;
+    }
+
+    // Clone the content of the template
+    const clone = template.content.cloneNode(true);
+
+    // Set the image source and alt attribute
+    const img = clone.querySelector("img");
+    if (img) {
+        img.src = randomSong.deezer.cover;
+        img.alt = `${randomSong.artist} - ${randomSong.title}`;
+    }
+
+    // Set the title
+    const titleElement = clone.querySelector(".title");
+    if (titleElement) {
+        titleElement.textContent = randomSong.title;
+    }
+
+    // Set the artist
+    const artistElement = clone.querySelector(".artist");
+    if (artistElement) {
+        artistElement.textContent = randomSong.artist;
+    }
+
+    // Set the rank
+    const rankElement = clone.querySelector(".rank");
+    if (rankElement) {
+        rankElement.textContent = `Platz: ${randomSong.rank}`;
+    }
+
+    // Set the year
+    const yearElement = clone.querySelector(".year");
+    if (yearElement) {
+        yearElement.textContent = `Jahr: ${randomSong.year}`;
+    }
+
+    // Append the cloned content to the main element
+    main.appendChild(clone);
 }
 
 function init() {

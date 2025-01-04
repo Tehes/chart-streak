@@ -16,13 +16,37 @@
 	<link rel="shortcut icon" href="icons/favicon.png">
 	<link rel="manifest" href="manifest.json">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Sixtyfour&display=swap"
+		rel="stylesheet">
 
 	<script async src="https://cdn.splitbee.io/sb.js"></script>
 </head>
 
 <body>
+	<header>
+		<h1>Chart Streak</h1>
+	</header>
+	<main>
+	</main>
 	<div id="deezer-player"></div>
 	<script type="module" src="./js/app.js"></script>
+	<template id="timeline-template">
+		<div class="wrapper">
+			<div class="add">+</div>
+		</div>
+		<div class="wrapper">
+			<img src="" alt="">
+			<div class="title"></div>
+			<div class="artist"></div>
+			<div class="rank"></div>
+			<div class="year"></div>
+		</div>
+		<div class="wrapper">
+			<div class="add">+</div>
+		</div>
+	</template>
 </body>
 
 </html>

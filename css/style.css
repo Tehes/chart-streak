@@ -1,10 +1,9 @@
 :root {
     color-scheme: light dark;
-    /* will switch to oklch soon: */
     --bg-color: hsl(0, 0%, 95%);
-    /*  oklch(96%, 0%, 0) */
     --font-color: hsl(0, 0%, 20%);
-    /* oklch(32%, 0%, 0) */
+    --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+    --header-bg: hsl(200, 10%, 35%);
     accent-color: auto;
     /* change to your highlight color when needed */
 }
@@ -39,6 +38,14 @@ body {
     min-height: 100dvh;
     /* Old mobile viewport bug fix - no longer needed */
     /* min-height: -webkit-fill-available; */
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
@@ -51,26 +58,91 @@ p {
 
 /*
 -------------------------------------------------------------------
+Header  
+-------------------------------------------------------------------
+*/
+
+header {
+    background-color: var(--header-bg);
+    width: 100vw;
+    margin-bottom: 3dvh;
+    color: var(--bg-color);
+}
+
+h1 {
+    font-size: 5dvh;
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+    text-transform: uppercase;
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "BLED" 0,
+        "SCAN" 0;
+}
+
+/*
+-------------------------------------------------------------------
+Main
+-------------------------------------------------------------------
+*/
+
+main {
+    display: flex;
+    justify-content: center;
+    gap: 2vmin;
+}
+
+main img {
+    width: 30dvh;
+    height: 30dvh;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    margin-bottom: 1dvh;
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 6dvh;
+    height: 6dvb;
+    font-size: 6dvh;
+    padding: 3dvh;
+    margin: 12dvh 0;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: var(--shadow);
+}
+
+.title {
+    font-weight: 600;
+}
+
+.artist {
+    margin-bottom: 1rem;
+}
+
+/*
+-------------------------------------------------------------------
 Deezer Player
 -------------------------------------------------------------------
 */
 
 #deezer-player {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 2rem;
-
+    width: 30dvh;
+    height: 30dvh;
+    margin-bottom: 3dvh;
 }
 
 #deezer-player iframe {
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: var(--shadow);
     border-radius: 10px;
+    width: 100%;
+    height: 100%;
 }
 
 /*

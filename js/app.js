@@ -17,12 +17,9 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
-const randomSong = getRandomSong();
-console.log("Selected song:", randomSong);
-console.log("Remaining songs:", randomChartEntries);
-embedDeezerTrack(randomSong.deezer.deezerID);
-const startSong = getRandomSong();
-insertRandomSong(startSong);
+embedDeezerTrack(getRandomSong());
+
+insertRandomSong(getRandomSong());
 insertRandomSong(getRandomSong());
 insertRandomSong(getRandomSong());
 
@@ -53,7 +50,8 @@ function getRandomSong() {
     return selectedSong;
 }
 
-function embedDeezerTrack(deezerID) {
+function embedDeezerTrack(randomSong) {
+    const deezerID = randomSong.deezer.deezerID
     const iframe = document.createElement("iframe");
     iframe.title = "deezer-widget"; // Set the iframe title for accessibility
     iframe.src = `https://widget.deezer.com/widget/auto/track/${deezerID}?tracklist=false`;
@@ -63,6 +61,9 @@ function embedDeezerTrack(deezerID) {
 
     // Append the iframe to the specified DOM element
     document.getElementById("deezer-player").appendChild(iframe);
+
+    console.log("Selected song:", randomSong);
+    console.log("Remaining songs:", randomChartEntries);
 }
 
 function insertRandomSong(randomSong) {
@@ -87,21 +88,15 @@ function insertRandomSong(randomSong) {
 
     // Set the title
     const titleElement = clone.querySelector(".title");
-    if (titleElement) {
-        titleElement.textContent = randomSong.title;
-    }
+    titleElement.textContent = randomSong.title;
 
     // Set the artist
     const artistElement = clone.querySelector(".artist");
-    if (artistElement) {
-        artistElement.textContent = randomSong.artist;
-    }
+    artistElement.textContent = randomSong.artist;
 
     // Set the year
     const yearElement = clone.querySelector(".year");
-    if (yearElement) {
-        yearElement.textContent = randomSong.year;
-    }
+    yearElement.textContent = randomSong.year;
 
     // Append the cloned content to the main element
     main.appendChild(clone);

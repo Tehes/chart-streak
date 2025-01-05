@@ -65,6 +65,7 @@ function insertRandomSong() {
     const randomSong = getRandomSong();
     const template = document.querySelector("#timeline-template");
     const clone = template.content.cloneNode(true);
+    const songElement = clone.querySelector(".song");
     const img = clone.querySelector("img");
     const titleElement = clone.querySelector(".title");
     const artistElement = clone.querySelector(".artist");
@@ -75,6 +76,7 @@ function insertRandomSong() {
     titleElement.textContent = randomSong.title;
     artistElement.textContent = randomSong.artist;
     yearElement.textContent = randomSong.year;
+    songElement.setAttribute("data-year", randomSong.year);
 
     main.appendChild(clone);
 }

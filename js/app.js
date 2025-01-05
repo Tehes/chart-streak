@@ -49,7 +49,7 @@ function getRandomSong() {
 }
 
 function embedDeezerTrack(randomSong) {
-    const deezerID = randomSong.deezer.deezerID
+    const deezerID = randomSong.deezer.deezerID;
     const iframe = document.createElement("iframe");
     iframe.title = "deezer-widget";
     iframe.src = `https://widget.deezer.com/widget/auto/track/${deezerID}?tracklist=false`;
@@ -61,7 +61,8 @@ function embedDeezerTrack(randomSong) {
     console.log("Selected song:", randomSong);
 }
 
-function insertRandomSong(randomSong) {
+function insertRandomSong() {
+    const randomSong = getRandomSong();
     const template = document.querySelector("#timeline-template");
     const clone = template.content.cloneNode(true);
     const img = clone.querySelector("img");
@@ -80,11 +81,7 @@ function insertRandomSong(randomSong) {
 
 function handleHorizontalScroll(event) {
     event.preventDefault();
-
-    // Sensitivity factor for smoother scrolling
-    const scrollSpeed = 6; // Adjust this value for more or less sensitivity
-
-    // Apply deltaY with a sensitivity multiplier
+    const scrollSpeed = 6; // Sensitivity factor for smoother scrolling
     main.scrollLeft += event.deltaY * scrollSpeed;
 }
 
@@ -98,17 +95,14 @@ function init() {
 
     embedDeezerTrack(getRandomSong());
 
-    insertRandomSong(getRandomSong());
-    insertRandomSong(getRandomSong());
-    insertRandomSong(getRandomSong());
-    insertRandomSong(getRandomSong());
+    insertRandomSong();
 }
 
 /* --------------------------------------------------------------------------------------------------
 public members, exposed with return statement
 ---------------------------------------------------------------------------------------------------*/
 window.app = {
-    init
+    init, insertRandomSong
 };
 
 window.app.init();

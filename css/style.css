@@ -103,10 +103,6 @@ main {
     scroll-snap-align: center;
 }
 
-main:has(.song ~ .song) .song:first-child {}
-
-main:has(.song ~ .song) .song:last-child {}
-
 main:has(.song ~ .song) {
     justify-content: flex-start;
     padding-right: 50vw;

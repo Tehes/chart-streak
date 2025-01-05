@@ -98,6 +98,10 @@ function init() {
     embedDeezerTrack(getRandomSong());
 
     insertRandomSong();
+    insertRandomSong();
+    insertRandomSong();
+    insertRandomSong();
+    insertRandomSong();
 }
 
 /* --------------------------------------------------------------------------------------------------

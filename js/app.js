@@ -102,7 +102,6 @@ function init() {
     insertRandomSong(getRandomSong());
     insertRandomSong(getRandomSong());
     insertRandomSong(getRandomSong());
-    insertRandomSong(getRandomSong());
 }
 
 /* --------------------------------------------------------------------------------------------------

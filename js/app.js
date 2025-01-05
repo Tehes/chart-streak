@@ -18,6 +18,8 @@ Variables
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
 
+const main = document.querySelector("main");
+
 
 /* --------------------------------------------------------------------------------------------------
 functions
@@ -39,7 +41,7 @@ function getRandomChartEntries(charts) {
 function getRandomSong() {
     if (randomChartEntries.length === 0) {
         console.warn("No more songs available to select.");
-        return null; // Return null if the array is empty
+        return null;
     }
     const randomIndex = Math.floor(Math.random() * randomChartEntries.length);
     const selectedSong = randomChartEntries.splice(randomIndex, 1)[0]; // Remove and return the selected song
@@ -61,7 +63,6 @@ function embedDeezerTrack(randomSong) {
 
 function insertRandomSong(randomSong) {
     const template = document.querySelector("#timeline-template");
-    const main = document.querySelector("main");
     const clone = template.content.cloneNode(true);
     const img = clone.querySelector("img");
     const titleElement = clone.querySelector(".title");
@@ -77,14 +78,28 @@ function insertRandomSong(randomSong) {
     main.appendChild(clone);
 }
 
+function handleHorizontalScroll(event) {
+    event.preventDefault();
+
+    // Sensitivity factor for smoother scrolling
+    const scrollSpeed = 6; // Adjust this value for more or less sensitivity
+
+    // Apply deltaY with a sensitivity multiplier
+    main.scrollLeft += event.deltaY * scrollSpeed;
+}
+
 function init() {
     // The following touchstart event listener was used as a workaround for older iOS devices
     // to prevent a 300ms delay in touch interactions. It is likely not necessary anymore
     // on modern devices and browsers, especially in Progressive Web Apps.
     // If you experience issues with touch interactions, you can uncomment it again.
     // document.addEventListener("touchstart", function() {}, false);
+    window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
+
     embedDeezerTrack(getRandomSong());
 
+    insertRandomSong(getRandomSong());
+    insertRandomSong(getRandomSong());
     insertRandomSong(getRandomSong());
     insertRandomSong(getRandomSong());
     insertRandomSong(getRandomSong());

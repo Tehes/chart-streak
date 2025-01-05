@@ -96,18 +96,19 @@ main {
     width: 100vw;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
 }
 
 .song {
     scroll-snap-align: center;
 }
 
-.song:first-child {
-    margin-left: 33vw;
+main:has(.song ~ .song) .song:first-child {
+    margin-left: 50vw;
 }
 
-.song:last-child {
-    margin-right: 33vw;
+main:has(.song ~ .song) .song:last-child {
+    margin-right: 50vw;
 }
 
 main:has(.song ~ .song) {

@@ -17,6 +17,7 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
+let scrollTimeout;
 
 const main = document.querySelector("main");
 
@@ -87,13 +88,67 @@ function handleHorizontalScroll(event) {
     main.scrollLeft += event.deltaY * scrollSpeed;
 }
 
+function handleScrollEvent() {
+    clearTimeout(scrollTimeout); // Clear previous timer to avoid multiple executions
+
+    scrollTimeout = setTimeout(() => {
+        const songs = document.querySelectorAll(".song");
+        let closestSong = null;
+        let minDistance = Infinity;
+
+        const timelineCenter = main.offsetWidth / 2; // Center of the timeline container
+        const timelineLeft = main.scrollLeft; // Current scroll position from the left
+
+        songs.forEach((song) => {
+            const songLeft = song.offsetLeft - timelineLeft; // Distance of the song from the left edge of the container
+            const songCenter = songLeft + song.offsetWidth / 2; // Center of the song relative to the container
+            const distance = Math.abs(songCenter - timelineCenter); // Distance from the center of the timeline
+
+            if (distance < minDistance) {
+                minDistance = distance;
+                closestSong = song;
+            }
+        });
+
+        // Remove existing buttons before adding new ones
+        document.querySelectorAll(".add").forEach(btn => btn.remove());
+
+        // Highlight the song that is closest to the center
+        songs.forEach(song => song.classList.remove("active"));
+        if (closestSong) {
+            closestSong.classList.add("active");
+
+            // Create and insert the left button
+            const leftButton = document.createElement("div");
+            leftButton.className = "add";
+            leftButton.textContent = "+";
+            leftButton.addEventListener("click", () => {
+                console.log("Add song before", closestSong);
+                insertSongAtPosition(closestSong, "before");
+            });
+            closestSong.before(leftButton);
+
+            // Create and insert the right button
+            const rightButton = document.createElement("div");
+            rightButton.className = "add";
+            rightButton.textContent = "+";
+            rightButton.addEventListener("click", () => {
+                console.log("Add song after", closestSong);
+                insertSongAtPosition(closestSong, "after");
+            });
+            closestSong.after(rightButton);
+        }
+    }, 100); // Set a delay of 100 ms
+}
+
 function init() {
     // The following touchstart event listener was used as a workaround for older iOS devices
     // to prevent a 300ms delay in touch interactions. It is likely not necessary anymore
     // on modern devices and browsers, especially in Progressive Web Apps.
     // If you experience issues with touch interactions, you can uncomment it again.
     // document.addEventListener("touchstart", function() {}, false);
-    window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
+    main.addEventListener("scroll", handleScrollEvent);
+    //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
     embedDeezerTrack(getRandomSong());
 

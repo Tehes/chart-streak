@@ -3,6 +3,7 @@
     --bg-color: hsl(0, 0%, 95%);
     --font-color: hsl(0, 0%, 20%);
     --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+    --shadow-strong: 0px 5px 8px rgba(0, 0, 0, 0.5);
     --header-bg: hsl(200, 10%, 35%);
     accent-color: auto;
     /* change to your highlight color when needed */
@@ -92,7 +93,8 @@ Main
 main {
     display: flex;
     justify-content: center;
-    gap: 5vmin;
+    align-items: flex-start;
+    gap: 4vmin;
     width: 100vw;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
@@ -115,17 +117,22 @@ main:has(.song ~ .song) {
     border-radius: 10px;
     box-shadow: var(--shadow);
     margin-bottom: 1dvh;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.song.active img {
+    box-shadow: var(--shadow-strong);
 }
 
 .add {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 6dvh;
-    height: 6dvb;
-    font-size: 6dvh;
-    padding: 3dvh;
-    margin: 12dvh 0;
+    width: 5dvh;
+    height: 5dvh;
+    font-size: 5dvh;
+    padding: 2dvh;
+    margin-top: 12dvh;
     background-color: #fff;
     border-radius: 50%;
     box-shadow: var(--shadow);

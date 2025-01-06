@@ -115,39 +115,35 @@ function insertSong(referenceSong, position, song = null) {
 }
 
 function addPlusButtons() {
+    // Remove all existing plus buttons
+    document.querySelectorAll(".add").forEach(button => button.remove());
+
     const songs = document.querySelectorAll(".song");
 
     for (let i = 0; i <= songs.length; i++) {
-        // Check if there's already a button at this position
-        const referenceElement = i === songs.length ? songs[songs.length - 1] : songs[i];
-        const isButtonPresent = i === songs.length
-            ? referenceElement.nextElementSibling?.classList.contains("add")
-            : referenceElement.previousElementSibling?.classList.contains("add");
+        const button = document.createElement("div");
+        button.className = "add";
+        button.textContent = "+";
 
-        if (!isButtonPresent) {
-            const button = createPlusButton(function () {
-                if (i === songs.length) {
-                    insertSong(songs[songs.length - 1], "after");
-                } else {
-                    insertSong(songs[i], "before");
-                }
-            });
-
+        // Add event listener to insert songs before or after
+        button.addEventListener("click", () => {
             if (i === songs.length) {
-                referenceElement.after(button); // Add button after the last song
+                // Insert a song at the end of the list
+                insertSong(songs[songs.length - 1], "after");
             } else {
-                referenceElement.before(button); // Add button before the current song
+                // Insert a song before the current song
+                insertSong(songs[i], "before");
             }
+        });
+
+        if (i === songs.length) {
+            // Add the final button after the last song
+            songs[songs.length - 1].after(button);
+        } else {
+            // Add the button before the current song
+            songs[i].before(button);
         }
     }
-}
-
-function createPlusButton(onClick) {
-    const button = document.createElement("div");
-    button.className = "add";
-    button.textContent = "+";
-    button.addEventListener("click", onClick);
-    return button;
 }
 
 function handleScrollEvent() {

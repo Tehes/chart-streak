@@ -92,8 +92,10 @@ Main
 
 main {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
+    padding-right: 50vw;
+    padding-left: 50vw;
     gap: 4vmin;
     width: 100vw;
     overflow-x: scroll;
@@ -103,12 +105,6 @@ main {
 
 .song {
     scroll-snap-align: center;
-}
-
-main:has(.song:nth-child(2)) {
-    justify-content: flex-start;
-    padding-right: 50vw;
-    padding-left: 50vw;
 }
 
 .song img {

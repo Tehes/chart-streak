@@ -17,6 +17,7 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
+let currentSong = getRandomSong();
 let scrollTimeout;
 let lastActiveSong = null;
 
@@ -52,7 +53,9 @@ function getRandomSong() {
 
 function embedDeezerTrack(randomSong) {
     const deezerID = randomSong.deezer.deezerID;
+    const iframeContainer = document.querySelector("#deezer-player");
     const iframe = document.createElement("iframe");
+    iframeContainer.innerHTML = "";
     iframe.title = "deezer-widget";
     iframe.src = `https://widget.deezer.com/widget/auto/track/${deezerID}?tracklist=false`;
     iframe.frameBorder = "0";
@@ -63,8 +66,15 @@ function embedDeezerTrack(randomSong) {
     console.log("Selected song:", randomSong);
 }
 
-function insertRandomSong() {
-    const randomSong = getRandomSong();
+function insertSong(referenceSong, position, song = null) {
+    const songToInsert = song || currentSong;
+
+    if (!songToInsert) {
+        console.warn("No song available to insert.");
+        return;
+    }
+
+    // Clone the template and populate it with the song's data
     const template = document.querySelector("#timeline-template");
     const clone = template.content.cloneNode(true);
     const songElement = clone.querySelector(".song");
@@ -73,14 +83,33 @@ function insertRandomSong() {
     const artistElement = clone.querySelector(".artist");
     const yearElement = clone.querySelector(".year");
 
-    img.src = randomSong.deezer.cover;
-    img.alt = `${randomSong.artist} - ${randomSong.title}`;
-    titleElement.textContent = randomSong.title;
-    artistElement.textContent = randomSong.artist;
-    yearElement.textContent = randomSong.year;
-    songElement.setAttribute("data-year", randomSong.year);
+    img.src = songToInsert.deezer.cover;
+    img.alt = `${songToInsert.artist} - ${songToInsert.title}`;
+    titleElement.textContent = songToInsert.title;
+    artistElement.textContent = songToInsert.artist;
+    yearElement.textContent = songToInsert.year;
+    songElement.setAttribute("data-year", songToInsert.year);
 
-    main.appendChild(clone);
+    // Handle the initial case where there is no referenceSong (first insertion)
+    if (!referenceSong) {
+        main.appendChild(clone);
+    } else if (position === "before") {
+        referenceSong.before(clone);
+    } else if (position === "after") {
+        referenceSong.after(clone);
+    }
+
+    songElement.scrollIntoView({
+        behavior: "smooth", // Sanftes Scrollen
+        block: "center",    // Vertikale Position: Mitte des Containers
+        inline: "center"    // Horizontale Position: Mitte des Containers
+    });
+
+    // Wenn der aktuelle Song eingefügt wurde, ziehe einen neuen zufälligen Song und lade das Widget neu
+    if (!song) {
+        currentSong = getRandomSong();
+        embedDeezerTrack(currentSong);
+    }
 }
 
 function handleHorizontalScroll(event) {
@@ -127,7 +156,7 @@ function handleScrollEvent() {
             leftButton.textContent = "+";
             leftButton.addEventListener("click", () => {
                 console.log("Add song before", closestSong);
-                insertSongAtPosition(closestSong, "before");
+                insertSong(closestSong, "before"); // Korrekt auf insertSong verweisen
             });
             closestSong.before(leftButton);
 
@@ -137,7 +166,7 @@ function handleScrollEvent() {
             rightButton.textContent = "+";
             rightButton.addEventListener("click", () => {
                 console.log("Add song after", closestSong);
-                insertSongAtPosition(closestSong, "after");
+                insertSong(closestSong, "after"); // Korrekt auf insertSong verweisen
             });
             closestSong.after(rightButton);
         }
@@ -153,20 +182,16 @@ function init() {
     main.addEventListener("scroll", handleScrollEvent);
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
-    embedDeezerTrack(getRandomSong());
-
-    insertRandomSong();
-    insertRandomSong();
-    insertRandomSong();
-    insertRandomSong();
-    insertRandomSong();
+    embedDeezerTrack(currentSong);
+    insertSong(null, "after", getRandomSong());
+    handleScrollEvent();
 }
 
 /* --------------------------------------------------------------------------------------------------
 public members, exposed with return statement
 ---------------------------------------------------------------------------------------------------*/
 window.app = {
-    init, insertRandomSong
+    init, insertSong
 };
 
 window.app.init();

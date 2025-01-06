@@ -115,35 +115,39 @@ function insertSong(referenceSong, position, song = null) {
 }
 
 function addPlusButtons() {
-    // Remove all existing plus buttons
-    document.querySelectorAll(".add").forEach(button => button.remove());
-
     const songs = document.querySelectorAll(".song");
 
     for (let i = 0; i <= songs.length; i++) {
-        const button = document.createElement("div");
-        button.className = "add";
-        button.textContent = "+";
+        // Check if there's already a button at this position
+        const referenceElement = i === songs.length ? songs[songs.length - 1] : songs[i];
+        const isButtonPresent = i === songs.length
+            ? referenceElement.nextElementSibling?.classList.contains("add")
+            : referenceElement.previousElementSibling?.classList.contains("add");
 
-        // Add event listener to insert songs before or after
-        button.addEventListener("click", () => {
+        if (!isButtonPresent) {
+            const button = createPlusButton(function () {
+                if (i === songs.length) {
+                    insertSong(songs[songs.length - 1], "after");
+                } else {
+                    insertSong(songs[i], "before");
+                }
+            });
+
             if (i === songs.length) {
-                // At the end of the list
-                insertSong(songs[songs.length - 1], "after");
+                referenceElement.after(button); // Add button after the last song
             } else {
-                // Before the current song
-                insertSong(songs[i], "before");
+                referenceElement.before(button); // Add button before the current song
             }
-        });
-
-        if (i === songs.length) {
-            // Add the last button after the last song
-            songs[songs.length - 1].after(button);
-        } else {
-            // Add the button before the current song
-            songs[i].before(button);
         }
     }
+}
+
+function createPlusButton(onClick) {
+    const button = document.createElement("div");
+    button.className = "add";
+    button.textContent = "+";
+    button.addEventListener("click", onClick);
+    return button;
 }
 
 function handleScrollEvent() {

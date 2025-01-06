@@ -110,12 +110,40 @@ function insertSong(referenceSong, position, song = null) {
         currentSong = getRandomSong();
         embedDeezerTrack(currentSong);
     }
+
+    addPlusButtons();
 }
 
-function handleHorizontalScroll(event) {
-    event.preventDefault();
-    const scrollSpeed = 6; // Sensitivity factor for smoother scrolling
-    main.scrollLeft += event.deltaY * scrollSpeed;
+function addPlusButtons() {
+    // Remove all existing plus buttons
+    document.querySelectorAll(".add").forEach(button => button.remove());
+
+    const songs = document.querySelectorAll(".song");
+
+    for (let i = 0; i <= songs.length; i++) {
+        const button = document.createElement("div");
+        button.className = "add";
+        button.textContent = "+";
+
+        // Add event listener to insert songs before or after
+        button.addEventListener("click", () => {
+            if (i === songs.length) {
+                // At the end of the list
+                insertSong(songs[songs.length - 1], "after");
+            } else {
+                // Before the current song
+                insertSong(songs[i], "before");
+            }
+        });
+
+        if (i === songs.length) {
+            // Add the last button after the last song
+            songs[songs.length - 1].after(button);
+        } else {
+            // Add the button before the current song
+            songs[i].before(button);
+        }
+    }
 }
 
 function handleScrollEvent() {
@@ -143,32 +171,9 @@ function handleScrollEvent() {
         if (closestSong && closestSong !== lastActiveSong) {
             lastActiveSong = closestSong; // Update the last active song
 
-            // Remove existing buttons
-            document.querySelectorAll(".add").forEach(btn => btn.remove());
-
             // Highlight the active song
             songs.forEach(song => song.classList.remove("active"));
             closestSong.classList.add("active");
-
-            // Create and insert the left button
-            const leftButton = document.createElement("div");
-            leftButton.className = "add";
-            leftButton.textContent = "+";
-            leftButton.addEventListener("click", () => {
-                console.log("Add song before", closestSong);
-                insertSong(closestSong, "before"); // Korrekt auf insertSong verweisen
-            });
-            closestSong.before(leftButton);
-
-            // Create and insert the right button
-            const rightButton = document.createElement("div");
-            rightButton.className = "add";
-            rightButton.textContent = "+";
-            rightButton.addEventListener("click", () => {
-                console.log("Add song after", closestSong);
-                insertSong(closestSong, "after"); // Korrekt auf insertSong verweisen
-            });
-            closestSong.after(rightButton);
         }
     }, 150); // Set a delay of 150 ms
 }

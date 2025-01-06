@@ -18,6 +18,7 @@ Variables
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
 let scrollTimeout;
+let lastActiveSong = null;
 
 const main = document.querySelector("main");
 
@@ -89,20 +90,20 @@ function handleHorizontalScroll(event) {
 }
 
 function handleScrollEvent() {
-    clearTimeout(scrollTimeout); // Clear previous timer to avoid multiple executions
+    clearTimeout(scrollTimeout); // Clear previous timer
 
     scrollTimeout = setTimeout(() => {
         const songs = document.querySelectorAll(".song");
         let closestSong = null;
         let minDistance = Infinity;
 
-        const timelineCenter = main.offsetWidth / 2; // Center of the timeline container
-        const timelineLeft = main.scrollLeft; // Current scroll position from the left
+        const timelineCenter = main.offsetWidth / 2;
+        const timelineLeft = main.scrollLeft;
 
         songs.forEach((song) => {
-            const songLeft = song.offsetLeft - timelineLeft; // Distance of the song from the left edge of the container
-            const songCenter = songLeft + song.offsetWidth / 2; // Center of the song relative to the container
-            const distance = Math.abs(songCenter - timelineCenter); // Distance from the center of the timeline
+            const songLeft = song.offsetLeft - timelineLeft;
+            const songCenter = songLeft + song.offsetWidth / 2;
+            const distance = Math.abs(songCenter - timelineCenter);
 
             if (distance < minDistance) {
                 minDistance = distance;
@@ -110,12 +111,14 @@ function handleScrollEvent() {
             }
         });
 
-        // Remove existing buttons before adding new ones
-        document.querySelectorAll(".add").forEach(btn => btn.remove());
+        if (closestSong && closestSong !== lastActiveSong) {
+            lastActiveSong = closestSong; // Update the last active song
 
-        // Highlight the song that is closest to the center
-        songs.forEach(song => song.classList.remove("active"));
-        if (closestSong) {
+            // Remove existing buttons
+            document.querySelectorAll(".add").forEach(btn => btn.remove());
+
+            // Highlight the active song
+            songs.forEach(song => song.classList.remove("active"));
             closestSong.classList.add("active");
 
             // Create and insert the left button
@@ -138,7 +141,7 @@ function handleScrollEvent() {
             });
             closestSong.after(rightButton);
         }
-    }, 100); // Set a delay of 100 ms
+    }, 150); // Set a delay of 150 ms
 }
 
 function init() {

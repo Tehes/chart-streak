@@ -99,11 +99,7 @@ function insertSong(referenceSong, position, song = null) {
         referenceSong.after(clone);
     }
 
-    songElement.scrollIntoView({
-        behavior: "smooth", // Sanftes Scrollen
-        block: "center",    // Vertikale Position: Mitte des Containers
-        inline: "center"    // Horizontale Position: Mitte des Containers
-    });
+    addPlusButtons();
 
     // Wenn der aktuelle Song eingefügt wurde, ziehe einen neuen zufälligen Song und lade das Widget neu
     if (!song) {
@@ -111,7 +107,11 @@ function insertSong(referenceSong, position, song = null) {
         embedDeezerTrack(currentSong);
     }
 
-    addPlusButtons();
+    songElement.scrollIntoView({
+        behavior: "smooth", // Sanftes Scrollen
+        block: "center",    // Vertikale Position: Mitte des Containers
+        inline: "center"    // Horizontale Position: Mitte des Containers
+    });
 }
 
 function addPlusButtons() {

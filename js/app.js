@@ -63,7 +63,6 @@ function embedDeezerTrack(randomSong) {
     iframe.allow = "encrypted-media; clipboard-write"; // Add permissions for media playback and clipboard access
 
     document.querySelector("#deezer-player").appendChild(iframe);
-    console.log("Selected song:", randomSong);
 }
 
 function insertSong(referenceElement = null, song = null) {
@@ -118,8 +117,31 @@ function insertSong(referenceElement = null, song = null) {
 }
 
 function clickButton(event) {
-    console.log(event);
     const button = event.target;
+    const previousSong = button.previousElementSibling?.classList.contains("song") ? button.previousElementSibling : null;
+    const nextSong = button.nextElementSibling?.classList.contains("song") ? button.nextElementSibling : null;
+
+    // Check if there's a previous song and its year is earlier than the current song's year
+    if (previousSong) {
+        if (parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) {
+            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit zu spät für die aktuelle Auswahl!`);
+            currentSong = getRandomSong();
+            embedDeezerTrack(currentSong);
+            return;
+        }
+    }
+
+    // Check if there's a next song and its year is later than the current song's year
+    if (nextSong) {
+        if (parseInt(nextSong.dataset.year) <= parseInt(currentSong.year)) {
+            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit zu früh für die aktuelle Auswahl!`);
+            currentSong = getRandomSong();
+            embedDeezerTrack(currentSong);
+            return;
+        }
+    }
+
+    // If all checks pass, call insertSong as usual
     insertSong(button);
 }
 

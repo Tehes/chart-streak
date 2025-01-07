@@ -66,7 +66,7 @@ function embedDeezerTrack(randomSong) {
     console.log("Selected song:", randomSong);
 }
 
-function insertSong(referenceSong, position, song = null) {
+function insertSong(referenceElement = null, song = null) {
     const songToInsert = song || currentSong;
 
     if (!songToInsert) {
@@ -83,6 +83,7 @@ function insertSong(referenceSong, position, song = null) {
     const artistElement = clone.querySelector(".artist");
     const yearElement = clone.querySelector(".year");
 
+    // Set the song's cover image, alt text, title, artist, and year
     img.src = songToInsert.deezer.cover;
     img.alt = `${songToInsert.artist} - ${songToInsert.title}`;
     titleElement.textContent = songToInsert.title;
@@ -90,60 +91,36 @@ function insertSong(referenceSong, position, song = null) {
     yearElement.textContent = songToInsert.year;
     songElement.setAttribute("data-year", songToInsert.year);
 
-    // Handle the initial case where there is no referenceSong (first insertion)
-    if (!referenceSong) {
+    // Attach event listeners to the plus buttons in the newly inserted song element
+    const plusButtons = clone.querySelectorAll(".add");
+    plusButtons.forEach(button => button.addEventListener("click", clickButton));
+
+    if (referenceElement) {
+        // Replace the reference button with the newly created song element
+        referenceElement.replaceWith(clone);
+    } else {
+        // If no reference element is provided, append the song to the main container
         main.appendChild(clone);
-    } else if (position === "before") {
-        referenceSong.before(clone);
-    } else if (position === "after") {
-        referenceSong.after(clone);
     }
 
-    addPlusButtons();
-
-    // Wenn der aktuelle Song eingefügt wurde, ziehe einen neuen zufälligen Song und lade das Widget neu
+    // If the current song was inserted, fetch a new random song and update the Deezer widget
     if (!song) {
         currentSong = getRandomSong();
         embedDeezerTrack(currentSong);
     }
 
+    // Smoothly scroll the newly inserted song into view
     songElement.scrollIntoView({
-        behavior: "smooth", // Sanftes Scrollen
-        block: "center",    // Vertikale Position: Mitte des Containers
-        inline: "center"    // Horizontale Position: Mitte des Containers
+        behavior: "smooth", // Smooth scrolling
+        block: "center",    // Vertical alignment: center of the container
+        inline: "center"    // Horizontal alignment: center of the container
     });
 }
 
-function addPlusButtons() {
-    // Remove all existing plus buttons
-    document.querySelectorAll(".add").forEach(button => button.remove());
-
-    const songs = document.querySelectorAll(".song");
-
-    for (let i = 0; i <= songs.length; i++) {
-        const button = document.createElement("div");
-        button.className = "add";
-        button.textContent = "+";
-
-        // Add event listener to insert songs before or after
-        button.addEventListener("click", () => {
-            if (i === songs.length) {
-                // Insert a song at the end of the list
-                insertSong(songs[songs.length - 1], "after");
-            } else {
-                // Insert a song before the current song
-                insertSong(songs[i], "before");
-            }
-        });
-
-        if (i === songs.length) {
-            // Add the final button after the last song
-            songs[songs.length - 1].after(button);
-        } else {
-            // Add the button before the current song
-            songs[i].before(button);
-        }
-    }
+function clickButton(event) {
+    console.log(event);
+    const button = event.target;
+    insertSong(button);
 }
 
 function handleScrollEvent() {
@@ -188,7 +165,7 @@ function init() {
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
     embedDeezerTrack(currentSong);
-    insertSong(null, "after", getRandomSong());
+    insertSong(null, getRandomSong());
     handleScrollEvent();
 }
 

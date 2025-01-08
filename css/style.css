@@ -1,6 +1,8 @@
 :root {
     color-scheme: light dark;
-    --bg-color: hsl(0, 0%, 95%);
+    --bg-color: hsla(0, 0%, 100%, 0.6);
+    --overlay-bg: hsla(0, 0%, 100%, 0.6);
+    --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
     --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
     --shadow-strong: 0px 5px 8px rgba(0, 0, 0, 0.5);
@@ -24,7 +26,7 @@ html {
 }
 
 body {
-    background-color: hsla(0, 0%, 100%, 0.7); /* 50% Transparenz */
+    background-color: var(--bg-color);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,7 +71,7 @@ Header
 */
 
 header {
-    background-color: hsla(0, 0%, 100%, 0.6);
+    background-color: var(--overlay-bg);
     width: 100vw;
     margin-bottom: 3dvh;
     color: var(--font-color);
@@ -107,12 +109,14 @@ main {
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
-    scrollbar-width: thin; /* Firefox */
+    scrollbar-width: thin;
+    /* Firefox */
     scrollbar-color: hsla(0, 0%, 0%, 0.2) transparent;
 }
 
 main::-webkit-scrollbar {
-    width: 8px; /* Chrome, Safari */
+    width: 8px;
+    /* Chrome, Safari */
 }
 
 main::-webkit-scrollbar-thumb {
@@ -146,13 +150,13 @@ main::-webkit-scrollbar-thumb {
     font-size: 5dvh;
     padding: 2dvh;
     margin-top: 12dvh;
-    background-color: hsla(0, 0%, 100%, 0.8);
+    background-color: var(--overlay-bg);
     border-radius: 50%;
     box-shadow: var(--shadow);
 }
 
 .add:hover {
-    background-color:  hsla(0, 0%, 100%);
+    background-color: var(--overlay-higlight);
     color: var(--font-color);
 }
 
@@ -201,10 +205,13 @@ MEDIA QUERIES
 @media (prefers-color-scheme: dark) {
     :root {
         color-scheme: dark light;
-        /* will switch to oklch soon: */
-        --bg-color: hsl(0, 0%, 20%);
-        /* oklch(32%, 0%, 0) */
+        --bg-color: hsla(0, 0%, 30%, 0.8);
+        --overlay-bg: hsla(0, 0%, 0%, 0.30);
+        --overlay-higlight: hsla(0, 0%, 20%);
         --font-color: hsl(0, 0%, 90%);
-        /* oklch(92%, 0%, 0) */
+    }
+
+    body {
+        backdrop-filter: blur(1000px) grayscale(0.3);
     }
 }

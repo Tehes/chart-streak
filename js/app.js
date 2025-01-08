@@ -90,6 +90,8 @@ function insertSong(referenceElement = null, song = null) {
     yearElement.textContent = songToInsert.year;
     songElement.setAttribute("data-year", songToInsert.year);
 
+    document.body.style.backgroundImage = `url("${songToInsert.deezer.cover}")`;
+
     // Attach event listeners to the plus buttons in the newly inserted song element
     const plusButtons = clone.querySelectorAll(".add");
     plusButtons.forEach(button => button.addEventListener("click", clickButton));
@@ -169,10 +171,12 @@ function handleScrollEvent() {
 
         if (closestSong && closestSong !== lastActiveSong) {
             lastActiveSong = closestSong; // Update the last active song
+            const imgURL = closestSong.querySelector("img").src;
 
             // Highlight the active song
             songs.forEach(song => song.classList.remove("active"));
             closestSong.classList.add("active");
+            document.body.style.backgroundImage = `url("${imgURL}")`;
         }
     }, 150); // Set a delay of 150 ms
 }

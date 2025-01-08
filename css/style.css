@@ -24,7 +24,12 @@ html {
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: hsla(0, 0%, 100%, 0.7); /* 50% Transparenz */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: blur(100px);
     /* Disables selecting text (useful for PWAs to prevent unwanted text selection during interactions) */
     user-select: none;
     -webkit-user-select: none;
@@ -46,6 +51,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    transition: all 0.5s;
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
@@ -63,10 +69,10 @@ Header
 */
 
 header {
-    background-color: var(--header-bg);
+    background-color: hsla(0, 0%, 100%, 0.6);
     width: 100vw;
     margin-bottom: 3dvh;
-    color: var(--bg-color);
+    color: var(--font-color);
 }
 
 h1 {
@@ -129,15 +135,14 @@ main {
     font-size: 5dvh;
     padding: 2dvh;
     margin-top: 12dvh;
-    background-color: #fff;
+    background-color: hsla(0, 0%, 100%, 0.8);
     border-radius: 50%;
     box-shadow: var(--shadow);
 }
 
 .add:hover {
-    transform: scale(1.1);
-    background-color: var(--header-bg);
-    color: var(--bg-color);
+    background-color:  hsla(0, 0%, 100%);
+    color: var(--font-color);
 }
 
 .song :where(.title, .artist) {

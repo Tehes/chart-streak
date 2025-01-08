@@ -127,6 +127,7 @@ function clickButton(event) {
     if (previousSong) {
         if (parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) {
             alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt`);
+            randomChartEntries.push(currentSong);
             currentSong = getRandomSong();
             embedDeezerTrack(currentSong);
             return;
@@ -137,6 +138,7 @@ function clickButton(event) {
     if (nextSong) {
         if (parseInt(nextSong.dataset.year) <= parseInt(currentSong.year)) {
             alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
+            randomChartEntries.push(currentSong);
             currentSong = getRandomSong();
             embedDeezerTrack(currentSong);
             return;

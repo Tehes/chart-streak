@@ -124,7 +124,7 @@ function clickButton(event) {
     // Check if there's a previous song and its year is earlier than the current song's year
     if (previousSong) {
         if (parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) {
-            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit zu spät für die aktuelle Auswahl!`);
+            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt`);
             currentSong = getRandomSong();
             embedDeezerTrack(currentSong);
             return;
@@ -134,7 +134,7 @@ function clickButton(event) {
     // Check if there's a next song and its year is later than the current song's year
     if (nextSong) {
         if (parseInt(nextSong.dataset.year) <= parseInt(currentSong.year)) {
-            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit zu früh für die aktuelle Auswahl!`);
+            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
             currentSong = getRandomSong();
             embedDeezerTrack(currentSong);
             return;

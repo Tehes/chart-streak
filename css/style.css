@@ -107,6 +107,17 @@ main {
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: hsla(0, 0%, 0%, 0.2) transparent;
+}
+
+main::-webkit-scrollbar {
+    width: 8px; /* Chrome, Safari */
+}
+
+main::-webkit-scrollbar-thumb {
+    background-color: hsla(0, 0%, 0%, 0.2);
+    border-radius: 10px;
 }
 
 .song {

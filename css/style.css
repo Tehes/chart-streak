@@ -1,6 +1,6 @@
 :root {
     color-scheme: light dark;
-    --bg-color: hsla(0, 0%, 100%, 0.6);
+    --bg-color: hsl(0, 0%, 90%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
@@ -205,13 +205,9 @@ MEDIA QUERIES
 @media (prefers-color-scheme: dark) {
     :root {
         color-scheme: dark light;
-        --bg-color: hsla(0, 0%, 30%, 0.8);
+        --bg-color: hsl(0, 0%, 30%);
         --overlay-bg: hsla(0, 0%, 0%, 0.30);
         --overlay-higlight: hsla(0, 0%, 20%);
         --font-color: hsl(0, 0%, 90%);
-    }
-
-    body {
-        backdrop-filter: blur(1000px) grayscale(0.3);
     }
 }

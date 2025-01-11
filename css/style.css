@@ -62,7 +62,7 @@ body {
 
 p {
     text-wrap: pretty;
-    margin-top: 1dvh;
+    margin: 1dvh 0 0 0;
 }
 
 /*

@@ -90,7 +90,7 @@ function insertSong(referenceElement = null, song = null) {
     yearElement.textContent = songToInsert.year;
     songElement.setAttribute("data-year", songToInsert.year);
 
-    //document.body.style.backgroundImage = `url("${songToInsert.deezer.cover}")`;
+    document.body.style.backgroundImage = `url("${songToInsert.deezer.cover}")`;
 
     // Attach event listeners to the plus buttons in the newly inserted song element
     const plusButtons = clone.querySelectorAll(".add");

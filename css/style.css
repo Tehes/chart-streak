@@ -1,6 +1,6 @@
 :root {
     color-scheme: light dark;
-    --bg-color: hsl(0, 0%, 85%);
+    --bg-color: hsl(0, 0%, 80%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
@@ -27,7 +27,7 @@ html {
 
 body {
     background-color: var(--bg-color);
-    background-blend-mode: overlay;
+    background-blend-mode: soft-light;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -277,6 +277,10 @@ MEDIA QUERIES
         --overlay-bg: hsla(0, 0%, 0%, 0.30);
         --overlay-higlight: hsla(0, 0%, 20%);
         --font-color: hsl(0, 0%, 90%);
+    }
+
+    body {
+        backdrop-filter: blur(150px);
     }
 
     #control-panel img {

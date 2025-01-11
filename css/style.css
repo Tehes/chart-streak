@@ -1,6 +1,6 @@
 :root {
     color-scheme: light dark;
-    --bg-color: hsl(0, 0%, 90%);
+    --bg-color: hsl(0, 0%, 85%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
@@ -157,7 +157,7 @@ main::-webkit-scrollbar-thumb {
 
 .add:hover {
     background-color: var(--overlay-higlight);
-    color: var(--font-color);
+    cursor: pointer;
 }
 
 .song :where(.title, .artist) {
@@ -179,14 +179,81 @@ main::-webkit-scrollbar-thumb {
 
 /*
 -------------------------------------------------------------------
-Deezer Player
+Control Panel
 -------------------------------------------------------------------
 */
+
+#control-panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2dvh;
+    margin-bottom: 3dvh;
+}
+
+#strikes,
+#panel-right,
+#shuffle,
+#score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#strikes {
+    gap: 5dvh;
+}
+
+#strikes img {
+    width: 3dvh;
+    height: 3dvh;
+    opacity: 0.2;
+}
+
+#strikes img.active {
+    opacity: 0.6;
+}
+
+#shuffle div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5dvh;
+    height: 5dvh;
+    padding: 2dvh;
+    background-color: var(--overlay-bg);
+    border-radius: 50%;
+    box-shadow: var(--shadow);
+}
+
+#shuffle div:hover {
+    background-color: var(--overlay-higlight);
+    cursor: pointer;
+}
+
+#shuffle img {
+    width: 2.5dvh;
+    height: 2.5dvh;
+    opacity: 0.7;
+}
+
+hr {
+    width: 100%;
+    border: none;
+    border-top: 1px solid var(--font-color);
+    margin-bottom: 2dvh;
+}
+
+#score img {
+    width: 4dvh;
+    height: 4dvh;
+    opacity: 0.6;
+}
 
 #deezer-player {
     width: 30dvh;
     height: 30dvh;
-    margin-bottom: 3dvh;
 }
 
 #deezer-player iframe {
@@ -209,5 +276,9 @@ MEDIA QUERIES
         --overlay-bg: hsla(0, 0%, 0%, 0.30);
         --overlay-higlight: hsla(0, 0%, 20%);
         --font-color: hsl(0, 0%, 90%);
+    }
+
+    #control-panel img {
+        filter: invert(1);
     }
 }

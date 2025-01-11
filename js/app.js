@@ -22,6 +22,16 @@ let scrollTimeout;
 let lastActiveSong = null;
 
 const main = document.querySelector("main");
+const shuffleButton = document.querySelector("#shuffle");
+let shuffleCounter = 3;
+const shuffleCounterElement = document.querySelector("#shuffle p");
+shuffleCounterElement.textContent = shuffleCounter;
+let score = 0;
+const scoreElement = document.querySelector("#score p");
+scoreElement.textContent = score;
+let strikes = 0;
+const strikesElement = document.querySelectorAll("#strikes img");
+
 
 
 /* --------------------------------------------------------------------------------------------------
@@ -119,34 +129,46 @@ function insertSong(referenceElement = null, song = null) {
 }
 
 function clickButton(event) {
+    if (strikes === 3) {
+        alert("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
+        return;
+    }
     const button = event.target;
     const previousSong = button.previousElementSibling?.classList.contains("song") ? button.previousElementSibling : null;
     const nextSong = button.nextElementSibling?.classList.contains("song") ? button.nextElementSibling : null;
 
-    // Check if there's a previous song and its year is earlier than the current song's year
-    if (previousSong) {
-        if (parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) {
-            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt`);
-            randomChartEntries.push(currentSong);
-            currentSong = getRandomSong();
-            embedDeezerTrack(currentSong);
-            return;
-        }
-    }
-
-    // Check if there's a next song and its year is later than the current song's year
-    if (nextSong) {
-        if (parseInt(nextSong.dataset.year) <= parseInt(currentSong.year)) {
-            alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
-            randomChartEntries.push(currentSong);
-            currentSong = getRandomSong();
-            embedDeezerTrack(currentSong);
-            return;
-        }
+    // Check if there's a previous or next song that violates the correct chronological order.
+    // If the previous song is from a later year or the next song is from an earlier year, show an alert
+    // and replace the current song with a new one.
+    if (
+        (previousSong && parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) ||
+        (nextSong && parseInt(nextSong.dataset.year) <= parseInt(currentSong.year))
+    ) {
+        alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
+        randomChartEntries.push(currentSong);
+        currentSong = getRandomSong();
+        embedDeezerTrack(currentSong);
+        strikesElement[strikes].classList.add("active");
+        strikes++;
+        return;
     }
 
     // If all checks pass, call insertSong as usual
     insertSong(button);
+    score++;
+    scoreElement.textContent = score;
+}
+
+function clickShuffleButton() {
+    if (shuffleCounter === 0) {
+        alert("Du hast alle Shuffle-Versuche aufgebraucht.");
+        return;
+    }
+    randomChartEntries.push(currentSong);
+    currentSong = getRandomSong();
+    embedDeezerTrack(currentSong);
+    shuffleCounter--;
+    shuffleCounterElement.textContent = shuffleCounter;
 }
 
 function handleScrollEvent() {
@@ -190,6 +212,7 @@ function init() {
     // If you experience issues with touch interactions, you can uncomment it again.
     // document.addEventListener("touchstart", function() {}, false);
     main.addEventListener("scroll", handleScrollEvent);
+    shuffleButton.addEventListener("click", clickShuffleButton);
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
     embedDeezerTrack(currentSong);

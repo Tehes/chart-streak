@@ -17,7 +17,7 @@ Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
 const randomChartEntries = getRandomChartEntries(charts);
-let currentSong = getRandomSong();
+let currentSong = randomChartEntries.shift();
 let scrollTimeout;
 let lastActiveSong = null;
 
@@ -48,17 +48,11 @@ function getRandomChartEntries(charts) {
             randomEntries.push(randomEntry); // Add the selected entry to the results
         }
     });
-    return randomEntries; // Return the array of random entries, one per year
-}
 
-function getRandomSong() {
-    if (randomChartEntries.length === 0) {
-        console.warn("No more songs available to select.");
-        return null;
-    }
-    const randomIndex = Math.floor(Math.random() * randomChartEntries.length);
-    const selectedSong = randomChartEntries.splice(randomIndex, 1)[0]; // Remove and return the selected song
-    return selectedSong;
+    // Shuffle the array using sort and Math.random
+    randomEntries.sort(() => Math.random() - 0.5);
+
+    return randomEntries; // Return the array of random entries, one per year
 }
 
 function embedDeezerTrack(randomSong) {
@@ -116,7 +110,7 @@ function insertSong(referenceElement = null, song = null) {
 
     // If the current song was inserted, fetch a new random song and update the Deezer widget
     if (!song) {
-        currentSong = getRandomSong();
+        currentSong = randomChartEntries.shift();
         embedDeezerTrack(currentSong);
     }
 
@@ -146,7 +140,7 @@ function clickButton(event) {
     ) {
         showMessage(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
         randomChartEntries.push(currentSong);
-        currentSong = getRandomSong();
+        currentSong = randomChartEntries.shift();
         embedDeezerTrack(currentSong);
         strikesElement[strikes].classList.add("active");
         strikes++;
@@ -157,6 +151,7 @@ function clickButton(event) {
     insertSong(button);
     score++;
     scoreElement.textContent = score;
+    console.log(randomChartEntries);
 }
 
 function clickShuffleButton() {
@@ -165,7 +160,7 @@ function clickShuffleButton() {
         return;
     }
     randomChartEntries.push(currentSong);
-    currentSong = getRandomSong();
+    currentSong = randomChartEntries.shift();
     embedDeezerTrack(currentSong);
     shuffleCounter--;
     shuffleCounterElement.textContent = shuffleCounter;
@@ -209,7 +204,7 @@ function showMessage(text) {
     const message = document.querySelector("aside");
     message.textContent = text;
     message.classList.add("visible");
-    setTimeout(() => message.classList.remove("visible"), 2000);
+    setTimeout(() => message.classList.remove("visible"), 3000);
 }
 
 function init() {
@@ -223,7 +218,7 @@ function init() {
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
     embedDeezerTrack(currentSong);
-    insertSong(null, getRandomSong());
+    insertSong(null, randomChartEntries.shift());
     handleScrollEvent();
 }
 

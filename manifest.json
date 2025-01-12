@@ -9,8 +9,7 @@
             "sizes": "180x180"
         }
     ],
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "index.html",
     "background_color": "#eee",
     "display": "standalone",
     "theme_color": "#eee"

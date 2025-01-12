@@ -65,6 +65,24 @@ p {
     margin: 1dvh 0 0 0;
 }
 
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5dvh;
+    height: 5dvh;
+    font-size: 5dvh;
+    padding: 2dvh;
+    background-color: var(--overlay-bg);
+    border-radius: 50%;
+    box-shadow: var(--shadow);
+}
+
+.button:hover {
+    background-color: var(--overlay-higlight);
+    cursor: pointer;
+}
+
 /*
 -------------------------------------------------------------------
 Header  
@@ -107,7 +125,7 @@ main {
     padding-left: 50vw;
     gap: 4vmin;
     width: 100vw;
-    overflow-x: scroll;
+    overflow-x: auto;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     scrollbar-width: thin;
@@ -143,22 +161,8 @@ main::-webkit-scrollbar-thumb {
 }
 
 .add {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 5dvh;
-    height: 5dvh;
     font-size: 5dvh;
-    padding: 2dvh;
     margin-top: 12dvh;
-    background-color: var(--overlay-bg);
-    border-radius: 50%;
-    box-shadow: var(--shadow);
-}
-
-.add:hover {
-    background-color: var(--overlay-higlight);
-    cursor: pointer;
 }
 
 .song :where(.title, .artist) {
@@ -216,18 +220,6 @@ Control Panel
     opacity: 0.6;
 }
 
-#shuffle div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 5dvh;
-    height: 5dvh;
-    padding: 2dvh;
-    background-color: var(--overlay-bg);
-    border-radius: 50%;
-    box-shadow: var(--shadow);
-}
-
 #shuffle div:hover {
     background-color: var(--overlay-higlight);
     cursor: pointer;
@@ -262,6 +254,27 @@ hr {
     border-radius: 10px;
     width: 100%;
     height: 100%;
+}
+
+/*
+-------------------------------------------------------------------
+Aside
+-------------------------------------------------------------------
+*/
+
+aside {
+    display: none;
+    position: absolute;
+    top: 9dvh;
+    max-width: 90vw;
+    background-color: var(--overlay-higlight);
+    border-radius: 10px;
+    padding: 1dvh;
+    box-shadow: var(--shadow);
+}
+
+aside.visible {
+    display: block;
 }
 
 /*

@@ -130,7 +130,7 @@ function insertSong(referenceElement = null, song = null) {
 
 function clickButton(event) {
     if (strikes === 3) {
-        alert("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
+        showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
         return;
     }
     const button = event.target;
@@ -138,13 +138,13 @@ function clickButton(event) {
     const nextSong = button.nextElementSibling?.classList.contains("song") ? button.nextElementSibling : null;
 
     // Check if there's a previous or next song that violates the correct chronological order.
-    // If the previous song is from a later year or the next song is from an earlier year, show an alert
+    // If the previous song is from a later year or the next song is from an earlier year, show a message
     // and replace the current song with a new one.
     if (
         (previousSong && parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) ||
         (nextSong && parseInt(nextSong.dataset.year) <= parseInt(currentSong.year))
     ) {
-        alert(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
+        showMessage(`Der Song ist aus dem Jahr ${currentSong.year} und damit an dieser Position nicht korrekt.`);
         randomChartEntries.push(currentSong);
         currentSong = getRandomSong();
         embedDeezerTrack(currentSong);
@@ -161,7 +161,7 @@ function clickButton(event) {
 
 function clickShuffleButton() {
     if (shuffleCounter === 0) {
-        alert("Du hast alle Shuffle-Versuche aufgebraucht.");
+        showMessage("Du hast alle Shuffle-Versuche aufgebraucht.");
         return;
     }
     randomChartEntries.push(currentSong);
@@ -203,6 +203,13 @@ function handleScrollEvent() {
             document.body.style.backgroundImage = `url("${imgURL}")`;
         }
     }, 150); // Set a delay of 150 ms
+}
+
+function showMessage(text) {
+    const message = document.querySelector("aside");
+    message.textContent = text;
+    message.classList.add("visible");
+    setTimeout(() => message.classList.remove("visible"), 2000);
 }
 
 function init() {

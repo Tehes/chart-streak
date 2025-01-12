@@ -143,6 +143,7 @@ function clickButton(event) {
         currentSong = randomChartEntries.shift();
         embedDeezerTrack(currentSong);
         strikesElement[strikes].classList.add("active");
+        strikesElement[strikes].src = "svg/cross.svg";
         strikes++;
         return;
     }

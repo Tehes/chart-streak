@@ -218,7 +218,7 @@ Control Panel
 #strikes img {
     width: 3dvh;
     height: 3dvh;
-    opacity: 0.2;
+    opacity: 0.4;
 }
 
 #strikes img.active {

@@ -151,7 +151,6 @@ function clickButton(event) {
     insertSong(button);
     score++;
     scoreElement.textContent = score;
-    console.log(randomChartEntries);
 }
 
 function clickShuffleButton() {

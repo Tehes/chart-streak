@@ -206,6 +206,11 @@ Control Panel
     flex-direction: column;
 }
 
+#strikes,
+#panel-right {
+    width: 5dvh;
+}
+
 #strikes {
     gap: 5dvh;
 }

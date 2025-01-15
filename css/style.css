@@ -269,18 +269,19 @@ Aside
 
 aside {
     position: absolute;
-    top: -9dvh;
+    top: 0;
+    transform: translateY(-100%);
     max-width: 90vw;
     background-color: var(--overlay-higlight);
     border-radius: 10px;
     padding: 1dvh;
     box-shadow: var(--shadow);
-    transition: top 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;
     pointer-events: none;
 }
 
 aside.visible {
-    top: 9dvh;
+    transform: translateY(9dvh);
     pointer-events: auto;
 }
 

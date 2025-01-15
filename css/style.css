@@ -268,18 +268,20 @@ Aside
 */
 
 aside {
-    display: none;
     position: absolute;
-    top: 9dvh;
+    top: -9dvh;
     max-width: 90vw;
     background-color: var(--overlay-higlight);
     border-radius: 10px;
     padding: 1dvh;
     box-shadow: var(--shadow);
+    transition: top 0.3s ease-in-out;
+    pointer-events: none;
 }
 
 aside.visible {
-    display: block;
+    top: 9dvh;
+    pointer-events: auto;
 }
 
 /*

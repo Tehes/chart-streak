@@ -270,7 +270,7 @@ Aside
 aside {
     position: absolute;
     top: 0;
-    transform: translateY(-100%);
+    transform: translateY(calc(-100% - 12px));
     max-width: 90vw;
     background-color: var(--overlay-higlight);
     border-radius: 10px;

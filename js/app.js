@@ -167,6 +167,10 @@ function clickShuffleButton() {
         showMessage("Du hast alle Shuffle-Versuche aufgebraucht.");
         return;
     }
+    if (strikes === 3) {
+        showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
+        return;
+    }
     randomChartEntries.push(currentSong);
     currentSong = randomChartEntries.shift();
     embedDeezerTrack(currentSong);

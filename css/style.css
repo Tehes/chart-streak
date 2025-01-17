@@ -5,7 +5,7 @@
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
     --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
-    --shadow-strong: 0px 5px 8px rgba(0, 0, 0, 0.5);
+    --shadow-strong: 0px 5px 8px rgba(0, 0, 0, 0.4);
     --header-bg: hsl(200, 10%, 35%);
     accent-color: auto;
     /* change to your highlight color when needed */
@@ -81,6 +81,11 @@ p {
 .button:hover {
     background-color: var(--overlay-higlight);
     cursor: pointer;
+}
+
+.button:active {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-strong);
 }
 
 /*
@@ -234,6 +239,10 @@ Control Panel
     width: 2.5dvh;
     height: 2.5dvh;
     opacity: 0.7;
+}
+
+#shuffle .inactive img {
+    opacity: 0.2;
 }
 
 hr {

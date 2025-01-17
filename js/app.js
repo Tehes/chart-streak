@@ -22,7 +22,7 @@ let scrollTimeout;
 let lastActiveSong = null;
 
 const main = document.querySelector("main");
-const shuffleButton = document.querySelector("#shuffle");
+const shuffleButton = document.querySelector("#shuffle .button");
 let shuffleCounter = 3;
 const shuffleCounterElement = document.querySelector("#shuffle p");
 shuffleCounterElement.textContent = shuffleCounter;
@@ -177,6 +177,10 @@ function clickShuffleButton() {
     embedDeezerTrack(currentSong);
     shuffleCounter--;
     shuffleCounterElement.textContent = shuffleCounter;
+    if (shuffleCounter === 0) {
+        shuffleButton.removeEventListener("click", clickShuffleButton, false);
+        shuffleButton.classList.add("inactive");
+    }
 }
 
 function handleScrollEvent() {
@@ -230,8 +234,8 @@ function centerSong(ev) {
 
 function init() {
     document.addEventListener("touchstart", function() {}, false);
-    main.addEventListener("scroll", handleScrollEvent);
-    shuffleButton.addEventListener("click", clickShuffleButton);
+    main.addEventListener("scroll", handleScrollEvent, false);
+    shuffleButton.addEventListener("click", clickShuffleButton, false);
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
 
     embedDeezerTrack(currentSong);

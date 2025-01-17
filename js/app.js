@@ -139,12 +139,20 @@ function clickButton(event) {
         (nextSong && parseInt(nextSong.dataset.year) <= parseInt(currentSong.year))
     ) {
         showMessage(`Der Song ist aus dem Jahr ${currentSong.year} und damit hier nicht korrekt.`);
-        randomChartEntries.push(currentSong);
-        currentSong = randomChartEntries.shift();
-        embedDeezerTrack(currentSong);
         strikesElement[strikes].classList.add("active");
         strikesElement[strikes].src = "svg/cross.svg";
         strikes++;
+        if (strikes < 3) {
+            randomChartEntries.push(currentSong);
+            currentSong = randomChartEntries.shift();
+            embedDeezerTrack(currentSong);
+        }
+        else {
+            const iframeContainer = document.querySelector("#deezer-player");
+            iframeContainer.innerHTML = "<h3>Das Spiel ist vorbei</h3>"
+            const plusButtons = document.querySelectorAll(".add");
+            plusButtons.forEach(button => button.remove());
+        }
         return;
     }
 
@@ -208,11 +216,7 @@ function showMessage(text) {
 }
 
 function init() {
-    // The following touchstart event listener was used as a workaround for older iOS devices
-    // to prevent a 300ms delay in touch interactions. It is likely not necessary anymore
-    // on modern devices and browsers, especially in Progressive Web Apps.
-    // If you experience issues with touch interactions, you can uncomment it again.
-    // document.addEventListener("touchstart", function() {}, false);
+    document.addEventListener("touchstart", function() {}, false);
     main.addEventListener("scroll", handleScrollEvent);
     shuffleButton.addEventListener("click", clickShuffleButton);
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });

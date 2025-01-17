@@ -120,6 +120,7 @@ function insertSong(referenceElement = null, song = null) {
         block: "center",    // Vertical alignment: center of the container
         inline: "center"    // Horizontal alignment: center of the container
     });
+    songElement.addEventListener("click",centerSong, false);
 }
 
 function clickButton(event) {
@@ -217,6 +218,14 @@ function showMessage(text) {
     message.textContent = text;
     message.classList.add("visible");
     setTimeout(() => message.classList.remove("visible"), 3300);
+}
+
+function centerSong(ev) {
+    ev.target.scrollIntoView({
+        behavior: "smooth", // Smooth scrolling
+        block: "center",    // Vertical alignment: center of the container
+        inline: "center"    // Horizontal alignment: center of the container
+    });
 }
 
 function init() {

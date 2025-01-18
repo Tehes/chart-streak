@@ -84,7 +84,7 @@ p {
 }
 
 .button:active {
-    transform: scale(1.05);
+    transform: scale(1.1);
     box-shadow: var(--shadow-strong);
 }
 
@@ -228,6 +228,25 @@ Control Panel
 
 #strikes img.active {
     opacity: 0.6;
+    animation: bounceScale 0.5s ease-out;
+}
+
+@keyframes bounceScale {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+
+    70% {
+        transform: scale(0.95);
+    }
+
+    100% {
+        transform: scale(1);
+    }
 }
 
 #shuffle div:hover {

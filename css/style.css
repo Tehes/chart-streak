@@ -7,6 +7,7 @@
     --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
     --shadow-strong: 0px 5px 8px rgba(0, 0, 0, 0.4);
     --header-bg: hsl(200, 10%, 35%);
+    --scale-factor: 1.2;
     accent-color: auto;
     /* change to your highlight color when needed */
 }
@@ -149,7 +150,10 @@ main::-webkit-scrollbar-thumb {
 }
 
 .song {
+    --scale-factor: 1.1;
     scroll-snap-align: center;
+    animation: bounceScale 0.5s ease-out;
+    margin: 3dvh 0;
 }
 
 .song img {
@@ -167,7 +171,7 @@ main::-webkit-scrollbar-thumb {
 
 .add {
     font-size: 5dvh;
-    margin-top: 12dvh;
+    margin-top: 15dvh;
 }
 
 .song :where(.title, .artist) {
@@ -237,7 +241,7 @@ Control Panel
     }
 
     50% {
-        transform: scale(1.2);
+        transform: scale(var(--scale-factor));
     }
 
     70% {

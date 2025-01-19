@@ -120,12 +120,15 @@ function insertSong(referenceElement = null, song = null) {
         block: "center",    // Vertical alignment: center of the container
         inline: "center"    // Horizontal alignment: center of the container
     });
-    songElement.addEventListener("click",centerSong, false);
+    songElement.addEventListener("click", centerSong, false);
 }
 
 function clickButton(event) {
     if (strikes === 3) {
         showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
+        window.splitbee.track("chartStreak", {
+            highscore: score
+        });
         return;
     }
     const button = event.target;
@@ -233,7 +236,7 @@ function centerSong(ev) {
 }
 
 function init() {
-    document.addEventListener("touchstart", function() {}, false);
+    document.addEventListener("touchstart", function () { }, false);
     main.addEventListener("scroll", handleScrollEvent, false);
     shuffleButton.addEventListener("click", clickShuffleButton, false);
     //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });

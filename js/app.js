@@ -126,9 +126,6 @@ function insertSong(referenceElement = null, song = null) {
 function clickButton(event) {
     if (strikes === 3) {
         showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
-        window.splitbee.track("chartStreak", {
-            highscore: score
-        });
         return;
     }
     const button = event.target;
@@ -142,21 +139,7 @@ function clickButton(event) {
         (previousSong && parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) ||
         (nextSong && parseInt(nextSong.dataset.year) <= parseInt(currentSong.year))
     ) {
-        strikesElement[strikes].classList.add("active");
-        strikesElement[strikes].src = "svg/cross.svg";
-        strikes++;
-        showMessage(`Strike ${strikes}: Der Song ist aus dem Jahr ${currentSong.year}.`);
-        if (strikes < 3) {
-            randomChartEntries.push(currentSong);
-            currentSong = randomChartEntries.shift();
-            embedDeezerTrack(currentSong);
-        }
-        else {
-            const iframeContainer = document.querySelector("#deezer-player");
-            iframeContainer.innerHTML = "<h3>Das Spiel ist vorbei</h3>"
-            const plusButtons = document.querySelectorAll(".add");
-            plusButtons.forEach(button => button.remove());
-        }
+        applyStrike();
         return;
     }
 
@@ -218,6 +201,30 @@ function handleScrollEvent() {
             document.body.style.backgroundImage = `url("${imgURL}")`;
         }
     }, 150); // Set a delay of 150 ms
+}
+
+function applyStrike() {
+    // apply strike
+    strikesElement[strikes].classList.add("active");
+    strikesElement[strikes].src = "svg/cross.svg";
+    strikes++;
+    showMessage(`Strike ${strikes}: Der Song ist aus dem Jahr ${currentSong.year}.`);
+    // get new song if strikes < 3
+    if (strikes < 3) {
+        randomChartEntries.push(currentSong);
+        currentSong = randomChartEntries.shift();
+        embedDeezerTrack(currentSong);
+    }
+    //end game if strikes === 3
+    else {
+        const iframeContainer = document.querySelector("#deezer-player");
+        iframeContainer.innerHTML = "<h3>Das Spiel ist vorbei</h3>"
+        const plusButtons = document.querySelectorAll(".add");
+        plusButtons.forEach(button => button.remove());
+        window.splitbee.track("chartStreak", {
+            highscore: score
+        });
+    }
 }
 
 function showMessage(text) {

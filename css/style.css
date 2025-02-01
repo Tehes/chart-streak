@@ -367,11 +367,6 @@ SIDEBAR
     padding: 0 0 0 1rem;
 }
 
-.emoji {
-    font-weight: bold;
-    margin-right: 0.5rem;
-}
-
 .highlight {
     font-weight: bold;
     color: var(--attention);

@@ -1,6 +1,7 @@
 :root {
     color-scheme: light dark;
     --bg-color: hsl(0, 0%, 80%);
+    --attention: hsl(348, 83%, 47%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
@@ -253,11 +254,6 @@ Control Panel
     }
 }
 
-#shuffle div:hover {
-    background-color: var(--overlay-higlight);
-    cursor: pointer;
-}
-
 #shuffle img {
     width: 2.5dvh;
     height: 2.5dvh;
@@ -279,6 +275,11 @@ hr {
     width: 4dvh;
     height: 4dvh;
     opacity: 0.6;
+}
+
+#help {
+    font-size: 3dvh;
+    font-weight: 600;
 }
 
 #deezer-player {
@@ -320,6 +321,60 @@ aside {
 aside.visible {
     transform: translateY(9dvh);
     pointer-events: auto;
+}
+
+/*
+-------------------------------------------------------------------
+SIDEBAR
+-------------------------------------------------------------------
+*/
+
+#sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
+    width: 35vw;
+    min-width: 330px;
+    padding: 1rem;
+    height: 100dvh;
+    z-index: 100;
+    background-color: var(--overlay-higlight);
+    transition: transform 0.3s ease-in-out, box-shadow 0.2s ease-in;
+    overflow-x: hidden;
+    box-shadow: var(--shadow);
+}
+
+#sidebar.visible {
+    transform: translateX(0);
+    overflow-y: auto;
+}
+
+#sidebar h2 {
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
+
+#sidebar ul {
+    padding: 0 0 0 1rem;
+}
+
+#sidebar li {
+    margin: 0.5rem 0;
+}
+
+#sidebar ol {
+    padding: 0 0 0 1rem;
+}
+
+.emoji {
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+.highlight {
+    font-weight: bold;
+    color: var(--attention);
 }
 
 /*

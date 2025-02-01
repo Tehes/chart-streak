@@ -31,7 +31,7 @@ const scoreElement = document.querySelector("#score p");
 scoreElement.textContent = score;
 let strikes = 0;
 const strikesElement = document.querySelectorAll("#strikes img");
-
+const helpButton = document.querySelector("#help");
 
 
 /* --------------------------------------------------------------------------------------------------
@@ -234,6 +234,11 @@ function showMessage(text) {
     setTimeout(() => message.classList.remove("visible"), 3300);
 }
 
+function showSidebar() {
+    const sidebar = document.querySelector("#sidebar");
+    sidebar.classList.toggle("visible");
+}
+
 function centerSong(ev) {
     ev.target.scrollIntoView({
         behavior: "smooth", // Smooth scrolling
@@ -246,7 +251,7 @@ function init() {
     document.addEventListener("touchstart", function () { }, false);
     main.addEventListener("scroll", handleScrollEvent, false);
     shuffleButton.addEventListener("click", clickShuffleButton, false);
-    //window.addEventListener("wheel", handleHorizontalScroll, { passive: false });
+    helpButton.addEventListener("click", showSidebar, false);
 
     embedDeezerTrack(currentSong);
     insertSong(null, randomChartEntries.shift());

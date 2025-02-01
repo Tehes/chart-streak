@@ -1,7 +1,6 @@
 :root {
     color-scheme: light dark;
     --bg-color: hsl(0, 0%, 80%);
-    --attention: hsl(348, 83%, 47%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
@@ -365,11 +364,6 @@ SIDEBAR
 
 #sidebar ol {
     padding: 0 0 0 1rem;
-}
-
-.highlight {
-    font-weight: bold;
-    color: var(--attention);
 }
 
 /*

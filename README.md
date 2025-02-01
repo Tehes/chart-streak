@@ -37,7 +37,7 @@ Chart Streak processes music chart data through multiple stages:
 ---
 
 ## 🔧 Project Structure
-
+```
 chart-streak/
 │── css/                     # Styles
 │   ├── style.css
@@ -62,7 +62,7 @@ chart-streak/
 │── service-worker.js        # (Optional) PWA support
 │── manifest.json            # Web app manifest for mobile support
 │── README.md                # This file
-
+```
 ---
 
 ## 🎮 Gameplay
@@ -102,13 +102,3 @@ chart-streak/
 
 Chart Streak is a **non-commercial project** built for fun and personal use.  
 The project does not provide downloadable software and is not intended for redistribution.
-
----
-
-This version ensures that:
-✔ No installation or cloning instructions are provided.
-✔ The documentation focuses on what you built and how it works.
-✔ Data processing steps are clearly explained.
-✔ A disclaimer clarifies the project’s non-commercial intent.
-
-Let me know if you’d like any tweaks! 🚀

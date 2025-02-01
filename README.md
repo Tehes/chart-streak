@@ -1,5 +1,3 @@
-Got it! Here’s a README.md in English that explains what you’ve built, how it works, and the data processing steps—without providing installation instructions. Let me know if you need further refinements!
-
 # 🎵 Chart Streak
 
 **Chart Streak** is a single-player music quiz where the goal is to place songs in the correct chronological order based on when they first appeared in the **Top 100 of the official German single charts**. The game runs directly in the browser and includes a Deezer player for previewing tracks.

@@ -366,6 +366,17 @@ SIDEBAR
     padding: 0 0 0 1rem;
 }
 
+#sidebar footer {
+    margin-top: 2dvh;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#sidebar footer a:hover {
+    filter: invert(0.4);
+}
+
 /*
 -------------------------------------------------------------------
 MEDIA QUERIES
@@ -385,7 +396,8 @@ MEDIA QUERIES
         backdrop-filter: blur(150px);
     }
 
-    #control-panel img {
+    #control-panel img,
+    #sidebar footer img {
         filter: invert(1);
     }
 }

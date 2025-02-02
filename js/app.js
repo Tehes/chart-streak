@@ -16,20 +16,18 @@ async function fetchData(filePath) {
 Variables
 ---------------------------------------------------------------------------------------------------*/
 const charts = await fetchData("data/merged-charts.json");
-const randomChartEntries = getRandomChartEntries(charts);
-let currentSong = randomChartEntries.shift();
+let randomChartEntries;
+let currentSong;
 let scrollTimeout;
-let lastActiveSong = null;
+let lastActiveSong;
 
 const main = document.querySelector("main");
 const shuffleButton = document.querySelector("#shuffle .button");
-let shuffleCounter = 3;
+let shuffleCounter;
 const shuffleCounterElement = document.querySelector("#shuffle p");
-shuffleCounterElement.textContent = shuffleCounter;
-let score = 0;
+let score;
 const scoreElement = document.querySelector("#score p");
-scoreElement.textContent = score;
-let strikes = 0;
+let strikes;
 const strikesElement = document.querySelectorAll("#strikes img");
 const sidebar = document.querySelector("#sidebar");
 const helpButton = document.querySelector("#help");
@@ -219,7 +217,15 @@ function applyStrike() {
     //end game if strikes === 3
     else {
         const iframeContainer = document.querySelector("#deezer-player");
-        iframeContainer.innerHTML = "<h3>Das Spiel ist vorbei</h3>"
+        iframeContainer.innerHTML = "<h3>Das Spiel ist vorbei</h3>";
+
+        const restartButton = document.createElement("div");
+        restartButton.id = "restart";
+        restartButton.classList.add("button");
+        restartButton.textContent = "Neu starten";
+        restartButton.addEventListener("click", resetGame);
+        iframeContainer.appendChild(restartButton);
+
         const plusButtons = document.querySelectorAll(".add");
         plusButtons.forEach(button => button.remove());
         window.splitbee.track("chartStreak", {
@@ -247,6 +253,31 @@ function centerSong(ev) {
     });
 }
 
+function resetGame() {
+    lastActiveSong = null;
+    randomChartEntries = getRandomChartEntries(charts);
+    currentSong = randomChartEntries.shift();
+    score = 0;
+    scoreElement.textContent = score;
+    shuffleCounter = 3;
+    shuffleCounterElement.textContent = shuffleCounter;
+    strikes = 0;
+    if (strikesElement[0].classList.contains("active")) {
+        strikesElement.forEach(strike => {
+            strike.classList.remove("active");
+            strike.src = "svg/cross.svg";
+        });
+    }
+    main.innerHTML = "";
+    embedDeezerTrack(currentSong);
+    insertSong(null, randomChartEntries.shift());
+    handleScrollEvent();
+    if (shuffleButton.classList.contains("inactive")) {
+        shuffleButton.addEventListener("click", clickShuffleButton, false);
+        shuffleButton.classList.remove("inactive");
+    }
+}
+
 function init() {
     document.addEventListener("touchstart", function () { }, false);
     main.addEventListener("scroll", handleScrollEvent, false);
@@ -254,9 +285,7 @@ function init() {
     helpButton.addEventListener("click", toggleSidebar, false);
     sidebar.addEventListener("click", toggleSidebar, false);
 
-    embedDeezerTrack(currentSong);
-    insertSong(null, randomChartEntries.shift());
-    handleScrollEvent();
+    resetGame();
 }
 
 /* --------------------------------------------------------------------------------------------------

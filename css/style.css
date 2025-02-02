@@ -2,6 +2,7 @@
     color-scheme: light dark;
     --bg-color: hsl(0, 0%, 80%);
     --overlay-bg: hsla(0, 0%, 100%, 0.6);
+    --overlay-darker: hsla(0, 0%, 90%, 0.6);
     --overlay-higlight: hsla(0, 0%, 100%);
     --font-color: hsl(0, 0%, 20%);
     --shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
@@ -285,11 +286,24 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     width: 30dvh;
     height: 30dvh;
     border-radius: 10px;
-    background-color: var(--overlay-bg);
+    background-color: var(--overlay-darker);
     box-shadow: var(--shadow);
+}
+
+#deezer-player #restart {
+    margin-top: 1dvh;
+    padding: 1dvh;
+    background-color: var(--overlay-bg);
+    border-radius: 25px;
+    box-shadow: var(--shadow);
+    width: initial;
+    height: initial;
+    font-size: initial;
+    font-weight: 600;
 }
 
 #deezer-player iframe {
@@ -388,6 +402,7 @@ MEDIA QUERIES
         color-scheme: dark light;
         --bg-color: hsl(0, 0%, 30%);
         --overlay-bg: hsla(0, 0%, 0%, 0.30);
+        --overlay-darker: hsla(0, 0%, 40%, 0.30);
         --overlay-higlight: hsla(0, 0%, 20%);
         --font-color: hsl(0, 0%, 90%);
     }

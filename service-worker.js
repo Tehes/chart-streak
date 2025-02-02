@@ -1,4 +1,4 @@
-const CACHE_NAME = "--your-app-cache-v1"; // Name of the dynamic cache
+const CACHE_NAME = "--chart-streak-cache-v1"; // Name of the dynamic cache
 
 // Install event
 self.addEventListener("install", () => {

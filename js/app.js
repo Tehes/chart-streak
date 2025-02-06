@@ -265,7 +265,7 @@ function resetGame() {
     if (strikesElement[0].classList.contains("active")) {
         strikesElement.forEach(strike => {
             strike.classList.remove("active");
-            strike.src = "svg/cross.svg";
+            strike.src = "svg/cross-outline.svg";
         });
     }
     main.innerHTML = "";

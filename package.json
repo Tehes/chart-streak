@@ -10,6 +10,7 @@
     "merge-charts": "node tools/merge-charts.js"
   },
   "dependencies": {
+    "eslint": "^9.25.0",
     "node-fetch": "^3.3.2",
     "puppeteer": "^23.9.0"
   }

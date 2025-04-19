@@ -228,7 +228,7 @@ function applyStrike() {
 
         const plusButtons = document.querySelectorAll(".add");
         plusButtons.forEach(button => button.remove());
-        window.splitbee.track("chartStreak", {
+        window.umami.track("chartStreak", {
             highscore: score
         });
     }

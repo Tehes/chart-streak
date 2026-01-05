@@ -62,7 +62,14 @@
   {
     "rank": 6,
     "artist": "Linkin Park",
-    "title": "The Emptiness Machine"
+    "title": "The Emptiness Machine",
+    "deezer": {
+      "deezerID": 3068802261,
+      "deezerLink": "https://www.deezer.com/track/3068802261",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1e8ffbd401303b5693226c12ee0b84fb/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Linkin Park",
+      "deezerTitle": "The Emptiness Machine"
+    }
   },
   {
     "rank": 7,
@@ -79,7 +86,14 @@
   {
     "rank": 8,
     "artist": "Gracie Abrams",
-    "title": "That's So True"
+    "title": "That's So True",
+    "deezer": {
+      "deezerID": 3047560351,
+      "deezerLink": "https://www.deezer.com/track/3047560351",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/967769c4612d74e8f5c7da8798b28e13/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Gracie Abrams",
+      "deezerTitle": "That's So True"
+    }
   },
   {
     "rank": 9,
@@ -230,8 +244,8 @@
     "artist": "Benson Boone",
     "title": "Beautiful Things",
     "deezer": {
-      "deezerID": 2674548842,
-      "deezerLink": "https://www.deezer.com/track/2674548842",
+      "deezerID": 2610711672,
+      "deezerLink": "https://www.deezer.com/track/2610711672",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ab1ae3011977aa3c7f0a5f025a99cac9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Benson Boone",
       "deezerTitle": "Beautiful Things"
@@ -252,7 +266,14 @@
   {
     "rank": 23,
     "artist": "Taylor Swift",
-    "title": "The Fate Of Ophelia"
+    "title": "The Fate Of Ophelia",
+    "deezer": {
+      "deezerID": 3579685431,
+      "deezerLink": "https://www.deezer.com/track/3579685431",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Taylor Swift",
+      "deezerTitle": "The Fate of Ophelia"
+    }
   },
   {
     "rank": 24,
@@ -329,7 +350,14 @@
   {
     "rank": 30,
     "artist": "Chrystal",
-    "title": "The Days"
+    "title": "The Days",
+    "deezer": {
+      "deezerID": 3024032431,
+      "deezerLink": "https://www.deezer.com/track/3024032431",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c97e03662bc3e783000fd48699358d84/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Chrystal",
+      "deezerTitle": "The Days"
+    }
   },
   {
     "rank": 31,
@@ -586,7 +614,14 @@
   {
     "rank": 52,
     "artist": "Dimitri Vegas & Like Mike x Tiësto x W&W / Dido",
-    "title": "Thank You (Not So Bad)"
+    "title": "Thank You (Not So Bad)",
+    "deezer": {
+      "deezerID": 2545396411,
+      "deezerLink": "https://www.deezer.com/track/2545396411",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b182bb4fb44ee09911220b6955b753a7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Dimitri Vegas & Like Mike",
+      "deezerTitle": "Thank You (Not So Bad)"
+    }
   },
   {
     "rank": 53,
@@ -711,7 +746,14 @@
   {
     "rank": 63,
     "artist": "Huntr/X / Ejae / Audrey Nuna / Rei Ami / KPop Demon Hunters Cast",
-    "title": "How It's Done"
+    "title": "How It's Done",
+    "deezer": {
+      "deezerID": 3412534551,
+      "deezerLink": "https://www.deezer.com/track/3412534551",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "HUNTR/X",
+      "deezerTitle": "How It's Done"
+    }
   },
   {
     "rank": 64,
@@ -728,7 +770,14 @@
   {
     "rank": 65,
     "artist": "Moliy + Silent Addy",
-    "title": "Shake It To The Max (Fly)"
+    "title": "Shake It To The Max (Fly)",
+    "deezer": {
+      "deezerID": 3111655521,
+      "deezerLink": "https://www.deezer.com/track/3111655521",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6f5c4d512b5115fb101e13e688fc7fd8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Moliy",
+      "deezerTitle": "Shake It To The Max (FLY)"
+    }
   },
   {
     "rank": 66,
@@ -853,7 +902,14 @@
   {
     "rank": 76,
     "artist": "Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast",
-    "title": "Takedown"
+    "title": "Takedown",
+    "deezer": {
+      "deezerID": 3412534601,
+      "deezerLink": "https://www.deezer.com/track/3412534601",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "HUNTR/X",
+      "deezerTitle": "Takedown"
+    }
   },
   {
     "rank": 77,
@@ -894,7 +950,14 @@
   {
     "rank": 80,
     "artist": "The Weeknd / Playboi Carti",
-    "title": "Timeless"
+    "title": "Timeless",
+    "deezer": {
+      "deezerID": 3210598501,
+      "deezerLink": "https://www.deezer.com/track/3210598501",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Weeknd",
+      "deezerTitle": "Timeless"
+    }
   },
   {
     "rank": 81,
@@ -1091,7 +1154,14 @@
   {
     "rank": 97,
     "artist": "Zsá Zsá",
-    "title": "Bad Bunnie$"
+    "title": "Bad Bunnie$",
+    "deezer": {
+      "deezerID": 3339356611,
+      "deezerLink": "https://www.deezer.com/track/3339356611",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f0f03d146e309aafbdfd3d15c0808538/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Zsa Zsa",
+      "deezerTitle": "bad bunnies"
+    }
   },
   {
     "rank": 98,

@@ -1,6 +1,0 @@
-# Node.js modules
-node_modules/
-
-# Betriebssystemspezifische Dateien
-.DS_Store
-Thumbs.db

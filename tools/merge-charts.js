@@ -1,35 +1,32 @@
 import { START_YEAR, END_YEAR } from "../config.js";
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
 
-// Setup für __dirname in ESM-Modulen
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const dataDirUrl = new URL("../data/enriched/", import.meta.url);
+const outputFileUrl = new URL("../data/merged-charts.json", import.meta.url);
 
-// Verzeichnisse und Zielpfad definieren
-const dataDir = path.join(__dirname, "../data/enriched");
-const outputFile = path.join(__dirname, "../data/merged-charts.json");
-
-// Funktion zur Zusammenführung der Daten
-const mergeCharts = () => {
+async function mergeCharts() {
     const mergedData = {};
     const seenDeezerIDs = new Map(); // Map für DeezerID und deren Details
     const ignoredSongs = []; // Liste für ignorierte Songs
 
-    const files = fs.readdirSync(dataDir).sort(); // Ältere Jahre zuerst
+    const files = [];
+    for await (const entry of Deno.readDir(dataDirUrl)) {
+        if (entry.isFile) {
+            files.push(entry.name);
+        }
+    }
+    files.sort(); // Ältere Jahre zuerst
 
-    files.forEach((file) => {
-        const filePath = path.join(dataDir, file);
+    for (const file of files) {
+        const fileUrl = new URL(file, dataDirUrl);
 
         try {
-            const fileContent = fs.readFileSync(filePath, "utf-8");
+            const fileContent = await Deno.readTextFile(fileUrl);
             const yearData = JSON.parse(fileContent);
 
             const yearMatch = file.match(/\d{4}/);
             if (!yearMatch) {
                 console.warn(`Dateiname enthält keine Jahreszahl: ${file}`);
-                return;
+                continue;
             }
             const currentYear = yearMatch[0];
 
@@ -71,7 +68,7 @@ const mergeCharts = () => {
         } catch (error) {
             console.error(`Fehler beim Verarbeiten der Datei ${file}:`, error.message);
         }
-    });
+    }
 
     for (let year = START_YEAR; year <= END_YEAR; year++) {
         if (!mergedData[year]) {
@@ -80,8 +77,8 @@ const mergeCharts = () => {
     }
 
     try {
-        fs.writeFileSync(outputFile, JSON.stringify(mergedData, null, 2), "utf-8");
-        console.log(`Zusammengeführte Daten wurden in ${outputFile} gespeichert.`);
+        await Deno.writeTextFile(outputFileUrl, JSON.stringify(mergedData, null, 2));
+        console.log(`Zusammengeführte Daten wurden in ${outputFileUrl} gespeichert.`);
     } catch (error) {
         console.error(`Fehler beim Speichern der Datei: ${error.message}`);
     }
@@ -92,7 +89,8 @@ const mergeCharts = () => {
     } else {
         console.log("Keine Duplikate gefunden.");
     }
-};
+}
 
-// Skript ausführen
-mergeCharts();
+if (import.meta.main) {
+    mergeCharts().catch(console.error);
+}

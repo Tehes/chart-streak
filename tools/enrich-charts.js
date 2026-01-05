@@ -1,57 +1,53 @@
 import { START_YEAR, END_YEAR } from "../config.js";
-import fs from "fs";
-import path from "path";
-import fetch from "node-fetch";
-import { fileURLToPath } from "url";
 
-// __dirname für ESM-Module definieren
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// Angepasste Pfade
-const chartsDir = path.resolve(__dirname, "../data/charts");
-const enrichedDir = path.resolve(__dirname, "../data/enriched");
+const chartsDirUrl = new URL("../data/charts/", import.meta.url);
+const enrichedDirUrl = new URL("../data/enriched/", import.meta.url);
 const deezerBaseURL = "https://api.deezer.com/search?q=";
+const textEncoder = new TextEncoder();
 
-// Stelle sicher, dass die notwendigen Ordner existieren
-if (!fs.existsSync(enrichedDir)) {
-    fs.mkdirSync(enrichedDir, { recursive: true });
+async function fileExists(fileUrl) {
+    try {
+        await Deno.stat(fileUrl);
+        return true;
+    } catch (error) {
+        if (error instanceof Deno.errors.NotFound) {
+            return false;
+        }
+        throw error;
+    }
 }
 
-// Bereinige Künstlernamen
 function cleanArtistName(artist) {
     return artist
-        .replace(/^(the|a|an)\s+/i, "") // Entferne Artikel am Anfang
-        .replace(/'/g, "") // Entferne einfache Apostrophe
-        .replace(/’/g, "") // Entferne typografische Apostrophe
-        .replace(/(feat\.|featuring|&|und|starring|pres\.|with).*$/gi, "") // Entferne alles ab den Begriffen
-        .replace(/\s+x\s+.*$/gi, "") // Entferne Kollaborationen mit ' x '
-        .replace(/\./g, "") // Entferne Punkte aus Künstlernamen
-        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in runden Klammern
-        .replace(/\[[^\]]*\]/g, "") // Entferne Inhalte in eckigen Klammern
-        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen auf eines
-        .trim(); // Entferne führende und nachfolgende Leerzeichen
+        .replace(/^(the|a|an)\s+/i, "")
+        .replace(/'/g, "")
+        .replace(/ƒ?T/g, "")
+        .replace(/(feat\.|featuring|&|und|starring|pres\.|with).*$/gi, "")
+        .replace(/\s+x\s+.*$/gi, "")
+        .replace(/\./g, "")
+        .replace(/\([^)]*\)/g, "")
+        .replace(/\[[^\]]*\]/g, "")
+        .replace(/\s{2,}/g, " ")
+        .trim();
 }
 
-// Bereinige Songtitel
 function cleanTitle(title) {
     return title
-        .replace(/'/g, "") // Entferne einfache Apostrophe
-        .replace(/’/g, "") // Entferne typografische Apostrophe
-        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in runden Klammern
-        .replace(/-/g, " ") // Ersetze Bindestriche durch Leerzeichen
-        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
-        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "") // Entferne alle Interpunktionszeichen
-        .trim(); // Entferne führende und nachfolgende Leerzeichen
+        .replace(/'/g, "")
+        .replace(/ƒ?T/g, "")
+        .replace(/\([^)]*\)/g, "")
+        .replace(/-/g, " ")
+        .replace(/\s{2,}/g, " ")
+        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "")
+        .trim();
 }
 
-// Vergleicht, ob Teile des bereinigten Künstlernamens im Deezer-Künstlernamen enthalten sind.
 function isArtistNameSimilar(deezerArtist, cleanedArtist) {
     const normalize = str => str
-        .replace(/\./g, "") // Entferne Punkte
-        .replace(/'/g, "") // Entferne einfache Apostrophe
-        .replace(/’/g, "") // Entferne typografische Apostrophe
-        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
+        .replace(/\./g, "")
+        .replace(/'/g, "")
+        .replace(/ƒ?T/g, "")
+        .replace(/\s{2,}/g, " ")
         .trim()
         .toLowerCase();
 
@@ -59,7 +55,7 @@ function isArtistNameSimilar(deezerArtist, cleanedArtist) {
     const cleanedArtistNormalized = normalize(cleanedArtist);
 
     const artistParts = cleanedArtist
-        .split(/[+\/,]/) // Zerlege Künstlernamen in Teile
+        .split(/[+\/,]/)
         .map(part => normalize(part));
 
     if (
@@ -69,42 +65,39 @@ function isArtistNameSimilar(deezerArtist, cleanedArtist) {
         return true;
     }
 
-    // Prüfe sowohl mit "&", "and" und "und"
     return artistParts.some(part => {
         const variations = [
             part,
-            part.replace(/\band\b/g, "&"), // "and" -> "&"
-            part.replace(/\bund\b/g, "&"), // "und" -> "&"
-            part.replace(/&/g, "and"),     // "&" -> "and"
-            part.replace(/&/g, "und"),      // "&" -> "und"
-            part.replace(/\b'N\b/g, "&"),     // "'N'" -> "&"
-            part.replace(/\b'N\b/g, "and"),   // "'N'" -> "and"
-            part.replace(/\b'N\b/g, "und"),    // "'N'" -> "und"
-            part.replace(/\b'n\b/g, "&"),     // "'n'" -> "&"
-            part.replace(/\b'n\b/g, "and"),   // "'n'" -> "and"
-            part.replace(/\b'n\b/g, "und")    // "'n'" -> "und"
+            part.replace(/\band\b/g, "&"),
+            part.replace(/\bund\b/g, "&"),
+            part.replace(/&/g, "and"),
+            part.replace(/&/g, "und"),
+            part.replace(/\b'N\b/g, "&"),
+            part.replace(/\b'N\b/g, "and"),
+            part.replace(/\b'N\b/g, "und"),
+            part.replace(/\b'n\b/g, "&"),
+            part.replace(/\b'n\b/g, "and"),
+            part.replace(/\b'n\b/g, "und")
         ];
 
-        // Überprüfe alle Varianten
         return variations.some(variation => deezerArtistNormalized.includes(variation));
     });
 }
 
-// Vergleicht, ob Teile des bereinigten Titels im Deezer-Titel enthalten sind.
 function isTitleSimilar(deezerTitle, cleanedTitle) {
     const normalize = str => str
-        .replace(/\([^)]*\)/g, "") // Entferne Inhalte in Klammern
-        .replace(/'/g, "") // Entferne einfache Apostrophe
-        .replace(/’/g, "") // Entferne typografische Apostrophe
-        .replace(/\./g, "") // Entferne Punkte
-        .replace(/-/g, " ") // Ersetze Bindestriche durch Leerzeichen
-        .replace(/\s{2,}/g, " ") // Reduziere mehrere Leerzeichen
-        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "") // Entferne alle Interpunktionszeichen
-        .replace(/ß/g, "ss")
-        .replace(/ö/g, "oe")
-        .replace(/ä/g, "ae")
-        .replace(/ü/g, "ue")
-        .replace(/\b(the|and|a|an|und|mit|von)\b/gi, "") // Entferne Stopwörter
+        .replace(/\([^)]*\)/g, "")
+        .replace(/'/g, "")
+        .replace(/ƒ?T/g, "")
+        .replace(/\./g, "")
+        .replace(/-/g, " ")
+        .replace(/\s{2,}/g, " ")
+        .replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "")
+        .replace(/ÇY/g, "ss")
+        .replace(/Çô/g, "oe")
+        .replace(/ÇÏ/g, "ae")
+        .replace(/Ç¬/g, "ue")
+        .replace(/\b(the|and|a|an|und|mit|von)\b/gi, "")
         .trim()
         .toLowerCase();
 
@@ -114,17 +107,13 @@ function isTitleSimilar(deezerTitle, cleanedTitle) {
     const deezerWords = deezerTitleNormalized.split(/\s+/);
     const cleanedWords = cleanedTitleNormalized.split(/\s+/);
 
-    // Berechnung der Übereinstimmung
     const matchingWords = cleanedWords.filter(word => deezerWords.includes(word));
     const matchPercentage = (matchingWords.length / cleanedWords.length) * 100;
-
-    // Dynamischer Schwellenwert: Kürzere Titel erlauben geringere Übereinstimmung
     const threshold = cleanedWords.length <= 3 ? 50 : 70;
 
     return matchPercentage >= threshold;
 }
 
-// Funktion zur Überprüfung, ob ein Titel "Remix" enthält
 function isRemix(originalTitle, deezerTitle) {
     const includesRemix = str => str.toLowerCase().includes("remix");
     return !includesRemix(originalTitle) && includesRemix(deezerTitle);
@@ -138,7 +127,6 @@ function shouldExcludeTitle(title) {
     );
 }
 
-// Deezer-Suche
 async function searchDeezer(title, artist, year, retryCount = 0) {
     if (retryCount > 3) {
         console.error(`Max retries reached for query "${title}" by "${artist}"`);
@@ -152,6 +140,9 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
 
     try {
         const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Request failed: ${response.status}`);
+        }
         const data = await response.json();
 
         if (data && data.data && data.data.length > 0) {
@@ -164,7 +155,7 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
                     !isRemix(cleanedTitle, result.title) &&
                     !shouldExcludeTitle(result.title)
                 ) {
-                    await new Promise(resolve => setTimeout(resolve, 2000)); // API-Limit
+                    await new Promise(resolve => setTimeout(resolve, 2000));
                     return {
                         deezerID: result.id,
                         deezerLink: result.link,
@@ -177,8 +168,6 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
         }
     } catch (error) {
         console.error(`Error fetching data for query "${query}":`, error.message);
-
-        // Wartezeit vor erneutem Versuch
         console.log("Retrying...");
         await new Promise(resolve => setTimeout(resolve, 5000));
         return await searchDeezer(title, artist, year, retryCount + 1);
@@ -188,55 +177,55 @@ async function searchDeezer(title, artist, year, retryCount = 0) {
     return null;
 }
 
-// Anreichern der Daten für ein Jahr mit Fortschrittsanzeige
 async function enrichYear(year) {
-    const inputFilePath = path.join(chartsDir, `charts_${year}.json`);
-    const outputFilePath = path.join(enrichedDir, `charts_${year}_enriched.json`);
+    const inputFileUrl = new URL(`charts_${year}.json`, chartsDirUrl);
+    const outputFileUrl = new URL(`charts_${year}_enriched.json`, enrichedDirUrl);
 
-    if (!fs.existsSync(inputFilePath)) {
-        console.error(`File not found: ${inputFilePath}`);
+    if (!await fileExists(inputFileUrl)) {
+        console.error(`File not found: ${inputFileUrl}`);
         return;
     }
 
-    if (fs.existsSync(outputFilePath)) {
+    if (await fileExists(outputFileUrl)) {
         console.log(`Enriched data for ${year} already exists. Skipping...`);
         return;
     }
 
-    const data = JSON.parse(fs.readFileSync(inputFilePath, "utf-8"));
+    const data = JSON.parse(await Deno.readTextFile(inputFileUrl));
     console.log(`Enriching data for year ${year}...`);
 
     let processed = 0;
     const total = data.length;
 
     for (const song of data) {
-        const deezerData = await searchDeezer(song.title, song.artist, year); // Jahr übergeben
+        const deezerData = await searchDeezer(song.title, song.artist, year);
         if (deezerData) {
-            song.deezer = deezerData; // Füge Deezer-Daten hinzu
+            song.deezer = deezerData;
         }
         processed++;
 
-        // Fortschrittsanzeige
         const progress = Math.round((processed / total) * 100);
-        process.stdout.write(`\rProgress: ${progress}% (${processed}/${total})`);
+        Deno.stdout.writeSync(
+            textEncoder.encode(`\rProgress: ${progress}% (${processed}/${total})`)
+        );
     }
 
-    console.log(); // Neue Zeile nach der Fortschrittsanzeige
-    fs.writeFileSync(outputFilePath, JSON.stringify(data, null, 2));
-    console.log(`Saved enriched data to ${outputFilePath}`);
+    console.log();
+    await Deno.writeTextFile(outputFileUrl, JSON.stringify(data, null, 2));
+    console.log(`Saved enriched data to ${outputFileUrl}`);
 }
 
-// Alle Jahre anreichern
 async function enrichAllYears() {
+    await Deno.mkdir(enrichedDirUrl, { recursive: true });
+
     for (let year = START_YEAR; year <= END_YEAR; year++) {
         console.log(`Processing year ${year}...`);
         const start = Date.now();
 
         await enrichYear(year);
 
-        // Warten, falls das Jahr weniger als 10 Minuten dauert
-        // const elapsed = (Date.now() - start) / 1000; // Zeit in Sekunden
-        // const waitTime = Math.max(600 - elapsed, 0); // Zielzeit 10 Minuten
+        // const elapsed = (Date.now() - start) / 1000;
+        // const waitTime = Math.max(600 - elapsed, 0);
         // if (waitTime > 0) {
         //     console.log(`Waiting ${waitTime.toFixed(0)} seconds before processing next year...`);
         //     await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
@@ -246,5 +235,6 @@ async function enrichAllYears() {
     console.log("All years processed.");
 }
 
-// Starte den Anreicherungsprozess
-enrichAllYears().catch(console.error);
+if (import.meta.main) {
+    enrichAllYears().catch(console.error);
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "artist": "Oimara",
+    "title": "Wackelkontakt"
+  },
+  {
+    "rank": 2,
+    "artist": "Rosé / Bruno Mars",
+    "title": "APT."
+  },
+  {
+    "rank": 3,
+    "artist": "Zartmann",
+    "title": "Tau mich auf"
+  },
+  {
+    "rank": 4,
+    "artist": "Alex Warren",
+    "title": "Ordinary"
+  },
+  {
+    "rank": 5,
+    "artist": "Huntr/X / Ejae / Audrey Nuna / Rei Ami / KPop Demon Hunters Cast",
+    "title": "Golden"
+  },
+  {
+    "rank": 6,
+    "artist": "Linkin Park",
+    "title": "The Emptiness Machine"
+  },
+  {
+    "rank": 7,
+    "artist": "Jazeek",
+    "title": "Akon"
+  },
+  {
+    "rank": 8,
+    "artist": "Gracie Abrams",
+    "title": "That's So True"
+  },
+  {
+    "rank": 9,
+    "artist": "WizTheMc x Bees & Honey",
+    "title": "Show Me Love"
+  },
+  {
+    "rank": 10,
+    "artist": "Lola Young",
+    "title": "Messy"
+  },
+  {
+    "rank": 11,
+    "artist": "Lady Gaga & Bruno Mars",
+    "title": "Die With A Smile"
+  },
+  {
+    "rank": 12,
+    "artist": "Nina Chuba",
+    "title": "Fata Morgana"
+  },
+  {
+    "rank": 13,
+    "artist": "Hugel x Topic x Arash feat. Daecolm",
+    "title": "I Adore You"
+  },
+  {
+    "rank": 14,
+    "artist": "Billie Eilish",
+    "title": "Birds Of A Feather"
+  },
+  {
+    "rank": 15,
+    "artist": "MilleniumKid & JBS",
+    "title": "Vielleicht vielleicht"
+  },
+  {
+    "rank": 16,
+    "artist": "Reezy",
+    "title": "Sabía que no"
+  },
+  {
+    "rank": 17,
+    "artist": "Lady Gaga",
+    "title": "Abracadabra"
+  },
+  {
+    "rank": 18,
+    "artist": "Pashanim / Ceren",
+    "title": "Shabab(e)s im VIP"
+  },
+  {
+    "rank": 19,
+    "artist": "Teddy Swims",
+    "title": "Bad Dreams"
+  },
+  {
+    "rank": 20,
+    "artist": "Ayliva x Apache 207",
+    "title": "Wunder"
+  },
+  {
+    "rank": 21,
+    "artist": "Benson Boone",
+    "title": "Beautiful Things"
+  },
+  {
+    "rank": 22,
+    "artist": "Ed Sheeran",
+    "title": "Azizam"
+  },
+  {
+    "rank": 23,
+    "artist": "Taylor Swift",
+    "title": "The Fate Of Ophelia"
+  },
+  {
+    "rank": 24,
+    "artist": "Adam Port, Stryv, Keinemusik, Orso & Malachiii",
+    "title": "Move"
+  },
+  {
+    "rank": 25,
+    "artist": "Ayliva",
+    "title": "Wie?"
+  },
+  {
+    "rank": 26,
+    "artist": "Tom Odell",
+    "title": "Another Love"
+  },
+  {
+    "rank": 27,
+    "artist": "Linkin Park",
+    "title": "In The End"
+  },
+  {
+    "rank": 28,
+    "artist": "Mariah Carey",
+    "title": "All I Want For Christmas Is You"
+  },
+  {
+    "rank": 29,
+    "artist": "Sombr",
+    "title": "Back To Friends"
+  },
+  {
+    "rank": 30,
+    "artist": "Chrystal",
+    "title": "The Days"
+  },
+  {
+    "rank": 31,
+    "artist": "Ravyn Lenae",
+    "title": "Love Me Not"
+  },
+  {
+    "rank": 32,
+    "artist": "Wham!",
+    "title": "Last Christmas"
+  },
+  {
+    "rank": 33,
+    "artist": "Cyril",
+    "title": "Stumblin' In"
+  },
+  {
+    "rank": 34,
+    "artist": "Journey",
+    "title": "Don't Stop Believin'"
+  },
+  {
+    "rank": 35,
+    "artist": "Shaboozey",
+    "title": "A Bar Song (Tipsy)"
+  },
+  {
+    "rank": 36,
+    "artist": "Sabrina Carpenter",
+    "title": "Espresso"
+  },
+  {
+    "rank": 37,
+    "artist": "Nina Chuba",
+    "title": "Unsicher"
+  },
+  {
+    "rank": 38,
+    "artist": "Doechii",
+    "title": "Anxiety"
+  },
+  {
+    "rank": 39,
+    "artist": "Myles Smith",
+    "title": "Nice To Meet You"
+  },
+  {
+    "rank": 40,
+    "artist": "Artemas",
+    "title": "I Like The Way You Kiss Me"
+  },
+  {
+    "rank": 41,
+    "artist": "Nina Chuba",
+    "title": "Wenn das Liebe ist"
+  },
+  {
+    "rank": 42,
+    "artist": "Kamrad",
+    "title": "Be Mine"
+  },
+  {
+    "rank": 43,
+    "artist": "Linkin Park",
+    "title": "Numb"
+  },
+  {
+    "rank": 44,
+    "artist": "SDP / Sido / Esther Graf",
+    "title": "Mama hat gesagt"
+  },
+  {
+    "rank": 45,
+    "artist": "Sombr",
+    "title": "Undressed"
+  },
+  {
+    "rank": 46,
+    "artist": "Natasha Bedingfield",
+    "title": "Unwritten"
+  },
+  {
+    "rank": 47,
+    "artist": "Kontra K x Ness",
+    "title": "Geboren um zu leben"
+  },
+  {
+    "rank": 48,
+    "artist": "Pashanim",
+    "title": "Mittelmeer"
+  },
+  {
+    "rank": 49,
+    "artist": "David Guetta & Sia",
+    "title": "Beautiful People"
+  },
+  {
+    "rank": 50,
+    "artist": "MilleniumKid & JBS",
+    "title": "Unendlichkeit"
+  },
+  {
+    "rank": 51,
+    "artist": "The Killers",
+    "title": "Mr. Brightside"
+  },
+  {
+    "rank": 52,
+    "artist": "Dimitri Vegas & Like Mike x Tiësto x W&W / Dido",
+    "title": "Thank You (Not So Bad)"
+  },
+  {
+    "rank": 53,
+    "artist": "Disco Lines & Tinashe",
+    "title": "No Broke Boys"
+  },
+  {
+    "rank": 54,
+    "artist": "Ed Sheeran",
+    "title": "Sapphire"
+  },
+  {
+    "rank": 55,
+    "artist": "Amo & Aymen",
+    "title": "Love All Night"
+  },
+  {
+    "rank": 56,
+    "artist": "Aymen / Amo",
+    "title": "Capri Sun"
+  },
+  {
+    "rank": 57,
+    "artist": "Mark Ambor",
+    "title": "Belong Together"
+  },
+  {
+    "rank": 58,
+    "artist": "Roy Bianco & Die Abbrunzati Boys",
+    "title": "Bella Napoli"
+  },
+  {
+    "rank": 59,
+    "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, SamUil Lee & KPop Demon Hunters Cast",
+    "title": "Soda Pop"
+  },
+  {
+    "rank": 60,
+    "artist": "Tate McRae",
+    "title": "Just Keep Watching"
+  },
+  {
+    "rank": 61,
+    "artist": "Zah1de",
+    "title": "Mona Lisa Motion"
+  },
+  {
+    "rank": 62,
+    "artist": "Aymen",
+    "title": "Plug"
+  },
+  {
+    "rank": 63,
+    "artist": "Huntr/X / Ejae / Audrey Nuna / Rei Ami / KPop Demon Hunters Cast",
+    "title": "How It's Done"
+  },
+  {
+    "rank": 64,
+    "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, SamUil Lee & KPop Demon Hunters Cast",
+    "title": "Your Idol"
+  },
+  {
+    "rank": 65,
+    "artist": "Moliy + Silent Addy",
+    "title": "Shake It To The Max (Fly)"
+  },
+  {
+    "rank": 66,
+    "artist": "Jazeek",
+    "title": "Ma Baby"
+  },
+  {
+    "rank": 67,
+    "artist": "Provinz",
+    "title": "Walzer"
+  },
+  {
+    "rank": 68,
+    "artist": "Teddy Swims",
+    "title": "Lose Control"
+  },
+  {
+    "rank": 69,
+    "artist": "Dasha",
+    "title": "Austin"
+  },
+  {
+    "rank": 70,
+    "artist": "Brenda Lee",
+    "title": "Rockin' Around The Christmas Tree"
+  },
+  {
+    "rank": 71,
+    "artist": "David Guetta, Alphaville & Ava Max",
+    "title": "Forever Young"
+  },
+  {
+    "rank": 72,
+    "artist": "Shakin' Stevens",
+    "title": "Merry Christmas Everyone"
+  },
+  {
+    "rank": 73,
+    "artist": "Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast",
+    "title": "What It Sounds Like"
+  },
+  {
+    "rank": 74,
+    "artist": "Zartmann",
+    "title": "Eehhhyyy"
+  },
+  {
+    "rank": 75,
+    "artist": "Aymen & Sira",
+    "title": "30 mal am Tag"
+  },
+  {
+    "rank": 76,
+    "artist": "Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast",
+    "title": "Takedown"
+  },
+  {
+    "rank": 77,
+    "artist": "Gigi Perez",
+    "title": "Sailor Song"
+  },
+  {
+    "rank": 78,
+    "artist": "Benson Boone",
+    "title": "Sorry I'm Here For Someone Else"
+  },
+  {
+    "rank": 79,
+    "artist": "Finch x Tream",
+    "title": "Liebe auf der Rückbank"
+  },
+  {
+    "rank": 80,
+    "artist": "The Weeknd / Playboi Carti",
+    "title": "Timeless"
+  },
+  {
+    "rank": 81,
+    "artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
+    "title": "Can't Hold Us"
+  },
+  {
+    "rank": 82,
+    "artist": "Contec / Lina Maly",
+    "title": "Als du gingst"
+  },
+  {
+    "rank": 83,
+    "artist": "Shirin David",
+    "title": "Bauch Beine Po"
+  },
+  {
+    "rank": 84,
+    "artist": "Sabrina Carpenter",
+    "title": "Manchild"
+  },
+  {
+    "rank": 85,
+    "artist": "Calvin Harris feat. Clementine Douglas",
+    "title": "Blessings"
+  },
+  {
+    "rank": 86,
+    "artist": "Bennett",
+    "title": "Vois sur ton chemin"
+  },
+  {
+    "rank": 87,
+    "artist": "José Feliciano",
+    "title": "Feliz Navidad"
+  },
+  {
+    "rank": 88,
+    "artist": "Kelly Clarkson",
+    "title": "Underneath The Tree"
+  },
+  {
+    "rank": 89,
+    "artist": "Miley Cyrus",
+    "title": "End Of The World"
+  },
+  {
+    "rank": 90,
+    "artist": "Melanie Thornton",
+    "title": "Wonderful Dream (Holidays Are Coming)"
+  },
+  {
+    "rank": 91,
+    "artist": "Ariana Grande",
+    "title": "Santa Tell Me"
+  },
+  {
+    "rank": 92,
+    "artist": "Michael Bublé",
+    "title": "It's Beginning To Look A Lot Like Christmas"
+  },
+  {
+    "rank": 93,
+    "artist": "Dean Martin",
+    "title": "Let It Snow! Let It Snow! Let It Snow!"
+  },
+  {
+    "rank": 94,
+    "artist": "Sia",
+    "title": "Snowman"
+  },
+  {
+    "rank": 95,
+    "artist": "Alex Warren",
+    "title": "Eternity"
+  },
+  {
+    "rank": 96,
+    "artist": "Chris Rea",
+    "title": "Driving Home For Christmas"
+  },
+  {
+    "rank": 97,
+    "artist": "Zsá Zsá",
+    "title": "Bad Bunnie$"
+  },
+  {
+    "rank": 98,
+    "artist": "Pietro Basile, Harris & Ford & Big Tim",
+    "title": "Gianna (Remix)"
+  },
+  {
+    "rank": 99,
+    "artist": "Sosa La M / Luciano",
+    "title": "Butcher"
+  },
+  {
+    "rank": 100,
+    "artist": "Coldplay feat. Little Simz, Burna Boy, Elyanna & Tini",
+    "title": "We Pray"
+  }
+]

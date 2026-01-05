@@ -1,16 +1,18 @@
 import { START_YEAR, END_YEAR } from "../config.js";
-import puppeteer from "puppeteer"; // Puppeteer importieren
-import fs from "fs"; // File System importieren
-import path from "path"; // Importiere path für plattformübergreifende Pfade
-import { fileURLToPath } from "url"; // Für __dirname in ESM-Modulen
+import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const chartsDirUrl = new URL("../data/charts/", import.meta.url);
 
-// Stelle sicher, dass der Ordner 'data' existiert
-const chartsDir = path.resolve(__dirname, "../data/charts");
-if (!fs.existsSync(chartsDir)) {
-    fs.mkdirSync(chartsDir, { recursive: true }); // Erstelle den Ordner, falls er nicht existiert
+async function fileExists(fileUrl) {
+    try {
+        await Deno.stat(fileUrl);
+        return true;
+    } catch (error) {
+        if (error instanceof Deno.errors.NotFound) {
+            return false;
+        }
+        throw error;
+    }
 }
 
 async function scrapeYear(year) {
@@ -46,7 +48,7 @@ async function scrapeYear(year) {
         return songs;
 
     } catch (error) {
-        console.error(`Failed to scrape data for ${year} at URL ${url}:`, error.message);
+        console.error(`Failed to scrape data for ${year} at URL ${url}:`, error);
         return []; // Gib ein leeres Array zurück, falls das Jahr fehlschlägt
 
     } finally {
@@ -57,11 +59,13 @@ async function scrapeYear(year) {
 async function scrapeAllYears() {
     const allData = {};
 
+    await Deno.mkdir(chartsDirUrl, { recursive: true });
+
     for (let year = START_YEAR; year <= END_YEAR; year++) {
-        const filePath = path.join(chartsDir, `charts_${year}.json`);
+        const fileUrl = new URL(`charts_${year}.json`, chartsDirUrl);
 
         // Fortschritt sichern: Überspringe Jahre, die bereits gespeichert wurden
-        if (fs.existsSync(filePath)) {
+        if (await fileExists(fileUrl)) {
             console.log(`Data for ${year} already exists. Skipping...`);
             continue;
         }
@@ -70,13 +74,11 @@ async function scrapeAllYears() {
         allData[year] = yearData;
 
         // Speichere jedes Jahr separat als JSON-Datei
-        fs.writeFileSync(
-            filePath,
-            JSON.stringify(yearData, null, 2)
-        );
-        console.log(`Saved data for ${year} to ${filePath}`);
+        await Deno.writeTextFile(fileUrl, JSON.stringify(yearData, null, 2));
+        console.log(`Saved data for ${year} to ${fileUrl}`);
     }
 }
 
-// Starte den Scraping-Prozess
-scrapeAllYears().catch(console.error);
+if (import.meta.main) {
+    scrapeAllYears().catch(console.error);
+}

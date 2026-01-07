@@ -17,6 +17,7 @@
         "start": "deno run -A xxx.js",
         "scrape": "deno run -A tools/scrape-charts.js",
         "enrich": "deno run -A tools/enrich-charts.js",
-        "merge": "deno run -A tools/merge-charts.js"
+        "merge": "deno run -A tools/merge-charts.js",
+        "check": "deno run --allow-read --allow-net tools/check-deezer-readable.js"
     }
 }

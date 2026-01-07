@@ -3,3 +3,6 @@ https://www.deezer.com/de/track/xxx
 https://api.deezer.com/track/xxx
 
 https://www.svgrepo.com/collection/bigmug-interface-icons/
+
+Beispiel fehlende Daten:
+https://widget.deezer.com/widget/auto/track/20838831

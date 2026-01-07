@@ -175,6 +175,11 @@ main::-webkit-scrollbar-thumb {
     margin-top: 15dvh;
 }
 
+.add.inactive {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
 .song :where(.title, .artist) {
     max-width: 30dvh;
     overflow: hidden;

@@ -20,6 +20,8 @@ let randomChartEntries;
 let currentSong;
 let scrollTimeout;
 let lastActiveSong;
+const addLockDurationMs = 250;
+let isAddLocked = false;
 
 const main = document.querySelector("main");
 const shuffleButton = document.querySelector("#shuffle .button");
@@ -127,7 +129,20 @@ function clickButton(event) {
         showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
         return;
     }
-    const button = event.target;
+
+    if (isAddLocked) {
+        return;
+    }
+
+    isAddLocked = true;
+    const button = event.currentTarget;
+    button.classList.add("inactive");
+    
+    setTimeout(() => {
+        isAddLocked = false;
+        button.classList.remove("inactive");
+    }, addLockDurationMs);
+
     const previousSong = button.previousElementSibling?.classList.contains("song") ? button.previousElementSibling : null;
     const nextSong = button.nextElementSibling?.classList.contains("song") ? button.nextElementSibling : null;
 

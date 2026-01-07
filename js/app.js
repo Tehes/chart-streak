@@ -238,7 +238,7 @@ function showMessage(text) {
     const message = document.querySelector("aside");
     message.textContent = text;
     message.classList.add("visible");
-    setTimeout(() => message.classList.remove("visible"), 3300);
+    setTimeout(() => message.classList.remove("visible"), 4300);
 }
 
 function toggleSidebar() {

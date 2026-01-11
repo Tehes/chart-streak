@@ -225,7 +225,9 @@ function applyStrike() {
 	strikesElement[strikes].classList.add("active");
 	strikesElement[strikes].src = "svg/cross.svg";
 	strikes++;
-	showMessage(`Strike ${strikes}: Der Song ist aus dem Jahr ${currentSong.year}.`);
+	showMessage(
+		`Strike ${strikes}: Erstmalig ${currentSong.year} in den Single-Jahrescharts.`,
+	);
 	// get new song if strikes < 3
 	if (strikes < 3) {
 		randomChartEntries.push(currentSong);

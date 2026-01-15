@@ -1,6 +1,6 @@
 const enrichedDirUrl = new URL("../data/enriched/", import.meta.url);
 const delayMs = 2000;
-const defaultYear = "1983";
+const defaultYear = "1984";
 const textEncoder = new TextEncoder();
 
 function getInputFileUrl(input) {

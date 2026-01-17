@@ -28,6 +28,7 @@ Chart Streak processes music chart data through multiple stages:
      - **Cover images**  
      - **Deezer track IDs**  
      - **Direct links to songs**  
+   - It also resolves the **official release year** from the chart detail pages and stores it as `releaseYear`.  
    - The enriched data is saved as JSON files.
 
 3. **Merging Data**  

@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Avicii",
     "title": "Wake Me Up!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1150611",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70266756,
       "deezerLink": "https://www.deezer.com/track/70266756",
@@ -15,10 +17,12 @@
     "rank": 2,
     "artist": "Robin Thicke feat. T.I. + Pharrell",
     "title": "Blurred Lines",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1126600",
+    "releaseYear": 2013,
     "deezer": {
-      "deezerID": 2454818695,
-      "deezerLink": "https://www.deezer.com/track/2454818695",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5044ae9ba287d29b58f5f7034f0feb79/500x500-000000-80-0-0.jpg",
+      "deezerID": 65444691,
+      "deezerLink": "https://www.deezer.com/track/65444691",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6d81790a5a8e098fbe46ba17ecf79e30/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Robin Thicke",
       "deezerTitle": "Blurred Lines"
     }
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "will.i.am & Britney Spears",
     "title": "Scream & Shout",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1086189",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62439051,
       "deezerLink": "https://www.deezer.com/track/62439051",
@@ -39,6 +45,8 @@
     "rank": 4,
     "artist": "Daft Punk feat. Pharrell Williams",
     "title": "Get Lucky",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1132834",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 66609426,
       "deezerLink": "https://www.deezer.com/track/66609426",
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "Passenger",
     "title": "Let Her Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-995382",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 64482460,
       "deezerLink": "https://www.deezer.com/track/64482460",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
     "title": "Can't Hold Us",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1001191",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 61424044,
       "deezerLink": "https://www.deezer.com/track/61424044",
@@ -75,6 +87,8 @@
     "rank": 7,
     "artist": "Macklemore & Ryan Lewis feat. Wanz",
     "title": "Thrift Shop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1060590",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 61424045,
       "deezerLink": "https://www.deezer.com/track/61424045",
@@ -87,18 +101,22 @@
     "rank": 8,
     "artist": "Capital Cities",
     "title": "Safe And Sound",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-894445",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 602515742,
-      "deezerLink": "https://www.deezer.com/track/602515742",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b21dd8b6c077556a54d368ba0c122648/500x500-000000-80-0-0.jpg",
+      "deezerID": 2976584651,
+      "deezerLink": "https://www.deezer.com/track/2976584651",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/706368c86cd7dbc275905808db082873/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Capital Cities",
-      "deezerTitle": "Safe And Sound"
+      "deezerTitle": "Safe and Sound"
     }
   },
   {
     "rank": 9,
     "artist": "Imagine Dragons",
     "title": "Radioactive",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-993005",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 63510358,
       "deezerLink": "https://www.deezer.com/track/63510358",
@@ -111,6 +129,8 @@
     "rank": 10,
     "artist": "Naughty Boy feat. Sam Smith",
     "title": "La La La",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1127293",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67232347,
       "deezerLink": "https://www.deezer.com/track/67232347",
@@ -123,6 +143,8 @@
     "rank": 11,
     "artist": "James Arthur",
     "title": "Impossible",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1093567",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62874022,
       "deezerLink": "https://www.deezer.com/track/62874022",
@@ -135,6 +157,8 @@
     "rank": 12,
     "artist": "P!nk feat. Nate Ruess",
     "title": "Just Give Me A Reason",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1053366",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 60200391,
       "deezerLink": "https://www.deezer.com/track/60200391",
@@ -147,9 +171,11 @@
     "rank": 13,
     "artist": "Klingande",
     "title": "Jubel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1134809",
+    "releaseYear": 2013,
     "deezer": {
-      "deezerID": 70322528,
-      "deezerLink": "https://www.deezer.com/track/70322528",
+      "deezerID": 70322529,
+      "deezerLink": "https://www.deezer.com/track/70322529",
       "cover": "https://cdn-images.dzcdn.net/images/cover/afd7c936ee013fef73faf874b7f85b47/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Klingande",
       "deezerTitle": "Jubel"
@@ -159,6 +185,8 @@
     "rank": 14,
     "artist": "The Script feat. will.i.am",
     "title": "Hall Of Fame",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1049143",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 55848051,
       "deezerLink": "https://www.deezer.com/track/55848051",
@@ -171,6 +199,8 @@
     "rank": 15,
     "artist": "Sido",
     "title": "Bilder im Kopf",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1090002",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62418971,
       "deezerLink": "https://www.deezer.com/track/62418971",
@@ -183,6 +213,8 @@
     "rank": 16,
     "artist": "Justin Timberlake",
     "title": "Mirrors",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1112255",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 65356224,
       "deezerLink": "https://www.deezer.com/track/65356224",
@@ -195,6 +227,8 @@
     "rank": 17,
     "artist": "Sportfreunde Stiller",
     "title": "Applaus!! Applaus!!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1137766",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 1791078997,
       "deezerLink": "https://www.deezer.com/track/1791078997",
@@ -207,6 +241,8 @@
     "rank": 18,
     "artist": "Avicii",
     "title": "Hey Brother",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1190045",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70266758,
       "deezerLink": "https://www.deezer.com/track/70266758",
@@ -219,10 +255,12 @@
     "rank": 19,
     "artist": "Icona Pop feat. Charli XCX",
     "title": "I Love It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1026829",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 69959333,
       "deezerLink": "https://www.deezer.com/track/69959333",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fa4d5b91cbd47f50e0b6505169c485bd/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad2715b8b83ede1c5b0b55594f8b1775/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Icona Pop",
       "deezerTitle": "I Love It (feat. Charli XCX)"
     }
@@ -231,6 +269,8 @@
     "rank": 20,
     "artist": "Olly Murs",
     "title": "Dear Darlin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1088097",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 1003653552,
       "deezerLink": "https://www.deezer.com/track/1003653552",
@@ -243,6 +283,8 @@
     "rank": 21,
     "artist": "OneRepublic",
     "title": "Counting Stars",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1125065",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 78527795,
       "deezerLink": "https://www.deezer.com/track/78527795",
@@ -255,18 +297,22 @@
     "rank": 22,
     "artist": "Klangkarussell",
     "title": "Sonnentanz",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1055937",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 67954791,
-      "deezerLink": "https://www.deezer.com/track/67954791",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2eed36a686bb330652bf8081baae39ac/500x500-000000-80-0-0.jpg",
+      "deezerID": 69574422,
+      "deezerLink": "https://www.deezer.com/track/69574422",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad5709b16fa82b42edaf1e4936e479ca/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Klangkarussell",
-      "deezerTitle": "Sonnentanz"
+      "deezerTitle": "Sonnentanz (Sun Don’t Shine)"
     }
   },
   {
     "rank": 23,
     "artist": "Katy Perry",
     "title": "Roar",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1179608",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71645431,
       "deezerLink": "https://www.deezer.com/track/71645431",
@@ -279,6 +325,8 @@
     "rank": 24,
     "artist": "Rihanna feat. Mikky Ekko",
     "title": "Stay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1084115",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62376291,
       "deezerLink": "https://www.deezer.com/track/62376291",
@@ -291,10 +339,12 @@
     "rank": 25,
     "artist": "Cro",
     "title": "Whatever",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1165731",
+    "releaseYear": 2013,
     "deezer": {
-      "deezerID": 1754355427,
-      "deezerLink": "https://www.deezer.com/track/1754355427",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9c944eb29925d41b36fc40fe1c432c6/500x500-000000-80-0-0.jpg",
+      "deezerID": 3301654191,
+      "deezerLink": "https://www.deezer.com/track/3301654191",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/781758d43f16a554ea6d389b0919f41d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "CRO",
       "deezerTitle": "Whatever"
     }
@@ -303,6 +353,8 @@
     "rank": 26,
     "artist": "Martin Garrix",
     "title": "Animals",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1170270",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 2102633427,
       "deezerLink": "https://www.deezer.com/track/2102633427",
@@ -315,6 +367,8 @@
     "rank": 27,
     "artist": "Milky Chance",
     "title": "Stolen Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1165713",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 1645426722,
       "deezerLink": "https://www.deezer.com/track/1645426722",
@@ -327,6 +381,8 @@
     "rank": 28,
     "artist": "John Newman",
     "title": "Love Me Again",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1144180",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67446406,
       "deezerLink": "https://www.deezer.com/track/67446406",
@@ -339,6 +395,8 @@
     "rank": 29,
     "artist": "Bastille",
     "title": "Pompeii",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1081490",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 63034985,
       "deezerLink": "https://www.deezer.com/track/63034985",
@@ -351,6 +409,8 @@
     "rank": 30,
     "artist": "The Lumineers",
     "title": "Ho Hey",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1015126",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 757244922,
       "deezerLink": "https://www.deezer.com/track/757244922",
@@ -363,18 +423,22 @@
     "rank": 31,
     "artist": "Psy",
     "title": "Gangnam Style",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1052704",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 394338432,
-      "deezerLink": "https://www.deezer.com/track/394338432",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4260e0e68a0f48406e3c9b7f8734b1cb/500x500-000000-80-0-0.jpg",
+      "deezerID": 60726278,
+      "deezerLink": "https://www.deezer.com/track/60726278",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45e4493fcc15997085491debddcf049e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Psy",
-      "deezerTitle": "Gangnam style"
+      "deezerTitle": "Gangnam Style (강남스타일)"
     }
   },
   {
     "rank": 32,
     "artist": "James Blunt",
     "title": "Bonfire Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1178219",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71432801,
       "deezerLink": "https://www.deezer.com/track/71432801",
@@ -387,6 +451,8 @@
     "rank": 33,
     "artist": "Jason Derulo feat. 2 Chainz",
     "title": "Talk Dirty",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1176825",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 69533953,
       "deezerLink": "https://www.deezer.com/track/69533953",
@@ -399,6 +465,8 @@
     "rank": 34,
     "artist": "Pitbull feat. Christina Aguilera",
     "title": "Feel This Moment",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1079870",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 61972436,
       "deezerLink": "https://www.deezer.com/track/61972436",
@@ -411,6 +479,8 @@
     "rank": 35,
     "artist": "Olly Murs feat. Flo Rida",
     "title": "Troublemaker",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1072823",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 1003653522,
       "deezerLink": "https://www.deezer.com/track/1003653522",
@@ -423,6 +493,8 @@
     "rank": 36,
     "artist": "Adel Tawil",
     "title": "Lieder",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1195114",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 581221622,
       "deezerLink": "https://www.deezer.com/track/581221622",
@@ -435,6 +507,8 @@
     "rank": 37,
     "artist": "Birdy",
     "title": "People Help The People",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-897219",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14340429,
       "deezerLink": "https://www.deezer.com/track/14340429",
@@ -447,6 +521,8 @@
     "rank": 38,
     "artist": "Wax [US Rap]",
     "title": "Rosana",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1046719",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62824934,
       "deezerLink": "https://www.deezer.com/track/62824934",
@@ -459,6 +535,8 @@
     "rank": 39,
     "artist": "Calvin Harris feat. Ellie Goulding",
     "title": "I Need Your Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1071417",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 61142290,
       "deezerLink": "https://www.deezer.com/track/61142290",
@@ -471,6 +549,8 @@
     "rank": 40,
     "artist": "Pitbull feat. Ke$ha",
     "title": "Timber",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1200553",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71403230,
       "deezerLink": "https://www.deezer.com/track/71403230",
@@ -483,6 +563,8 @@
     "rank": 41,
     "artist": "Linkin Park",
     "title": "Castle Of Glass",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1039281",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 37734441,
       "deezerLink": "https://www.deezer.com/track/37734441",
@@ -495,6 +577,8 @@
     "rank": 42,
     "artist": "Family Of The Year",
     "title": "Hero",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-779533",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 1634402062,
       "deezerLink": "https://www.deezer.com/track/1634402062",
@@ -507,6 +591,8 @@
     "rank": 43,
     "artist": "Stromae",
     "title": "Papaoutai",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1142159",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 69879250,
       "deezerLink": "https://www.deezer.com/track/69879250",
@@ -519,6 +605,8 @@
     "rank": 44,
     "artist": "Ellie Goulding",
     "title": "Burn",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1165955",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 78176590,
       "deezerLink": "https://www.deezer.com/track/78176590",
@@ -531,6 +619,8 @@
     "rank": 45,
     "artist": "Beatrice Egli",
     "title": "Mein Herz",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1144175",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67322451,
       "deezerLink": "https://www.deezer.com/track/67322451",
@@ -543,6 +633,8 @@
     "rank": 46,
     "artist": "Ellie Goulding",
     "title": "Lights",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-681605",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7667349,
       "deezerLink": "https://www.deezer.com/track/7667349",
@@ -555,6 +647,8 @@
     "rank": 47,
     "artist": "Miley Cyrus",
     "title": "Wrecking Ball",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1186134",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71137166,
       "deezerLink": "https://www.deezer.com/track/71137166",
@@ -567,6 +661,8 @@
     "rank": 48,
     "artist": "Tom Odell",
     "title": "Another Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1084143",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 65723649,
       "deezerLink": "https://www.deezer.com/track/65723649",
@@ -579,6 +675,8 @@
     "rank": 49,
     "artist": "Arash feat. Sean Paul",
     "title": "She Makes Me Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1077435",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 65339130,
       "deezerLink": "https://www.deezer.com/track/65339130",
@@ -591,6 +689,8 @@
     "rank": 50,
     "artist": "Frida Gold",
     "title": "Liebe ist meine Rebellion",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1125750",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67155298,
       "deezerLink": "https://www.deezer.com/track/67155298",
@@ -603,10 +703,12 @@
     "rank": 51,
     "artist": "Swedish House Mafia feat. John Martin",
     "title": "Don't You Worry Child",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1046823",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 61427205,
-      "deezerLink": "https://www.deezer.com/track/61427205",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5816cd8932abc188664a875de35687b1/500x500-000000-80-0-0.jpg",
+      "deezerID": 60842359,
+      "deezerLink": "https://www.deezer.com/track/60842359",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a6e59fada64940a751de6eaa01229e8b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Swedish House Mafia",
       "deezerTitle": "Don't You Worry Child"
     }
@@ -615,6 +717,8 @@
     "rank": 52,
     "artist": "Rihanna",
     "title": "Diamonds",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1068434",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 60978718,
       "deezerLink": "https://www.deezer.com/track/60978718",
@@ -627,10 +731,12 @@
     "rank": 53,
     "artist": "Xavier Naidoo",
     "title": "Bei meiner Seele",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1132020",
+    "releaseYear": 2013,
     "deezer": {
-      "deezerID": 2008975467,
-      "deezerLink": "https://www.deezer.com/track/2008975467",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/268dde10c8ea655bbc2f98a951da912c/500x500-000000-80-0-0.jpg",
+      "deezerID": 2008976397,
+      "deezerLink": "https://www.deezer.com/track/2008976397",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bd228bbcd55b9260e92b256fa29c20c7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Xavier Naidoo",
       "deezerTitle": "Bei meiner Seele"
     }
@@ -639,10 +745,12 @@
     "rank": 54,
     "artist": "Cro",
     "title": "Einmal um die Welt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1043927",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 1754351307,
-      "deezerLink": "https://www.deezer.com/track/1754351307",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fd471407f0a57e9e6c27e798f63a81a4/500x500-000000-80-0-0.jpg",
+      "deezerID": 3309927701,
+      "deezerLink": "https://www.deezer.com/track/3309927701",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f5bdabe5f246a322d4be7cfdba0c254e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "CRO",
       "deezerTitle": "Einmal um die Welt"
     }
@@ -651,6 +759,8 @@
     "rank": 55,
     "artist": "Eminem feat. Rihanna",
     "title": "The Monster",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1209248",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 72160317,
       "deezerLink": "https://www.deezer.com/track/72160317",
@@ -663,9 +773,11 @@
     "rank": 56,
     "artist": "OneRepublic",
     "title": "If I Lose Myself",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1096806",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 78527797,
-      "deezerLink": "https://www.deezer.com/track/78527797",
+      "deezerID": 78527813,
+      "deezerLink": "https://www.deezer.com/track/78527813",
       "cover": "https://cdn-images.dzcdn.net/images/cover/63bb716faf92942d967f5c053fc8720c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "OneRepublic",
       "deezerTitle": "If I Lose Myself"
@@ -675,30 +787,29 @@
     "rank": 57,
     "artist": "Taylor Swift",
     "title": "I Knew You Were Trouble",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1072950",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 529117801,
-      "deezerLink": "https://www.deezer.com/track/529117801",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "deezerID": 1550966342,
+      "deezerLink": "https://www.deezer.com/track/1550966342",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a98df7a584f8a3f50d4bb312bdbc44ff/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Taylor Swift",
-      "deezerTitle": "I Knew You Were Trouble."
+      "deezerTitle": "I Knew You Were Trouble (Taylor's Version)"
     }
   },
   {
     "rank": 58,
     "artist": "Fergie, Q-Tip & GoonRock",
     "title": "A Little Party Never Killed Nobody (All We Got)",
-    "deezer": {
-      "deezerID": 726477862,
-      "deezerLink": "https://www.deezer.com/track/726477862",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f72fa930cf9c604a0496c3dba92d3400/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Fergie",
-      "deezerTitle": "A Little Party Never Killed Nobody (All We Got)"
-    }
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1133124",
+    "releaseYear": 2013
   },
   {
     "rank": 59,
     "artist": "Lorde",
     "title": "Royals",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1124072",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70403437,
       "deezerLink": "https://www.deezer.com/track/70403437",
@@ -711,6 +822,8 @@
     "rank": 60,
     "artist": "P!nk",
     "title": "Try",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1053363",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 60200381,
       "deezerLink": "https://www.deezer.com/track/60200381",
@@ -723,6 +836,8 @@
     "rank": 61,
     "artist": "Christina Stürmer",
     "title": "Millionen Lichter",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1114795",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 99351646,
       "deezerLink": "https://www.deezer.com/track/99351646",
@@ -735,6 +850,8 @@
     "rank": 62,
     "artist": "Lady Gaga",
     "title": "Applause",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1176907",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 629561092,
       "deezerLink": "https://www.deezer.com/track/629561092",
@@ -747,6 +864,8 @@
     "rank": 63,
     "artist": "Madcon feat. Kelly Rowland",
     "title": "One Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1137694",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 2023283737,
       "deezerLink": "https://www.deezer.com/track/2023283737",
@@ -759,10 +878,12 @@
     "rank": 64,
     "artist": "David Guetta feat. Ne-Yo & Akon",
     "title": "Play Hard",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1061386",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62847147,
       "deezerLink": "https://www.deezer.com/track/62847147",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
       "deezerTitle": "Play Hard (feat. Ne-Yo & Akon)"
     }
@@ -771,10 +892,12 @@
     "rank": 65,
     "artist": "Psy",
     "title": "Gentleman",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1129325",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 2124683037,
       "deezerLink": "https://www.deezer.com/track/2124683037",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dcf10e92e35b0ea0d55e926c5dad89b6/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e18ed100661f7bd2e0eddfe2b9e722a2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Psy",
       "deezerTitle": "Gentleman"
     }
@@ -783,6 +906,8 @@
     "rank": 66,
     "artist": "Seeed",
     "title": "Augenbling",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1069579",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 63155641,
       "deezerLink": "https://www.deezer.com/track/63155641",
@@ -795,6 +920,8 @@
     "rank": 67,
     "artist": "Emeli Sandé",
     "title": "Read All About It (Pt. III)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-979298",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 61782173,
       "deezerLink": "https://www.deezer.com/track/61782173",
@@ -807,6 +934,8 @@
     "rank": 68,
     "artist": "will.i.am feat. Justin Bieber",
     "title": "#thatPOWER",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1123171",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 72787799,
       "deezerLink": "https://www.deezer.com/track/72787799",
@@ -819,6 +948,8 @@
     "rank": 69,
     "artist": "Sunrise Avenue",
     "title": "Lifesaver",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1197847",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70575138,
       "deezerLink": "https://www.deezer.com/track/70575138",
@@ -831,6 +962,8 @@
     "rank": 70,
     "artist": "Faul & Wad Ad vs. Pnau",
     "title": "Changes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1213468",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 809619762,
       "deezerLink": "https://www.deezer.com/track/809619762",
@@ -843,6 +976,8 @@
     "rank": 71,
     "artist": "Glasperlenspiel",
     "title": "Nie vergessen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1129861",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 66687824,
       "deezerLink": "https://www.deezer.com/track/66687824",
@@ -855,10 +990,12 @@
     "rank": 72,
     "artist": "Marteria / Yasha / Miss Platnum",
     "title": "Lila Wolken",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1060330",
+    "releaseYear": 2012,
     "deezer": {
-      "deezerID": 1228478992,
-      "deezerLink": "https://www.deezer.com/track/1228478992",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/df022b08478497b39811982fab2921da/500x500-000000-80-0-0.jpg",
+      "deezerID": 3321969951,
+      "deezerLink": "https://www.deezer.com/track/3321969951",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2d9990145910fae66c151df36ca5d451/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Marteria",
       "deezerTitle": "Lila Wolken"
     }
@@ -867,6 +1004,8 @@
     "rank": 73,
     "artist": "Birdy",
     "title": "Wings",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1176540",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 69417695,
       "deezerLink": "https://www.deezer.com/track/69417695",
@@ -879,18 +1018,22 @@
     "rank": 74,
     "artist": "DJ Antoine",
     "title": "Bella vita",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1103407",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 63373284,
       "deezerLink": "https://www.deezer.com/track/63373284",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/44ccb149b378ae632696281b1e8f6662/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e75c5ca5943241b2da1781607957e22f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "DJ Antoine",
-      "deezerTitle": "Bella Vita"
+      "deezerTitle": "Bella vita"
     }
   },
   {
     "rank": 75,
-    "artist": "Maxim",
+    "artist": "Maxim [DE]",
     "title": "Meine Soldaten",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1129870",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 66006335,
       "deezerLink": "https://www.deezer.com/track/66006335",
@@ -903,6 +1046,8 @@
     "rank": 76,
     "artist": "Wiz Khalifa feat. 2 Chainz",
     "title": "We Own It (Fast & Furious 6)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1146720",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67344566,
       "deezerLink": "https://www.deezer.com/track/67344566",
@@ -915,6 +1060,8 @@
     "rank": 77,
     "artist": "Emmelie de Forest",
     "title": "Only Teardrops",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1107615",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67082965,
       "deezerLink": "https://www.deezer.com/track/67082965",
@@ -927,6 +1074,8 @@
     "rank": 78,
     "artist": "Eminem",
     "title": "Berzerk",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1186557",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 72160313,
       "deezerLink": "https://www.deezer.com/track/72160313",
@@ -939,6 +1088,8 @@
     "rank": 79,
     "artist": "Imagine Dragons",
     "title": "On Top Of The World",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1009787",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 63510362,
       "deezerLink": "https://www.deezer.com/track/63510362",
@@ -951,6 +1102,8 @@
     "rank": 80,
     "artist": "Nelly",
     "title": "Hey Porsche",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1103287",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70625532,
       "deezerLink": "https://www.deezer.com/track/70625532",
@@ -963,10 +1116,12 @@
     "rank": 81,
     "artist": "Martin Solveig & The Cataracs feat. Kyle",
     "title": "Hey Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1128669",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 2551540822,
       "deezerLink": "https://www.deezer.com/track/2551540822",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7350f95c17685832ebf5b8a18b8b79ac/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/455d99201d8effbe7fb0112c80197424/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Martin Solveig",
       "deezerTitle": "Hey Now (feat. KYLE)"
     }
@@ -975,6 +1130,8 @@
     "rank": 82,
     "artist": "Bastille",
     "title": "Things We Lost In The Fire",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1116119",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 72371356,
       "deezerLink": "https://www.deezer.com/track/72371356",
@@ -987,6 +1144,8 @@
     "rank": 83,
     "artist": "Alligatoah",
     "title": "Willst du",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1179491",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 1753937087,
       "deezerLink": "https://www.deezer.com/track/1753937087",
@@ -999,6 +1158,8 @@
     "rank": 84,
     "artist": "Bruno Mars",
     "title": "Treasure",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1092138",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62724017,
       "deezerLink": "https://www.deezer.com/track/62724017",
@@ -1011,6 +1172,8 @@
     "rank": 85,
     "artist": "Woodkid",
     "title": "Run Boy Run",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1031849",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 70389820,
       "deezerLink": "https://www.deezer.com/track/70389820",
@@ -1023,6 +1186,8 @@
     "rank": 86,
     "artist": "Alicia Keys",
     "title": "Girl On Fire",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1077827",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 61542462,
       "deezerLink": "https://www.deezer.com/track/61542462",
@@ -1035,6 +1200,8 @@
     "rank": 87,
     "artist": "Pulcino Pio",
     "title": "Das kleine Küken piept",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1113471",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 64404498,
       "deezerLink": "https://www.deezer.com/track/64404498",
@@ -1047,6 +1214,8 @@
     "rank": 88,
     "artist": "Adele",
     "title": "Skyfall",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1071444",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 82715364,
       "deezerLink": "https://www.deezer.com/track/82715364",
@@ -1059,6 +1228,8 @@
     "rank": 89,
     "artist": "Bruno Mars",
     "title": "When I Was Your Man",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1091463",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62724019,
       "deezerLink": "https://www.deezer.com/track/62724019",
@@ -1071,6 +1242,8 @@
     "rank": 90,
     "artist": "Bruno Mars",
     "title": "Locked Out Of Heaven",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1070632",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 62724015,
       "deezerLink": "https://www.deezer.com/track/62724015",
@@ -1083,6 +1256,8 @@
     "rank": 91,
     "artist": "Linkin Park / Steve Aoki",
     "title": "A Light That Never Comes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1193159",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71624766,
       "deezerLink": "https://www.deezer.com/track/71624766",
@@ -1095,6 +1270,8 @@
     "rank": 92,
     "artist": "Miley Cyrus",
     "title": "We Can't Stop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1152101",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 71137161,
       "deezerLink": "https://www.deezer.com/track/71137161",
@@ -1107,6 +1284,8 @@
     "rank": 93,
     "artist": "Lenka",
     "title": "Everything At Once",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-826292",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 670569392,
       "deezerLink": "https://www.deezer.com/track/670569392",
@@ -1119,6 +1298,8 @@
     "rank": 94,
     "artist": "Revolverheld",
     "title": "Das kann uns keiner nehmen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1181415",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 70024823,
       "deezerLink": "https://www.deezer.com/track/70024823",
@@ -1131,6 +1312,8 @@
     "rank": 95,
     "artist": "Bosse",
     "title": "Schönste Zeit",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1115472",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 64758938,
       "deezerLink": "https://www.deezer.com/track/64758938",
@@ -1143,6 +1326,8 @@
     "rank": 96,
     "artist": "Sido feat. Mark Forster",
     "title": "Einer dieser Steine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1216404",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 72370900,
       "deezerLink": "https://www.deezer.com/track/72370900",
@@ -1155,6 +1340,8 @@
     "rank": 97,
     "artist": "Sean Paul",
     "title": "Other Side Of Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1158748",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 67873528,
       "deezerLink": "https://www.deezer.com/track/67873528",
@@ -1167,6 +1354,8 @@
     "rank": 98,
     "artist": "Die Toten Hosen",
     "title": "Tage wie diese",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-977738",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 142393383,
       "deezerLink": "https://www.deezer.com/track/142393383",
@@ -1179,6 +1368,8 @@
     "rank": 99,
     "artist": "Flo Rida feat. Pitbull",
     "title": "Can't Believe It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1178005",
+    "releaseYear": 2013,
     "deezer": {
       "deezerID": 69135863,
       "deezerLink": "https://www.deezer.com/track/69135863",
@@ -1191,6 +1382,8 @@
     "rank": 100,
     "artist": "Labrinth feat. Emeli Sandé",
     "title": "Beneath Your Beautiful",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1023355",
+    "releaseYear": 2012,
     "deezer": {
       "deezerID": 16753987,
       "deezerLink": "https://www.deezer.com/track/16753987",

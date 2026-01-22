@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Jennifer Lopez feat. Pitbull",
     "title": "On The Floor",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-792032",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 8930372,
       "deezerLink": "https://www.deezer.com/track/8930372",
@@ -15,6 +17,8 @@
     "rank": 2,
     "artist": "Alexandra Stan",
     "title": "Mr. Saxobeat",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-775385",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 1077700822,
       "deezerLink": "https://www.deezer.com/track/1077700822",
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Bruno Mars",
     "title": "Grenade",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-751768",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 8011849,
       "deezerLink": "https://www.deezer.com/track/8011849",
@@ -39,6 +45,8 @@
     "rank": 4,
     "artist": "Adele",
     "title": "Rolling In The Deep",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-767937",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 8086126,
       "deezerLink": "https://www.deezer.com/track/8086126",
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "Pietro Lombardi",
     "title": "Call My Name",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-835592",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 11272917,
       "deezerLink": "https://www.deezer.com/track/11272917",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Marlon Roudette",
     "title": "New Age",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-870770",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13113941,
       "deezerLink": "https://www.deezer.com/track/13113941",
@@ -75,22 +87,26 @@
     "rank": 7,
     "artist": "Snoop Dogg vs. David Guetta",
     "title": "Sweat",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-813377",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 10296241,
-      "deezerLink": "https://www.deezer.com/track/10296241",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b93b39da03c92e4a12b0bb93f6428f0c/500x500-000000-80-0-0.jpg",
+      "deezerID": 10162588,
+      "deezerLink": "https://www.deezer.com/track/10162588",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f81151ad27acdf3d3139e9c3dbf875ff/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Snoop Dogg",
-      "deezerTitle": "Sweat (Snoop Dogg Vs. David Guetta)"
+      "deezerTitle": "Sweat (Snoop Dogg vs David Guetta Remix)"
     }
   },
   {
     "rank": 8,
     "artist": "LMFAO feat. Lauren Bennett & GoonRock",
     "title": "Party Rock Anthem",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-796810",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 134548753,
-      "deezerLink": "https://www.deezer.com/track/134548753",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b7267394215ce1f20b85cd46af97cc22/500x500-000000-80-0-0.jpg",
+      "deezerID": 12565420,
+      "deezerLink": "https://www.deezer.com/track/12565420",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/63278375978f200fb751cd63624151bb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "LMFAO",
       "deezerTitle": "Party Rock Anthem"
     }
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "Pitbull feat. Ne-Yo, Afrojack & Nayer",
     "title": "Give Me Everything",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-810998",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 10308117,
       "deezerLink": "https://www.deezer.com/track/10308117",
@@ -111,6 +129,8 @@
     "rank": 10,
     "artist": "Tim Bendzko",
     "title": "Nur noch kurz die Welt retten",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-835544",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12000049,
       "deezerLink": "https://www.deezer.com/track/12000049",
@@ -123,6 +143,8 @@
     "rank": 11,
     "artist": "Sunrise Avenue",
     "title": "Hollywood Hills",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-793934",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 134527404,
       "deezerLink": "https://www.deezer.com/track/134527404",
@@ -135,6 +157,8 @@
     "rank": 12,
     "artist": "Lucenzo feat. Don Omar",
     "title": "Danza kuduro",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-747644",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 682065132,
       "deezerLink": "https://www.deezer.com/track/682065132",
@@ -147,6 +171,8 @@
     "rank": 13,
     "artist": "Rihanna feat. Calvin Harris",
     "title": "We Found Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-903868",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14525574,
       "deezerLink": "https://www.deezer.com/track/14525574",
@@ -159,10 +185,12 @@
     "rank": 14,
     "artist": "Caro Emerald",
     "title": "A Night Like This",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-656425",
+    "releaseYear": 2009,
     "deezer": {
       "deezerID": 13551002,
       "deezerLink": "https://www.deezer.com/track/13551002",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/25621277d67d12d71a5ef7707adb0483/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c113d84063b8be9d00ebb760b3622d66/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Caro Emerald",
       "deezerTitle": "A Night Like This"
     }
@@ -171,6 +199,8 @@
     "rank": 15,
     "artist": "Maroon 5 feat. Christina Aguilera",
     "title": "Moves Like Jagger",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-856557",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12724819,
       "deezerLink": "https://www.deezer.com/track/12724819",
@@ -183,6 +213,8 @@
     "rank": 16,
     "artist": "Adele",
     "title": "Set Fire To The Rain",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-792463",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 8086130,
       "deezerLink": "https://www.deezer.com/track/8086130",
@@ -195,6 +227,8 @@
     "rank": 17,
     "artist": "Lady Gaga",
     "title": "Born This Way",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-802082",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 11747931,
       "deezerLink": "https://www.deezer.com/track/11747931",
@@ -207,10 +241,12 @@
     "rank": 18,
     "artist": "Taio Cruz feat. Kylie Minogue",
     "title": "Higher",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-760386",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 7063931,
-      "deezerLink": "https://www.deezer.com/track/7063931",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/093915a9a544193d2bcaa78287cee34d/500x500-000000-80-0-0.jpg",
+      "deezerID": 8167112,
+      "deezerLink": "https://www.deezer.com/track/8167112",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2f7fa7c56ff43a5aa7704b4e38312e26/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Taio Cruz",
       "deezerTitle": "Higher"
     }
@@ -219,6 +255,8 @@
     "rank": 19,
     "artist": "Lana Del Rey",
     "title": "Video Games",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-867017",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 16047065,
       "deezerLink": "https://www.deezer.com/track/16047065",
@@ -231,6 +269,8 @@
     "rank": 20,
     "artist": "Jupiter Jones",
     "title": "Still",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-759131",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 2947210701,
       "deezerLink": "https://www.deezer.com/track/2947210701",
@@ -243,6 +283,8 @@
     "rank": 21,
     "artist": "DJ Antoine vs. Timati feat. Kalenna",
     "title": "Welcome To St. Tropez",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-818044",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17074759,
       "deezerLink": "https://www.deezer.com/track/17074759",
@@ -255,6 +297,8 @@
     "rank": 22,
     "artist": "Aura Dione",
     "title": "Geronimo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-902939",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 964619492,
       "deezerLink": "https://www.deezer.com/track/964619492",
@@ -267,10 +311,12 @@
     "rank": 23,
     "artist": "Taio Cruz feat. Flo Rida",
     "title": "Hangover",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-894213",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 14236071,
-      "deezerLink": "https://www.deezer.com/track/14236071",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/55a19d6f247b96565844f467b0bbba31/500x500-000000-80-0-0.jpg",
+      "deezerID": 14893478,
+      "deezerLink": "https://www.deezer.com/track/14893478",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/80d8b339f112a920538332d1db213b6b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Taio Cruz",
       "deezerTitle": "Hangover"
     }
@@ -279,6 +325,8 @@
     "rank": 24,
     "artist": "Martin Solveig & Dragonette",
     "title": "Hello",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-727954",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 2550920662,
       "deezerLink": "https://www.deezer.com/track/2550920662",
@@ -291,10 +339,12 @@
     "rank": 25,
     "artist": "David Guetta feat. Sia",
     "title": "Titanium",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-880643",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 62847142,
       "deezerLink": "https://www.deezer.com/track/62847142",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
       "deezerTitle": "Titanium (feat. Sia)"
     }
@@ -303,6 +353,8 @@
     "rank": 26,
     "artist": "Rihanna",
     "title": "S&M",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-756414",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 13529559,
       "deezerLink": "https://www.deezer.com/track/13529559",
@@ -315,6 +367,8 @@
     "rank": 27,
     "artist": "Lady Gaga",
     "title": "The Edge Of Glory",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-834009",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 11747946,
       "deezerLink": "https://www.deezer.com/track/11747946",
@@ -327,6 +381,8 @@
     "rank": 28,
     "artist": "Adele",
     "title": "Someone Like You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-792468",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 8086136,
       "deezerLink": "https://www.deezer.com/track/8086136",
@@ -339,6 +395,8 @@
     "rank": 29,
     "artist": "Hurts",
     "title": "Stay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-742968",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7011669,
       "deezerLink": "https://www.deezer.com/track/7011669",
@@ -351,10 +409,12 @@
     "rank": 30,
     "artist": "Sean Paul feat. Alexis Jordan",
     "title": "Got 2 Luv U",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-863124",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 16091090,
       "deezerLink": "https://www.deezer.com/track/16091090",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e18dbe28bc5623785f7242f70d5f9d40/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3d149836e830094e22f18e5592a1bfcb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sean Paul",
       "deezerTitle": "Got 2 Luv U (feat. Alexis Jordan)"
     }
@@ -363,6 +423,8 @@
     "rank": 31,
     "artist": "Brooke Fraser",
     "title": "Something In The Water",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-736869",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 3049517511,
       "deezerLink": "https://www.deezer.com/track/3049517511",
@@ -375,6 +437,8 @@
     "rank": 32,
     "artist": "Gotye feat. Kimbra",
     "title": "Somebody That I Used To Know",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-866033",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14539929,
       "deezerLink": "https://www.deezer.com/track/14539929",
@@ -387,6 +451,8 @@
     "rank": 33,
     "artist": "Empire Of The Sun",
     "title": "We Are The People",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-536651",
+    "releaseYear": 2008,
     "deezer": {
       "deezerID": 4286053,
       "deezerLink": "https://www.deezer.com/track/4286053",
@@ -399,6 +465,8 @@
     "rank": 34,
     "artist": "Chris Brown",
     "title": "Yeah 3X",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-753694",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 652442562,
       "deezerLink": "https://www.deezer.com/track/652442562",
@@ -411,6 +479,8 @@
     "rank": 35,
     "artist": "Jessie J feat. B.o.B",
     "title": "Price Tag",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-788657",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14405185,
       "deezerLink": "https://www.deezer.com/track/14405185",
@@ -423,6 +493,8 @@
     "rank": 36,
     "artist": "The Black Eyed Peas",
     "title": "The Time (Dirty Bit)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-760516",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7705885,
       "deezerLink": "https://www.deezer.com/track/7705885",
@@ -435,6 +507,8 @@
     "rank": 37,
     "artist": "Israel IZ Kamakawiwo'ole",
     "title": "Over The Rainbow",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-307004",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 418130622,
       "deezerLink": "https://www.deezer.com/track/418130622",
@@ -446,16 +520,20 @@
   {
     "rank": 38,
     "artist": "Usher",
-    "title": "More"
+    "title": "More",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-687993",
+    "releaseYear": 2010
   },
   {
     "rank": 39,
     "artist": "David Guetta feat. Usher",
     "title": "Without You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-891909",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 62847145,
       "deezerLink": "https://www.deezer.com/track/62847145",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
       "deezerTitle": "Without You (feat. Usher)"
     }
@@ -464,6 +542,8 @@
     "rank": 40,
     "artist": "Bruno Mars",
     "title": "Just The Way You Are",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-731015",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 8011850,
       "deezerLink": "https://www.deezer.com/track/8011850",
@@ -476,10 +556,12 @@
     "rank": 41,
     "artist": "David Guetta feat. Nicki Minaj & Flo Rida",
     "title": "Where Them Girls At",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-822531",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 62847150,
       "deezerLink": "https://www.deezer.com/track/62847150",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
       "deezerTitle": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)"
     }
@@ -488,6 +570,8 @@
     "rank": 42,
     "artist": "Milow",
     "title": "You And Me (In My Pocket)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-805506",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 1864357767,
       "deezerLink": "https://www.deezer.com/track/1864357767",
@@ -500,10 +584,12 @@
     "rank": 43,
     "artist": "Flo Rida",
     "title": "Good Feeling",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-882337",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 65232772,
       "deezerLink": "https://www.deezer.com/track/65232772",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4d99ed71d4020effadd12d9ae1e61933/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7833d3bd55cd66c11528908dd7fe96a1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Flo Rida",
       "deezerTitle": "Good Feeling"
     }
@@ -512,6 +598,8 @@
     "rank": 44,
     "artist": "Sak Noel",
     "title": "Loca People (What The F**k!)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-812660",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 471751152,
       "deezerLink": "https://www.deezer.com/track/471751152",
@@ -524,18 +612,22 @@
     "rank": 45,
     "artist": "David Guetta feat. Rihanna",
     "title": "Who's That Chick?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-750389",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 7754541,
-      "deezerLink": "https://www.deezer.com/track/7754541",
+      "deezerID": 7754536,
+      "deezerLink": "https://www.deezer.com/track/7754536",
       "cover": "https://cdn-images.dzcdn.net/images/cover/509ab77d946e226a8ff8834dcd25e2f1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Guetta",
-      "deezerTitle": "Who's That Chick ? (feat. Rihanna)"
+      "deezerTitle": "Who's That Chick? (feat. Rihanna)"
     }
   },
   {
     "rank": 46,
     "artist": "David Guetta feat. Taio Cruz & Ludacris",
     "title": "Little Bad Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-856618",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12573368,
       "deezerLink": "https://www.deezer.com/track/12573368",
@@ -548,6 +640,8 @@
     "rank": 47,
     "artist": "Frida Gold",
     "title": "Wovon sollen wir träumen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-813591",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14608673,
       "deezerLink": "https://www.deezer.com/track/14608673",
@@ -560,10 +654,12 @@
     "rank": 48,
     "artist": "R.I.O. feat. U-Jean",
     "title": "Turn This Club Around",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-901737",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 53614651,
-      "deezerLink": "https://www.deezer.com/track/53614651",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ae1d3a3beb33926e70cf65279c028116/500x500-000000-80-0-0.jpg",
+      "deezerID": 72065857,
+      "deezerLink": "https://www.deezer.com/track/72065857",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/53ea14dbe42ecd84fdcdd4971fa02bc7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "R.I.O.",
       "deezerTitle": "Turn This Club Around"
     }
@@ -572,6 +668,8 @@
     "rank": 49,
     "artist": "The Black Eyed Peas",
     "title": "Just Can't Get Enough",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-770520",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7706014,
       "deezerLink": "https://www.deezer.com/track/7706014",
@@ -584,18 +682,22 @@
     "rank": 50,
     "artist": "Revolverheld feat. Marta Jandová",
     "title": "Halt dich an mir fest",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-756720",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 7664405,
-      "deezerLink": "https://www.deezer.com/track/7664405",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5956b990764a183fb4902ec4aaff9b29/500x500-000000-80-0-0.jpg",
+      "deezerID": 7453620,
+      "deezerLink": "https://www.deezer.com/track/7453620",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3133328f644eba1bcb5b3f704787bbf8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Revolverheld",
-      "deezerTitle": "Halt dich an mir fest"
+      "deezerTitle": "Halt dich an mir fest (feat. Marta Jandová)"
     }
   },
   {
     "rank": 51,
     "artist": "Bruno Mars",
     "title": "The Lazy Song",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-752074",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 8011853,
       "deezerLink": "https://www.deezer.com/track/8011853",
@@ -608,6 +710,8 @@
     "rank": 52,
     "artist": "Jason Derulo",
     "title": "Don't Wanna Go Home",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-834644",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13548266,
       "deezerLink": "https://www.deezer.com/track/13548266",
@@ -620,6 +724,8 @@
     "rank": 53,
     "artist": "Katy Perry",
     "title": "Firework",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-739665",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17135111,
       "deezerLink": "https://www.deezer.com/track/17135111",
@@ -632,6 +738,8 @@
     "rank": 54,
     "artist": "Milk & Sugar vs. Vaya Con Dios",
     "title": "Hey (Nah Neh Nah)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-781709",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 901760172,
       "deezerLink": "https://www.deezer.com/track/901760172",
@@ -644,18 +752,22 @@
     "rank": 55,
     "artist": "Flo Rida",
     "title": "Turn Around (5 4 3 2 1)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-758604",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7663131,
       "deezerLink": "https://www.deezer.com/track/7663131",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/73f9593483ee5d3210f602bc1d9720e7/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/de57eae548c0ba872aa065945bff953a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Flo Rida",
       "deezerTitle": "Turn Around (5,4,3,2,1)"
     }
   },
   {
     "rank": 56,
-    "artist": "Diddy Dirty Money feat. Skylar Grey",
+    "artist": "DiddyDirtyMoney feat. Skylar Grey",
     "title": "Coming Home",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-769436",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7988088,
       "deezerLink": "https://www.deezer.com/track/7988088",
@@ -668,6 +780,8 @@
     "rank": 57,
     "artist": "Katy Perry feat. Kanye West",
     "title": "E.T.",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-805123",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 17135115,
       "deezerLink": "https://www.deezer.com/track/17135115",
@@ -680,6 +794,8 @@
     "rank": 58,
     "artist": "Andreas Bourani",
     "title": "Nur in meinem Kopf",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-835543",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 99127814,
       "deezerLink": "https://www.deezer.com/track/99127814",
@@ -692,10 +808,12 @@
     "rank": 59,
     "artist": "Duck Sauce",
     "title": "Barbra Streisand",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-701435",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 14701883,
-      "deezerLink": "https://www.deezer.com/track/14701883",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/27f96308241f7476e7ec899856a51a6c/500x500-000000-80-0-0.jpg",
+      "deezerID": 3157769181,
+      "deezerLink": "https://www.deezer.com/track/3157769181",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5a178978df8825ab679dbc0b37d1978e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Duck Sauce",
       "deezerTitle": "Barbra Streisand"
     }
@@ -704,10 +822,12 @@
     "rank": 60,
     "artist": "Glasperlenspiel",
     "title": "Echt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-877618",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13693828,
       "deezerLink": "https://www.deezer.com/track/13693828",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc1c1acc84807476693b5dc91fe55937/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6052f2121f39d618653080181d57221e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Glasperlenspiel",
       "deezerTitle": "Echt"
     }
@@ -716,6 +836,8 @@
     "rank": 61,
     "artist": "Coldplay",
     "title": "Paradise",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-899516",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14299589,
       "deezerLink": "https://www.deezer.com/track/14299589",
@@ -728,10 +850,12 @@
     "rank": 62,
     "artist": "Culcha Candela",
     "title": "Berlin City Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-760642",
+    "releaseYear": 2007,
     "deezer": {
       "deezerID": 1543807782,
       "deezerLink": "https://www.deezer.com/track/1543807782",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ebd42b92c1bc6130385f99f517501a28/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d51aec0081d52e4c082a0020df71e0dc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Culcha Candela",
       "deezerTitle": "Berlin City Girl"
     }
@@ -740,6 +864,8 @@
     "rank": 63,
     "artist": "Pitbull feat. Marc Anthony",
     "title": "Rain Over Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-847741",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12270341,
       "deezerLink": "https://www.deezer.com/track/12270341",
@@ -752,6 +878,8 @@
     "rank": 64,
     "artist": "Rosenstolz",
     "title": "Wir sind am Leben",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-885167",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13787466,
       "deezerLink": "https://www.deezer.com/track/13787466",
@@ -764,6 +892,8 @@
     "rank": 65,
     "artist": "Madcon feat. Ameerah",
     "title": "Freaky Like Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-746164",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17148429,
       "deezerLink": "https://www.deezer.com/track/17148429",
@@ -776,6 +906,8 @@
     "rank": 66,
     "artist": "Bag Raiders",
     "title": "Way Back Home",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-742076",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17322168,
       "deezerLink": "https://www.deezer.com/track/17322168",
@@ -788,6 +920,8 @@
     "rank": 67,
     "artist": "Udo Lindenberg feat. Clueso",
     "title": "Cello (MTV Unplugged)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-902593",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14340462,
       "deezerLink": "https://www.deezer.com/track/14340462",
@@ -800,6 +934,8 @@
     "rank": 68,
     "artist": "Rihanna",
     "title": "California King Bed",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-756415",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 13529564,
       "deezerLink": "https://www.deezer.com/track/13529564",
@@ -812,6 +948,8 @@
     "rank": 69,
     "artist": "Lena",
     "title": "Taken By A Stranger",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-799182",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13645635,
       "deezerLink": "https://www.deezer.com/track/13645635",
@@ -824,6 +962,8 @@
     "rank": 70,
     "artist": "Mike Candys & Evelyn feat. Patrick Miller",
     "title": "One Night In Ibiza",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-873325",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 17081786,
       "deezerLink": "https://www.deezer.com/track/17081786",
@@ -836,10 +976,12 @@
     "rank": 71,
     "artist": "Roxette",
     "title": "She's Got Nothing On (But The Radio)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-774777",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 89388997,
       "deezerLink": "https://www.deezer.com/track/89388997",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9bf25b67b9a229ce45109732e106e410/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5213b1ef0649cd23cf9fddffc6360953/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roxette",
       "deezerTitle": "She's Got Nothing on (But the Radio)"
     }
@@ -848,6 +990,8 @@
     "rank": 72,
     "artist": "LMFAO",
     "title": "Sexy And I Know It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-852485",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12565421,
       "deezerLink": "https://www.deezer.com/track/12565421",
@@ -860,6 +1004,8 @@
     "rank": 73,
     "artist": "Leona Lewis",
     "title": "Run",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-425610",
+    "releaseYear": 2008,
     "deezer": {
       "deezerID": 2485011,
       "deezerLink": "https://www.deezer.com/track/2485011",
@@ -872,6 +1018,8 @@
     "rank": 74,
     "artist": "Snow Patrol",
     "title": "Called Out In The Dark",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-874878",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 796301332,
       "deezerLink": "https://www.deezer.com/track/796301332",
@@ -884,6 +1032,8 @@
     "rank": 75,
     "artist": "Avicii",
     "title": "Levels",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-838223",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14383880,
       "deezerLink": "https://www.deezer.com/track/14383880",
@@ -896,6 +1046,8 @@
     "rank": 76,
     "artist": "Die Atzen mit Nena",
     "title": "Strobo Pop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-813911",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 1366251762,
       "deezerLink": "https://www.deezer.com/track/1366251762",
@@ -908,9 +1060,11 @@
     "rank": 77,
     "artist": "Sarah Engels & Pietro Lombardi",
     "title": "I Miss You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-843549",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 12325135,
-      "deezerLink": "https://www.deezer.com/track/12325135",
+      "deezerID": 12325134,
+      "deezerLink": "https://www.deezer.com/track/12325134",
       "cover": "https://cdn-images.dzcdn.net/images/cover/92d01ae1a3238645fc316a029162a059/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sarah Engels",
       "deezerTitle": "I Miss You"
@@ -920,6 +1074,8 @@
     "rank": 78,
     "artist": "Zaz",
     "title": "Je veux",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-692208",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17199784,
       "deezerLink": "https://www.deezer.com/track/17199784",
@@ -932,10 +1088,12 @@
     "rank": 79,
     "artist": "Aloe Blacc",
     "title": "Loving You Is Killing Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-753161",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 445998052,
       "deezerLink": "https://www.deezer.com/track/445998052",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/677f3e0eab0d805787ee11bda67ee2c3/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d43f664e66b16ac6d017df449c61f0d2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Aloe Blacc",
       "deezerTitle": "Loving You Is Killing Me"
     }
@@ -944,6 +1102,8 @@
     "rank": 80,
     "artist": "Natalia Kills",
     "title": "Mirrors",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-733585",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 13564121,
       "deezerLink": "https://www.deezer.com/track/13564121",
@@ -956,6 +1116,8 @@
     "rank": 81,
     "artist": "Example",
     "title": "Changed The Way You Kiss Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-818421",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 663919142,
       "deezerLink": "https://www.deezer.com/track/663919142",
@@ -968,6 +1130,8 @@
     "rank": 82,
     "artist": "Rihanna",
     "title": "Only Girl (In The World)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-745265",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 13529563,
       "deezerLink": "https://www.deezer.com/track/13529563",
@@ -980,6 +1144,8 @@
     "rank": 83,
     "artist": "Tim Bendzko",
     "title": "Wenn Worte meine Sprache wären",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-852615",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 16999985,
       "deezerLink": "https://www.deezer.com/track/16999985",
@@ -992,18 +1158,22 @@
     "rank": 84,
     "artist": "Enrique Iglesias feat. Ludacris & DJ Frank E",
     "title": "Tonight (I'm Lovin' You)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-775889",
+    "releaseYear": 2011,
     "deezer": {
-      "deezerID": 10202476,
-      "deezerLink": "https://www.deezer.com/track/10202476",
+      "deezerID": 10202491,
+      "deezerLink": "https://www.deezer.com/track/10202491",
       "cover": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Enrique Iglesias",
-      "deezerTitle": "Tonight (I'm Fuckin' You)"
+      "deezerTitle": "Tonight (I'm Lovin' You)"
     }
   },
   {
     "rank": 85,
     "artist": "Nickelback",
     "title": "When We Stand Together",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-906599",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 14500181,
       "deezerLink": "https://www.deezer.com/track/14500181",
@@ -1016,6 +1186,8 @@
     "rank": 86,
     "artist": "Unheilig",
     "title": "Geboren um zu leben",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-665166",
+    "releaseYear": 2009,
     "deezer": {
       "deezerID": 75486189,
       "deezerLink": "https://www.deezer.com/track/75486189",
@@ -1028,6 +1200,8 @@
     "rank": 87,
     "artist": "Paul & Fritz Kalkbrenner",
     "title": "Sky And Sand",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-549801",
+    "releaseYear": 2008,
     "deezer": {
       "deezerID": 1761983427,
       "deezerLink": "https://www.deezer.com/track/1761983427",
@@ -1040,6 +1214,8 @@
     "rank": 88,
     "artist": "Katy Perry",
     "title": "Last Friday Night (T.G.I.F.)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-741189",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 17135109,
       "deezerLink": "https://www.deezer.com/track/17135109",
@@ -1052,6 +1228,8 @@
     "rank": 89,
     "artist": "Natalia Kills feat. will.i.am",
     "title": "Free",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-846497",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13564116,
       "deezerLink": "https://www.deezer.com/track/13564116",
@@ -1064,6 +1242,8 @@
     "rank": 90,
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-715690",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 15546830,
       "deezerLink": "https://www.deezer.com/track/15546830",
@@ -1076,6 +1256,8 @@
     "rank": 91,
     "artist": "James Morrison",
     "title": "I Won't Let You Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-880303",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13020574,
       "deezerLink": "https://www.deezer.com/track/13020574",
@@ -1088,6 +1270,8 @@
     "rank": 92,
     "artist": "Sarah Engels",
     "title": "Call My Name",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-835591",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 12351828,
       "deezerLink": "https://www.deezer.com/track/12351828",
@@ -1100,6 +1284,8 @@
     "rank": 93,
     "artist": "Bruno Mars",
     "title": "It Will Rain",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-906547",
+    "releaseYear": 2011,
     "deezer": {
       "deezerID": 13978270,
       "deezerLink": "https://www.deezer.com/track/13978270",
@@ -1112,6 +1298,8 @@
     "rank": 94,
     "artist": "P!nk",
     "title": "F**kin' Perfect",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-764596",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 15597832,
       "deezerLink": "https://www.deezer.com/track/15597832",
@@ -1124,6 +1312,8 @@
     "rank": 95,
     "artist": "Pitbull feat. T-Pain",
     "title": "Hey Baby (Drop It To The Floor)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-745188",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 7300948,
       "deezerLink": "https://www.deezer.com/track/7300948",
@@ -1136,10 +1326,12 @@
     "rank": 96,
     "artist": "Inna",
     "title": "Sun Is Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-726106",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 68985416,
       "deezerLink": "https://www.deezer.com/track/68985416",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c1983547ddea41943bb394aa2edfef87/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/98a20f81a8c6ef93659a32970bbe3b53/500x500-000000-80-0-0.jpg",
       "deezerArtist": "INNA",
       "deezerTitle": "Sun Is Up"
     }
@@ -1148,10 +1340,12 @@
     "rank": 97,
     "artist": "Jay Sean feat. Lil Wayne",
     "title": "Down",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-601917",
+    "releaseYear": 2009,
     "deezer": {
-      "deezerID": 1761073787,
-      "deezerLink": "https://www.deezer.com/track/1761073787",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/de00261a0a50991aeb1a5c0f330d5a36/500x500-000000-80-0-0.jpg",
+      "deezerID": 4585472,
+      "deezerLink": "https://www.deezer.com/track/4585472",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9a7f4fbf785e1745c8f628fe85b3d594/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jay Sean",
       "deezerTitle": "Down"
     }
@@ -1160,6 +1354,8 @@
     "rank": 98,
     "artist": "Usher feat. Pitbull",
     "title": "DJ Got Us Fallin' In Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-727818",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 15597245,
       "deezerLink": "https://www.deezer.com/track/15597245",
@@ -1172,6 +1368,8 @@
     "rank": 99,
     "artist": "Bruno Mars",
     "title": "Marry You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-752075",
+    "releaseYear": 2010,
     "deezer": {
       "deezerID": 8011854,
       "deezerLink": "https://www.deezer.com/track/8011854",
@@ -1184,10 +1382,12 @@
     "rank": 100,
     "artist": "Unheilig",
     "title": "Winter",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-765286",
+    "releaseYear": 2010,
     "deezer": {
-      "deezerID": 7771533,
-      "deezerLink": "https://www.deezer.com/track/7771533",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b6314fcaa91592e054ce8915c8be3882/500x500-000000-80-0-0.jpg",
+      "deezerID": 75486195,
+      "deezerLink": "https://www.deezer.com/track/75486195",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad64e83714e7cb923a1a1ef95e1bdf53/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Unheilig",
       "deezerTitle": "Winter"
     }

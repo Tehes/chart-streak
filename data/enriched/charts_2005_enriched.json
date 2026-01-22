@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Schnappi",
     "title": "Schnappi, das kleine Krokodil",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6419",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1450728802,
       "deezerLink": "https://www.deezer.com/track/1450728802",
@@ -15,6 +17,8 @@
     "rank": 2,
     "artist": "Tokio Hotel",
     "title": "Durch den Monsun",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-131015",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 7718640,
       "deezerLink": "https://www.deezer.com/track/7718640",
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Akon",
     "title": "Lonely",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-93031",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 78869181,
       "deezerLink": "https://www.deezer.com/track/78869181",
@@ -39,6 +45,8 @@
     "rank": 4,
     "artist": "K-Maro",
     "title": "Femme Like U (Donne-moi ton corps)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6187",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 2173055847,
       "deezerLink": "https://www.deezer.com/track/2173055847",
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "Söhne Mannheims",
     "title": "Und wenn ein Lied",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6407",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 896692912,
       "deezerLink": "https://www.deezer.com/track/896692912",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Juanes",
     "title": "La camisa negra",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-59916",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1155001,
       "deezerLink": "https://www.deezer.com/track/1155001",
@@ -75,6 +87,8 @@
     "rank": 7,
     "artist": "50 Cent feat. Olivia",
     "title": "Candy Shop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6510",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 145429544,
       "deezerLink": "https://www.deezer.com/track/145429544",
@@ -87,6 +101,8 @@
     "rank": 8,
     "artist": "The Pussycat Dolls feat. Busta Rhymes",
     "title": "Don't Cha",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-142649",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1161005,
       "deezerLink": "https://www.deezer.com/track/1161005",
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "Die Firma",
     "title": "Die Eine 2005",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-120550",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 974881312,
       "deezerLink": "https://www.deezer.com/track/974881312",
@@ -111,6 +129,8 @@
     "rank": 10,
     "artist": "Ch!pz",
     "title": "Ch!pz In Black (Who You Gonna Call)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6445",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 728097702,
       "deezerLink": "https://www.deezer.com/track/728097702",
@@ -123,10 +143,12 @@
     "rank": 11,
     "artist": "Fettes Brot",
     "title": "Emanuela",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6473",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 1758715887,
-      "deezerLink": "https://www.deezer.com/track/1758715887",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/53ac4c58ba7f34a62a720de634511b65/500x500-000000-80-0-0.jpg",
+      "deezerID": 3558285081,
+      "deezerLink": "https://www.deezer.com/track/3558285081",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45f1d3089ae9e6fb955a1af419a009d7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fettes Brot",
       "deezerTitle": "Emanuela"
     }
@@ -135,6 +157,8 @@
     "rank": 12,
     "artist": "Melanie C",
     "title": "First Day Of My Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-139560",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 689130,
       "deezerLink": "https://www.deezer.com/track/689130",
@@ -147,11 +171,13 @@
     "rank": 13,
     "artist": "Jay-Z / Linkin Park",
     "title": "Numb / Encore",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6391",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 676954,
       "deezerLink": "https://www.deezer.com/track/676954",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7245b8fe756d39f20a53020163168dbe/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "JAY-Z",
+      "deezerArtist": "JAY Z",
       "deezerTitle": "Numb / Encore"
     }
   },
@@ -159,6 +185,8 @@
     "rank": 14,
     "artist": "Nena",
     "title": "Liebe ist",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6483",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 576951352,
       "deezerLink": "https://www.deezer.com/track/576951352",
@@ -171,6 +199,8 @@
     "rank": 15,
     "artist": "Sarah Connor",
     "title": "From Zero To Hero",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6495",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1157536,
       "deezerLink": "https://www.deezer.com/track/1157536",
@@ -183,6 +213,8 @@
     "rank": 16,
     "artist": "James Blunt",
     "title": "You're Beautiful",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-115872",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2659940,
       "deezerLink": "https://www.deezer.com/track/2659940",
@@ -195,6 +227,8 @@
     "rank": 17,
     "artist": "Nu Pagadi",
     "title": "Sweetest Poison",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6412",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1152666932,
       "deezerLink": "https://www.deezer.com/track/1152666932",
@@ -207,6 +241,8 @@
     "rank": 18,
     "artist": "Madonna",
     "title": "Hung Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-141765",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 679217,
       "deezerLink": "https://www.deezer.com/track/679217",
@@ -219,6 +255,8 @@
     "rank": 19,
     "artist": "Sugababes",
     "title": "Push The Button",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-147203",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2509326,
       "deezerLink": "https://www.deezer.com/track/2509326",
@@ -231,10 +269,12 @@
     "rank": 20,
     "artist": "Joana Zimmer",
     "title": "I Believe (Give A Little Bit...)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-107709",
+    "releaseYear": 2004,
     "deezer": {
-      "deezerID": 2315289,
-      "deezerLink": "https://www.deezer.com/track/2315289",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4f139b62c72a75ed67cad8ca1e80d96b/500x500-000000-80-0-0.jpg",
+      "deezerID": 2317599,
+      "deezerLink": "https://www.deezer.com/track/2317599",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b2d0a36b509490cab924ec623dd5c840/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Joana Zimmer",
       "deezerTitle": "I Believe"
     }
@@ -243,6 +283,8 @@
     "rank": 21,
     "artist": "Ich + Ich",
     "title": "Du erinnerst mich an Liebe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-102276",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1278100862,
       "deezerLink": "https://www.deezer.com/track/1278100862",
@@ -255,6 +297,8 @@
     "rank": 22,
     "artist": "2Pac",
     "title": "Ghetto Gospel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-75811",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 2426335,
       "deezerLink": "https://www.deezer.com/track/2426335",
@@ -267,6 +311,8 @@
     "rank": 23,
     "artist": "US5",
     "title": "Maria",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-115119",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1817461737,
       "deezerLink": "https://www.deezer.com/track/1817461737",
@@ -279,18 +325,22 @@
     "rank": 24,
     "artist": "Shakira feat. Alejandro Sanz",
     "title": "La tortura",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-105161",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 15404852,
-      "deezerLink": "https://www.deezer.com/track/15404852",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f2065ca5ce5f5ddefbd8b89e13386c17/500x500-000000-80-0-0.jpg",
+      "deezerID": 484274992,
+      "deezerLink": "https://www.deezer.com/track/484274992",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5908097a9257e92f79a253665ecf664b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shakira",
-      "deezerTitle": "La Tortura (feat. Alejandro Sanz)"
+      "deezerTitle": "La tortura"
     }
   },
   {
     "rank": 25,
     "artist": "Banaroo",
     "title": "Dubi Dam Dam",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-107877",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2819811,
       "deezerLink": "https://www.deezer.com/track/2819811",
@@ -302,12 +352,16 @@
   {
     "rank": 26,
     "artist": "Marc Terenzi",
-    "title": "Love To Be Loved By You"
+    "title": "Love To Be Loved By You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-139783",
+    "releaseYear": 2005
   },
   {
     "rank": 27,
     "artist": "Mario",
     "title": "Let Me Love You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-65649",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 607684,
       "deezerLink": "https://www.deezer.com/track/607684",
@@ -320,6 +374,8 @@
     "rank": 28,
     "artist": "Crazy Frog",
     "title": "Axel F",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-111134",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 387670601,
       "deezerLink": "https://www.deezer.com/track/387670601",
@@ -332,6 +388,8 @@
     "rank": 29,
     "artist": "Robbie Williams",
     "title": "Tripping",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-142156",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 3119900,
       "deezerLink": "https://www.deezer.com/track/3119900",
@@ -344,18 +402,22 @@
     "rank": 30,
     "artist": "Mustafa Sandal feat. Gentleman",
     "title": "Isyankar",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6447",
+    "releaseYear": 2004,
     "deezer": {
-      "deezerID": 7405042,
-      "deezerLink": "https://www.deezer.com/track/7405042",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/59b4dac75ee92d0b833374155b38bb4c/500x500-000000-80-0-0.jpg",
+      "deezerID": 3609144012,
+      "deezerLink": "https://www.deezer.com/track/3609144012",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/da07a9f9c6a954c55b171059f14fdf13/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mustafa Sandal",
-      "deezerTitle": "Isyankar"
+      "deezerTitle": "İsyankar"
     }
   },
   {
     "rank": 31,
     "artist": "Ilona Mitrecey",
     "title": "Un monde parfait",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-98187",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 2728101101,
       "deezerLink": "https://www.deezer.com/track/2728101101",
@@ -368,10 +430,12 @@
     "rank": 32,
     "artist": "Global Deejays",
     "title": "The Sound Of San Francisco",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6421",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 8177007,
       "deezerLink": "https://www.deezer.com/track/8177007",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/50701032c5661f5207e3c2e8024e8075/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1d8b4bf7fceb0a8940092dd861ed0dac/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Global Deejays",
       "deezerTitle": "The Sound Of San Francisco"
     }
@@ -379,11 +443,13 @@
   {
     "rank": 33,
     "artist": "Christina Stürmer",
-    "title": "Ich lebe [2005]",
+    "title": "Ich lebe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-114892",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 120685028,
-      "deezerLink": "https://www.deezer.com/track/120685028",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/46e67bc54f4e0ef30f6bfea1291a7ad8/500x500-000000-80-0-0.jpg",
+      "deezerID": 99351666,
+      "deezerLink": "https://www.deezer.com/track/99351666",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eb089566331999021fef2f8a11316f6a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Christina Stürmer",
       "deezerTitle": "Ich lebe"
     }
@@ -392,10 +458,12 @@
     "rank": 34,
     "artist": "Ch!pz",
     "title": "Cowboy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-85363",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 763636132,
-      "deezerLink": "https://www.deezer.com/track/763636132",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/42e71302f0a3b956b3f0b1b432960b86/500x500-000000-80-0-0.jpg",
+      "deezerID": 1681779287,
+      "deezerLink": "https://www.deezer.com/track/1681779287",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4127561c7017041c9238ed2ab7d81a23/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Chipz",
       "deezerTitle": "Cowboy"
     }
@@ -404,6 +472,8 @@
     "rank": 35,
     "artist": "Sarah Connor",
     "title": "Living To Love You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6352",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1157534,
       "deezerLink": "https://www.deezer.com/track/1157534",
@@ -416,6 +486,8 @@
     "rank": 36,
     "artist": "Krypteria",
     "title": "Liberatio",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6436",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 15378654,
       "deezerLink": "https://www.deezer.com/track/15378654",
@@ -428,6 +500,8 @@
     "rank": 37,
     "artist": "Xavier Naidoo",
     "title": "Dieser Weg",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-150302",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2008975647,
       "deezerLink": "https://www.deezer.com/track/2008975647",
@@ -440,6 +514,8 @@
     "rank": 38,
     "artist": "Yvonne Catterfeld",
     "title": "Glaub an mich",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6472",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 601098,
       "deezerLink": "https://www.deezer.com/track/601098",
@@ -452,6 +528,8 @@
     "rank": 39,
     "artist": "Rihanna",
     "title": "Pon de replay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-127445",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2953166,
       "deezerLink": "https://www.deezer.com/track/2953166",
@@ -464,6 +542,8 @@
     "rank": 40,
     "artist": "Will Smith",
     "title": "Switch",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-91817",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2426647,
       "deezerLink": "https://www.deezer.com/track/2426647",
@@ -476,6 +556,8 @@
     "rank": 41,
     "artist": "Gwen Stefani",
     "title": "Hollaback Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-71533",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 983450,
       "deezerLink": "https://www.deezer.com/track/983450",
@@ -488,6 +570,8 @@
     "rank": 42,
     "artist": "The Chemical Brothers",
     "title": "Galvanize",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6435",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 3130293,
       "deezerLink": "https://www.deezer.com/track/3130293",
@@ -500,10 +584,12 @@
     "rank": 43,
     "artist": "Gorillaz",
     "title": "Feel Good Inc",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-103819",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 3129407,
       "deezerLink": "https://www.deezer.com/track/3129407",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8dd837db7a1c6acf7acb20e26c0452c3/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gorillaz",
       "deezerTitle": "Feel Good Inc."
     }
@@ -512,10 +598,12 @@
     "rank": 44,
     "artist": "Daddy Yankee",
     "title": "Gasolina",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-101044",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 1496038982,
-      "deezerLink": "https://www.deezer.com/track/1496038982",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d1e4ca93ba368ea43576b7b1c8e052a0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3165861441,
+      "deezerLink": "https://www.deezer.com/track/3165861441",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d386e42d5c4dfb603e958371b79869f5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Daddy Yankee",
       "deezerTitle": "Gasolina"
     }
@@ -523,12 +611,23 @@
   {
     "rank": 45,
     "artist": "DJ Tomekk feat. Fler intr. G-Hot",
-    "title": "Jump Jump (DJ Tomekk kommt)"
+    "title": "Jump Jump (DJ Tomekk kommt)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-118860",
+    "releaseYear": 2005,
+    "deezer": {
+      "deezerID": 3567538951,
+      "deezerLink": "https://www.deezer.com/track/3567538951",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b0c044619c91640566678e6ce8b44d4a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "DJ Tomekk",
+      "deezerTitle": "Jump Jump (Dj Tomekk kommt)"
+    }
   },
   {
     "rank": 46,
     "artist": "Kool Savas & Azad",
     "title": "All 4 One",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-108398",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 13236650,
       "deezerLink": "https://www.deezer.com/track/13236650",
@@ -541,6 +640,8 @@
     "rank": 47,
     "artist": "Snoop Dogg feat. Pharrell",
     "title": "Drop It Like It's Hot",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6383",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 429125352,
       "deezerLink": "https://www.deezer.com/track/429125352",
@@ -553,10 +654,12 @@
     "rank": 48,
     "artist": "Fettes Brot mit Finkenauer",
     "title": "An Tagen wie diesen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-99293",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 1758715947,
-      "deezerLink": "https://www.deezer.com/track/1758715947",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/53ac4c58ba7f34a62a720de634511b65/500x500-000000-80-0-0.jpg",
+      "deezerID": 3558285141,
+      "deezerLink": "https://www.deezer.com/track/3558285141",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45f1d3089ae9e6fb955a1af419a009d7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fettes Brot",
       "deezerTitle": "An Tagen wie diesen"
     }
@@ -565,6 +668,8 @@
     "rank": 49,
     "artist": "Fler",
     "title": "NDW 2005",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-108553",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 477097912,
       "deezerLink": "https://www.deezer.com/track/477097912",
@@ -577,10 +682,12 @@
     "rank": 50,
     "artist": "Sean Paul",
     "title": "We Be Burnin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-123941",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 662713,
       "deezerLink": "https://www.deezer.com/track/662713",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/acea01270d22ab9c87661dff9d98bfec/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b752ca9e808105c3455a95ef13583dcc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sean Paul",
       "deezerTitle": "We Be Burnin'"
     }
@@ -589,6 +696,8 @@
     "rank": 51,
     "artist": "Snoop Dogg feat. Charlie Wilson and Justin Timberlake",
     "title": "Signs",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-106653",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 2498752,
       "deezerLink": "https://www.deezer.com/track/2498752",
@@ -601,6 +710,8 @@
     "rank": 52,
     "artist": "Daniel Powter",
     "title": "Bad Day",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6499",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 6685848,
       "deezerLink": "https://www.deezer.com/track/6685848",
@@ -613,6 +724,8 @@
     "rank": 53,
     "artist": "Nelly feat. Tim McGraw",
     "title": "Over And Over",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6461",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 4678220,
       "deezerLink": "https://www.deezer.com/track/4678220",
@@ -625,6 +738,8 @@
     "rank": 54,
     "artist": "Depeche Mode",
     "title": "Precious",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-138951",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 68514262,
       "deezerLink": "https://www.deezer.com/track/68514262",
@@ -637,6 +752,8 @@
     "rank": 55,
     "artist": "Scooter",
     "title": "One (Always Hardcore)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6420",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 2168791347,
       "deezerLink": "https://www.deezer.com/track/2168791347",
@@ -649,6 +766,8 @@
     "rank": 56,
     "artist": "Jennifer Lopez",
     "title": "Get Right",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6470",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 596589,
       "deezerLink": "https://www.deezer.com/track/596589",
@@ -661,6 +780,8 @@
     "rank": 57,
     "artist": "Phantom Planet",
     "title": "California",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-11633",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 624206,
       "deezerLink": "https://www.deezer.com/track/624206",
@@ -673,6 +794,8 @@
     "rank": 58,
     "artist": "Nena",
     "title": "Willst du mit mir gehn",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-95907",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 576951402,
       "deezerLink": "https://www.deezer.com/track/576951402",
@@ -685,6 +808,8 @@
     "rank": 59,
     "artist": "Backstreet Boys",
     "title": "Incomplete",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-102740",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 15043431,
       "deezerLink": "https://www.deezer.com/track/15043431",
@@ -697,6 +822,8 @@
     "rank": 60,
     "artist": "Moby",
     "title": "Lift Me Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6484",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 143039822,
       "deezerLink": "https://www.deezer.com/track/143039822",
@@ -709,6 +836,8 @@
     "rank": 61,
     "artist": "Ich + Ich",
     "title": "Dienen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-130305",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1278138292,
       "deezerLink": "https://www.deezer.com/track/1278138292",
@@ -721,6 +850,8 @@
     "rank": 62,
     "artist": "Green Day",
     "title": "Boulevard Of Broken Dreams",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6425",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 6611231,
       "deezerLink": "https://www.deezer.com/track/6611231",
@@ -733,6 +864,8 @@
     "rank": 63,
     "artist": "Kelly Clarkson",
     "title": "Since U Been Gone",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-86163",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 62118993,
       "deezerLink": "https://www.deezer.com/track/62118993",
@@ -745,6 +878,8 @@
     "rank": 64,
     "artist": "Ciara feat. Missy Elliott",
     "title": "1, 2 Step",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6496",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 569213,
       "deezerLink": "https://www.deezer.com/track/569213",
@@ -757,6 +892,8 @@
     "rank": 65,
     "artist": "The Game feat. 50 Cent",
     "title": "How We Do",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6476",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 4586926,
       "deezerLink": "https://www.deezer.com/track/4586926",
@@ -769,10 +906,12 @@
     "rank": 66,
     "artist": "Annett Louisan",
     "title": "Das Spiel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6424",
+    "releaseYear": 2004,
     "deezer": {
-      "deezerID": 1148538212,
-      "deezerLink": "https://www.deezer.com/track/1148538212",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a8dade4284e35688ec99630e424178b5/500x500-000000-80-0-0.jpg",
+      "deezerID": 3321098501,
+      "deezerLink": "https://www.deezer.com/track/3321098501",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/038ce90e0f3dd5e47f82fc254a4c21fa/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Annett Louisan",
       "deezerTitle": "Das Spiel"
     }
@@ -781,6 +920,8 @@
     "rank": 67,
     "artist": "US5",
     "title": "Just Because Of You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-148110",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1542228442,
       "deezerLink": "https://www.deezer.com/track/1542228442",
@@ -793,6 +934,8 @@
     "rank": 68,
     "artist": "t.A.T.u.",
     "title": "All About Us",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-134545",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 884754,
       "deezerLink": "https://www.deezer.com/track/884754",
@@ -805,6 +948,8 @@
     "rank": 69,
     "artist": "Ben Moody feat. Anastacia",
     "title": "Everything Burns",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-114529",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 81693026,
       "deezerLink": "https://www.deezer.com/track/81693026",
@@ -817,9 +962,11 @@
     "rank": 70,
     "artist": "Maya Saban + Cosmo Klein",
     "title": "Das alles ändert nichts daran",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-116606",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 3341049,
-      "deezerLink": "https://www.deezer.com/track/3341049",
+      "deezerID": 3341050,
+      "deezerLink": "https://www.deezer.com/track/3341050",
       "cover": "https://cdn-images.dzcdn.net/images/cover/503b52e39f5a9d7f0c3ddc7be6284843/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Maya Saban",
       "deezerTitle": "Das alles ändert nichts daran"
@@ -829,6 +976,8 @@
     "rank": 71,
     "artist": "Eric Prydz",
     "title": "Call On Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6325",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 144203048,
       "deezerLink": "https://www.deezer.com/track/144203048",
@@ -841,10 +990,12 @@
     "rank": 72,
     "artist": "Speedy feat. Lumidee",
     "title": "Sientelo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6392",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1477939312,
       "deezerLink": "https://www.deezer.com/track/1477939312",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cdcea65e9b5b9b265368662b20a86134/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/df33c6621131c3e3d4f1845cdbfe2a5d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sir Speedy",
       "deezerTitle": "Sientelo"
     }
@@ -853,6 +1004,8 @@
     "rank": 73,
     "artist": "50 Cent",
     "title": "Just A Lil Bit",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-91509",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 145429546,
       "deezerLink": "https://www.deezer.com/track/145429546",
@@ -865,6 +1018,8 @@
     "rank": 74,
     "artist": "Eminem",
     "title": "Like Toy Soldiers",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6439",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1109736,
       "deezerLink": "https://www.deezer.com/track/1109736",
@@ -877,6 +1032,8 @@
     "rank": 75,
     "artist": "Kylie Minogue",
     "title": "I Believe In You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6393",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 3526705,
       "deezerLink": "https://www.deezer.com/track/3526705",
@@ -889,6 +1046,8 @@
     "rank": 76,
     "artist": "Schnappi und das Lama",
     "title": "Ein Lama in Yokohama",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-89849",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1451157742,
       "deezerLink": "https://www.deezer.com/track/1451157742",
@@ -901,18 +1060,22 @@
     "rank": 77,
     "artist": "Seeed feat. Cee-Lo Green",
     "title": "Aufstehn!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-133685",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 740507,
-      "deezerLink": "https://www.deezer.com/track/740507",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9255eeccde44283f422197f6cf0034e/500x500-000000-80-0-0.jpg",
+      "deezerID": 787000,
+      "deezerLink": "https://www.deezer.com/track/787000",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/194e52380958f9c109407e4e52e10dc5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Seeed",
-      "deezerTitle": "Aufstehn!"
+      "deezerTitle": "Aufstehn! (feat. CeeLo Green)"
     }
   },
   {
     "rank": 78,
     "artist": "Bon Jovi",
     "title": "Have A Nice Day",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-126929",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 60725649,
       "deezerLink": "https://www.deezer.com/track/60725649",
@@ -925,6 +1088,8 @@
     "rank": 79,
     "artist": "The Black Eyed Peas",
     "title": "Don't Phunk With My Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-102470",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 7375557,
       "deezerLink": "https://www.deezer.com/track/7375557",
@@ -937,6 +1102,8 @@
     "rank": 80,
     "artist": "The Game feat. 50 Cent",
     "title": "Hate It Or Love It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-85017",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 4586924,
       "deezerLink": "https://www.deezer.com/track/4586924",
@@ -949,6 +1116,8 @@
     "rank": 81,
     "artist": "Lukas Hilbert",
     "title": "Was ich an dir mag",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6367",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 776910,
       "deezerLink": "https://www.deezer.com/track/776910",
@@ -961,6 +1130,8 @@
     "rank": 82,
     "artist": "Juli",
     "title": "Geile Zeit",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6513",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 121926884,
       "deezerLink": "https://www.deezer.com/track/121926884",
@@ -973,6 +1144,8 @@
     "rank": 83,
     "artist": "50 Cent feat. Mobb Deep",
     "title": "Outta Control",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-143963",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 60722934,
       "deezerLink": "https://www.deezer.com/track/60722934",
@@ -985,6 +1158,8 @@
     "rank": 84,
     "artist": "Wir sind Helden",
     "title": "Nur ein Wort",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-100034",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 3137302,
       "deezerLink": "https://www.deezer.com/track/3137302",
@@ -997,6 +1172,8 @@
     "rank": 85,
     "artist": "Arash",
     "title": "Boro Boro",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6505",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 362291851,
       "deezerLink": "https://www.deezer.com/track/362291851",
@@ -1009,6 +1186,8 @@
     "rank": 86,
     "artist": "Raptile",
     "title": "Fight Back",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-141254",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 15412188,
       "deezerLink": "https://www.deezer.com/track/15412188",
@@ -1021,10 +1200,12 @@
     "rank": 87,
     "artist": "Gwen Stefani feat. Eve",
     "title": "Rich Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6497",
+    "releaseYear": 2004,
     "deezer": {
-      "deezerID": 810555252,
-      "deezerLink": "https://www.deezer.com/track/810555252",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/17d42a4311b9782c81fcd0d98569e1f1/500x500-000000-80-0-0.jpg",
+      "deezerID": 983449,
+      "deezerLink": "https://www.deezer.com/track/983449",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0dbe967d19dcf74cf7e2ad7e5c350bc4/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gwen Stefani",
       "deezerTitle": "Rich Girl"
     }
@@ -1033,10 +1214,12 @@
     "rank": 88,
     "artist": "Hot Banditoz",
     "title": "Shake Your Balla (1, 2, 3 Alarma)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-122154",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 2498563,
-      "deezerLink": "https://www.deezer.com/track/2498563",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0a082fde0fdf33ef9a59a2430ab59c96/500x500-000000-80-0-0.jpg",
+      "deezerID": 1163707,
+      "deezerLink": "https://www.deezer.com/track/1163707",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/26dd270f06579ef52d31657476d80d00/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Hot Banditoz",
       "deezerTitle": "Shake Your Balla (1,2,3 Alarma)"
     }
@@ -1045,6 +1228,8 @@
     "rank": 89,
     "artist": "Destiny's Child",
     "title": "Lose My Breath",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6349",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 581077,
       "deezerLink": "https://www.deezer.com/track/581077",
@@ -1057,6 +1242,8 @@
     "rank": 90,
     "artist": "Christina Stürmer",
     "title": "Engel fliegen einsam [2005]",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-134484",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 1125153,
       "deezerLink": "https://www.deezer.com/track/1125153",
@@ -1069,6 +1256,8 @@
     "rank": 91,
     "artist": "Bloodhound Gang",
     "title": "Foxtrot Uniform Charlie Kilo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-135529",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2300763,
       "deezerLink": "https://www.deezer.com/track/2300763",
@@ -1081,6 +1270,8 @@
     "rank": 92,
     "artist": "Mariah Carey",
     "title": "We Belong Together",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-103575",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2511970,
       "deezerLink": "https://www.deezer.com/track/2511970",
@@ -1093,6 +1284,8 @@
     "rank": 93,
     "artist": "Akon",
     "title": "Locked Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6450",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 78869175,
       "deezerLink": "https://www.deezer.com/track/78869175",
@@ -1105,6 +1298,8 @@
     "rank": 94,
     "artist": "Lindsay Lohan",
     "title": "Rumors",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-65644",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 124995494,
       "deezerLink": "https://www.deezer.com/track/124995494",
@@ -1117,6 +1312,8 @@
     "rank": 95,
     "artist": "Banaroo",
     "title": "Space Cowboy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-117851",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 2819815,
       "deezerLink": "https://www.deezer.com/track/2819815",
@@ -1129,30 +1326,36 @@
     "rank": 96,
     "artist": "Ciara feat. Ludacris",
     "title": "Oh",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-71761",
+    "releaseYear": 2004,
     "deezer": {
-      "deezerID": 62738102,
-      "deezerLink": "https://www.deezer.com/track/62738102",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3a1cd371928f34834cc6335c4d8d315a/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Ciara feat. Ludacris",
-      "deezerTitle": "Oh"
+      "deezerID": 569201,
+      "deezerLink": "https://www.deezer.com/track/569201",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6617b0742476083a5d507097b1f15534/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Ciara",
+      "deezerTitle": "Oh (feat. Ludacris)"
     }
   },
   {
     "rank": 97,
     "artist": "Pachanga",
     "title": "Loco",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-117210",
+    "releaseYear": 2005,
     "deezer": {
-      "deezerID": 518817542,
-      "deezerLink": "https://www.deezer.com/track/518817542",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/484799b2112f2daa7ea9bd4793666bef/500x500-000000-80-0-0.jpg",
+      "deezerID": 518817652,
+      "deezerLink": "https://www.deezer.com/track/518817652",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ea38947dc6792b0879ea7597b4aee4e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pachanga",
-      "deezerTitle": "Loco"
+      "deezerTitle": "Loco (Pachanga Rmx 2005)"
     }
   },
   {
     "rank": 98,
     "artist": "Jessica Simpson",
     "title": "These Boots Are Made For Walkin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-122907",
+    "releaseYear": 2005,
     "deezer": {
       "deezerID": 15087390,
       "deezerLink": "https://www.deezer.com/track/15087390",
@@ -1165,6 +1368,8 @@
     "rank": 99,
     "artist": "Juli",
     "title": "Perfekte Welle",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6343",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 121926890,
       "deezerLink": "https://www.deezer.com/track/121926890",
@@ -1177,6 +1382,8 @@
     "rank": 100,
     "artist": "Apocalyptica feat. Ville Valo and Lauri Ylönen",
     "title": "Bittersweet",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6385",
+    "releaseYear": 2004,
     "deezer": {
       "deezerID": 1913727077,
       "deezerLink": "https://www.deezer.com/track/1913727077",

@@ -3,10 +3,12 @@
     "rank": 1,
     "artist": "No Angels",
     "title": "Daylight In Your Eyes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4606",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1152569352,
       "deezerLink": "https://www.deezer.com/track/1152569352",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8ed2a7bcabfd17cb6172d5fe9609b2f/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fddd269dcb5f7675dafede5d0f232b8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "No Angels",
       "deezerTitle": "Daylight in Your Eyes"
     }
@@ -15,6 +17,8 @@
     "rank": 2,
     "artist": "Enya",
     "title": "Only Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4890",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 775117,
       "deezerLink": "https://www.deezer.com/track/775117",
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Safri Duo",
     "title": "Played-A-Live (The Bongo Song)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4612",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 1399345572,
       "deezerLink": "https://www.deezer.com/track/1399345572",
@@ -39,6 +45,8 @@
     "rank": 4,
     "artist": "Kylie Minogue",
     "title": "Can't Get You Out Of My Head",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4877",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3098100,
       "deezerLink": "https://www.deezer.com/track/3098100",
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "Crazy Town",
     "title": "Butterfly",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4632",
+    "releaseYear": 1999,
     "deezer": {
       "deezerID": 13144808,
       "deezerLink": "https://www.deezer.com/track/13144808",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Atomic Kitten",
     "title": "Whole Again",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4631",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3240483,
       "deezerLink": "https://www.deezer.com/track/3240483",
@@ -75,6 +87,8 @@
     "rank": 7,
     "artist": "Wheatus",
     "title": "Teenage Dirtbag",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4629",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 870041,
       "deezerLink": "https://www.deezer.com/track/870041",
@@ -87,6 +101,8 @@
     "rank": 8,
     "artist": "Uncle Kracker",
     "title": "Follow Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4788",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3819653,
       "deezerLink": "https://www.deezer.com/track/3819653",
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "Shaggy feat. Rayvon",
     "title": "Angel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4737",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 2122528,
       "deezerLink": "https://www.deezer.com/track/2122528",
@@ -111,22 +129,26 @@
     "rank": 10,
     "artist": "Hermes House Band",
     "title": "Country Roads",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4805",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 104526784,
-      "deezerLink": "https://www.deezer.com/track/104526784",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/138a3bae0ed652e1734802b3e0e17d45/500x500-000000-80-0-0.jpg",
+      "deezerID": 2911274451,
+      "deezerLink": "https://www.deezer.com/track/2911274451",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e292b3c122389505f7a0d55cae3a0a06/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Hermes House Band",
-      "deezerTitle": "Country Roads (Radio Version)"
+      "deezerTitle": "Country Roads"
     }
   },
   {
     "rank": 11,
     "artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
     "title": "Lady Marmalade",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4774",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 1750207697,
-      "deezerLink": "https://www.deezer.com/track/1750207697",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bbcfffd10c57921d1455936ae954e345/500x500-000000-80-0-0.jpg",
+      "deezerID": 2438245,
+      "deezerLink": "https://www.deezer.com/track/2438245",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc695e1eabfd0dd3d6a789c57176e3db/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Christina Aguilera",
       "deezerTitle": "Lady Marmalade"
     }
@@ -135,6 +157,8 @@
     "rank": 12,
     "artist": "Outkast",
     "title": "Ms. Jackson",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4580",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 963042,
       "deezerLink": "https://www.deezer.com/track/963042",
@@ -147,6 +171,8 @@
     "rank": 13,
     "artist": "No Angels",
     "title": "There Must Be An Angel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4836",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1152867062,
       "deezerLink": "https://www.deezer.com/track/1152867062",
@@ -159,6 +185,8 @@
     "rank": 14,
     "artist": "Gorillaz",
     "title": "Clint Eastwood",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4672",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3100444,
       "deezerLink": "https://www.deezer.com/track/3100444",
@@ -171,18 +199,22 @@
     "rank": 15,
     "artist": "Sylver",
     "title": "Turn The Tide",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4693",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 135335112,
       "deezerLink": "https://www.deezer.com/track/135335112",
       "cover": "https://cdn-images.dzcdn.net/images/cover/833d330160860fc8dca9c35776695642/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sylver",
-      "deezerTitle": "Turn the Tide (Original Mix)"
+      "deezerTitle": "Turn the Tide"
     }
   },
   {
     "rank": 16,
     "artist": "Alicia Keys",
     "title": "Fallin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4860",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 959183,
       "deezerLink": "https://www.deezer.com/track/959183",
@@ -195,18 +227,22 @@
     "rank": 17,
     "artist": "Dante Thomas feat. Pras",
     "title": "Miss California",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4756",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 368705481,
-      "deezerLink": "https://www.deezer.com/track/368705481",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e7001559164b20d486115986f508ad49/500x500-000000-80-0-0.jpg",
+      "deezerID": 1388615962,
+      "deezerLink": "https://www.deezer.com/track/1388615962",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6256b776886a23d2b05e9ca4fdcbf3c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Dante Thomas",
-      "deezerTitle": "Miss California"
+      "deezerTitle": "Miss California (Radio Version)"
     }
   },
   {
     "rank": 18,
     "artist": "Eminem feat. Dido",
     "title": "Stan",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4528",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 1109730,
       "deezerLink": "https://www.deezer.com/track/1109730",
@@ -219,6 +255,8 @@
     "rank": 19,
     "artist": "Sarah Connor feat. TQ",
     "title": "Let's Get Back To Bed - Boy!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4717",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1590299322,
       "deezerLink": "https://www.deezer.com/track/1590299322",
@@ -231,6 +269,8 @@
     "rank": 20,
     "artist": "Shaggy feat. RikRok",
     "title": "It Wasn't Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4622",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 2122532,
       "deezerLink": "https://www.deezer.com/track/2122532",
@@ -243,6 +283,8 @@
     "rank": 21,
     "artist": "Right Said Fred",
     "title": "You're My Mate",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4745",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1117457852,
       "deezerLink": "https://www.deezer.com/track/1117457852",
@@ -255,6 +297,8 @@
     "rank": 22,
     "artist": "Mittermeier vs. Guano Babes",
     "title": "Kumba Yo!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4658",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 15478125,
       "deezerLink": "https://www.deezer.com/track/15478125",
@@ -267,6 +311,8 @@
     "rank": 23,
     "artist": "Sarah Connor",
     "title": "From Sarah With Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4943",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1590299362,
       "deezerLink": "https://www.deezer.com/track/1590299362",
@@ -279,10 +325,12 @@
     "rank": 24,
     "artist": "Gigi D'Agostino",
     "title": "La passion",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4521",
+    "releaseYear": 1999,
     "deezer": {
-      "deezerID": 61751496,
-      "deezerLink": "https://www.deezer.com/track/61751496",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/194580cbd1b8887d4dc0bff0afe91a8f/500x500-000000-80-0-0.jpg",
+      "deezerID": 128297773,
+      "deezerLink": "https://www.deezer.com/track/128297773",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/424b0c45c9b5ca8261b9810462111b19/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gigi D'Agostino",
       "deezerTitle": "La Passion"
     }
@@ -291,6 +339,8 @@
     "rank": 25,
     "artist": "Alcazar",
     "title": "Crying At The Discoteque",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4787",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 603418,
       "deezerLink": "https://www.deezer.com/track/603418",
@@ -303,6 +353,8 @@
     "rank": 26,
     "artist": "Afroman",
     "title": "Because I Got High",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4889",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 139102115,
       "deezerLink": "https://www.deezer.com/track/139102115",
@@ -315,6 +367,8 @@
     "rank": 27,
     "artist": "Geri Halliwell",
     "title": "It's Raining Men",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4697",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3472539,
       "deezerLink": "https://www.deezer.com/track/3472539",
@@ -326,12 +380,16 @@
   {
     "rank": 28,
     "artist": "Lil' Kim feat. Phil Collins",
-    "title": "In The Air Tonite"
+    "title": "In The Air Tonite",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4815",
+    "releaseYear": 2001
   },
   {
     "rank": 29,
     "artist": "Christian",
     "title": "Es ist geil ein Arschloch zu sein",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4530",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 1010943,
       "deezerLink": "https://www.deezer.com/track/1010943",
@@ -344,10 +402,12 @@
     "rank": 30,
     "artist": "Daft Punk",
     "title": "One More Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4514",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3135553,
       "deezerLink": "https://www.deezer.com/track/3135553",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/93b50f6ab0f44d53f8aee5ad207271ee/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Daft Punk",
       "deezerTitle": "One More Time"
     }
@@ -356,10 +416,12 @@
     "rank": 31,
     "artist": "Brandy and Ray J",
     "title": "Another Day In Paradise",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4645",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 714954,
       "deezerLink": "https://www.deezer.com/track/714954",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f8fc36d4630624087603352ee8528e01/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/28c103460585b819f89c4a1a33f60590/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Brandy",
       "deezerTitle": "Another Day in Paradise"
     }
@@ -368,6 +430,8 @@
     "rank": 32,
     "artist": "Enrique Iglesias",
     "title": "Hero",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4913",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 2276253,
       "deezerLink": "https://www.deezer.com/track/2276253",
@@ -380,6 +444,8 @@
     "rank": 33,
     "artist": "Robbie Williams",
     "title": "Eternity",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4797",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3290522,
       "deezerLink": "https://www.deezer.com/track/3290522",
@@ -392,6 +458,8 @@
     "rank": 34,
     "artist": "LeAnn Rimes",
     "title": "Can't Fight The Moonlight",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4485",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 75779409,
       "deezerLink": "https://www.deezer.com/track/75779409",
@@ -404,10 +472,12 @@
     "rank": 35,
     "artist": "Daddy DJ",
     "title": "Daddy DJ",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4738",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 696667752,
       "deezerLink": "https://www.deezer.com/track/696667752",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1ca031821f2c96aecd92fd85e2026bbd/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/21f99da6ea8ee600b7d1aeb01922f9d6/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Daddy DJ",
       "deezerTitle": "Daddy DJ"
     }
@@ -416,6 +486,8 @@
     "rank": 36,
     "artist": "Gigi D'Agostino",
     "title": "L'amour toujours",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4910",
+    "releaseYear": 1999,
     "deezer": {
       "deezerID": 2076053797,
       "deezerLink": "https://www.deezer.com/track/2076053797",
@@ -428,6 +500,8 @@
     "rank": 37,
     "artist": "Glashaus",
     "title": "Wenn das Liebe ist",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4642",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 124610086,
       "deezerLink": "https://www.deezer.com/track/124610086",
@@ -440,10 +514,12 @@
     "rank": 38,
     "artist": "Alizée",
     "title": "Moi... Lolita",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4377",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 506372122,
       "deezerLink": "https://www.deezer.com/track/506372122",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/44bd636ff3a52e085c5e96944141d867/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4e7ac0be67df8ee745ff4a0aedf23d4d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Alizée",
       "deezerTitle": "Moi... Lolita"
     }
@@ -451,12 +527,16 @@
   {
     "rank": 39,
     "artist": "Walter",
-    "title": "Ich geh' nicht ohne dich"
+    "title": "Ich geh' nicht ohne dich",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4567",
+    "releaseYear": 2000
   },
   {
     "rank": 40,
     "artist": "Wu-Tang Clan",
     "title": "Gravel Pit",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4510",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 2466305,
       "deezerLink": "https://www.deezer.com/track/2466305",
@@ -469,6 +549,8 @@
     "rank": 41,
     "artist": "Rammstein",
     "title": "Sonne",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4608",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 14381638,
       "deezerLink": "https://www.deezer.com/track/14381638",
@@ -481,6 +563,8 @@
     "rank": 42,
     "artist": "Samy Deluxe",
     "title": "Weck mich auf",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4869",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3283333,
       "deezerLink": "https://www.deezer.com/track/3283333",
@@ -493,6 +577,8 @@
     "rank": 43,
     "artist": "Alien Ant Farm",
     "title": "Smooth Criminal",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4893",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1108061,
       "deezerLink": "https://www.deezer.com/track/1108061",
@@ -505,6 +591,8 @@
     "rank": 44,
     "artist": "Atomic Kitten",
     "title": "Eternal Flame",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4811",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3387859,
       "deezerLink": "https://www.deezer.com/track/3387859",
@@ -516,17 +604,30 @@
   {
     "rank": 45,
     "artist": "Brothers Keepers",
-    "title": "Adriano (Letzte Warnung)"
+    "title": "Adriano (Letzte Warnung)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4810",
+    "releaseYear": 2001
   },
   {
     "rank": 46,
     "artist": "DJs@Work",
-    "title": "Someday..."
+    "title": "Someday...",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4824",
+    "releaseYear": 2001,
+    "deezer": {
+      "deezerID": 1984751137,
+      "deezerLink": "https://www.deezer.com/track/1984751137",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d17ecef97679e0334d600d911e4cdf91/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "DJs@Work",
+      "deezerTitle": "Someday"
+    }
   },
   {
     "rank": 47,
     "artist": "Linkin Park",
     "title": "Crawling",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4762",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 676171,
       "deezerLink": "https://www.deezer.com/track/676171",
@@ -539,6 +640,8 @@
     "rank": 48,
     "artist": "Sugababes",
     "title": "Overload",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4511",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 437462422,
       "deezerLink": "https://www.deezer.com/track/437462422",
@@ -551,6 +654,8 @@
     "rank": 49,
     "artist": "Faith Hill",
     "title": "There You'll Be",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4764",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3598718,
       "deezerLink": "https://www.deezer.com/track/3598718",
@@ -563,6 +668,8 @@
     "rank": 50,
     "artist": "Westlife",
     "title": "Uptown Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4681",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 391575892,
       "deezerLink": "https://www.deezer.com/track/391575892",
@@ -575,10 +682,12 @@
     "rank": 51,
     "artist": "atb",
     "title": "Let U Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4720",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 61676333,
       "deezerLink": "https://www.deezer.com/track/61676333",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b1f1fd79e3585524f16ce1625898a931/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0dbf740452c99b996ce6954ba11f68eb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "ATB",
       "deezerTitle": "Let U Go"
     }
@@ -587,18 +696,22 @@
     "rank": 52,
     "artist": "Wyclef Jean",
     "title": "Perfect Gentleman",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4765",
+    "releaseYear": 2000,
     "deezer": {
-      "deezerID": 15852112,
-      "deezerLink": "https://www.deezer.com/track/15852112",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c9e877be0e40e1a44032069864c9ff5f/500x500-000000-80-0-0.jpg",
+      "deezerID": 605281,
+      "deezerLink": "https://www.deezer.com/track/605281",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ecc59f47a8994ef8064e8cc5f3143f34/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wyclef Jean",
-      "deezerTitle": "Perfect Gentleman"
+      "deezerTitle": "Perfect Gentleman (feat. Hope)"
     }
   },
   {
     "rank": 53,
     "artist": "Baha Men",
     "title": "Who Let The Dogs Out",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4553",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3389258,
       "deezerLink": "https://www.deezer.com/track/3389258",
@@ -611,6 +724,8 @@
     "rank": 54,
     "artist": "Bosson",
     "title": "One In A Million",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4669",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3403075,
       "deezerLink": "https://www.deezer.com/track/3403075",
@@ -623,6 +738,8 @@
     "rank": 55,
     "artist": "Dario G",
     "title": "Dream To Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4660",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 2322530,
       "deezerLink": "https://www.deezer.com/track/2322530",
@@ -635,6 +752,8 @@
     "rank": 56,
     "artist": "DJ Ötzi",
     "title": "Hey Baby (uhh, ahh)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7635",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 15319250,
       "deezerLink": "https://www.deezer.com/track/15319250",
@@ -647,18 +766,22 @@
     "rank": 57,
     "artist": "Lil Bow Wow",
     "title": "Bow Wow (That's My Name)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4726",
+    "releaseYear": 2000,
     "deezer": {
-      "deezerID": 20838831,
-      "deezerLink": "https://www.deezer.com/track/20838831",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7b5a5674afc06ac4372d2743f6eabc0c/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Lil' Bow Wow",
-      "deezerTitle": "Bow Wow"
+      "deezerID": 863427,
+      "deezerLink": "https://www.deezer.com/track/863427",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c096d9d7d254f700dd179d0bee4cbe04/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bow Wow",
+      "deezerTitle": "Bow Wow (That's My Name) (feat. Snoop Dogg)"
     }
   },
   {
     "rank": 58,
     "artist": "Ricky Martin with Christina Aguilera",
     "title": "Nobody Wants To Be Lonely",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4607",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 13111374,
       "deezerLink": "https://www.deezer.com/track/13111374",
@@ -671,6 +794,8 @@
     "rank": 59,
     "artist": "Xzibit",
     "title": "X",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4600",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 532268,
       "deezerLink": "https://www.deezer.com/track/532268",
@@ -683,18 +808,22 @@
     "rank": 60,
     "artist": "Public Domain",
     "title": "Operation Blade (Bass In The Place London...)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4589",
+    "releaseYear": 2000,
     "deezer": {
-      "deezerID": 12374985,
-      "deezerLink": "https://www.deezer.com/track/12374985",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b2f55623870bb1c89e7df5a90a0d57fa/500x500-000000-80-0-0.jpg",
+      "deezerID": 69202023,
+      "deezerLink": "https://www.deezer.com/track/69202023",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/634ef6abb0c52613e57380db18dd4e0b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Public Domain",
-      "deezerTitle": "Operation Blade"
+      "deezerTitle": "Operation Blade (7\" Radio Edit)"
     }
   },
   {
     "rank": 61,
     "artist": "Jennifer Lopez",
     "title": "Love Don't Cost A Thing",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4546",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 831175,
       "deezerLink": "https://www.deezer.com/track/831175",
@@ -707,10 +836,12 @@
     "rank": 62,
     "artist": "Barthezz",
     "title": "On The Move",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4719",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 1790856007,
-      "deezerLink": "https://www.deezer.com/track/1790856007",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/344f8e40bd6714c600a5118bae234b48/500x500-000000-80-0-0.jpg",
+      "deezerID": 568758632,
+      "deezerLink": "https://www.deezer.com/track/568758632",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/de8963982bf9db7c0abdb5c41d41d10b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Barthezz",
       "deezerTitle": "On The Move"
     }
@@ -719,6 +850,8 @@
     "rank": 63,
     "artist": "Die Prinzen",
     "title": "Deutschland",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7397",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 2200821107,
       "deezerLink": "https://www.deezer.com/track/2200821107",
@@ -731,23 +864,27 @@
     "rank": 64,
     "artist": "Modern Talking",
     "title": "Win The Race",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4623",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 993455,
-      "deezerLink": "https://www.deezer.com/track/993455",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6f9b45995b2bea55d3c4837214b13b42/500x500-000000-80-0-0.jpg",
+      "deezerID": 13230960,
+      "deezerLink": "https://www.deezer.com/track/13230960",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/981271bd3e7d0427124dee2288c89b4e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Modern Talking",
-      "deezerTitle": "Win the Race"
+      "deezerTitle": "Win The Race"
     }
   },
   {
     "rank": 65,
     "artist": "Jeanette",
     "title": "How It's Got To Be",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4924",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 950111472,
-      "deezerLink": "https://www.deezer.com/track/950111472",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fbbba65ae25c7a02d3f3a359bd2aaf78/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Jeanette",
+      "deezerID": 3233762601,
+      "deezerLink": "https://www.deezer.com/track/3233762601",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/70e680f2b53c6127e55c8e03d2155310/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Jeanette Biedermann",
       "deezerTitle": "How It's Got To Be"
     }
   },
@@ -755,6 +892,8 @@
     "rank": 66,
     "artist": "Niemann",
     "title": "Im Osten",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-26207",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 15250875,
       "deezerLink": "https://www.deezer.com/track/15250875",
@@ -767,10 +906,12 @@
     "rank": 67,
     "artist": "Fettes Brot",
     "title": "Schwule Mädchen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4855",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 2096896587,
-      "deezerLink": "https://www.deezer.com/track/2096896587",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/55200530c07f2057d9a76586be7fbc1a/500x500-000000-80-0-0.jpg",
+      "deezerID": 3559371391,
+      "deezerLink": "https://www.deezer.com/track/3559371391",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e466778e640413c4c454852a38f7c403/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fettes Brot",
       "deezerTitle": "Schwule Mädchen"
     }
@@ -779,10 +920,12 @@
     "rank": 68,
     "artist": "DJ BoBo & Irene Cara",
     "title": "What A Feeling",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4569",
+    "releaseYear": 2000,
     "deezer": {
-      "deezerID": 918084852,
-      "deezerLink": "https://www.deezer.com/track/918084852",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bc4f2f755b476d4f60f938d67fb48924/500x500-000000-80-0-0.jpg",
+      "deezerID": 918239282,
+      "deezerLink": "https://www.deezer.com/track/918239282",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f67251412c6667beb51d3b4c60f2a20/500x500-000000-80-0-0.jpg",
       "deezerArtist": "DJ BoBo",
       "deezerTitle": "What a Feeling"
     }
@@ -791,10 +934,12 @@
     "rank": 69,
     "artist": "Eve feat. Gwen Stefani",
     "title": "Let Me Blow Ya Mind",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4842",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 2457787,
-      "deezerLink": "https://www.deezer.com/track/2457787",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/905808cb13d3fa8c7dea56d59e563f10/500x500-000000-80-0-0.jpg",
+      "deezerID": 1089861,
+      "deezerLink": "https://www.deezer.com/track/1089861",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6fbd16f5088fc0d10f88b4bcd498002/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Eve",
       "deezerTitle": "Let Me Blow Ya Mind"
     }
@@ -803,6 +948,8 @@
     "rank": 70,
     "artist": "Mary J Blige",
     "title": "Family Affair",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4841",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1161679,
       "deezerLink": "https://www.deezer.com/track/1161679",
@@ -815,6 +962,8 @@
     "rank": 71,
     "artist": "Scooter",
     "title": "Posse - I Need You On The Floor",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4743",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 2168791397,
       "deezerLink": "https://www.deezer.com/track/2168791397",
@@ -827,6 +976,8 @@
     "rank": 72,
     "artist": "Wyclef Jean feat. Mary J Blige",
     "title": "911",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4515",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 863369,
       "deezerLink": "https://www.deezer.com/track/863369",
@@ -839,6 +990,8 @@
     "rank": 73,
     "artist": "Destiny's Child",
     "title": "Survivor",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4675",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 5817089,
       "deezerLink": "https://www.deezer.com/track/5817089",
@@ -851,18 +1004,22 @@
     "rank": 74,
     "artist": "R. Kelly feat. Jay-Z and Boo & Gotti",
     "title": "Fiesta (Remix)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4757",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 629328,
-      "deezerLink": "https://www.deezer.com/track/629328",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc7637895e982429854e76d654fbf0fc/500x500-000000-80-0-0.jpg",
+      "deezerID": 71481393,
+      "deezerLink": "https://www.deezer.com/track/71481393",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/953d0d09a35af90735caab67b83c9a6d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "R. Kelly",
-      "deezerTitle": "Fiesta (feat. Jay-Z, Boo & Gotti)"
+      "deezerTitle": "Fiesta"
     }
   },
   {
     "rank": 75,
     "artist": "O-Town",
     "title": "All Or Nothing",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4840",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 15642770,
       "deezerLink": "https://www.deezer.com/track/15642770",
@@ -875,6 +1032,8 @@
     "rank": 76,
     "artist": "P. Diddy, Black Rob & Mark Curry",
     "title": "Bad Boy For Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4881",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 700383,
       "deezerLink": "https://www.deezer.com/track/700383",
@@ -887,6 +1046,8 @@
     "rank": 77,
     "artist": "Bro'Sis",
     "title": "I Believe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4993",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1152760942,
       "deezerLink": "https://www.deezer.com/track/1152760942",
@@ -899,6 +1060,8 @@
     "rank": 78,
     "artist": "Titiyo",
     "title": "Come Along",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4778",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 19271551,
       "deezerLink": "https://www.deezer.com/track/19271551",
@@ -911,6 +1074,8 @@
     "rank": 79,
     "artist": "Lasgo",
     "title": "Something",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4936",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 60831419,
       "deezerLink": "https://www.deezer.com/track/60831419",
@@ -923,6 +1088,8 @@
     "rank": 80,
     "artist": "Jennifer Lopez",
     "title": "Ain't It Funny",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4801",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 626006,
       "deezerLink": "https://www.deezer.com/track/626006",
@@ -935,6 +1102,8 @@
     "rank": 81,
     "artist": "A*Teens",
     "title": "Upside Down",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4527",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 2290028,
       "deezerLink": "https://www.deezer.com/track/2290028",
@@ -947,6 +1116,8 @@
     "rank": 82,
     "artist": "R. Kelly",
     "title": "The Storm Is Over Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4614",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 71481407,
       "deezerLink": "https://www.deezer.com/track/71481407",
@@ -959,6 +1130,8 @@
     "rank": 83,
     "artist": "Limp Bizkit",
     "title": "Rollin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4592",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 104011168,
       "deezerLink": "https://www.deezer.com/track/104011168",
@@ -971,6 +1144,8 @@
     "rank": 84,
     "artist": "Dido",
     "title": "Here With Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4601",
+    "releaseYear": 1999,
     "deezer": {
       "deezerID": 1457456102,
       "deezerLink": "https://www.deezer.com/track/1457456102",
@@ -983,6 +1158,8 @@
     "rank": 85,
     "artist": "Die Ärzte",
     "title": "Manchmal haben Frauen...",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4538",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 1006163702,
       "deezerLink": "https://www.deezer.com/track/1006163702",
@@ -995,10 +1172,12 @@
     "rank": 86,
     "artist": "No Angels",
     "title": "Rivers Of Joy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4698",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1152569402,
       "deezerLink": "https://www.deezer.com/track/1152569402",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8ed2a7bcabfd17cb6172d5fe9609b2f/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fddd269dcb5f7675dafede5d0f232b8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "No Angels",
       "deezerTitle": "Rivers of Joy"
     }
@@ -1007,6 +1186,8 @@
     "rank": 87,
     "artist": "Jam & Spoon feat. Rea",
     "title": "Be.Angeled",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4725",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 7395351,
       "deezerLink": "https://www.deezer.com/track/7395351",
@@ -1019,6 +1200,8 @@
     "rank": 88,
     "artist": "Robbie Williams",
     "title": "Supreme",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4547",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3102420,
       "deezerLink": "https://www.deezer.com/track/3102420",
@@ -1031,6 +1214,8 @@
     "rank": 89,
     "artist": "Melanie Thornton",
     "title": "Love How You Love Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4575",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 1163086,
       "deezerLink": "https://www.deezer.com/track/1163086",
@@ -1043,6 +1228,8 @@
     "rank": 90,
     "artist": "Brooklyn Bounce",
     "title": "Bass, Beats & Melody",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4534",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 15263221,
       "deezerLink": "https://www.deezer.com/track/15263221",
@@ -1055,6 +1242,8 @@
     "rank": 91,
     "artist": "S Club 7",
     "title": "Don't Stop Movin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4802",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 98981562,
       "deezerLink": "https://www.deezer.com/track/98981562",
@@ -1067,18 +1256,22 @@
     "rank": 92,
     "artist": "Charly Lownoise & Mental Theo present Starsplash",
     "title": "Wonderful Days",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4959",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 128809365,
-      "deezerLink": "https://www.deezer.com/track/128809365",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e05e2ad8d1ffc0d36afa18c840369715/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Charly Lownoise & Mental Theo",
-      "deezerTitle": "Wonderfull Days"
+      "deezerID": 2830940682,
+      "deezerLink": "https://www.deezer.com/track/2830940682",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/77bad4d01d76d2046b21308b7fa175f9/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Charly Lownoise",
+      "deezerTitle": "Wonderful Days"
     }
   },
   {
     "rank": 93,
     "artist": "M.O.P.",
     "title": "Ante Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7847",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 582212,
       "deezerLink": "https://www.deezer.com/track/582212",
@@ -1091,6 +1284,8 @@
     "rank": 94,
     "artist": "Linkin Park",
     "title": "In The End",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4908",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 676183,
       "deezerLink": "https://www.deezer.com/track/676183",
@@ -1103,6 +1298,8 @@
     "rank": 95,
     "artist": "Sofaplanet",
     "title": "Liebficken",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4691",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 2546110362,
       "deezerLink": "https://www.deezer.com/track/2546110362",
@@ -1115,6 +1312,8 @@
     "rank": 96,
     "artist": "Debelah Morgan",
     "title": "Dance With Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4615",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 3875181,
       "deezerLink": "https://www.deezer.com/track/3875181",
@@ -1127,6 +1326,8 @@
     "rank": 97,
     "artist": "Sylver",
     "title": "Forever In Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4822",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 135335118,
       "deezerLink": "https://www.deezer.com/track/135335118",
@@ -1139,6 +1340,8 @@
     "rank": 98,
     "artist": "Blue",
     "title": "All Rise",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4819",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 3152219,
       "deezerLink": "https://www.deezer.com/track/3152219",
@@ -1151,10 +1354,12 @@
     "rank": 99,
     "artist": "Millane Fernandez",
     "title": "Boom Boom",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4695",
+    "releaseYear": 2001,
     "deezer": {
-      "deezerID": 4096742,
-      "deezerLink": "https://www.deezer.com/track/4096742",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f899cd8cd39b5db3ce44fe3c08e8b42/500x500-000000-80-0-0.jpg",
+      "deezerID": 1017550,
+      "deezerLink": "https://www.deezer.com/track/1017550",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2bb9ec0e23466e266039c57c9f61da61/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Millane Fernandez",
       "deezerTitle": "Boom Boom"
     }
@@ -1163,10 +1368,12 @@
     "rank": 100,
     "artist": "OPM",
     "title": "Heaven Is A Halfpipe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-4647",
+    "releaseYear": 2000,
     "deezer": {
       "deezerID": 4086982,
       "deezerLink": "https://www.deezer.com/track/4086982",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8600ad1ca9a86b139519354d2d061ab7/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3bcb9b6bd3cdf46348ef33acdc60ec8c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "OPM",
       "deezerTitle": "Heaven Is a Halfpipe (If I Die)"
     }

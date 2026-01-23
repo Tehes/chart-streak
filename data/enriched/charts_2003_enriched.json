@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Deutschland sucht den Superstar",
     "title": "We Have A Dream",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5440",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1012509,
       "deezerLink": "https://www.deezer.com/track/1012509",
@@ -15,10 +17,12 @@
     "rank": 2,
     "artist": "Alexander",
     "title": "Take Me Tonight",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5529",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 73744443,
-      "deezerLink": "https://www.deezer.com/track/73744443",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d1ab77b2b001f9fef3f62b3ead784282/500x500-000000-80-0-0.jpg",
+      "deezerID": 631806,
+      "deezerLink": "https://www.deezer.com/track/631806",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/08299aedeca50b9943866d8c70c5f265/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Alexander Klaws",
       "deezerTitle": "Take Me Tonight"
     }
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Yvonne Catterfeld",
     "title": "Für dich",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5606",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 633508,
       "deezerLink": "https://www.deezer.com/track/633508",
@@ -39,18 +45,22 @@
     "rank": 4,
     "artist": "RZA feat. Xavier Naidoo",
     "title": "Ich kenne nichts (das so schön ist wie du)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5621",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2008975637,
       "deezerLink": "https://www.deezer.com/track/2008975637",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e5d3867ae914a5b17cb642b30244a29f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Xavier Naidoo",
-      "deezerTitle": "Ich kenne nichts (das so schön ist wie du)"
+      "deezerTitle": "Ich kenne nichts (das so schön ist wie du) (Radio-Edit)"
     }
   },
   {
     "rank": 5,
     "artist": "t.A.T.u.",
     "title": "All The Things She Said",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5360",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 884756,
       "deezerLink": "https://www.deezer.com/track/884756",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Eminem",
     "title": "Lose Yourself",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5417",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1109731,
       "deezerLink": "https://www.deezer.com/track/1109731",
@@ -75,6 +87,8 @@
     "rank": 7,
     "artist": "Outlandish",
     "title": "Aicha",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5650",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 13178654,
       "deezerLink": "https://www.deezer.com/track/13178654",
@@ -87,6 +101,8 @@
     "rank": 8,
     "artist": "The Black Eyed Peas",
     "title": "Where Is The Love?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5750",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1697351967,
       "deezerLink": "https://www.deezer.com/track/1697351967",
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "Lumidee",
     "title": "Never Leave You (Uh-Oooh)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5728",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2157406,
       "deezerLink": "https://www.deezer.com/track/2157406",
@@ -111,10 +129,12 @@
     "rank": 10,
     "artist": "The Rasmus",
     "title": "In The Shadows",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5705",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 61970733,
-      "deezerLink": "https://www.deezer.com/track/61970733",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d06a6ca2546f2d4b51e5bdd779995dd2/500x500-000000-80-0-0.jpg",
+      "deezerID": 61914316,
+      "deezerLink": "https://www.deezer.com/track/61914316",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6552cfa639f0bf22e13d980c1e6ebc7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Rasmus",
       "deezerTitle": "In the Shadows"
     }
@@ -123,6 +143,8 @@
     "rank": 11,
     "artist": "Evanescence",
     "title": "Bring Me To Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5574",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 80274512,
       "deezerLink": "https://www.deezer.com/track/80274512",
@@ -135,6 +157,8 @@
     "rank": 12,
     "artist": "Dido",
     "title": "White Flag",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5764",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2654326,
       "deezerLink": "https://www.deezer.com/track/2654326",
@@ -147,18 +171,15 @@
     "rank": 13,
     "artist": "Buddy vs. DJ The Wave",
     "title": "Ab in den Süden",
-    "deezer": {
-      "deezerID": 2957207011,
-      "deezerLink": "https://www.deezer.com/track/2957207011",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6d07d5b90077f755cd47f01391b820aa/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Buddy Poke",
-      "deezerTitle": "Ab in Den Süden"
-    }
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5737",
+    "releaseYear": 2001
   },
   {
     "rank": 14,
     "artist": "Alexander",
     "title": "Free Like The Wind",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5845",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 78475986,
       "deezerLink": "https://www.deezer.com/track/78475986",
@@ -171,10 +192,12 @@
     "rank": 15,
     "artist": "Sean Paul",
     "title": "Get Busy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5624",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 364292561,
       "deezerLink": "https://www.deezer.com/track/364292561",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0399b7bdec990b83a692b1c3b379b00e/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/19fca01d43b061d56ba1013220a77de5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sean Paul",
       "deezerTitle": "Get Busy"
     }
@@ -183,6 +206,8 @@
     "rank": 16,
     "artist": "Daniel K.",
     "title": "You Drive Me Crazy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5555",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 71507041,
       "deezerLink": "https://www.deezer.com/track/71507041",
@@ -195,6 +220,8 @@
     "rank": 17,
     "artist": "50 Cent",
     "title": "In Da Club",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5546",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1141668,
       "deezerLink": "https://www.deezer.com/track/1141668",
@@ -207,23 +234,29 @@
     "rank": 18,
     "artist": "Wolfsheim",
     "title": "Kein Zurück",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8549",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 62548806,
-      "deezerLink": "https://www.deezer.com/track/62548806",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b160ba2cb2e8d4164da777ad2bdf2d6f/500x500-000000-80-0-0.jpg",
+      "deezerID": 62551521,
+      "deezerLink": "https://www.deezer.com/track/62551521",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fe0418993caef2b80e900ed57c6948a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wolfsheim",
-      "deezerTitle": "Kein Zurück - Single Version"
+      "deezerTitle": "Kein Zurück"
     }
   },
   {
     "rank": 19,
     "artist": "Die Gerd Show",
-    "title": "Der Steuersong (Las Kanzlern)"
+    "title": "Der Steuersong (Las Kanzlern)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5410",
+    "releaseYear": 2002
   },
   {
     "rank": 20,
     "artist": "Shania Twain",
     "title": "Ka-Ching!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5504",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 78530985,
       "deezerLink": "https://www.deezer.com/track/78530985",
@@ -236,10 +269,12 @@
     "rank": 21,
     "artist": "Kate Ryan",
     "title": "Désenchantée",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5256",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3092650,
       "deezerLink": "https://www.deezer.com/track/3092650",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/26b7a4cab1dbe4b0d9e1c5884270cc3c/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d620c74b44ab9ab2b2113704b9db4d1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kate Ryan",
       "deezerTitle": "Désenchantée"
     }
@@ -248,6 +283,8 @@
     "rank": 22,
     "artist": "In-Grid",
     "title": "Tu es foutu",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5155",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 39028771,
       "deezerLink": "https://www.deezer.com/track/39028771",
@@ -260,6 +297,8 @@
     "rank": 23,
     "artist": "One-T + Cool-T",
     "title": "The Magic Key",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5721",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3026450,
       "deezerLink": "https://www.deezer.com/track/3026450",
@@ -272,6 +311,8 @@
     "rank": 24,
     "artist": "Blue feat. Elton John",
     "title": "Sorry Seems To Be The Hardest Word",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5452",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3097538,
       "deezerLink": "https://www.deezer.com/track/3097538",
@@ -284,6 +325,8 @@
     "rank": 25,
     "artist": "Gareth Gates",
     "title": "Anyone Of Us (Stupid Mistake)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5494",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 531653271,
       "deezerLink": "https://www.deezer.com/track/531653271",
@@ -296,6 +339,8 @@
     "rank": 26,
     "artist": "DJ Ötzi feat. Eric Dikeb",
     "title": "Burger Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5726",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 128545667,
       "deezerLink": "https://www.deezer.com/track/128545667",
@@ -308,6 +353,8 @@
     "rank": 27,
     "artist": "Stacie Orrico",
     "title": "Stuck",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5715",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 3168752,
       "deezerLink": "https://www.deezer.com/track/3168752",
@@ -320,6 +367,8 @@
     "rank": 28,
     "artist": "Overground",
     "title": "Schick mir 'nen Engel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5865",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1152666792,
       "deezerLink": "https://www.deezer.com/track/1152666792",
@@ -332,6 +381,8 @@
     "rank": 29,
     "artist": "Martin Kesici",
     "title": "Angel Of Berlin",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5759",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2174054,
       "deezerLink": "https://www.deezer.com/track/2174054",
@@ -344,6 +395,8 @@
     "rank": 30,
     "artist": "DJ Tomekk feat. Kurupt, Tatwaffe & G-Style",
     "title": "Ganxtaville Pt. III",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5645",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 13237675,
       "deezerLink": "https://www.deezer.com/track/13237675",
@@ -356,18 +409,15 @@
     "rank": 31,
     "artist": "Ja Rule",
     "title": "Reign",
-    "deezer": {
-      "deezerID": 3040374,
-      "deezerLink": "https://www.deezer.com/track/3040374",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3533e02b305081d92e0c0895e3fda183/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Ja Rule",
-      "deezerTitle": "Murder Reigns"
-    }
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5694",
+    "releaseYear": 2003
   },
   {
     "rank": 32,
     "artist": "Nena & Kim Wilde",
     "title": "Anyplace, Anywhere, Anytime",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5633",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1029127462,
       "deezerLink": "https://www.deezer.com/track/1029127462",
@@ -380,6 +430,8 @@
     "rank": 33,
     "artist": "Scooter",
     "title": "Maria (I Like It Loud)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5735",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2168791247,
       "deezerLink": "https://www.deezer.com/track/2168791247",
@@ -392,6 +444,8 @@
     "rank": 34,
     "artist": "Robbie Williams",
     "title": "Feel",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5416",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3098217,
       "deezerLink": "https://www.deezer.com/track/3098217",
@@ -404,6 +458,8 @@
     "rank": 35,
     "artist": "Panjabi MC",
     "title": "Mundian to bach ke",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5425",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 2139840647,
       "deezerLink": "https://www.deezer.com/track/2139840647",
@@ -416,6 +472,8 @@
     "rank": 36,
     "artist": "B2K and P. Diddy",
     "title": "Bump, Bump, Bump",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5516",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 869086,
       "deezerLink": "https://www.deezer.com/track/869086",
@@ -428,18 +486,22 @@
     "rank": 37,
     "artist": "Beyoncé",
     "title": "Crazy In Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5677",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 13138698,
       "deezerLink": "https://www.deezer.com/track/13138698",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b3415e1ea8c2e98a8bff153c6cfb4f7b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Beyoncé",
-      "deezerTitle": "Crazy In Love (feat. Jay-Z)"
+      "deezerTitle": "Crazy In Love (feat. JAY-Z)"
     }
   },
   {
     "rank": 38,
     "artist": "Sarah Connor feat. Naturally 7",
     "title": "Music Is The Key",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5859",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 1590299512,
       "deezerLink": "https://www.deezer.com/track/1590299512",
@@ -452,18 +514,22 @@
     "rank": 39,
     "artist": "Blu Cantrell feat. Sean Paul",
     "title": "Breathe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5696",
+    "releaseYear": 2002,
     "deezer": {
-      "deezerID": 2638520422,
-      "deezerLink": "https://www.deezer.com/track/2638520422",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/66f3587ea67f9dc65cede9d773abcb93/500x500-000000-80-0-0.jpg",
+      "deezerID": 13146819,
+      "deezerLink": "https://www.deezer.com/track/13146819",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/00a62b246780c710483007767549a642/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Blu Cantrell",
-      "deezerTitle": "Breathe"
+      "deezerTitle": "Breathe (feat. Sean Paul)"
     }
   },
   {
     "rank": 40,
     "artist": "Seal",
     "title": "Love's Divine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5777",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 730470,
       "deezerLink": "https://www.deezer.com/track/730470",
@@ -476,10 +542,12 @@
     "rank": 41,
     "artist": "Modern Talking",
     "title": "TV Makes The Superstar",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5521",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 995435,
-      "deezerLink": "https://www.deezer.com/track/995435",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/34ac27a8b5b8a51f2e3846d4a8dd55ab/500x500-000000-80-0-0.jpg",
+      "deezerID": 84763205,
+      "deezerLink": "https://www.deezer.com/track/84763205",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aa926d60c19c3a6db64e9fb5eb58b649/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Modern Talking",
       "deezerTitle": "TV Makes the Superstar"
     }
@@ -488,6 +556,8 @@
     "rank": 42,
     "artist": "Shania Twain",
     "title": "Forever And For Always",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5654",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 2536757201,
       "deezerLink": "https://www.deezer.com/track/2536757201",
@@ -500,10 +570,12 @@
     "rank": 43,
     "artist": "Mustafa Sandal feat. Gülcan",
     "title": "Aya Benzer 2003",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5772",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 2498517,
-      "deezerLink": "https://www.deezer.com/track/2498517",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/287c33e5fc42de0968f47f840055c292/500x500-000000-80-0-0.jpg",
+      "deezerID": 2173980,
+      "deezerLink": "https://www.deezer.com/track/2173980",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/179895b358b0b3e377669945127cedd1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mustafa Sandal",
       "deezerTitle": "Aya Benzer 2003 (Moonlight)"
     }
@@ -512,6 +584,8 @@
     "rank": 44,
     "artist": "Scooter",
     "title": "Weekend!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5511",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2168791267,
       "deezerLink": "https://www.deezer.com/track/2168791267",
@@ -524,6 +598,8 @@
     "rank": 45,
     "artist": "Eminem",
     "title": "Sing For The Moment",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5557",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 916426,
       "deezerLink": "https://www.deezer.com/track/916426",
@@ -536,6 +612,8 @@
     "rank": 46,
     "artist": "Jeanette",
     "title": "Right Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5673",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1477143902,
       "deezerLink": "https://www.deezer.com/track/1477143902",
@@ -548,6 +626,8 @@
     "rank": 47,
     "artist": "Daniel K.",
     "title": "Heartbeat",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5619",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 633507,
       "deezerLink": "https://www.deezer.com/track/633507",
@@ -560,6 +640,8 @@
     "rank": 48,
     "artist": "Xavier Naidoo",
     "title": "Abschied nehmen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5435",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 2008975627,
       "deezerLink": "https://www.deezer.com/track/2008975627",
@@ -572,10 +654,12 @@
     "rank": 49,
     "artist": "Kate Ryan",
     "title": "Libertine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5567",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3092653,
       "deezerLink": "https://www.deezer.com/track/3092653",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/26b7a4cab1dbe4b0d9e1c5884270cc3c/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d620c74b44ab9ab2b2113704b9db4d1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kate Ryan",
       "deezerTitle": "Libertine"
     }
@@ -584,6 +668,8 @@
     "rank": 50,
     "artist": "Jeanette",
     "title": "Rockin' On Heaven's Floor",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5825",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1477143912,
       "deezerLink": "https://www.deezer.com/track/1477143912",
@@ -596,6 +682,8 @@
     "rank": 51,
     "artist": "Blue",
     "title": "U Make Me Wanna",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5611",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 3155751,
       "deezerLink": "https://www.deezer.com/track/3155751",
@@ -607,12 +695,23 @@
   {
     "rank": 52,
     "artist": "Nena",
-    "title": "Leuchtturm [2002]"
+    "title": "Leuchtturm [2002]",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5458",
+    "releaseYear": 2002,
+    "deezer": {
+      "deezerID": 647405412,
+      "deezerLink": "https://www.deezer.com/track/647405412",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/baea88a54bafbaeb26a1fafd8490ba2d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nena",
+      "deezerTitle": "Leuchtturm"
+    }
   },
   {
     "rank": 53,
     "artist": "Nelly feat. Kelly Rowland",
     "title": "Dilemma",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5345",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 2447443,
       "deezerLink": "https://www.deezer.com/track/2447443",
@@ -625,6 +724,8 @@
     "rank": 54,
     "artist": "Boogie Pimps",
     "title": "Somebody To Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5629",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2558142,
       "deezerLink": "https://www.deezer.com/track/2558142",
@@ -637,6 +738,8 @@
     "rank": 55,
     "artist": "Eko Fresh feat. G-Style",
     "title": "Ich bin jung und brauche das Geld",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5821",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 634981,
       "deezerLink": "https://www.deezer.com/track/634981",
@@ -649,6 +752,8 @@
     "rank": 56,
     "artist": "Master Blaster",
     "title": "Hypnotic Tango",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5474",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 61718400,
       "deezerLink": "https://www.deezer.com/track/61718400",
@@ -661,6 +766,8 @@
     "rank": 57,
     "artist": "50 Cent",
     "title": "P.I.M.P.",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5803",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1141674,
       "deezerLink": "https://www.deezer.com/track/1141674",
@@ -673,6 +780,8 @@
     "rank": 58,
     "artist": "Las Ketchup",
     "title": "The Ketchup Song (Aserejé)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5263",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 476739462,
       "deezerLink": "https://www.deezer.com/track/476739462",
@@ -685,6 +794,8 @@
     "rank": 59,
     "artist": "Gracia",
     "title": "I Don't Think So!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5701",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 15533836,
       "deezerLink": "https://www.deezer.com/track/15533836",
@@ -697,6 +808,8 @@
     "rank": 60,
     "artist": "Frank Popp Ensemble",
     "title": "Hip Teens Don't Wear Blue Jeans",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5609",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 7351394,
       "deezerLink": "https://www.deezer.com/track/7351394",
@@ -709,6 +822,8 @@
     "rank": 61,
     "artist": "Jennifer Lopez feat. Jadakiss and Styles",
     "title": "Jenny From The Block",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5399",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 834387,
       "deezerLink": "https://www.deezer.com/track/834387",
@@ -721,6 +836,8 @@
     "rank": 62,
     "artist": "Pur",
     "title": "Ich denk an Dich",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5731",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 3302349,
       "deezerLink": "https://www.deezer.com/track/3302349",
@@ -733,6 +850,8 @@
     "rank": 63,
     "artist": "Jeanette",
     "title": "It's Over Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5536",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 674793832,
       "deezerLink": "https://www.deezer.com/track/674793832",
@@ -745,6 +864,8 @@
     "rank": 64,
     "artist": "Ferris MC",
     "title": "Zur Erinnerung",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5808",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 72300624,
       "deezerLink": "https://www.deezer.com/track/72300624",
@@ -756,12 +877,23 @@
   {
     "rank": 65,
     "artist": "Snap!",
-    "title": "Rhythm Is A Dancer 2003"
+    "title": "Rhythm Is A Dancer 2003",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5492",
+    "releaseYear": 2003,
+    "deezer": {
+      "deezerID": 434228342,
+      "deezerLink": "https://www.deezer.com/track/434228342",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad2c621f7eff4667d3b54e0f77de7144/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Snap!",
+      "deezerTitle": "Rhythm Is A Dancer"
+    }
   },
   {
     "rank": 66,
     "artist": "Christina Aguilera feat. Lil' Kim",
     "title": "Can't Hold Us Down",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5785",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 967328,
       "deezerLink": "https://www.deezer.com/track/967328",
@@ -774,18 +906,22 @@
     "rank": 67,
     "artist": "Beyoncé feat. Sean Paul",
     "title": "Baby Boy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5811",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 667004462,
-      "deezerLink": "https://www.deezer.com/track/667004462",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d65174ae1c9bd60b5dd7b377c08c0755/500x500-000000-80-0-0.jpg",
+      "deezerID": 13138700,
+      "deezerLink": "https://www.deezer.com/track/13138700",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b3415e1ea8c2e98a8bff153c6cfb4f7b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Beyoncé",
-      "deezerTitle": "Baby Boy"
+      "deezerTitle": "Baby Boy (feat. Sean Paul)"
     }
   },
   {
     "rank": 68,
     "artist": "Sarah Connor",
     "title": "Bounce",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5714",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1590299752,
       "deezerLink": "https://www.deezer.com/track/1590299752",
@@ -798,10 +934,12 @@
     "rank": 69,
     "artist": "No Angels",
     "title": "Feelgood Lies",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5793",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1152379532,
       "deezerLink": "https://www.deezer.com/track/1152379532",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a4a641adec8bb8430553f9c8f7b2382f/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2f274c9ee57fc4100a99a1b984c9928f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "No Angels",
       "deezerTitle": "Feelgood Lies"
     }
@@ -810,18 +948,22 @@
     "rank": 70,
     "artist": "Mandy & Randy",
     "title": "Nothing's Gonna Stop Us Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15451",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 60783997,
       "deezerLink": "https://www.deezer.com/track/60783997",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1394bb03b93b4fd640147958f5869912/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mandy & Randy",
-      "deezerTitle": "Nothing's Gonna Stop Us Now"
+      "deezerTitle": "Nothing Gonna Stop Us Now"
     }
   },
   {
     "rank": 71,
     "artist": "Preluders",
     "title": "Everyday Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5876",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1152600982,
       "deezerLink": "https://www.deezer.com/track/1152600982",
@@ -834,6 +976,8 @@
     "rank": 72,
     "artist": "P!nk",
     "title": "Family Portrait",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5453",
+    "releaseYear": 2001,
     "deezer": {
       "deezerID": 655356232,
       "deezerLink": "https://www.deezer.com/track/655356232",
@@ -846,6 +990,8 @@
     "rank": 73,
     "artist": "No Angels",
     "title": "No Angel (It's All In Your Mind) / Venus",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5586",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1153162222,
       "deezerLink": "https://www.deezer.com/track/1153162222",
@@ -858,6 +1004,8 @@
     "rank": 74,
     "artist": "Gareth Gates with the Kumars",
     "title": "Spirit In The Sky",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5743",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 631058,
       "deezerLink": "https://www.deezer.com/track/631058",
@@ -870,10 +1018,12 @@
     "rank": 75,
     "artist": "Die Ärzte",
     "title": "Unrockbar",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5786",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 1006082692,
-      "deezerLink": "https://www.deezer.com/track/1006082692",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d6c2a29bd76ffc3b735a16d27823b203/500x500-000000-80-0-0.jpg",
+      "deezerID": 3619019242,
+      "deezerLink": "https://www.deezer.com/track/3619019242",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc7ce0c862bc009fe76c55cbb9a70b6a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Ärzte",
       "deezerTitle": "Unrockbar"
     }
@@ -882,6 +1032,8 @@
     "rank": 76,
     "artist": "Simply Red",
     "title": "Sunrise",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5526",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 75814706,
       "deezerLink": "https://www.deezer.com/track/75814706",
@@ -894,6 +1046,8 @@
     "rank": 77,
     "artist": "DMX",
     "title": "X Gon' Give It To Ya",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5591",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1142460,
       "deezerLink": "https://www.deezer.com/track/1142460",
@@ -906,10 +1060,12 @@
     "rank": 78,
     "artist": "Alizée",
     "title": "J'en ai marre!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5502",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 506307262,
       "deezerLink": "https://www.deezer.com/track/506307262",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ed6b79ab57630ff2d8f0a19100b7571a/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1d73d076a4c45a622904778a02aa11a3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Alizée",
       "deezerTitle": "J'en ai marre !"
     }
@@ -918,6 +1074,8 @@
     "rank": 79,
     "artist": "Christina Aguilera",
     "title": "Beautiful",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5463",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 967334,
       "deezerLink": "https://www.deezer.com/track/967334",
@@ -930,6 +1088,8 @@
     "rank": 80,
     "artist": "Sertab",
     "title": "Every Way That I Can",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5639",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 617431,
       "deezerLink": "https://www.deezer.com/track/617431",
@@ -942,10 +1102,12 @@
     "rank": 81,
     "artist": "Within Temptation",
     "title": "Ice Queen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8546",
+    "releaseYear": 2000,
     "deezer": {
-      "deezerID": 1221051472,
-      "deezerLink": "https://www.deezer.com/track/1221051472",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/df4d8046041ade33898b257296eb4a47/500x500-000000-80-0-0.jpg",
+      "deezerID": 3675281702,
+      "deezerLink": "https://www.deezer.com/track/3675281702",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8b9d94947460c89d7133c2da1c9f9f76/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Within Temptation",
       "deezerTitle": "Ice Queen"
     }
@@ -954,6 +1116,8 @@
     "rank": 82,
     "artist": "Mark 'Oh",
     "title": "Stuck On You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-11396",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 61513330,
       "deezerLink": "https://www.deezer.com/track/61513330",
@@ -966,6 +1130,8 @@
     "rank": 83,
     "artist": "Reamonn",
     "title": "Alright",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5802",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 3233101,
       "deezerLink": "https://www.deezer.com/track/3233101",
@@ -978,6 +1144,8 @@
     "rank": 84,
     "artist": "Special D.",
     "title": "Come With Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-13742",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 61675981,
       "deezerLink": "https://www.deezer.com/track/61675981",
@@ -990,6 +1158,8 @@
     "rank": 85,
     "artist": "DJ BoBo",
     "title": "Chihuahua",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5581",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 918244542,
       "deezerLink": "https://www.deezer.com/track/918244542",
@@ -1002,6 +1172,8 @@
     "rank": 86,
     "artist": "Culture Beat",
     "title": "Mr. Vain Recall",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5668",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 135241348,
       "deezerLink": "https://www.deezer.com/track/135241348",
@@ -1013,17 +1185,28 @@
   {
     "rank": 87,
     "artist": "Trooper Da Don feat. Vanessa",
-    "title": "Ride Or Die (I Need You)"
+    "title": "Ride Or Die (I Need You)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5608",
+    "releaseYear": 2003,
+    "deezer": {
+      "deezerID": 3524390571,
+      "deezerLink": "https://www.deezer.com/track/3524390571",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ffbc711d649bec27b2f5938f54e214dd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Vanessa S.",
+      "deezerTitle": "RIDE OR DIE (I need you)"
+    }
   },
   {
     "rank": 88,
     "artist": "Jay-Z feat. Beyoncé Knowles",
     "title": "'03 Bonnie And Clyde",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5447",
+    "releaseYear": 2002,
     "deezer": {
-      "deezerID": 1098059,
-      "deezerLink": "https://www.deezer.com/track/1098059",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/67172da6c3b7e81c67a0cefac460f1af/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "JAY-Z",
+      "deezerID": 570905242,
+      "deezerLink": "https://www.deezer.com/track/570905242",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/51ac350dc25a05e3533767baccd1b4f7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "JAY Z",
       "deezerTitle": "03' Bonnie & Clyde"
     }
   },
@@ -1031,6 +1214,8 @@
     "rank": 89,
     "artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
     "title": "I Know What You Want",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5610",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 13202000,
       "deezerLink": "https://www.deezer.com/track/13202000",
@@ -1043,6 +1228,8 @@
     "rank": 90,
     "artist": "Tomcraft",
     "title": "Loneliness",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7574",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 2125515417,
       "deezerLink": "https://www.deezer.com/track/2125515417",
@@ -1055,6 +1242,8 @@
     "rank": 91,
     "artist": "ASD",
     "title": "Sneak Preview",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5510",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 750592362,
       "deezerLink": "https://www.deezer.com/track/750592362",
@@ -1067,6 +1256,8 @@
     "rank": 92,
     "artist": "Linkin Park",
     "title": "Numb",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5792",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 677232,
       "deezerLink": "https://www.deezer.com/track/677232",
@@ -1079,6 +1270,8 @@
     "rank": 93,
     "artist": "Panjabi MC",
     "title": "Jogi",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5623",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 2139840697,
       "deezerLink": "https://www.deezer.com/track/2139840697",
@@ -1091,6 +1284,8 @@
     "rank": 94,
     "artist": "Sugababes",
     "title": "Hole In The Head",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5824",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1168275,
       "deezerLink": "https://www.deezer.com/track/1168275",
@@ -1103,6 +1298,8 @@
     "rank": 95,
     "artist": "Sarah Connor",
     "title": "Skin On Skin",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5378",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1590299762,
       "deezerLink": "https://www.deezer.com/track/1590299762",
@@ -1115,10 +1312,12 @@
     "rank": 96,
     "artist": "Judith Lefeber",
     "title": "I Will Follow You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5799",
+    "releaseYear": 2003,
     "deezer": {
-      "deezerID": 770632,
-      "deezerLink": "https://www.deezer.com/track/770632",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3a74f8e7ab124b0e34179356656fd3be/500x500-000000-80-0-0.jpg",
+      "deezerID": 770577,
+      "deezerLink": "https://www.deezer.com/track/770577",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/96bed8236a388597e47cb808e22f771e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Judith Lefeber",
       "deezerTitle": "I Will Follow You"
     }
@@ -1126,12 +1325,16 @@
   {
     "rank": 97,
     "artist": "Star Search - The Kids",
-    "title": "Smile"
+    "title": "Smile",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5754",
+    "releaseYear": 2003
   },
   {
     "rank": 98,
     "artist": "Eminem",
     "title": "Business",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9811",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 916413,
       "deezerLink": "https://www.deezer.com/track/916413",
@@ -1144,6 +1347,8 @@
     "rank": 99,
     "artist": "Sarah Connor",
     "title": "He's Unbelievable",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5487",
+    "releaseYear": 2002,
     "deezer": {
       "deezerID": 1590299712,
       "deezerLink": "https://www.deezer.com/track/1590299712",
@@ -1156,6 +1361,8 @@
     "rank": 100,
     "artist": "Bro'Sis",
     "title": "Oh No / Never Stop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-5590",
+    "releaseYear": 2003,
     "deezer": {
       "deezerID": 1153162272,
       "deezerLink": "https://www.deezer.com/track/1153162272",

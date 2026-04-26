@@ -114,12 +114,7 @@ function insertSong(referenceElement = null, song = null) {
 		embedDeezerTrack(currentSong);
 	}
 
-	// Smoothly scroll the newly inserted song into view
-	songElement.scrollIntoView({
-		behavior: "smooth", // Smooth scrolling
-		block: "center", // Vertical alignment: center of the container
-		inline: "center", // Horizontal alignment: center of the container
-	});
+	centerTimelineSong(songElement);
 	songElement.addEventListener("click", centerSong, false);
 }
 
@@ -247,7 +242,12 @@ function applyStrike() {
 
 		const plusButtons = document.querySelectorAll(".add");
 		plusButtons.forEach((button) => button.remove());
-		globalThis.umami.track("chartStreak", {
+		main.classList.add("game-over");
+		centerTimelineSong(
+			lastActiveSong || document.querySelector(".song.active") ||
+				document.querySelector(".song"),
+		);
+		globalThis.umami?.track("chartStreak", {
 			highscore: score,
 		});
 	}
@@ -265,15 +265,26 @@ function toggleSidebar() {
 }
 
 function centerSong(ev) {
-	ev.target.scrollIntoView({
-		behavior: "smooth", // Smooth scrolling
-		block: "center", // Vertical alignment: center of the container
-		inline: "center", // Horizontal alignment: center of the container
+	centerTimelineSong(ev.currentTarget);
+}
+
+function centerTimelineSong(songElement) {
+	if (!songElement) {
+		return;
+	}
+
+	requestAnimationFrame(() => {
+		songElement.scrollIntoView({
+			behavior: "smooth",
+			block: "center",
+			inline: "center",
+		});
 	});
 }
 
 function resetGame() {
 	lastActiveSong = null;
+	main.classList.remove("game-over");
 	randomChartEntries = getRandomChartEntries(charts);
 	currentSong = randomChartEntries.shift();
 	score = 0;

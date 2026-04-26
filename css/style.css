@@ -125,11 +125,11 @@ Main
 */
 
 main {
+    --timeline-start-spacer: max(0px, calc(50vw - 20dvh - 8vmin));
+    --timeline-end-spacer: max(0px, calc(50vw - 20dvh - 8vmin));
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    padding-right: 50vw;
-    padding-left: 50vw;
     gap: 4vmin;
     width: 100vw;
     overflow-x: auto;
@@ -138,6 +138,21 @@ main {
     scrollbar-width: thin;
     /* Firefox */
     scrollbar-color: hsla(0, 0%, 0%, 0.2) transparent;
+}
+
+main.game-over {
+    --timeline-start-spacer: max(0px, calc(50vw - 15dvh - 4vmin));
+    --timeline-end-spacer: max(0px, calc(50vw - 15dvh - 4vmin));
+}
+
+main::before,
+main::after {
+    content: "";
+    flex: 0 0 var(--timeline-start-spacer);
+}
+
+main::after {
+    flex-basis: var(--timeline-end-spacer);
 }
 
 main::-webkit-scrollbar {

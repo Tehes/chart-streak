@@ -21,7 +21,10 @@ let currentSong;
 let scrollTimeout;
 let lastActiveSong;
 const addLockDurationMs = 250;
+const deezerTrackProxyUrl = "https://chart-streak.tehes.deno.net/deezer-track/";
+const deezerReadableCache = new Map();
 let isAddLocked = false;
+let isSongLoading = false;
 
 const main = document.querySelector("main");
 const shuffleButton = document.querySelector("#shuffle .button");
@@ -55,6 +58,60 @@ function getRandomChartEntries(charts) {
 	return randomEntries; // Return the array of random entries, one per year
 }
 
+async function isDeezerTrackReadable(song) {
+	const deezerID = song.deezer.deezerID;
+
+	if (deezerReadableCache.has(deezerID)) {
+		return deezerReadableCache.get(deezerID);
+	}
+
+	try {
+		const response = await fetch(`${deezerTrackProxyUrl}${deezerID}`);
+		if (!response.ok) {
+			console.warn(`Failed to check Deezer track ${deezerID}: ${response.status}`);
+			return true;
+		}
+
+		const track = await response.json();
+		const isReadable = track.readable === true;
+		deezerReadableCache.set(deezerID, isReadable);
+		return isReadable;
+	} catch (error) {
+		console.warn(`Failed to check Deezer track ${deezerID}:`, error);
+		return true;
+	}
+}
+
+async function getNextReadableSong() {
+	while (randomChartEntries.length > 0) {
+		const song = randomChartEntries.shift();
+		if (await isDeezerTrackReadable(song)) {
+			return song;
+		}
+
+		console.warn(`Skipping unavailable Deezer track ${song.deezer.deezerID}.`);
+	}
+
+	return null;
+}
+
+async function loadNextCurrentSong() {
+	isSongLoading = true;
+
+	try {
+		currentSong = await getNextReadableSong();
+		if (!currentSong) {
+			showNoSongAvailable();
+			return false;
+		}
+
+		embedDeezerTrack(currentSong);
+		return true;
+	} finally {
+		isSongLoading = false;
+	}
+}
+
 function embedDeezerTrack(randomSong) {
 	const deezerID = randomSong.deezer.deezerID;
 	const iframeContainer = document.querySelector("#deezer-player");
@@ -69,7 +126,7 @@ function embedDeezerTrack(randomSong) {
 	document.querySelector("#deezer-player").appendChild(iframe);
 }
 
-function insertSong(referenceElement = null, song = null) {
+async function insertSong(referenceElement = null, song = null) {
 	const songToInsert = song || currentSong;
 
 	if (!songToInsert) {
@@ -108,23 +165,22 @@ function insertSong(referenceElement = null, song = null) {
 		main.appendChild(clone);
 	}
 
-	// If the current song was inserted, fetch a new random song and update the Deezer widget
-	if (!song) {
-		currentSong = randomChartEntries.shift();
-		embedDeezerTrack(currentSong);
-	}
-
 	centerTimelineSong(songElement);
 	songElement.addEventListener("click", centerSong, false);
+
+	// If the current song was inserted, fetch a new random song and update the Deezer widget
+	if (!song) {
+		await loadNextCurrentSong();
+	}
 }
 
-function clickButton(event) {
+async function clickButton(event) {
 	if (strikes === 3) {
 		showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
 		return;
 	}
 
-	if (isAddLocked) {
+	if (isAddLocked || isSongLoading || !currentSong) {
 		return;
 	}
 
@@ -151,17 +207,17 @@ function clickButton(event) {
 		(previousSong && parseInt(previousSong.dataset.year) >= parseInt(currentSong.year)) ||
 		(nextSong && parseInt(nextSong.dataset.year) <= parseInt(currentSong.year))
 	) {
-		applyStrike();
+		await applyStrike();
 		return;
 	}
 
 	// If all checks pass, call insertSong as usual
-	insertSong(button);
+	await insertSong(button);
 	score++;
 	scoreElement.textContent = score;
 }
 
-function clickShuffleButton() {
+async function clickShuffleButton() {
 	if (shuffleCounter === 0) {
 		showMessage("Du hast alle Shuffle-Versuche aufgebraucht.");
 		return;
@@ -170,11 +226,14 @@ function clickShuffleButton() {
 		showMessage("Du hast alle Strikes aufgebraucht. Das Spiel ist vorbei.");
 		return;
 	}
+	if (isSongLoading || !currentSong) {
+		return;
+	}
 	randomChartEntries.push(currentSong);
-	currentSong = randomChartEntries.shift();
-	embedDeezerTrack(currentSong);
-	shuffleCounter--;
-	shuffleCounterElement.textContent = shuffleCounter;
+	if (await loadNextCurrentSong()) {
+		shuffleCounter--;
+		shuffleCounterElement.textContent = shuffleCounter;
+	}
 	if (shuffleCounter === 0) {
 		shuffleButton.removeEventListener("click", clickShuffleButton, false);
 		shuffleButton.classList.add("inactive");
@@ -215,7 +274,7 @@ function handleScrollEvent() {
 	}, 150); // Set a delay of 150 ms
 }
 
-function applyStrike() {
+async function applyStrike() {
 	// apply strike
 	strikesElement[strikes].classList.add("active");
 	strikesElement[strikes].src = "svg/cross.svg";
@@ -226,8 +285,7 @@ function applyStrike() {
 	// get new song if strikes < 3
 	if (strikes < 3) {
 		randomChartEntries.push(currentSong);
-		currentSong = randomChartEntries.shift();
-		embedDeezerTrack(currentSong);
+		await loadNextCurrentSong();
 	} //end game if strikes === 3
 	else {
 		const iframeContainer = document.querySelector("#deezer-player");
@@ -251,6 +309,15 @@ function applyStrike() {
 			highscore: score,
 		});
 	}
+}
+
+function showNoSongAvailable() {
+	const iframeContainer = document.querySelector("#deezer-player");
+	iframeContainer.innerHTML = "<h3>Kein weiterer Song verfügbar</h3>";
+
+	const plusButtons = document.querySelectorAll(".add");
+	plusButtons.forEach((button) => button.remove());
+	main.classList.add("game-over");
 }
 
 function showMessage(text) {
@@ -282,11 +349,11 @@ function centerTimelineSong(songElement) {
 	});
 }
 
-function resetGame() {
+async function resetGame() {
 	lastActiveSong = null;
 	main.classList.remove("game-over");
 	randomChartEntries = getRandomChartEntries(charts);
-	currentSong = randomChartEntries.shift();
+	currentSong = null;
 	score = 0;
 	scoreElement.textContent = score;
 	shuffleCounter = 3;
@@ -299,8 +366,11 @@ function resetGame() {
 		});
 	}
 	main.innerHTML = "";
-	embedDeezerTrack(currentSong);
-	insertSong(null, randomChartEntries.shift());
+	await loadNextCurrentSong();
+	const firstTimelineSong = randomChartEntries.shift();
+	if (firstTimelineSong) {
+		await insertSong(null, firstTimelineSong);
+	}
 	handleScrollEvent();
 	if (shuffleButton.classList.contains("inactive")) {
 		shuffleButton.addEventListener("click", clickShuffleButton, false);

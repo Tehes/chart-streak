@@ -93,7 +93,7 @@ async function handleDeezerTrack(trackId, origin) {
 
 	return jsonResponse({
 		id: trackId,
-		readable: track.readable === true,
+		readable: track.readable !== false,
 	}, origin);
 }
 

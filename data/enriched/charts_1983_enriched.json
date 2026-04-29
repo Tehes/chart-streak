@@ -3,22 +3,26 @@
     "rank": 1,
     "artist": "Peter Schilling",
     "title": "Major Tom (völlig losgelöst)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-916",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 122357172,
-      "deezerLink": "https://www.deezer.com/track/122357172",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/10d206f417f7e52986d67e88b8731e3e/500x500-000000-80-0-0.jpg",
+      "deezerID": 1222024892,
+      "deezerLink": "https://www.deezer.com/track/1222024892",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be4a49e24942b2cf4a7f7d24bfcbe966/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Peter Schilling",
-      "deezerTitle": "Major Tom"
+      "deezerTitle": "Major Tom (Völlig losgelöst)"
     }
   },
   {
     "rank": 2,
     "artist": "Nena",
     "title": "99 Luftballons",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-922",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 639505182,
-      "deezerLink": "https://www.deezer.com/track/639505182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/048b8e2a0faee63cc0ed9ab33834d38e/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786035302,
+      "deezerLink": "https://www.deezer.com/track/3786035302",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c7c1153188e48a2ae756b1bc3fd6b441/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nena",
       "deezerTitle": "99 Luftballons"
     }
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Mike Oldfield",
     "title": "Moonlight Shadow",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-975",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 70093876,
       "deezerLink": "https://www.deezer.com/track/70093876",
@@ -39,10 +45,12 @@
     "rank": 4,
     "artist": "Robin Gibb",
     "title": "Juliet",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-956",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 537999002,
-      "deezerLink": "https://www.deezer.com/track/537999002",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/855d62b63b716464d686e7548e0be26e/500x500-000000-80-0-0.jpg",
+      "deezerID": 465655762,
+      "deezerLink": "https://www.deezer.com/track/465655762",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c9e6bc7d2378b657fe4f0cf52d03ee17/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Robin Gibb",
       "deezerTitle": "Juliet"
     }
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "Culture Club",
     "title": "Do You Really Want To Hurt Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-897",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3152785,
       "deezerLink": "https://www.deezer.com/track/3152785",
@@ -62,24 +72,37 @@
   {
     "rank": 6,
     "artist": "Tauchen Prokopetz",
-    "title": "Codo (...düse im Sauseschritt)"
+    "title": "Codo (...düse im Sauseschritt)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-966",
+    "releaseYear": 1983,
+    "deezer": {
+      "deezerID": 2851298,
+      "deezerLink": "https://www.deezer.com/track/2851298",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14455a4e5d257ca7812c5eb6bfaa56d8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "DöF",
+      "deezerTitle": "Codo (...düse im Sauseschritt)"
+    }
   },
   {
     "rank": 7,
     "artist": "Irene Cara",
     "title": "Flashdance ...What A Feeling",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-963",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 62419007,
-      "deezerLink": "https://www.deezer.com/track/62419007",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7b3f6fd3ca6c036861f4e5cb8d7737f8/500x500-000000-80-0-0.jpg",
+      "deezerID": 1434081,
+      "deezerLink": "https://www.deezer.com/track/1434081",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/204672f30d473f7969e36f687ff6ee02/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Irene Cara",
-      "deezerTitle": "Flashdance... What A Feeling"
+      "deezerTitle": "What A Feeling"
     }
   },
   {
     "rank": 8,
     "artist": "Geier Sturzflug",
     "title": "Bruttosozialprodukt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-946",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 6417948,
       "deezerLink": "https://www.deezer.com/track/6417948",
@@ -92,6 +115,8 @@
     "rank": 9,
     "artist": "Rod Stewart",
     "title": "Baby Jane",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-968",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 2550611,
       "deezerLink": "https://www.deezer.com/track/2550611",
@@ -104,10 +129,12 @@
     "rank": 10,
     "artist": "Laid Back",
     "title": "Sunshine Reggae",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-989",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3528853,
       "deezerLink": "https://www.deezer.com/track/3528853",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f0de75d4e755c193a6717b10347bb9d4/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/77114ca16176adbf8b5c5f5b2f02dd71/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Laid Back",
       "deezerTitle": "Sunshine Reggae"
     }
@@ -116,6 +143,8 @@
     "rank": 11,
     "artist": "Michael Jackson",
     "title": "Billie Jean",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-934",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 4603408,
       "deezerLink": "https://www.deezer.com/track/4603408",
@@ -128,6 +157,8 @@
     "rank": 12,
     "artist": "New Order",
     "title": "Blue Monday",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-967",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 131744046,
       "deezerLink": "https://www.deezer.com/track/131744046",
@@ -140,30 +171,36 @@
     "rank": 13,
     "artist": "Gazebo",
     "title": "I Like Chopin",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-982",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 992101,
       "deezerLink": "https://www.deezer.com/track/992101",
       "cover": "https://cdn-images.dzcdn.net/images/cover/92f08e16626251d86e0fb2127c7dc746/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Gazebo",
-      "deezerTitle": "I Like Chopin"
+      "deezerTitle": "I Like Chopin (Single Edit)"
     }
   },
   {
     "rank": 14,
     "artist": "Rose Laurens",
     "title": "Africa (Voodoo Master)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-965",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 99056370,
-      "deezerLink": "https://www.deezer.com/track/99056370",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/926fa9004bb38496d6a3322f3cb1b4be/500x500-000000-80-0-0.jpg",
+      "deezerID": 99036712,
+      "deezerLink": "https://www.deezer.com/track/99036712",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09d6e1cac51bf5a85595d9c8fe15294f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rose Laurens",
-      "deezerTitle": "Africa"
+      "deezerTitle": "Africa (Voodoo Master)"
     }
   },
   {
     "rank": 15,
     "artist": "Captain Sensible",
     "title": "Wot!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-903",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 391553602,
       "deezerLink": "https://www.deezer.com/track/391553602",
@@ -176,6 +213,8 @@
     "rank": 16,
     "artist": "Phil Collins",
     "title": "You Can't Hurry Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-924",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 134036220,
       "deezerLink": "https://www.deezer.com/track/134036220",
@@ -188,10 +227,12 @@
     "rank": 17,
     "artist": "Musical Youth",
     "title": "Pass The Dutchie",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-898",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 2234298,
-      "deezerLink": "https://www.deezer.com/track/2234298",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/586d7267038476352b759c0a36415d67/500x500-000000-80-0-0.jpg",
+      "deezerID": 605723362,
+      "deezerLink": "https://www.deezer.com/track/605723362",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b73cc07b0c089f39ae7beb2b6504840d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Musical Youth",
       "deezerTitle": "Pass The Dutchie"
     }
@@ -200,6 +241,8 @@
     "rank": 18,
     "artist": "Kajagoogoo",
     "title": "Too Shy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-931",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3357587,
       "deezerLink": "https://www.deezer.com/track/3357587",
@@ -212,6 +255,8 @@
     "rank": 19,
     "artist": "David Bowie",
     "title": "Let's Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-939",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 565656032,
       "deezerLink": "https://www.deezer.com/track/565656032",
@@ -224,6 +269,8 @@
     "rank": 20,
     "artist": "Men Without Hats",
     "title": "The Safety Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-990",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 12180202,
       "deezerLink": "https://www.deezer.com/track/12180202",
@@ -236,6 +283,8 @@
     "rank": 21,
     "artist": "Eurythmics",
     "title": "Sweet Dreams (Are Made Of This)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-951",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 561836,
       "deezerLink": "https://www.deezer.com/track/561836",
@@ -247,12 +296,23 @@
   {
     "rank": 22,
     "artist": "Kiz",
-    "title": "Die Sennerin vom Königsee"
+    "title": "Die Sennerin vom Königsee",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-941",
+    "releaseYear": 1982,
+    "deezer": {
+      "deezerID": 3561996851,
+      "deezerLink": "https://www.deezer.com/track/3561996851",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f2b59bbaf17ff69b98d02884c9629ef/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "KIZ",
+      "deezerTitle": "Die Sennerin vom Königssee"
+    }
   },
   {
     "rank": 23,
     "artist": "Eddy Grant",
     "title": "I Don't Wanna Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-909",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 2542092641,
       "deezerLink": "https://www.deezer.com/track/2542092641",
@@ -265,6 +325,8 @@
     "rank": 24,
     "artist": "Trans-X",
     "title": "Living On Video",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-986",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 68606985,
       "deezerLink": "https://www.deezer.com/track/68606985",
@@ -277,10 +339,12 @@
     "rank": 25,
     "artist": "Ryan Paris",
     "title": "Dolce Vita",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-987",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 2589296,
-      "deezerLink": "https://www.deezer.com/track/2589296",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/abcf6ea2f3819e7d567e1bbc7cacf9dc/500x500-000000-80-0-0.jpg",
+      "deezerID": 914062362,
+      "deezerLink": "https://www.deezer.com/track/914062362",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c7a7d5eb7477407ff252d48ca1a48950/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Ryan Paris",
       "deezerTitle": "Dolce Vita"
     }
@@ -288,12 +352,16 @@
   {
     "rank": 26,
     "artist": "The Shorts",
-    "title": "Comment ça va [deutsche Version]"
+    "title": "Comment ça va [deutsche Version]",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-973",
+    "releaseYear": 1983
   },
   {
     "rank": 27,
     "artist": "Supertramp",
     "title": "It's Raining Again",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-887",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 2503285,
       "deezerLink": "https://www.deezer.com/track/2503285",
@@ -306,18 +374,22 @@
     "rank": 28,
     "artist": "Nickerbocker & Biene",
     "title": "Hallo Klaus (i wü nur zruck)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-932",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 15306741,
-      "deezerLink": "https://www.deezer.com/track/15306741",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b34e1ded82c38ec30875f93c9a4ca116/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Nickerbocker & Biene",
-      "deezerTitle": "HALLO KLAUS (I wü zruck zu Dir)  ZRUCK ZU DIR (Hallo Klaus)"
+      "deezerID": 104533642,
+      "deezerLink": "https://www.deezer.com/track/104533642",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b825fe0df3ef729882c09edf7c09f8ef/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nickerbocker",
+      "deezerTitle": "Hallo Klaus"
     }
   },
   {
     "rank": 29,
     "artist": "Righeira",
     "title": "Vamos a la playa",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-979",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 383445301,
       "deezerLink": "https://www.deezer.com/track/383445301",
@@ -330,6 +402,8 @@
     "rank": 30,
     "artist": "Michael Jackson",
     "title": "Beat It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-954",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 4763165,
       "deezerLink": "https://www.deezer.com/track/4763165",
@@ -342,9 +416,11 @@
     "rank": 31,
     "artist": "Haysi Fantayzee",
     "title": "John Wayne Is Big Leggy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-908",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 64358818,
-      "deezerLink": "https://www.deezer.com/track/64358818",
+      "deezerID": 64358814,
+      "deezerLink": "https://www.deezer.com/track/64358814",
       "cover": "https://cdn-images.dzcdn.net/images/cover/28c6e96fb941301e24427a0f0b0e2ded/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Haysi Fantayzee",
       "deezerTitle": "John Wayne Is Big Leggy"
@@ -354,10 +430,12 @@
     "rank": 32,
     "artist": "Nena",
     "title": "Leuchtturm",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7261",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 647405412,
-      "deezerLink": "https://www.deezer.com/track/647405412",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/baea88a54bafbaeb26a1fafd8490ba2d/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786035362,
+      "deezerLink": "https://www.deezer.com/track/3786035362",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c7c1153188e48a2ae756b1bc3fd6b441/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nena",
       "deezerTitle": "Leuchtturm"
     }
@@ -366,10 +444,12 @@
     "rank": 33,
     "artist": "Udo Lindenberg",
     "title": "Sonderzug nach Pankow",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7326",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 2658149,
-      "deezerLink": "https://www.deezer.com/track/2658149",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/44a939826a268cc3678fd8f55e40fd72/500x500-000000-80-0-0.jpg",
+      "deezerID": 136432688,
+      "deezerLink": "https://www.deezer.com/track/136432688",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fb94935ad20eccc7edef488526ad822/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Udo Lindenberg",
       "deezerTitle": "Sonderzug nach Pankow"
     }
@@ -378,6 +458,8 @@
     "rank": 34,
     "artist": "Culture Club",
     "title": "Karma Chameleon",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-999",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 3152791,
       "deezerLink": "https://www.deezer.com/track/3152791",
@@ -390,6 +472,8 @@
     "rank": 35,
     "artist": "Dionne Warwick",
     "title": "Heartbreaker",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-896",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 547621,
       "deezerLink": "https://www.deezer.com/track/547621",
@@ -402,6 +486,8 @@
     "rank": 36,
     "artist": "Frank Duval",
     "title": "Give Me Your Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-995",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 1536796002,
       "deezerLink": "https://www.deezer.com/track/1536796002",
@@ -414,6 +500,8 @@
     "rank": 37,
     "artist": "Icehouse",
     "title": "Hey Little Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-949",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 13213908,
       "deezerLink": "https://www.deezer.com/track/13213908",
@@ -426,6 +514,8 @@
     "rank": 38,
     "artist": "The Police",
     "title": "Every Breath You Take",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-974",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 2525864,
       "deezerLink": "https://www.deezer.com/track/2525864",
@@ -438,6 +528,8 @@
     "rank": 39,
     "artist": "Madness",
     "title": "Our House",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-942",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3069973981,
       "deezerLink": "https://www.deezer.com/track/3069973981",
@@ -450,6 +542,8 @@
     "rank": 40,
     "artist": "Spliff",
     "title": "Das Blech",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7329",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 582491,
       "deezerLink": "https://www.deezer.com/track/582491",
@@ -462,6 +556,8 @@
     "rank": 41,
     "artist": "Spider Murphy Gang",
     "title": "Ich schau' dich an",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-911",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3123341,
       "deezerLink": "https://www.deezer.com/track/3123341",
@@ -473,16 +569,27 @@
   {
     "rank": 42,
     "artist": "F-R David",
-    "title": "Words"
+    "title": "Words",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-874",
+    "releaseYear": 1982,
+    "deezer": {
+      "deezerID": 5367498,
+      "deezerLink": "https://www.deezer.com/track/5367498",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/044ecea1c2de4cb7561adbc4651e95e7/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "F.R. David",
+      "deezerTitle": "Words (Original Version 1983)"
+    }
   },
   {
     "rank": 43,
     "artist": "Nazareth",
     "title": "Dream On",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-914",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 143064182,
-      "deezerLink": "https://www.deezer.com/track/143064182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e44fb6529e501c14376fed807f3ff7d4/500x500-000000-80-0-0.jpg",
+      "deezerID": 3785265362,
+      "deezerLink": "https://www.deezer.com/track/3785265362",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e1f38c3562c05e75a9cf2fa79bb72d19/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nazareth",
       "deezerTitle": "Dream On"
     }
@@ -491,18 +598,22 @@
     "rank": 44,
     "artist": "Andy Borg",
     "title": "Arrivederci Claire",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-899",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 2457494,
-      "deezerLink": "https://www.deezer.com/track/2457494",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/96266bff4d2a4e09109b3f5f2546cd36/500x500-000000-80-0-0.jpg",
+      "deezerID": 104227866,
+      "deezerLink": "https://www.deezer.com/track/104227866",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1e9d7aaf6003db17339c9f675bc018e9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Andy Borg",
-      "deezerTitle": "Arrivederci Claire"
+      "deezerTitle": "Arrivederci Claire (Neuaufnahme)"
     }
   },
   {
     "rank": 45,
     "artist": "Dexys Midnight Runners & The Emerald Express",
     "title": "Come On Eileen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-892",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 106344460,
       "deezerLink": "https://www.deezer.com/track/106344460",
@@ -515,6 +626,8 @@
     "rank": 46,
     "artist": "The Flirts",
     "title": "Passion",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-913",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 78630051,
       "deezerLink": "https://www.deezer.com/track/78630051",
@@ -527,6 +640,8 @@
     "rank": 47,
     "artist": "Eurythmics",
     "title": "Love Is A Stranger",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-14378",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 15645537,
       "deezerLink": "https://www.deezer.com/track/15645537",
@@ -539,6 +654,8 @@
     "rank": 48,
     "artist": "Paul Young",
     "title": "Come Back And Stay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1016",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 582418,
       "deezerLink": "https://www.deezer.com/track/582418",
@@ -551,6 +668,8 @@
     "rank": 49,
     "artist": "Nicole",
     "title": "Ich hab' dich doch lieb",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15804",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 107726184,
       "deezerLink": "https://www.deezer.com/track/107726184",
@@ -563,18 +682,22 @@
     "rank": 50,
     "artist": "Trio",
     "title": "Anna - Lassmichrein lassmichraus",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15462",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 2249100,
       "deezerLink": "https://www.deezer.com/track/2249100",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bfc6ae8d433e8a05c798cf9b0631458e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Trio",
-      "deezerTitle": "Anna - Lassmichrein lassmichraus"
+      "deezerTitle": "Anna - Lassmichreinlassmichraus (Single Version)"
     }
   },
   {
     "rank": 51,
     "artist": "Roger Whittaker",
     "title": "Wenn es dich noch gibt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17510",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 121177148,
       "deezerLink": "https://www.deezer.com/track/121177148",
@@ -587,6 +710,8 @@
     "rank": 52,
     "artist": "Tommy Steiner",
     "title": "Die Fischer von San Juan",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-13063",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 2425815425,
       "deezerLink": "https://www.deezer.com/track/2425815425",
@@ -599,6 +724,8 @@
     "rank": 53,
     "artist": "Kano",
     "title": "Another Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-977",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 69513025,
       "deezerLink": "https://www.deezer.com/track/69513025",
@@ -611,6 +738,8 @@
     "rank": 54,
     "artist": "Freeez",
     "title": "I.O.U.",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-988",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 936925,
       "deezerLink": "https://www.deezer.com/track/936925",
@@ -623,10 +752,12 @@
     "rank": 55,
     "artist": "Nena",
     "title": "Nur geträumt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-893",
+    "releaseYear": 1982,
     "deezer": {
-      "deezerID": 639454152,
-      "deezerLink": "https://www.deezer.com/track/639454152",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bce3bde50b8451780ce7d582ad6731e4/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786035262,
+      "deezerLink": "https://www.deezer.com/track/3786035262",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c7c1153188e48a2ae756b1bc3fd6b441/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nena",
       "deezerTitle": "Nur geträumt"
     }
@@ -635,6 +766,8 @@
     "rank": 56,
     "artist": "Markus",
     "title": "Kleine Taschenlampe brenn'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7332",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 95661492,
       "deezerLink": "https://www.deezer.com/track/95661492",
@@ -647,6 +780,8 @@
     "rank": 57,
     "artist": "Daryl Hall + John Oates",
     "title": "Maneater",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-912",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 569561,
       "deezerLink": "https://www.deezer.com/track/569561",
@@ -659,6 +794,8 @@
     "rank": 58,
     "artist": "Michael Sembello",
     "title": "Maniac",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-996",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 540168502,
       "deezerLink": "https://www.deezer.com/track/540168502",
@@ -671,6 +808,8 @@
     "rank": 59,
     "artist": "David Bowie",
     "title": "China Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-969",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 565655092,
       "deezerLink": "https://www.deezer.com/track/565655092",
@@ -683,6 +822,8 @@
     "rank": 60,
     "artist": "Indeep",
     "title": "Last Night A D.J. Saved My Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-943",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 62960815,
       "deezerLink": "https://www.deezer.com/track/62960815",
@@ -695,6 +836,8 @@
     "rank": 61,
     "artist": "Renée & Renato",
     "title": "Save Your Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-919",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 489436212,
       "deezerLink": "https://www.deezer.com/track/489436212",
@@ -707,6 +850,8 @@
     "rank": 62,
     "artist": "Joe Cocker & Jennifer Warnes",
     "title": "Up Where We Belong",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-910",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3156388,
       "deezerLink": "https://www.deezer.com/track/3156388",
@@ -719,6 +864,8 @@
     "rank": 63,
     "artist": "Eddy Grant",
     "title": "Electric Avenue",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-929",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 2542092631,
       "deezerLink": "https://www.deezer.com/track/2542092631",
@@ -731,6 +878,8 @@
     "rank": 64,
     "artist": "Peter Schilling",
     "title": "Die Wüste lebt (Alarmsignal...)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-976",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 3605283,
       "deezerLink": "https://www.deezer.com/track/3605283",
@@ -743,6 +892,8 @@
     "rank": 65,
     "artist": "Styx",
     "title": "Mr. Roboto",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-938",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 952547,
       "deezerLink": "https://www.deezer.com/track/952547",
@@ -755,10 +906,12 @@
     "rank": 66,
     "artist": "Audrey Landers",
     "title": "Manuel Goodbye",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-953",
+    "releaseYear": 1983,
     "deezer": {
-      "deezerID": 122472458,
-      "deezerLink": "https://www.deezer.com/track/122472458",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9b0fc15deafbeaa5799d93c302e6c411/500x500-000000-80-0-0.jpg",
+      "deezerID": 2663211,
+      "deezerLink": "https://www.deezer.com/track/2663211",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/81ee07033aaaefdab102d604648eb9a3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Audrey Landers",
       "deezerTitle": "Manuel Goodbye"
     }
@@ -767,6 +920,8 @@
     "rank": 67,
     "artist": "Divine",
     "title": "Shoot Your Shot",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-923",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 78670680,
       "deezerLink": "https://www.deezer.com/track/78670680",
@@ -779,6 +934,8 @@
     "rank": 68,
     "artist": "Ultravox",
     "title": "Hymn",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-936",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 1787725877,
       "deezerLink": "https://www.deezer.com/track/1787725877",
@@ -791,6 +948,8 @@
     "rank": 69,
     "artist": "ixi",
     "title": "Der Knutschfleck",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7338",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 89077599,
       "deezerLink": "https://www.deezer.com/track/89077599",
@@ -803,6 +962,8 @@
     "rank": 70,
     "artist": "Hans Hartz",
     "title": "Die weißen Tauben sind müde",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17251",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 2253579,
       "deezerLink": "https://www.deezer.com/track/2253579",
@@ -815,6 +976,8 @@
     "rank": 71,
     "artist": "Al Bano & Romina Power",
     "title": "Tu, soltanto tu (mi hai fatto innamorare)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-902",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 632755,
       "deezerLink": "https://www.deezer.com/track/632755",
@@ -826,12 +989,23 @@
   {
     "rank": 72,
     "artist": "Trio",
-    "title": "Bum Bum"
+    "title": "Bum Bum",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-961",
+    "releaseYear": 1983,
+    "deezer": {
+      "deezerID": 2035990607,
+      "deezerLink": "https://www.deezer.com/track/2035990607",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0ff7e40b313449711ec97d9af5bdc3c4/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Trio",
+      "deezerTitle": "Bum Bum"
+    }
   },
   {
     "rank": 73,
     "artist": "Ricchi & Poveri",
     "title": "Mamma Maria",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-925",
+    "releaseYear": 1982,
     "deezer": {
       "deezerID": 636403,
       "deezerLink": "https://www.deezer.com/track/636403",
@@ -844,6 +1018,8 @@
     "rank": 74,
     "artist": "Genesis",
     "title": "Mama",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1001",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 14639826,
       "deezerLink": "https://www.deezer.com/track/14639826",
@@ -856,6 +1032,8 @@
     "rank": 75,
     "artist": "Donna Summer",
     "title": "She Works Hard For The Money",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-993",
+    "releaseYear": 1983,
     "deezer": {
       "deezerID": 34180931,
       "deezerLink": "https://www.deezer.com/track/34180931",

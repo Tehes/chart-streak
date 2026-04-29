@@ -2,16 +2,27 @@
   {
     "rank": 1,
     "artist": "Electronica's",
-    "title": "Dance Little Bird"
+    "title": "Dance Little Bird",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-785",
+    "releaseYear": 1980,
+    "deezer": {
+      "deezerID": 1970823997,
+      "deezerLink": "https://www.deezer.com/track/1970823997",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d3225bc2bde246e3ec9aa53645fb212/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "De Electronica's",
+      "deezerTitle": "Dance Little Birdie"
+    }
   },
   {
     "rank": 2,
     "artist": "Stars On 45",
     "title": "Stars On 45",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-732",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 1013176262,
-      "deezerLink": "https://www.deezer.com/track/1013176262",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/44d0283a7013a25cfe2ce5dacc974934/500x500-000000-80-0-0.jpg",
+      "deezerID": 60703711,
+      "deezerLink": "https://www.deezer.com/track/60703711",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6f69fb81b81ab67c98980205beb8b815/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Stars On 45",
       "deezerTitle": "Stars On 45"
     }
@@ -20,6 +31,8 @@
     "rank": 3,
     "artist": "Kim Wilde",
     "title": "Kids In America",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-737",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 2891799832,
       "deezerLink": "https://www.deezer.com/track/2891799832",
@@ -32,6 +45,8 @@
     "rank": 4,
     "artist": "Visage",
     "title": "Fade To Grey",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-716",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2285082,
       "deezerLink": "https://www.deezer.com/track/2285082",
@@ -44,6 +59,8 @@
     "rank": 5,
     "artist": "Phil Collins",
     "title": "In The Air Tonight",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-723",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 134036212,
       "deezerLink": "https://www.deezer.com/track/134036212",
@@ -56,6 +73,8 @@
     "rank": 6,
     "artist": "Barclay James Harvest",
     "title": "Life Is For Living",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-709",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1178567,
       "deezerLink": "https://www.deezer.com/track/1178567",
@@ -68,10 +87,12 @@
     "rank": 7,
     "artist": "Roland Kaiser",
     "title": "Lieb' mich ein letztes Mal",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17501",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 1723527587,
-      "deezerLink": "https://www.deezer.com/track/1723527587",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b816b67a32304ff1bbc31eac10d88467/500x500-000000-80-0-0.jpg",
+      "deezerID": 2908978811,
+      "deezerLink": "https://www.deezer.com/track/2908978811",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/44f4da83bc1f665ff0fc8bc31864787b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roland Kaiser",
       "deezerTitle": "Lieb mich ein letztes Mal"
     }
@@ -80,6 +101,8 @@
     "rank": 8,
     "artist": "Frank Duval & Orchestra",
     "title": "Angel Of Mine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-697",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1536795952,
       "deezerLink": "https://www.deezer.com/track/1536795952",
@@ -92,6 +115,8 @@
     "rank": 9,
     "artist": "Ottawan",
     "title": "Hands Up (Give Me Your Heart)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-733",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1436220782,
       "deezerLink": "https://www.deezer.com/track/1436220782",
@@ -104,6 +129,8 @@
     "rank": 10,
     "artist": "Kim Carnes",
     "title": "Bette Davis Eyes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-744",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 3153065,
       "deezerLink": "https://www.deezer.com/track/3153065",
@@ -116,6 +143,8 @@
     "rank": 11,
     "artist": "ABBA",
     "title": "Super Trouper",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-694",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 884033,
       "deezerLink": "https://www.deezer.com/track/884033",
@@ -128,6 +157,8 @@
     "rank": 12,
     "artist": "Bernie Paul",
     "title": "Oh No No",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-755",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 13783378,
       "deezerLink": "https://www.deezer.com/track/13783378",
@@ -140,18 +171,22 @@
     "rank": 13,
     "artist": "Jona Lewie",
     "title": "Stop The Cavalry",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-713",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 594710542,
-      "deezerLink": "https://www.deezer.com/track/594710542",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cb70bb6156255f1f6d79e238b7336fbe/500x500-000000-80-0-0.jpg",
+      "deezerID": 479305352,
+      "deezerLink": "https://www.deezer.com/track/479305352",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c29d8e1e2765d794f3250d8e62340ff9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jona Lewie",
-      "deezerTitle": "Stop the Cavalry"
+      "deezerTitle": "Stop The Cavalry"
     }
   },
   {
     "rank": 14,
     "artist": "Queen",
     "title": "Flash",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-11812",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 12325096,
       "deezerLink": "https://www.deezer.com/track/12325096",
@@ -164,6 +199,8 @@
     "rank": 15,
     "artist": "Shakin' Stevens",
     "title": "Marie, Marie",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-39135",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1132667162,
       "deezerLink": "https://www.deezer.com/track/1132667162",
@@ -176,6 +213,8 @@
     "rank": 16,
     "artist": "Robert Palmer",
     "title": "Johnny And Mary",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-687",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 610867942,
       "deezerLink": "https://www.deezer.com/track/610867942",
@@ -187,12 +226,23 @@
   {
     "rank": 17,
     "artist": "Joe Dolce Music Theatre",
-    "title": "Shaddap You Face"
+    "title": "Shaddap You Face",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-720",
+    "releaseYear": 1980,
+    "deezer": {
+      "deezerID": 26661891,
+      "deezerLink": "https://www.deezer.com/track/26661891",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/868a39c9167565a68f18d4f858298b17/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Joe Dolce",
+      "deezerTitle": "Shaddap You Face"
+    }
   },
   {
     "rank": 18,
     "artist": "Robert Palmer",
     "title": "Looking For Clues",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-724",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 541625512,
       "deezerLink": "https://www.deezer.com/track/541625512",
@@ -205,6 +255,8 @@
     "rank": 19,
     "artist": "Hanne Haller",
     "title": "Samstag abend",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17502",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1007732,
       "deezerLink": "https://www.deezer.com/track/1007732",
@@ -217,6 +269,8 @@
     "rank": 20,
     "artist": "John Lennon",
     "title": "Woman",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-712",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 7163159,
       "deezerLink": "https://www.deezer.com/track/7163159",
@@ -229,10 +283,12 @@
     "rank": 21,
     "artist": "Shakin' Stevens",
     "title": "You Drive Me Crazy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-750",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 1152437152,
-      "deezerLink": "https://www.deezer.com/track/1152437152",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/488b78e595767f9b102a6838b5bbf4e3/500x500-000000-80-0-0.jpg",
+      "deezerID": 1132667192,
+      "deezerLink": "https://www.deezer.com/track/1132667192",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shakin' Stevens",
       "deezerTitle": "You Drive Me Crazy"
     }
@@ -241,10 +297,12 @@
     "rank": 22,
     "artist": "Shakin' Stevens",
     "title": "This Ole House",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-736",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 5404536,
-      "deezerLink": "https://www.deezer.com/track/5404536",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerID": 1132667092,
+      "deezerLink": "https://www.deezer.com/track/1132667092",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ec35ef9ec7c66d12172ee3fff2114f8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shakin' Stevens",
       "deezerTitle": "This Ole House"
     }
@@ -253,10 +311,12 @@
     "rank": 23,
     "artist": "Secret Service",
     "title": "Ye-si-ca",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-721",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 1241591872,
-      "deezerLink": "https://www.deezer.com/track/1241591872",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/faa7934706007d91edcc10b59f4901ca/500x500-000000-80-0-0.jpg",
+      "deezerID": 1170314,
+      "deezerLink": "https://www.deezer.com/track/1170314",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/78ea74682cc519fbb012c685701b67ca/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Secret Service",
       "deezerTitle": "Ye Si Ca"
     }
@@ -265,6 +325,8 @@
     "rank": 24,
     "artist": "Kim Wilde",
     "title": "Chequered Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-749",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 2896479021,
       "deezerLink": "https://www.deezer.com/track/2896479021",
@@ -277,6 +339,8 @@
     "rank": 25,
     "artist": "The Boomtown Rats",
     "title": "Banana Republic",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-705",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1567678,
       "deezerLink": "https://www.deezer.com/track/1567678",
@@ -289,30 +353,36 @@
     "rank": 26,
     "artist": "Boney M.",
     "title": "Felicidad (Margherita)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-701",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 1051017,
-      "deezerLink": "https://www.deezer.com/track/1051017",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5b95e4fc13571a55f02478665f3e2ec9/500x500-000000-80-0-0.jpg",
+      "deezerID": 1241577242,
+      "deezerLink": "https://www.deezer.com/track/1241577242",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f13ac1ab774fd4f6d76976b6bbc1c6bf/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Boney M.",
-      "deezerTitle": "Felicidad"
+      "deezerTitle": "Felicidad (Margherita)"
     }
   },
   {
     "rank": 27,
     "artist": "Nicole",
     "title": "Flieg nicht so hoch, mein kleiner Freund",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-760",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 1082131,
-      "deezerLink": "https://www.deezer.com/track/1082131",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6db67567dd788c85c8ea0a3d5e958758/500x500-000000-80-0-0.jpg",
+      "deezerID": 15739818,
+      "deezerLink": "https://www.deezer.com/track/15739818",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb22910c428d3ab75918f46a0af800e2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nicole",
-      "deezerTitle": "Flieg' nicht so hoch, mein kleiner Freund"
+      "deezerTitle": "Flieg nicht so hoch, mein kleiner Freund (feat. Olsen Brothers & Michael Hirte)"
     }
   },
   {
     "rank": 28,
     "artist": "Goombay Dance Band",
     "title": "Seven Tears",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9625",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 443620252,
       "deezerLink": "https://www.deezer.com/track/443620252",
@@ -325,6 +395,8 @@
     "rank": 29,
     "artist": "John Lennon",
     "title": "(Just Like) Starting Over",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-699",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 122210000,
       "deezerLink": "https://www.deezer.com/track/122210000",
@@ -337,6 +409,8 @@
     "rank": 30,
     "artist": "Telly Savalas",
     "title": "Some Broken Hearts Never Mend",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-703",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2351986305,
       "deezerLink": "https://www.deezer.com/track/2351986305",
@@ -348,12 +422,16 @@
   {
     "rank": 31,
     "artist": "Eddy Grant",
-    "title": "Do You Feel My Love?"
+    "title": "Do You Feel My Love?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-710",
+    "releaseYear": 1980
   },
   {
     "rank": 32,
     "artist": "Barbra Streisand",
     "title": "Woman In Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-688",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 625398,
       "deezerLink": "https://www.deezer.com/track/625398",
@@ -366,6 +444,8 @@
     "rank": 33,
     "artist": "Keith Marshall",
     "title": "Only Crying",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-765",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1693333937,
       "deezerLink": "https://www.deezer.com/track/1693333937",
@@ -378,6 +458,8 @@
     "rank": 34,
     "artist": "Loretta Goggi",
     "title": "Maledetta primavera",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-731",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 4090061,
       "deezerLink": "https://www.deezer.com/track/4090061",
@@ -390,6 +472,8 @@
     "rank": 35,
     "artist": "Emmylou Harris",
     "title": "Mister Sandman",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-740",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 5618717,
       "deezerLink": "https://www.deezer.com/track/5618717",
@@ -402,6 +486,8 @@
     "rank": 36,
     "artist": "Nana Mouskouri",
     "title": "La Provence (du blühendes Land)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-753",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2319544,
       "deezerLink": "https://www.deezer.com/track/2319544",
@@ -414,10 +500,11 @@
     "rank": 37,
     "artist": "Electric Light Orchestra",
     "title": "Hold On Tight",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-762",
     "deezer": {
       "deezerID": 15310533,
       "deezerLink": "https://www.deezer.com/track/15310533",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0c9f9b5f3253d783bdad0ea4e9331798/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3d7af8050820dc3a62c21b6e4b0d2080/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Electric Light Orchestra",
       "deezerTitle": "Hold On Tight"
     }
@@ -426,6 +513,8 @@
     "rank": 38,
     "artist": "Peter Maffay",
     "title": "Über sieben Brücken mußt du gehn",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-702",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 566832,
       "deezerLink": "https://www.deezer.com/track/566832",
@@ -438,6 +527,8 @@
     "rank": 39,
     "artist": "Dschinghis Khan",
     "title": "Loreley",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-757",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 15641575,
       "deezerLink": "https://www.deezer.com/track/15641575",
@@ -450,6 +541,8 @@
     "rank": 40,
     "artist": "Ricchi & Poveri",
     "title": "Sarà perché ti amo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-738",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 636405,
       "deezerLink": "https://www.deezer.com/track/636405",
@@ -462,6 +555,8 @@
     "rank": 41,
     "artist": "Bucks Fizz",
     "title": "Making Your Mind Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-727",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 599530,
       "deezerLink": "https://www.deezer.com/track/599530",
@@ -474,6 +569,8 @@
     "rank": 42,
     "artist": "The Police",
     "title": "De Do Do Do De Da Da Da",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-708",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2525870,
       "deezerLink": "https://www.deezer.com/track/2525870",
@@ -486,22 +583,26 @@
     "rank": 43,
     "artist": "Peter Kent",
     "title": "Stop 'N' Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-735",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 5536863,
-      "deezerLink": "https://www.deezer.com/track/5536863",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f51d13a308ecacde799af9f25d8695c0/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Peter Kent & Friends",
-      "deezerTitle": "Stop And Go"
+      "deezerID": 3451070371,
+      "deezerLink": "https://www.deezer.com/track/3451070371",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fba50be1fadcd507cfde4f6f6a092684/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Peter Kent",
+      "deezerTitle": "Stop 'N' Go"
     }
   },
   {
     "rank": 44,
     "artist": "Goombay Dance Band",
     "title": "Eldorado",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7040",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 2180974747,
-      "deezerLink": "https://www.deezer.com/track/2180974747",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/137677d9c943612f279ee6e5a18e501a/500x500-000000-80-0-0.jpg",
+      "deezerID": 3024223331,
+      "deezerLink": "https://www.deezer.com/track/3024223331",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5f81596f9eb5d56fc6e4a07268f35a46/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Goombay Dance Band",
       "deezerTitle": "Eldorado"
     }
@@ -510,6 +611,8 @@
     "rank": 45,
     "artist": "Saragossa Band",
     "title": "Agadou",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15731",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 410757232,
       "deezerLink": "https://www.deezer.com/track/410757232",
@@ -522,6 +625,8 @@
     "rank": 46,
     "artist": "Lio",
     "title": "Amoureux solitaires",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-19651",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 122545118,
       "deezerLink": "https://www.deezer.com/track/122545118",
@@ -534,6 +639,8 @@
     "rank": 47,
     "artist": "Arabesque",
     "title": "Marigot Bay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7283",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 18228332,
       "deezerLink": "https://www.deezer.com/track/18228332",
@@ -546,18 +653,15 @@
     "rank": 48,
     "artist": "Precious Wilson",
     "title": "We Are On The Race Track",
-    "deezer": {
-      "deezerID": 567445,
-      "deezerLink": "https://www.deezer.com/track/567445",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/011878e25d3e343483a85169123ffb53/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Precious Wilson",
-      "deezerTitle": "We Are on the Race Track"
-    }
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15398",
+    "releaseYear": 1980
   },
   {
     "rank": 49,
     "artist": "Max Werner",
     "title": "Rain In May",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-775",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1013203512,
       "deezerLink": "https://www.deezer.com/track/1013203512",
@@ -570,22 +674,26 @@
     "rank": 50,
     "artist": "Odyssey",
     "title": "Going Back To My Roots",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-778",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 5495627,
-      "deezerLink": "https://www.deezer.com/track/5495627",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/500x500-000000-80-0-0.jpg",
+      "deezerID": 559415,
+      "deezerLink": "https://www.deezer.com/track/559415",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f413dc4daa0b78b73538153752369124/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Odyssey",
       "deezerTitle": "Going Back to My Roots"
     }
   },
   {
     "rank": 51,
-    "artist": "John Lennon",
+    "artist": "John Lennon / Plastic Ono Band",
     "title": "Imagine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-214",
+    "releaseYear": 1971,
     "deezer": {
-      "deezerID": 7193834,
-      "deezerLink": "https://www.deezer.com/track/7193834",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/500x500-000000-80-0-0.jpg",
+      "deezerID": 3584523761,
+      "deezerLink": "https://www.deezer.com/track/3584523761",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d5e77a48ed2c38dc76aa128ada54e61/500x500-000000-80-0-0.jpg",
       "deezerArtist": "John Lennon",
       "deezerTitle": "Imagine"
     }
@@ -594,6 +702,8 @@
     "rank": 52,
     "artist": "Roland Kaiser",
     "title": "Santa Maria",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-692",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 66506378,
       "deezerLink": "https://www.deezer.com/track/66506378",
@@ -606,6 +716,8 @@
     "rank": 53,
     "artist": "Secret Service",
     "title": "L.A. Goodbye",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7505",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1170320,
       "deezerLink": "https://www.deezer.com/track/1170320",
@@ -617,16 +729,27 @@
   {
     "rank": 54,
     "artist": "Stars On 45",
-    "title": "Stars On 45 Vol. 2"
+    "title": "Stars On 45 Vol. 2",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-754",
+    "releaseYear": 1981,
+    "deezer": {
+      "deezerID": 1488636352,
+      "deezerLink": "https://www.deezer.com/track/1488636352",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ae0cec620b73f942b5e5dbdaf9f09a2b/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Stars On 45",
+      "deezerTitle": "Volume Two (Remastered)"
+    }
   },
   {
     "rank": 55,
     "artist": "Fred Sonnenschein und seine Freunde",
     "title": "Ja, wenn wir alle Englein wären",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-789",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 661831872,
-      "deezerLink": "https://www.deezer.com/track/661831872",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/684b0c97cb11b0ad9790aea573fbc0ae/500x500-000000-80-0-0.jpg",
+      "deezerID": 71756010,
+      "deezerLink": "https://www.deezer.com/track/71756010",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a8207f43b237c2e802d2d40befea1cc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fred Sonnenschein & seine Freunde",
       "deezerTitle": "Ja, wenn wir alle Englein wären (Dance Little Bird)"
     }
@@ -635,6 +758,8 @@
     "rank": 56,
     "artist": "Rod Stewart",
     "title": "Passion",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-696",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2550608,
       "deezerLink": "https://www.deezer.com/track/2550608",
@@ -647,6 +772,8 @@
     "rank": 57,
     "artist": "Adam And The Ants",
     "title": "Stand And Deliver",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9121",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 564953,
       "deezerLink": "https://www.deezer.com/track/564953",
@@ -659,6 +786,8 @@
     "rank": 58,
     "artist": "Paola",
     "title": "Der Teufel und der junge Mann",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15356",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 15258317,
       "deezerLink": "https://www.deezer.com/track/15258317",
@@ -671,10 +800,12 @@
     "rank": 59,
     "artist": "Kool & The Gang",
     "title": "Celebration",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-704",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 95873824,
-      "deezerLink": "https://www.deezer.com/track/95873824",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9953aecd3b6bad65f5b0acf711316fdd/500x500-000000-80-0-0.jpg",
+      "deezerID": 906583,
+      "deezerLink": "https://www.deezer.com/track/906583",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dae9c863ba27686af441666135693de2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kool & The Gang",
       "deezerTitle": "Celebration"
     }
@@ -683,22 +814,26 @@
     "rank": 60,
     "artist": "Rex Gildo",
     "title": "Wenn ich je deine Liebe verlier",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17504",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 1415410532,
-      "deezerLink": "https://www.deezer.com/track/1415410532",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a8fae9bd0640dca2d5f7f38802990486/500x500-000000-80-0-0.jpg",
+      "deezerID": 2847336,
+      "deezerLink": "https://www.deezer.com/track/2847336",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/109d0f61aa9b0d15ce7ff13a4fca0f2d/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rex Gildo",
-      "deezerTitle": "Du, wenn ich je deine Liebe verlier'"
+      "deezerTitle": "Wenn ich je deine Liebe verlier"
     }
   },
   {
     "rank": 61,
     "artist": "G.G. Anderson",
     "title": "Mama Lorraine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-14870",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 103235370,
-      "deezerLink": "https://www.deezer.com/track/103235370",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d148df213f316d496445036919aeaef0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3785457102,
+      "deezerLink": "https://www.deezer.com/track/3785457102",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/acb64e3b117af87ea96248ac7f7a49ed/500x500-000000-80-0-0.jpg",
       "deezerArtist": "G.G. Anderson",
       "deezerTitle": "Mama Lorraine"
     }
@@ -707,6 +842,8 @@
     "rank": 62,
     "artist": "Shakin' Stevens",
     "title": "Green Door",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-771",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1132667122,
       "deezerLink": "https://www.deezer.com/track/1132667122",
@@ -719,6 +856,8 @@
     "rank": 63,
     "artist": "Visage",
     "title": "Mind Of A Toy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-12288",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 2285083,
       "deezerLink": "https://www.deezer.com/track/2285083",
@@ -731,6 +870,8 @@
     "rank": 64,
     "artist": "Ultravox",
     "title": "Vienna",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8355",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 1787693427,
       "deezerLink": "https://www.deezer.com/track/1787693427",
@@ -743,18 +884,22 @@
     "rank": 65,
     "artist": "Howard Carpendale",
     "title": "Wem",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8605",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 780614812,
-      "deezerLink": "https://www.deezer.com/track/780614812",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/361c0c6d9333820e04829e8bdbf96d77/500x500-000000-80-0-0.jpg",
+      "deezerID": 3841791371,
+      "deezerLink": "https://www.deezer.com/track/3841791371",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/800d6d605c1d11ad2f86aea2235acccc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Howard Carpendale",
-      "deezerTitle": "Wem..."
+      "deezerTitle": "Wem"
     }
   },
   {
     "rank": 66,
     "artist": "Leo Sayer",
     "title": "More Than I Can Say",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-683",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 62820813,
       "deezerLink": "https://www.deezer.com/track/62820813",
@@ -767,6 +912,8 @@
     "rank": 67,
     "artist": "Grace Jones",
     "title": "I've Seen That Face Before (Libertango)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-768",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 1117193,
       "deezerLink": "https://www.deezer.com/track/1117193",
@@ -779,6 +926,8 @@
     "rank": 68,
     "artist": "Aneka",
     "title": "Japanese Boy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-776",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 6162649,
       "deezerLink": "https://www.deezer.com/track/6162649",
@@ -791,6 +940,8 @@
     "rank": 69,
     "artist": "Roland Kaiser",
     "title": "Dich zu lieben",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15413",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 64949074,
       "deezerLink": "https://www.deezer.com/track/64949074",
@@ -803,6 +954,8 @@
     "rank": 70,
     "artist": "Doris D And The Pins",
     "title": "Shine Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15401",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 10768581,
       "deezerLink": "https://www.deezer.com/track/10768581",
@@ -815,6 +968,8 @@
     "rank": 71,
     "artist": "Queen",
     "title": "Another One Bites The Dust",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-695",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 12206946,
       "deezerLink": "https://www.deezer.com/track/12206946",
@@ -827,6 +982,8 @@
     "rank": 72,
     "artist": "REO Speedwagon",
     "title": "Keep On Loving You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-726",
+    "releaseYear": 1980,
     "deezer": {
       "deezerID": 581979,
       "deezerLink": "https://www.deezer.com/track/581979",
@@ -839,10 +996,12 @@
     "rank": 73,
     "artist": "Roxy Music",
     "title": "Jealous Guy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-718",
+    "releaseYear": 1981,
     "deezer": {
-      "deezerID": 3088610,
-      "deezerLink": "https://www.deezer.com/track/3088610",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/76f8c831acade571ced85f9260e916ac/500x500-000000-80-0-0.jpg",
+      "deezerID": 3152110,
+      "deezerLink": "https://www.deezer.com/track/3152110",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d43ffb8c89ede43a4c96653ec91f928c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roxy Music",
       "deezerTitle": "Jealous Guy"
     }
@@ -851,10 +1010,12 @@
     "rank": 74,
     "artist": "Sheena Easton",
     "title": "For Your Eyes Only",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-761",
+    "releaseYear": 1981,
     "deezer": {
       "deezerID": 3363581,
       "deezerLink": "https://www.deezer.com/track/3363581",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/eba81865bbb686d44ef8ad0a1277f08c/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7628aec82266bde9fd026fdd39820a99/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sheena Easton",
       "deezerTitle": "For Your Eyes Only"
     }
@@ -863,10 +1024,12 @@
     "rank": 75,
     "artist": "Blondie",
     "title": "The Tide Is High",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-698",
+    "releaseYear": 1980,
     "deezer": {
-      "deezerID": 13569204,
-      "deezerLink": "https://www.deezer.com/track/13569204",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/def8084221498b886f9dc105121dbc3d/500x500-000000-80-0-0.jpg",
+      "deezerID": 3167194,
+      "deezerLink": "https://www.deezer.com/track/3167194",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07347dddc5fcf55249cd8b610b6652a9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Blondie",
       "deezerTitle": "The Tide Is High"
     }

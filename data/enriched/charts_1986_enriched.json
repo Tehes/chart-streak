@@ -3,20 +3,24 @@
     "rank": 1,
     "artist": "Falco",
     "title": "Jeanny Part I",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1365",
+    "releaseYear": 1985,
     "deezer": {
-      "deezerID": 686916,
-      "deezerLink": "https://www.deezer.com/track/686916",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1be5bd48b8f61e509f2589f1b7e4fef8/500x500-000000-80-0-0.jpg",
+      "deezerID": 142334591,
+      "deezerLink": "https://www.deezer.com/track/142334591",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8bfb068c2769c3e87bb90c0fa5a37d1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Falco",
-      "deezerTitle": "Jeanny Part I"
+      "deezerTitle": "Jeanny"
     }
   },
   {
     "rank": 2,
     "artist": "Chris Norman",
     "title": "Midnight Lady",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1428",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 61695090,
+      "deezerID": 61509261,
       "deezerLink": "https://www.deezer.com/track/61509261",
       "cover": "https://cdn-images.dzcdn.net/images/cover/17831661a58bfba9f1abc2af436abe26/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Chris Norman",
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "Level 42",
     "title": "Lessons In Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1457",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 92871830,
       "deezerLink": "https://www.deezer.com/track/92871830",
@@ -39,6 +45,8 @@
     "rank": 4,
     "artist": "Münchener Freiheit",
     "title": "Ohne dich (schlaf ich heut Nacht nicht ein)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1395",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 630374,
       "deezerLink": "https://www.deezer.com/track/630374",
@@ -51,11 +59,13 @@
     "rank": 5,
     "artist": "M.C. Miker 'G' & Deejay Sven",
     "title": "Holiday Rap",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1494",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 73645551,
+      "deezerID": 2650906322,
       "deezerLink": "https://www.deezer.com/track/2650906322",
       "cover": "https://cdn-images.dzcdn.net/images/cover/30797745d63acc65a0186aa6a081616c/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "MC MIKER G & DEEJAY SVEN",
+      "deezerArtist": "MC Miker G",
       "deezerTitle": "Holiday Rap"
     }
   },
@@ -63,18 +73,22 @@
     "rank": 6,
     "artist": "Sam Cooke",
     "title": "Wonderful World",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1446",
+    "releaseYear": 1960,
     "deezer": {
-      "deezerID": 2689687,
-      "deezerLink": "https://www.deezer.com/track/2689687",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fd9d1aeabc4eade0c2c779aff609b4ad/500x500-000000-80-0-0.jpg",
+      "deezerID": 13205914,
+      "deezerLink": "https://www.deezer.com/track/13205914",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c543b3a6e194cf3e6f0b6858b0209084/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sam Cooke",
-      "deezerTitle": "Wonderful World"
+      "deezerTitle": "(What A) Wonderful World"
     }
   },
   {
     "rank": 7,
     "artist": "Samantha Fox",
     "title": "Touch Me (I Want Your Body)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1429",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 601886,
       "deezerLink": "https://www.deezer.com/track/601886",
@@ -87,6 +101,8 @@
     "rank": 8,
     "artist": "Bruce & Bongo",
     "title": "Geil",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1423",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 128947020,
       "deezerLink": "https://www.deezer.com/track/128947020",
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "Europe",
     "title": "The Final Countdown",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1491",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 619310,
       "deezerLink": "https://www.deezer.com/track/619310",
@@ -111,10 +129,12 @@
     "rank": 10,
     "artist": "Bananarama",
     "title": "Venus",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1454",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 421388682,
-      "deezerLink": "https://www.deezer.com/track/421388682",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cb91386979aeac25773fab2a3779abd9/500x500-000000-80-0-0.jpg",
+      "deezerID": 420143322,
+      "deezerLink": "https://www.deezer.com/track/420143322",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/125ec5e6b222780edc9aef66d1a95774/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bananarama",
       "deezerTitle": "Venus"
     }
@@ -123,18 +143,22 @@
     "rank": 11,
     "artist": "Modern Talking",
     "title": "Atlantis Is Calling (S.O.S. For Love)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1440",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 374123511,
-      "deezerLink": "https://www.deezer.com/track/374123511",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8861de03edc42a17ba31d38e1fffc268/500x500-000000-80-0-0.jpg",
+      "deezerID": 74249002,
+      "deezerLink": "https://www.deezer.com/track/74249002",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e087110af2549642da54098a5c14b7ab/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Modern Talking",
-      "deezerTitle": "Atlantis Is Calling"
+      "deezerTitle": "Atlantis Is Calling (S.O.S. for Love)"
     }
   },
   {
     "rank": 12,
     "artist": "Elton John",
     "title": "Nikita",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1347",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 1146286,
       "deezerLink": "https://www.deezer.com/track/1146286",
@@ -147,10 +171,12 @@
     "rank": 13,
     "artist": "Pet Shop Boys",
     "title": "West End Girls",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1377",
+    "releaseYear": 1985,
     "deezer": {
-      "deezerID": 462775272,
-      "deezerLink": "https://www.deezer.com/track/462775272",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2fe9c9aa95c17d4f8f773fc16f9e012d/500x500-000000-80-0-0.jpg",
+      "deezerID": 3122969,
+      "deezerLink": "https://www.deezer.com/track/3122969",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e528ddef83855d8b40d09340438b237/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pet Shop Boys",
       "deezerTitle": "West End Girls"
     }
@@ -159,6 +185,8 @@
     "rank": 14,
     "artist": "Modern Talking",
     "title": "Brother Louie",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1386",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 548510,
       "deezerLink": "https://www.deezer.com/track/548510",
@@ -171,6 +199,8 @@
     "rank": 15,
     "artist": "Frankie Goes To Hollywood",
     "title": "Rage Hard",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1496",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 478187282,
       "deezerLink": "https://www.deezer.com/track/478187282",
@@ -183,6 +213,8 @@
     "rank": 16,
     "artist": "Billy Ocean",
     "title": "When The Going Gets Tough, The Tough Get Going",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1387",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 6071028,
       "deezerLink": "https://www.deezer.com/track/6071028",
@@ -195,6 +227,8 @@
     "rank": 17,
     "artist": "Stéphanie",
     "title": "Irresistible",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-25510",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 745829982,
       "deezerLink": "https://www.deezer.com/track/745829982",
@@ -207,10 +241,12 @@
     "rank": 18,
     "artist": "Madonna",
     "title": "Papa Don't Preach",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1465",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 4209660,
-      "deezerLink": "https://www.deezer.com/track/4209660",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/195d3d2c1196b20711cfb6ad76e1c2ba/500x500-000000-80-0-0.jpg",
+      "deezerID": 678363,
+      "deezerLink": "https://www.deezer.com/track/678363",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43a8e2b1b035391f58b0927cf1040bc4/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Madonna",
       "deezerTitle": "Papa Don't Preach"
     }
@@ -219,6 +255,8 @@
     "rank": 19,
     "artist": "Animotion",
     "title": "I Engineer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1438",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 1758952397,
       "deezerLink": "https://www.deezer.com/track/1758952397",
@@ -231,6 +269,8 @@
     "rank": 20,
     "artist": "Peter Gabriel",
     "title": "Sledgehammer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1450",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 540503442,
       "deezerLink": "https://www.deezer.com/track/540503442",
@@ -243,10 +283,12 @@
     "rank": 21,
     "artist": "Sheila E.",
     "title": "A Love Bizarre",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1427",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 678356,
       "deezerLink": "https://www.deezer.com/track/678356",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/25920fbb1493d2aa026f8c8bba3e16f2/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a48e86b230affcfc15f6fb70459d6f62/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sheila E.",
       "deezerTitle": "A Love Bizarre"
     }
@@ -255,6 +297,8 @@
     "rank": 22,
     "artist": "Bangles",
     "title": "Manic Monday",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1406",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 608749,
       "deezerLink": "https://www.deezer.com/track/608749",
@@ -267,6 +311,8 @@
     "rank": 23,
     "artist": "Nu Shooz",
     "title": "I Can't Wait",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1474",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 644342542,
       "deezerLink": "https://www.deezer.com/track/644342542",
@@ -279,10 +325,12 @@
     "rank": 24,
     "artist": "Queen",
     "title": "A Kind Of Magic",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1422",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 13499039,
-      "deezerLink": "https://www.deezer.com/track/13499039",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+      "deezerID": 7868647,
+      "deezerLink": "https://www.deezer.com/track/7868647",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa63381faefb51fba501498bc836765a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Queen",
       "deezerTitle": "A Kind Of Magic"
     }
@@ -291,6 +339,8 @@
     "rank": 25,
     "artist": "The Human League",
     "title": "Being Boiled",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7686",
+    "releaseYear": 1978,
     "deezer": {
       "deezerID": 3092890,
       "deezerLink": "https://www.deezer.com/track/3092890",
@@ -303,6 +353,8 @@
     "rank": 26,
     "artist": "Sandra",
     "title": "In The Heat Of The Night",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1351",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 3092549,
       "deezerLink": "https://www.deezer.com/track/3092549",
@@ -315,18 +367,22 @@
     "rank": 27,
     "artist": "Falco",
     "title": "The Sound Of Musik",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1471",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 6469183,
-      "deezerLink": "https://www.deezer.com/track/6469183",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/423cdfaf506ad5f660f3c3dcbecbb69b/500x500-000000-80-0-0.jpg",
+      "deezerID": 1526401372,
+      "deezerLink": "https://www.deezer.com/track/1526401372",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ae37f6275807de60b3c2d02a632e0e1/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Falco",
-      "deezerTitle": "The Sound of Musik"
+      "deezerTitle": "The Sound of Musik (Single Edit)"
     }
   },
   {
     "rank": 28,
     "artist": "Prince & The Revolution",
     "title": "Kiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1414",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 664178,
       "deezerLink": "https://www.deezer.com/track/664178",
@@ -339,6 +395,8 @@
     "rank": 29,
     "artist": "Cock Robin",
     "title": "The Promise You Made",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1419",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 895054,
       "deezerLink": "https://www.deezer.com/track/895054",
@@ -351,6 +409,8 @@
     "rank": 30,
     "artist": "Survivor",
     "title": "Burning Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1379",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 576423,
       "deezerLink": "https://www.deezer.com/track/576423",
@@ -362,12 +422,16 @@
   {
     "rank": 31,
     "artist": "Mike Oldfield",
-    "title": "Pictures In The Dark"
+    "title": "Pictures In The Dark",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1370",
+    "releaseYear": 1985
   },
   {
     "rank": 32,
     "artist": "Bronski Beat",
     "title": "Hit That Perfect Beat",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1384",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 428692132,
       "deezerLink": "https://www.deezer.com/track/428692132",
@@ -380,6 +444,8 @@
     "rank": 33,
     "artist": "Wham!",
     "title": "The Edge Of Heaven",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1461",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 14525094,
       "deezerLink": "https://www.deezer.com/track/14525094",
@@ -392,6 +458,8 @@
     "rank": 34,
     "artist": "a-ha",
     "title": "Take On Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1340",
+    "releaseYear": 1984,
     "deezer": {
       "deezerID": 664107,
       "deezerLink": "https://www.deezer.com/track/664107",
@@ -404,6 +472,8 @@
     "rank": 35,
     "artist": "Hubert Kah",
     "title": "Limousine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1509",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 81760068,
       "deezerLink": "https://www.deezer.com/track/81760068",
@@ -416,18 +486,22 @@
     "rank": 36,
     "artist": "Falco",
     "title": "Coming Home (Jeanny Part 2, ein Jahr danach)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1520",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 6469180,
-      "deezerLink": "https://www.deezer.com/track/6469180",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/423cdfaf506ad5f660f3c3dcbecbb69b/500x500-000000-80-0-0.jpg",
+      "deezerID": 1558837972,
+      "deezerLink": "https://www.deezer.com/track/1558837972",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0383f5109b206430181b1b5f760bf621/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Falco",
-      "deezerTitle": "Coming Home"
+      "deezerTitle": "Coming Home (Jeanny Pt. 2, Ein Jahr danach)"
     }
   },
   {
     "rank": 37,
     "artist": "Tina Turner",
     "title": "Typical Male",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1487",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 3120280,
       "deezerLink": "https://www.deezer.com/track/3120280",
@@ -440,6 +514,8 @@
     "rank": 38,
     "artist": "Jennifer Rush",
     "title": "Destiny",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1330",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 8238050,
       "deezerLink": "https://www.deezer.com/track/8238050",
@@ -452,18 +528,22 @@
     "rank": 39,
     "artist": "a-ha",
     "title": "The Sun Always Shines On T.V.",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1383",
+    "releaseYear": 1985,
     "deezer": {
-      "deezerID": 412539632,
-      "deezerLink": "https://www.deezer.com/track/412539632",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/17a72bef8b06d425c5a5087956a1cfbd/500x500-000000-80-0-0.jpg",
+      "deezerID": 664115,
+      "deezerLink": "https://www.deezer.com/track/664115",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/500x500-000000-80-0-0.jpg",
       "deezerArtist": "a-ha",
-      "deezerTitle": "The Sun Always Shines On TV"
+      "deezerTitle": "The Sun Always Shines on T.V."
     }
   },
   {
     "rank": 40,
     "artist": "Miami Sound Machine",
     "title": "Bad Boy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1458",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 9437107,
       "deezerLink": "https://www.deezer.com/track/9437107",
@@ -476,6 +556,8 @@
     "rank": 41,
     "artist": "Feargal Sharkey",
     "title": "A Good Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1364",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 3156940,
       "deezerLink": "https://www.deezer.com/track/3156940",
@@ -488,6 +570,8 @@
     "rank": 42,
     "artist": "Grace Jones",
     "title": "Slave To The Rhythm",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1346",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 2960647,
       "deezerLink": "https://www.deezer.com/track/2960647",
@@ -500,6 +584,8 @@
     "rank": 43,
     "artist": "Berlin",
     "title": "Take My Breath Away",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1505",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 7675055,
       "deezerLink": "https://www.deezer.com/track/7675055",
@@ -512,22 +598,26 @@
     "rank": 44,
     "artist": "Johnny Nash",
     "title": "Rock Me Baby",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1436",
+    "releaseYear": 1985,
     "deezer": {
-      "deezerID": 3006369871,
-      "deezerLink": "https://www.deezer.com/track/366387031",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2493182b87c74b52db8aea8cd56dde27/500x500-000000-80-0-0.jpg",
+      "deezerID": 15680712,
+      "deezerLink": "https://www.deezer.com/track/15680712",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be55646781edcefddfb746304c0fdbf5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Johnny Nash",
-      "deezerTitle": "Rock Me Baby"
+      "deezerTitle": "Rock It Baby (Baby, We've Got a Date)"
     }
   },
   {
     "rank": 45,
     "artist": "Trio Rio",
     "title": "New York - Rio - Tokyo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15859",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 2198592,
       "deezerLink": "https://www.deezer.com/track/2198592",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6936cc899746f67e9465864fbdd7a048/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7e065964af0fca0ece1b122d72aae992/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Trio Rio",
       "deezerTitle": "New York-Rio-Tokyo"
     }
@@ -536,10 +626,12 @@
     "rank": 46,
     "artist": "Sigue Sigue Sputnik",
     "title": "Love Missile F1-11",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1418",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 3241756,
-      "deezerLink": "https://www.deezer.com/track/3241756",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8bf337b3f625565b9f61134d1faa0c81/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786405842,
+      "deezerLink": "https://www.deezer.com/track/3786405842",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3450da983baf1541fe8310f945546c5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sigue Sigue Sputnik",
       "deezerTitle": "Love Missile F1-11"
     }
@@ -548,6 +640,8 @@
     "rank": 47,
     "artist": "Samantha Fox",
     "title": "Do Ya Do Ya (Wanna Please Me)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1476",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 603026,
       "deezerLink": "https://www.deezer.com/track/603026",
@@ -560,6 +654,8 @@
     "rank": 48,
     "artist": "Depeche Mode",
     "title": "Stripped",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1393",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 68515048,
       "deezerLink": "https://www.deezer.com/track/68515048",
@@ -572,6 +668,8 @@
     "rank": 49,
     "artist": "Lionel Richie",
     "title": "Say You, Say Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1358",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 905697,
       "deezerLink": "https://www.deezer.com/track/905697",
@@ -584,6 +682,8 @@
     "rank": 50,
     "artist": "Sting",
     "title": "Russians",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1380",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 1140665,
       "deezerLink": "https://www.deezer.com/track/1140665",
@@ -596,6 +696,8 @@
     "rank": 51,
     "artist": "Van Halen",
     "title": "Why Can't This Be Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17552",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 3826810,
       "deezerLink": "https://www.deezer.com/track/3826810",
@@ -608,6 +710,8 @@
     "rank": 52,
     "artist": "Diana Ross",
     "title": "Chain Reaction",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1432",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 3436849,
       "deezerLink": "https://www.deezer.com/track/3436849",
@@ -620,6 +724,8 @@
     "rank": 53,
     "artist": "Münchener Freiheit",
     "title": "Tausendmal du",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1444",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 627690,
       "deezerLink": "https://www.deezer.com/track/627690",
@@ -632,6 +738,8 @@
     "rank": 54,
     "artist": "Mr. Mister",
     "title": "Kyrie",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1400",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 15391704,
       "deezerLink": "https://www.deezer.com/track/15391704",
@@ -644,6 +752,8 @@
     "rank": 55,
     "artist": "Chris De Burgh",
     "title": "The Lady In Red",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1482",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 1158202,
       "deezerLink": "https://www.deezer.com/track/1158202",
@@ -656,6 +766,8 @@
     "rank": 56,
     "artist": "Erste Allgemeine Verunsicherung",
     "title": "Ba Ba Banküberfall",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8703",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 3444759,
       "deezerLink": "https://www.deezer.com/track/3444759",
@@ -668,6 +780,8 @@
     "rank": 57,
     "artist": "Mr. Mister",
     "title": "Broken Wings",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1375",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 15391705,
       "deezerLink": "https://www.deezer.com/track/15391705",
@@ -680,6 +794,8 @@
     "rank": 58,
     "artist": "a-ha",
     "title": "Hunting High And Low",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9266",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 664110,
       "deezerLink": "https://www.deezer.com/track/664110",
@@ -692,6 +808,8 @@
     "rank": 59,
     "artist": "Depeche Mode",
     "title": "A Question Of Lust",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1435",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 68515049,
       "deezerLink": "https://www.deezer.com/track/68515049",
@@ -704,6 +822,8 @@
     "rank": 60,
     "artist": "Doctor & The Medics",
     "title": "Spirit In The Sky",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8562",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 2125288077,
       "deezerLink": "https://www.deezer.com/track/2125288077",
@@ -716,6 +836,8 @@
     "rank": 61,
     "artist": "Stan Ridgway",
     "title": "Camouflage",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1488",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 3263247,
       "deezerLink": "https://www.deezer.com/track/3263247",
@@ -726,13 +848,15 @@
   },
   {
     "rank": 62,
-    "artist": "The Human League",
+    "artist": "Human League",
     "title": "Human",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1507",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 67547365,
-      "deezerLink": "https://www.deezer.com/track/67547365",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7be630be64f0b0b2ba513615b5b07088/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Human League",
+      "deezerID": 61874303,
+      "deezerLink": "https://www.deezer.com/track/61874303",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2c164d27fff8d7f67f105cc071f4a9c2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "The Human League",
       "deezerTitle": "Human"
     }
   },
@@ -740,6 +864,8 @@
     "rank": 63,
     "artist": "Matia Bazar",
     "title": "Ti sento",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15858",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 18111574,
       "deezerLink": "https://www.deezer.com/track/18111574",
@@ -752,6 +878,8 @@
     "rank": 64,
     "artist": "Marietta",
     "title": "Fire And Ice",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1392",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 139926537,
       "deezerLink": "https://www.deezer.com/track/139926537",
@@ -764,18 +892,22 @@
     "rank": 65,
     "artist": "Mike & The Mechanics",
     "title": "Silent Running (On Dangerous Ground)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8585",
+    "releaseYear": 1985,
     "deezer": {
-      "deezerID": 140525671,
-      "deezerLink": "https://www.deezer.com/track/90122315",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/88bd42470c5c3a9b44201f72d4b81bc1/500x500-000000-80-0-0.jpg",
+      "deezerID": 2598564042,
+      "deezerLink": "https://www.deezer.com/track/2598564042",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b85d23c025d1641bff8f5bb747795787/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mike + The Mechanics",
-      "deezerTitle": "Silent Running"
+      "deezerTitle": "Silent Running (On Dangerous Ground)"
     }
   },
   {
     "rank": 66,
     "artist": "Heinz Rudolf Kunze",
     "title": "Dein ist mein ganzes Herz",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7921",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 699130,
       "deezerLink": "https://www.deezer.com/track/699130",
@@ -788,10 +920,12 @@
     "rank": 67,
     "artist": "C.C. Catch",
     "title": "Strangers By Night",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1434",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 61504410,
-      "deezerLink": "https://www.deezer.com/track/3256946781",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/71a0273ec1dff9b98844b0dc21006363/500x500-000000-80-0-0.jpg",
+      "deezerID": 3256957131,
+      "deezerLink": "https://www.deezer.com/track/3256957131",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/40d6ccd8134a00b56efb2b0cbff35a18/500x500-000000-80-0-0.jpg",
       "deezerArtist": "C.C. Catch",
       "deezerTitle": "Strangers by Night"
     }
@@ -800,6 +934,8 @@
     "rank": 68,
     "artist": "The Real Thing",
     "title": "You To Me Are Everything (The Decade Remix 76-86)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7025",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 131212852,
       "deezerLink": "https://www.deezer.com/track/131212852",
@@ -812,10 +948,12 @@
     "rank": 69,
     "artist": "C.C. Catch",
     "title": "'Cause You Are Young",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1388",
+    "releaseYear": 1986,
     "deezer": {
-      "deezerID": 61504406,
-      "deezerLink": "https://www.deezer.com/track/3256946741",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/71a0273ec1dff9b98844b0dc21006363/500x500-000000-80-0-0.jpg",
+      "deezerID": 61622835,
+      "deezerLink": "https://www.deezer.com/track/61622835",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ae8769d5a0ac452b35544cd921e40fc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "C.C. Catch",
       "deezerTitle": "Cause You Are Young"
     }
@@ -824,6 +962,8 @@
     "rank": 70,
     "artist": "Depeche Mode",
     "title": "A Question Of Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1490",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 1441425652,
       "deezerLink": "https://www.deezer.com/track/1441425652",
@@ -836,6 +976,8 @@
     "rank": 71,
     "artist": "Communards with Sarah Jane Morris",
     "title": "Don't Leave Me This Way",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1510",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 428735742,
       "deezerLink": "https://www.deezer.com/track/428735742",
@@ -848,6 +990,8 @@
     "rank": 72,
     "artist": "George Michael",
     "title": "A Different Corner",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1424",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 10392083,
       "deezerLink": "https://www.deezer.com/track/10392083",
@@ -860,6 +1004,8 @@
     "rank": 73,
     "artist": "David Bowie",
     "title": "Absolute Beginners",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1408",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 3108557,
       "deezerLink": "https://www.deezer.com/track/3108557",
@@ -872,6 +1018,8 @@
     "rank": 74,
     "artist": "Madonna",
     "title": "Live To Tell",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1431",
+    "releaseYear": 1986,
     "deezer": {
       "deezerID": 678369,
       "deezerLink": "https://www.deezer.com/track/678369",
@@ -884,6 +1032,8 @@
     "rank": 75,
     "artist": "Karel Gott und Darinka",
     "title": "Fang das Licht",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-14155",
+    "releaseYear": 1985,
     "deezer": {
       "deezerID": 2186121,
       "deezerLink": "https://www.deezer.com/track/2186121",

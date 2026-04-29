@@ -3,10 +3,12 @@
     "rank": 1,
     "artist": "David Hasselhoff",
     "title": "Looking For Freedom",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1943",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 122469884,
-      "deezerLink": "https://www.deezer.com/track/122469884",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d8bc7032d3407e43b8cf4c4578ab12c0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3783367602,
+      "deezerLink": "https://www.deezer.com/track/3783367602",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d92b6f4ca065d428eaba70214c6f234c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Hasselhoff",
       "deezerTitle": "Looking for Freedom"
     }
@@ -14,12 +16,23 @@
   {
     "rank": 2,
     "artist": "Mysterious Art",
-    "title": "Das Omen (Teil 1)"
+    "title": "Das Omen (Teil 1)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1993",
+    "releaseYear": 1989,
+    "deezer": {
+      "deezerID": 1823956357,
+      "deezerLink": "https://www.deezer.com/track/1823956357",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/776cf80740ecb30a8ea62787aede336a/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Mysterious Art",
+      "deezerTitle": "Das Omen (Teil 4)"
+    }
   },
   {
     "rank": 3,
     "artist": "Robin Beck",
     "title": "First Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1891",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 907667,
       "deezerLink": "https://www.deezer.com/track/907667",
@@ -32,10 +45,12 @@
     "rank": 4,
     "artist": "Roxette",
     "title": "The Look",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1941",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3092167,
       "deezerLink": "https://www.deezer.com/track/3092167",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/795b45e8a76e80ef4c342b00f9d37845/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/146abb75ffd7ad263c7356ef413a9f69/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roxette",
       "deezerTitle": "The Look"
     }
@@ -44,6 +59,8 @@
     "rank": 5,
     "artist": "Kaoma",
     "title": "Lambada",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1995",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 309174,
       "deezerLink": "https://www.deezer.com/track/309174",
@@ -56,10 +73,12 @@
     "rank": 6,
     "artist": "Madonna",
     "title": "Like A Prayer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1929",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 664507,
       "deezerLink": "https://www.deezer.com/track/664507",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2abcc790ccb86e8f8615b3f7ea305ee5/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb3560d83ededa230d78f7bf047c583a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Madonna",
       "deezerTitle": "Like a Prayer"
     }
@@ -68,10 +87,12 @@
     "rank": 7,
     "artist": "Jive Bunny And The Mastermixers",
     "title": "Swing The Mood",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2007",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 61350123,
-      "deezerLink": "https://www.deezer.com/track/61350123",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c9dc71c1275ce2da953cff7e15245ef7/500x500-000000-80-0-0.jpg",
+      "deezerID": 61196383,
+      "deezerLink": "https://www.deezer.com/track/61196383",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/748c19ab24aeefaa3a7ae69885d08d5f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jive Bunny And The Mastermixers",
       "deezerTitle": "Swing the Mood"
     }
@@ -80,10 +101,12 @@
     "rank": 8,
     "artist": "Fine Young Cannibals",
     "title": "She Drives Me Crazy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1912",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 1178372072,
       "deezerLink": "https://www.deezer.com/track/1178372072",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/68887afcc67c38a1eac40577db338322/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0b3e22f8bfe313092abd219be7426043/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Fine Young Cannibals",
       "deezerTitle": "She Drives Me Crazy"
     }
@@ -92,6 +115,8 @@
     "rank": 9,
     "artist": "Soulsister",
     "title": "The Way To Your Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1937",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3265593,
       "deezerLink": "https://www.deezer.com/track/3265593",
@@ -104,6 +129,8 @@
     "rank": 10,
     "artist": "Bobby McFerrin",
     "title": "Don't Worry, Be Happy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1858",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3127387,
       "deezerLink": "https://www.deezer.com/track/3127387",
@@ -116,6 +143,8 @@
     "rank": 11,
     "artist": "Marc Almond feat. Gene Pitney",
     "title": "Something's Gotten Hold Of My Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1917",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3099221,
       "deezerLink": "https://www.deezer.com/track/3099221",
@@ -128,6 +157,8 @@
     "rank": 12,
     "artist": "The Cure",
     "title": "Lullaby",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1964",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 1143637,
       "deezerLink": "https://www.deezer.com/track/1143637",
@@ -140,6 +171,8 @@
     "rank": 13,
     "artist": "Holly Johnson",
     "title": "Americanos",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1955",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 4275259,
       "deezerLink": "https://www.deezer.com/track/4275259",
@@ -152,6 +185,8 @@
     "rank": 14,
     "artist": "Lil Louis",
     "title": "French Kiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2011",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 15273623,
       "deezerLink": "https://www.deezer.com/track/15273623",
@@ -164,6 +199,8 @@
     "rank": 15,
     "artist": "Bangles",
     "title": "Eternal Flame",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1963",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3037340,
       "deezerLink": "https://www.deezer.com/track/3037340",
@@ -176,6 +213,8 @@
     "rank": 16,
     "artist": "Tanita Tikaram",
     "title": "Twist In My Sobriety",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1896",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 2686266,
       "deezerLink": "https://www.deezer.com/track/2686266",
@@ -188,6 +227,8 @@
     "rank": 17,
     "artist": "Paula Abdul",
     "title": "Straight Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1931",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3109328,
       "deezerLink": "https://www.deezer.com/track/3109328",
@@ -200,6 +241,8 @@
     "rank": 18,
     "artist": "Camouflage",
     "title": "Love Is A Shield",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2014",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 5096565,
       "deezerLink": "https://www.deezer.com/track/5096565",
@@ -211,24 +254,30 @@
   {
     "rank": 19,
     "artist": "Simple Minds",
-    "title": "Ballad Of The Streets"
+    "title": "Ballad Of The Streets",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1924",
+    "releaseYear": 1989
   },
   {
     "rank": 20,
     "artist": "Enya",
     "title": "Orinoco Flow",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1880",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 65728152,
-      "deezerLink": "https://www.deezer.com/track/65728152",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dbac560cff7f416989e1d4918c8a7c9b/500x500-000000-80-0-0.jpg",
+      "deezerID": 917594892,
+      "deezerLink": "https://www.deezer.com/track/917594892",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8e7deeaa0d3ef9ff7b907f5c1da8c086/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Enya",
-      "deezerTitle": "Orinoco Flow"
+      "deezerTitle": "Orinoco Flow (Sail Away)"
     }
   },
   {
     "rank": 21,
     "artist": "Neneh Cherry",
     "title": "Buffalo Stance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1914",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3324536,
       "deezerLink": "https://www.deezer.com/track/3324536",
@@ -241,6 +290,8 @@
     "rank": 22,
     "artist": "Edelweiss",
     "title": "Bring Me Edelweiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1895",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 15318548,
       "deezerLink": "https://www.deezer.com/track/15318548",
@@ -253,6 +304,8 @@
     "rank": 23,
     "artist": "Don Johnson",
     "title": "Tell It Like It Is",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1981",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 5638887,
       "deezerLink": "https://www.deezer.com/track/5638887",
@@ -265,6 +318,8 @@
     "rank": 24,
     "artist": "Technotronic feat. Felly",
     "title": "Pump Up The Jam",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2026",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2961498,
       "deezerLink": "https://www.deezer.com/track/2961498",
@@ -277,6 +332,8 @@
     "rank": 25,
     "artist": "Neneh Cherry",
     "title": "Manchild",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1968",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 3324537,
       "deezerLink": "https://www.deezer.com/track/3324537",
@@ -289,6 +346,8 @@
     "rank": 26,
     "artist": "Phil Collins",
     "title": "In The Air Tonight ('88 Remix)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1919",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 134036212,
       "deezerLink": "https://www.deezer.com/track/134036212",
@@ -300,16 +359,27 @@
   {
     "rank": 27,
     "artist": "Tone Loc",
-    "title": "Funky Cold Medina"
+    "title": "Funky Cold Medina",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1974",
+    "releaseYear": 1989,
+    "deezer": {
+      "deezerID": 84364037,
+      "deezerLink": "https://www.deezer.com/track/84364037",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0dcfc6f8306ed40428ed71dc01f3e4c3/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tone-Loc",
+      "deezerTitle": "Funky Cold Medina"
+    }
   },
   {
     "rank": 28,
     "artist": "Milli Vanilli",
     "title": "Blame It On The Rain",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1988",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 2463954425,
-      "deezerLink": "https://www.deezer.com/track/2463954425",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/93438b5905da18db776bad2b7fa0e630/500x500-000000-80-0-0.jpg",
+      "deezerID": 13160823,
+      "deezerLink": "https://www.deezer.com/track/13160823",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/66f48cc4884c870e4a82f215e5b51a5c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Milli Vanilli",
       "deezerTitle": "Blame It on the Rain"
     }
@@ -317,28 +387,34 @@
   {
     "rank": 29,
     "artist": "Tony Carey",
-    "title": "Room With A View"
+    "title": "Room With A View",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1918",
+    "releaseYear": 1988
   },
   {
     "rank": 30,
     "artist": "Soul II Soul",
     "title": "Back To Life (However Do You Want Me)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1984",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 3125988,
-      "deezerLink": "https://www.deezer.com/track/3125988",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/43edaf5a15623dff51ad07a617cbdf72/500x500-000000-80-0-0.jpg",
+      "deezerID": 3134897,
+      "deezerLink": "https://www.deezer.com/track/3134897",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c6f95e80d53b9f78ad0bc1f803c9e13/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Soul II Soul",
-      "deezerTitle": "Back To Life"
+      "deezerTitle": "Back To Life (However Do You Want Me)"
     }
   },
   {
     "rank": 31,
     "artist": "Holly Johnson",
     "title": "Love Train",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1920",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 7988171,
-      "deezerLink": "https://www.deezer.com/track/7988171",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/202a7bf0fc6bf5c369dd72f9c8486be1/500x500-000000-80-0-0.jpg",
+      "deezerID": 4275262,
+      "deezerLink": "https://www.deezer.com/track/4275262",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6827672c0ca3c851f602191c281f1b10/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Holly Johnson",
       "deezerTitle": "Love Train"
     }
@@ -347,10 +423,12 @@
     "rank": 32,
     "artist": "Madonna",
     "title": "Express Yourself",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1970",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 664509,
-      "deezerLink": "https://www.deezer.com/track/664509",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2abcc790ccb86e8f8615b3f7ea305ee5/500x500-000000-80-0-0.jpg",
+      "deezerID": 3824997421,
+      "deezerLink": "https://www.deezer.com/track/3824997421",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d2889b2f34142eef8fc1056dfda8ce9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Madonna",
       "deezerTitle": "Express Yourself"
     }
@@ -359,6 +437,8 @@
     "rank": 33,
     "artist": "Milli Vanilli",
     "title": "Girl I'm Gonna Miss You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2032",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 2463954555,
       "deezerLink": "https://www.deezer.com/track/2463954555",
@@ -371,6 +451,8 @@
     "rank": 34,
     "artist": "Phil Collins",
     "title": "Two Hearts",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1894",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 4290192,
       "deezerLink": "https://www.deezer.com/track/4290192",
@@ -383,10 +465,12 @@
     "rank": 35,
     "artist": "Sydney Youngblood",
     "title": "If Only I Could",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2038",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 3257867,
-      "deezerLink": "https://www.deezer.com/track/3257867",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2bbbe8a33700356d99d2794fe7bad048/500x500-000000-80-0-0.jpg",
+      "deezerID": 1435862742,
+      "deezerLink": "https://www.deezer.com/track/1435862742",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/47aea2c377c546603886da40b027623e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sydney Youngblood",
       "deezerTitle": "If Only I Could"
     }
@@ -395,6 +479,8 @@
     "rank": 36,
     "artist": "Inner City",
     "title": "Big Fun",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1890",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3133682,
       "deezerLink": "https://www.deezer.com/track/3133682",
@@ -407,6 +493,8 @@
     "rank": 37,
     "artist": "The Beach Boys",
     "title": "Kokomo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1925",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3091987,
       "deezerLink": "https://www.deezer.com/track/3091987",
@@ -419,18 +507,22 @@
     "rank": 38,
     "artist": "Inner City",
     "title": "Good Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1910",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 3133684,
-      "deezerLink": "https://www.deezer.com/track/3133684",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f99d88dcc3a088d660ecb9a4d8bf766/500x500-000000-80-0-0.jpg",
+      "deezerID": 397505372,
+      "deezerLink": "https://www.deezer.com/track/397505372",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6de7d44b44543bef594a9488fc71c0c9/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Inner City",
-      "deezerTitle": "Good Life"
+      "deezerTitle": "Good Life (Remastered)"
     }
   },
   {
     "rank": 39,
     "artist": "Sam Brown",
     "title": "Stop!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1831",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 1173523,
       "deezerLink": "https://www.deezer.com/track/1173523",
@@ -443,10 +535,12 @@
     "rank": 40,
     "artist": "Jason Donovan",
     "title": "Sealed With A Kiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1982",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 137198604,
-      "deezerLink": "https://www.deezer.com/track/137198604",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7c8dcf39163d1ec4992686f4d2c848cb/500x500-000000-80-0-0.jpg",
+      "deezerID": 3783339432,
+      "deezerLink": "https://www.deezer.com/track/3783339432",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d134c05bc3916a185e5da4ef007d95e0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jason Donovan",
       "deezerTitle": "Sealed with a Kiss"
     }
@@ -455,10 +549,12 @@
     "rank": 41,
     "artist": "Tina Turner",
     "title": "The Best",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2015",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 3167295,
-      "deezerLink": "https://www.deezer.com/track/3167295",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/42024f50dc501575ae920ccf506fa4dd/500x500-000000-80-0-0.jpg",
+      "deezerID": 3142379,
+      "deezerLink": "https://www.deezer.com/track/3142379",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/837d79a1e17f7bc27f3884b7d7e3f4fa/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tina Turner",
       "deezerTitle": "The Best"
     }
@@ -467,6 +563,8 @@
     "rank": 42,
     "artist": "Black Box",
     "title": "Ride On Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2031",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 70051871,
       "deezerLink": "https://www.deezer.com/track/70051871",
@@ -479,10 +577,12 @@
     "rank": 43,
     "artist": "Louis Armstrong",
     "title": "What A Wonderful World",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-37",
+    "releaseYear": 1967,
     "deezer": {
-      "deezerID": 13155119,
-      "deezerLink": "https://www.deezer.com/track/13155119",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f6b09cd325e2494e7b6c748d03e08736/500x500-000000-80-0-0.jpg",
+      "deezerID": 906625,
+      "deezerLink": "https://www.deezer.com/track/906625",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7a471ea9f14193811d0af5ece533585/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Louis Armstrong",
       "deezerTitle": "What A Wonderful World"
     }
@@ -491,6 +591,8 @@
     "rank": 44,
     "artist": "Geoffrey Williams",
     "title": "Cinderella",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1934",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3601366,
       "deezerLink": "https://www.deezer.com/track/3601366",
@@ -503,6 +605,8 @@
     "rank": 45,
     "artist": "Roy Orbison",
     "title": "You Got It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1926",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3570745,
       "deezerLink": "https://www.deezer.com/track/3570745",
@@ -515,10 +619,12 @@
     "rank": 46,
     "artist": "Womack & Womack",
     "title": "Teardrops",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1862",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 2516432551,
-      "deezerLink": "https://www.deezer.com/track/2516432551",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a926e646048f06c65e082e8fe53b9e8e/500x500-000000-80-0-0.jpg",
+      "deezerID": 477342872,
+      "deezerLink": "https://www.deezer.com/track/477342872",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc842e156b30aae0fd6a99064c2d30dd/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Womack & Womack",
       "deezerTitle": "Teardrops"
     }
@@ -527,6 +633,8 @@
     "rank": 47,
     "artist": "Queen",
     "title": "I Want It All",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1967",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 15928225,
       "deezerLink": "https://www.deezer.com/track/15928225",
@@ -539,10 +647,12 @@
     "rank": 48,
     "artist": "Soul II Soul",
     "title": "Keep On Movin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1959",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 3125980,
-      "deezerLink": "https://www.deezer.com/track/3125980",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/43edaf5a15623dff51ad07a617cbdf72/500x500-000000-80-0-0.jpg",
+      "deezerID": 3156883,
+      "deezerLink": "https://www.deezer.com/track/3156883",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/48ae55fac60fd199e47616cbefeb9200/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Soul II Soul",
       "deezerTitle": "Keep On Movin'"
     }
@@ -551,6 +661,8 @@
     "rank": 49,
     "artist": "Prince",
     "title": "Batdance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1977",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 3917698,
       "deezerLink": "https://www.deezer.com/track/3917698",
@@ -562,12 +674,16 @@
   {
     "rank": 50,
     "artist": "The Christians, Holly Johnson, Paul McCartney, Gerry Marsden & Stock Aitken Waterman",
-    "title": "Ferry 'Cross The Mersey"
+    "title": "Ferry 'Cross The Mersey",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1973",
+    "releaseYear": 1989
   },
   {
     "rank": 51,
     "artist": "Mike Oldfield",
     "title": "Innocent",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17626",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 3333198,
       "deezerLink": "https://www.deezer.com/track/3333198",
@@ -580,10 +696,12 @@
     "rank": 52,
     "artist": "Pet Shop Boys",
     "title": "It's Alright",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1987",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3122980,
       "deezerLink": "https://www.deezer.com/track/3122980",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5453ca81ae47f016b0aa7b55729da928/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e528ddef83855d8b40d09340438b237/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pet Shop Boys",
       "deezerTitle": "It's Alright"
     }
@@ -592,6 +710,8 @@
     "rank": 53,
     "artist": "Bananarama / Lananeeneenoonoo",
     "title": "Help",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1938",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 958533512,
       "deezerLink": "https://www.deezer.com/track/958533512",
@@ -604,6 +724,8 @@
     "rank": 54,
     "artist": "Gladys Knight",
     "title": "Licence To Kill",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1986",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2434771,
       "deezerLink": "https://www.deezer.com/track/2434771",
@@ -616,6 +738,8 @@
     "rank": 55,
     "artist": "Fine Young Cannibals",
     "title": "Good Thing",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1961",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 428850822,
       "deezerLink": "https://www.deezer.com/track/428850822",
@@ -628,6 +752,8 @@
     "rank": 56,
     "artist": "Donna Summer",
     "title": "This Time I Know It's For Real",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6683",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 81706450,
       "deezerLink": "https://www.deezer.com/track/81706450",
@@ -640,6 +766,8 @@
     "rank": 57,
     "artist": "Michael Jackson",
     "title": "Smooth Criminal",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1879",
+    "releaseYear": 1987,
     "deezer": {
       "deezerID": 4603400,
       "deezerLink": "https://www.deezer.com/track/4603400",
@@ -652,6 +780,8 @@
     "rank": 58,
     "artist": "Hithouse",
     "title": "Jack To The Sound Of The Underground",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1907",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 381908891,
       "deezerLink": "https://www.deezer.com/track/381908891",
@@ -664,6 +794,8 @@
     "rank": 59,
     "artist": "The Jeremy Days",
     "title": "Brand New Toy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8883",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 571888272,
       "deezerLink": "https://www.deezer.com/track/571888272",
@@ -676,10 +808,12 @@
     "rank": 60,
     "artist": "Kylie & Jason",
     "title": "Especially For You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1904",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 137197994,
-      "deezerLink": "https://www.deezer.com/track/137197994",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/43ea55c5fc47601fcfe2295ce4617333/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786424112,
+      "deezerLink": "https://www.deezer.com/track/3786424112",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9a896d400908f915f7ff609bee300b2f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kylie Minogue",
       "deezerTitle": "Especially for You"
     }
@@ -688,10 +822,12 @@
     "rank": 61,
     "artist": "Bee Gees",
     "title": "Ordinary Lives",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1944",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 973613672,
-      "deezerLink": "https://www.deezer.com/track/973613672",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6eb00cbbca6464b97f700a08f53c4671/500x500-000000-80-0-0.jpg",
+      "deezerID": 139138673,
+      "deezerLink": "https://www.deezer.com/track/139138673",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa99626fabae5fe1d27b1ebed00629e3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bee Gees",
       "deezerTitle": "Ordinary Lives"
     }
@@ -700,10 +836,12 @@
     "rank": 62,
     "artist": "Kon Kan",
     "title": "I Beg Your Pardon",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7186",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 85190994,
       "deezerLink": "https://www.deezer.com/track/85190994",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c75ce63a50213709e8cd61625854a52e/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a66529e6d688ff5cb005f68c066eb82/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kon Kan",
       "deezerTitle": "I Beg Your Pardon (I Never Promised You a Rose Garden)"
     }
@@ -712,6 +850,8 @@
     "rank": 63,
     "artist": "Milli Vanilli",
     "title": "Baby Don't Forget My Number",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1902",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 2463954415,
       "deezerLink": "https://www.deezer.com/track/2463954415",
@@ -724,6 +864,8 @@
     "rank": 64,
     "artist": "Phil Collins",
     "title": "A Groovy Kind Of Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1848",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 134036244,
       "deezerLink": "https://www.deezer.com/track/134036244",
@@ -736,10 +878,12 @@
     "rank": 65,
     "artist": "Sandra",
     "title": "We'll Be Together",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1916",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 3283096,
-      "deezerLink": "https://www.deezer.com/track/3283096",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/89b881a0be3baa84ca148abc4ebd7177/500x500-000000-80-0-0.jpg",
+      "deezerID": 3125616,
+      "deezerLink": "https://www.deezer.com/track/3125616",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c3e75cc8ae7cef4e08d8571dcab4000/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sandra",
       "deezerTitle": "We'll Be Together"
     }
@@ -747,12 +891,23 @@
   {
     "rank": 66,
     "artist": "Tone Loc",
-    "title": "Wild Thing"
+    "title": "Wild Thing",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1942",
+    "releaseYear": 1988,
+    "deezer": {
+      "deezerID": 3203112951,
+      "deezerLink": "https://www.deezer.com/track/3203112951",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb636c910c9c4ef3bce454b760e0ef98/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Tone Loc",
+      "deezerTitle": "Wild Thing"
+    }
   },
   {
     "rank": 67,
     "artist": "Hanne Haller",
     "title": "Mein lieber Mann",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-43146",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2322553,
       "deezerLink": "https://www.deezer.com/track/2322553",
@@ -765,22 +920,26 @@
     "rank": 68,
     "artist": "Rick Astley",
     "title": "Take Me To Your Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1888",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 781592682,
-      "deezerLink": "https://www.deezer.com/track/781592682",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fe779e632872f7c6e9f1c84ffa7afc33/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786363592,
+      "deezerLink": "https://www.deezer.com/track/3786363592",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1fcfca61ca4e05027612a1af865b2e03/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Rick Astley",
-      "deezerTitle": "Take Me To Your Heart"
+      "deezerTitle": "Take Me to Your Heart"
     }
   },
   {
     "rank": 69,
     "artist": "The Art Of Noise feat. Tom Jones",
     "title": "Kiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1882",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 732907,
       "deezerLink": "https://www.deezer.com/track/732907",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/990aee4b92db6e7a65244319108654aa/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7090573caeaebc259de794b370b831f0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Art of Noise",
       "deezerTitle": "Kiss (feat. Tom Jones)"
     }
@@ -789,10 +948,12 @@
     "rank": 70,
     "artist": "Jason Donovan",
     "title": "Too Many Broken Hearts",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1947",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 137232490,
-      "deezerLink": "https://www.deezer.com/track/137232490",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8cfe045b887ec5f69552a362924f8bfa/500x500-000000-80-0-0.jpg",
+      "deezerID": 3785971992,
+      "deezerLink": "https://www.deezer.com/track/3785971992",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8eb4135aa68ed6aa5f5e11b8c4806d5b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jason Donovan",
       "deezerTitle": "Too Many Broken Hearts"
     }
@@ -801,23 +962,29 @@
     "rank": 71,
     "artist": "Rufus & Chaka Khan",
     "title": "Ain't Nobody (Remix)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-158297",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 4094693,
-      "deezerLink": "https://www.deezer.com/track/4094693",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f7b06fcbb73e5b123fad6bcfabb043ed/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Rufus",
+      "deezerID": 991941812,
+      "deezerLink": "https://www.deezer.com/track/991941812",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4e68fc8bfc4a4e1d1d47f3c1f1083fad/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rufus & Chaka Khan",
       "deezerTitle": "Ain't Nobody"
     }
   },
   {
     "rank": 72,
     "artist": "Robin Beck",
-    "title": "Save Up All Your Tears"
+    "title": "Save Up All Your Tears",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1945",
+    "releaseYear": 1989
   },
   {
     "rank": 73,
     "artist": "Martika",
     "title": "Toy Soldiers",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2006",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 899944,
       "deezerLink": "https://www.deezer.com/track/899944",
@@ -830,22 +997,26 @@
     "rank": 74,
     "artist": "Jürgen Drews",
     "title": "Irgendwann, irgendwo, irgendwie (seh'n wir uns wieder)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-99139",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 1103918582,
-      "deezerLink": "https://www.deezer.com/track/1103918582",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/684ca41967599827803fcc016d885730/500x500-000000-80-0-0.jpg",
+      "deezerID": 417358492,
+      "deezerLink": "https://www.deezer.com/track/417358492",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5bd6fa5fa950d948cb83f97eadfa6731/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Jürgen Drews",
-      "deezerTitle": "Irgendwann irgendwo irgendwie"
+      "deezerTitle": "Irgendwann irgendwo irgendwie - seh'n wir uns wieder"
     }
   },
   {
     "rank": 75,
     "artist": "Wee Papa Girl Rappers",
     "title": "Wee Rule",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1881",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 133518250,
-      "deezerLink": "https://www.deezer.com/track/133518250",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2a40824154c3ad3b9543d92d8dcbc78f/500x500-000000-80-0-0.jpg",
+      "deezerID": 3394904001,
+      "deezerLink": "https://www.deezer.com/track/3394904001",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e858c702f793853eae904d525693cf34/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wee Papa Girl Rappers",
       "deezerTitle": "Wee Rule"
     }
@@ -854,6 +1025,8 @@
     "rank": 76,
     "artist": "Depeche Mode",
     "title": "Personal Jesus",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2020",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 68513563,
       "deezerLink": "https://www.deezer.com/track/68513563",
@@ -866,6 +1039,8 @@
     "rank": 77,
     "artist": "Original Naabtal Duo",
     "title": "Patrona Bavariae",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8609",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3318525,
       "deezerLink": "https://www.deezer.com/track/3318525",
@@ -878,6 +1053,8 @@
     "rank": 78,
     "artist": "Klaus & Klaus",
     "title": "Der Eiermann",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-25997",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 481857302,
       "deezerLink": "https://www.deezer.com/track/481857302",
@@ -890,10 +1067,12 @@
     "rank": 79,
     "artist": "Pet Shop Boys",
     "title": "Left To My Own Devices",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1886",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 3122979,
       "deezerLink": "https://www.deezer.com/track/3122979",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5453ca81ae47f016b0aa7b55729da928/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e528ddef83855d8b40d09340438b237/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pet Shop Boys",
       "deezerTitle": "Left to My Own Devices"
     }
@@ -902,6 +1081,8 @@
     "rank": 80,
     "artist": "Bobby Brown",
     "title": "My Prerogative",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-12624",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 921945582,
       "deezerLink": "https://www.deezer.com/track/921945582",
@@ -914,22 +1095,26 @@
     "rank": 81,
     "artist": "Honesty 69",
     "title": "French Kiss",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2021",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 15464206,
       "deezerLink": "https://www.deezer.com/track/15464206",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5234d0d0f22b1cf133b8525fd3ef3f16/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Honesty 69",
-      "deezerTitle": "French Kiss"
+      "deezerTitle": "French Kiss (Hot Version)"
     }
   },
   {
     "rank": 82,
     "artist": "Sandra",
     "title": "Around My Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1957",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 125541454,
-      "deezerLink": "https://www.deezer.com/track/125541454",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/343361545e65ba4178d4146a9f107333/500x500-000000-80-0-0.jpg",
+      "deezerID": 3125617,
+      "deezerLink": "https://www.deezer.com/track/3125617",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c3e75cc8ae7cef4e08d8571dcab4000/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Sandra",
       "deezerTitle": "Around My Heart"
     }
@@ -938,10 +1123,12 @@
     "rank": 83,
     "artist": "Petula Clark",
     "title": "Downtown '88",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17614",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 143038368,
-      "deezerLink": "https://www.deezer.com/track/143038368",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c7faa57b45f741fe69cd2ed1424bebd5/500x500-000000-80-0-0.jpg",
+      "deezerID": 3803558552,
+      "deezerLink": "https://www.deezer.com/track/3803558552",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ecc2a4a5a05f4e222e0675ee0dca489/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Petula Clark",
       "deezerTitle": "Downtown '88"
     }
@@ -950,10 +1137,12 @@
     "rank": 84,
     "artist": "David Hasselhoff",
     "title": "Is Everybody Happy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1983",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 122469872,
-      "deezerLink": "https://www.deezer.com/track/122469872",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d8bc7032d3407e43b8cf4c4578ab12c0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3783367542,
+      "deezerLink": "https://www.deezer.com/track/3783367542",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d92b6f4ca065d428eaba70214c6f234c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "David Hasselhoff",
       "deezerTitle": "Is Everybody Happy"
     }
@@ -962,6 +1151,8 @@
     "rank": 85,
     "artist": "Jermaine Stewart",
     "title": "Don't Talk Dirty To Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1855",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 1379139942,
       "deezerLink": "https://www.deezer.com/track/1379139942",
@@ -974,6 +1165,8 @@
     "rank": 86,
     "artist": "Simply Red",
     "title": "It's Only Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1922",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 75814710,
       "deezerLink": "https://www.deezer.com/track/75814710",
@@ -986,10 +1179,12 @@
     "rank": 87,
     "artist": "De La Soul",
     "title": "Me Myself And I",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1989",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2048503687,
       "deezerLink": "https://www.deezer.com/track/2048503687",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e44ecd488594e49fb3ac99023d0078d5/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f18980396434a8bbc15336aa4c5bf4aa/500x500-000000-80-0-0.jpg",
       "deezerArtist": "De La Soul",
       "deezerTitle": "Me Myself and I"
     }
@@ -998,6 +1193,8 @@
     "rank": 88,
     "artist": "Simply Red",
     "title": "If You Don't Know Me By Now",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1965",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2477046,
       "deezerLink": "https://www.deezer.com/track/2477046",
@@ -1010,10 +1207,12 @@
     "rank": 89,
     "artist": "Depeche Mode",
     "title": "Everything Counts (Live)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6135",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 68513660,
-      "deezerLink": "https://www.deezer.com/track/68513660",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/55972109f7c4049deb78402a94ee3b7b/500x500-000000-80-0-0.jpg",
+      "deezerID": 3694956202,
+      "deezerLink": "https://www.deezer.com/track/3694956202",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c02c99cd7a3ddfa0d901598ff1a324a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Depeche Mode",
       "deezerTitle": "Everything Counts"
     }
@@ -1022,10 +1221,12 @@
     "rank": 90,
     "artist": "Nino de Angelo",
     "title": "Samuraj",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8323",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 357126931,
-      "deezerLink": "https://www.deezer.com/track/357126931",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dd1cee841bf2c8ffe4cab67d9e851bef/500x500-000000-80-0-0.jpg",
+      "deezerID": 1081286,
+      "deezerLink": "https://www.deezer.com/track/1081286",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a1fd9f8d989694be736119128cadaa07/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nino De Angelo",
       "deezerTitle": "Samuraj"
     }
@@ -1034,6 +1235,8 @@
     "rank": 91,
     "artist": "Yazz",
     "title": "Stand Up For Your Love Rights",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1875",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 107758348,
       "deezerLink": "https://www.deezer.com/track/107758348",
@@ -1046,18 +1249,22 @@
     "rank": 92,
     "artist": "Kylie Minogue",
     "title": "Hand On Your Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1960",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 137232358,
-      "deezerLink": "https://www.deezer.com/track/137232358",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a4329d5d528ceda7b2e9c73080b69557/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786417602,
+      "deezerLink": "https://www.deezer.com/track/3786417602",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37adf32ef1e42f9ba7bc89857635fe26/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Kylie Minogue",
-      "deezerTitle": "Hand on Your Heart"
+      "deezerTitle": "Hand On Your Heart"
     }
   },
   {
     "rank": 93,
     "artist": "Bad Boys Blue",
     "title": "Lady In Black",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17622",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 15792096,
       "deezerLink": "https://www.deezer.com/track/15792096",
@@ -1070,6 +1277,8 @@
     "rank": 94,
     "artist": "Texas",
     "title": "I Don't Want A Lover",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1936",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 2099242707,
       "deezerLink": "https://www.deezer.com/track/2099242707",
@@ -1082,6 +1291,8 @@
     "rank": 95,
     "artist": "Chris Thompson",
     "title": "The Challenge (Face It)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17624",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 94796562,
       "deezerLink": "https://www.deezer.com/track/94796562",
@@ -1093,24 +1304,30 @@
   {
     "rank": 96,
     "artist": "Erasure",
-    "title": "Crackers International"
+    "title": "Crackers International",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1897",
+    "releaseYear": 1988
   },
   {
     "rank": 97,
     "artist": "Stephan Remmler",
     "title": "Keine Angst hat der Papa mir gesagt (Keine Angst hat die Mama mir gesagt)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-50205",
+    "releaseYear": 1988,
     "deezer": {
-      "deezerID": 2504717,
-      "deezerLink": "https://www.deezer.com/track/2504717",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b3a7513135bdb2774555fa91ddc8ae9b/500x500-000000-80-0-0.jpg",
+      "deezerID": 7337763,
+      "deezerLink": "https://www.deezer.com/track/7337763",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d24478520665134de7085c2df5d31a2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Stephan Remmler",
-      "deezerTitle": "Keine Angst Hat Der Papa Mir Gesagt (Mama)"
+      "deezerTitle": "Keine Angst hat der Papa mir gesagt (Keine Angst hat die Mama mir gesagt)"
     }
   },
   {
     "rank": 98,
     "artist": "Die Ärzte",
     "title": "Bitte bitte",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-19613",
+    "releaseYear": 1988,
     "deezer": {
       "deezerID": 1095340182,
       "deezerLink": "https://www.deezer.com/track/1095340182",
@@ -1123,6 +1340,8 @@
     "rank": 99,
     "artist": "Inner City",
     "title": "Ain't Nobody Better",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-1949",
+    "releaseYear": 1989,
     "deezer": {
       "deezerID": 3133680,
       "deezerLink": "https://www.deezer.com/track/3133680",
@@ -1135,12 +1354,14 @@
     "rank": 100,
     "artist": "Ten City",
     "title": "That's The Way Love Is",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-16998",
+    "releaseYear": 1989,
     "deezer": {
-      "deezerID": 2813255,
-      "deezerLink": "https://www.deezer.com/track/2813255",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/95df7ee7f3008e193940c238998f1c25/500x500-000000-80-0-0.jpg",
+      "deezerID": 2813243,
+      "deezerLink": "https://www.deezer.com/track/2813243",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07e94e1d0bbaefc1c9d69088f6a3d75a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Ten City",
-      "deezerTitle": "That's The Way Love Is"
+      "deezerTitle": "That's the Way Love Is"
     }
   }
 ]

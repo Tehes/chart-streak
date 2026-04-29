@@ -64,6 +64,7 @@ Exakt in dieser Reihenfolge arbeiten:
 
 - Keine Karaoke-Versionen übernehmen.
 - Keine Tribute- oder Cover-Versionen übernehmen.
+- Keine Instrumentalversion übernehmen, wenn der gesuchte Chartsong eigentlich eine gesungene Version ist.
 - Keine Remixe übernehmen, außer der Remix ist eindeutig der gesuchte Chart-Song.
 - Keine offensichtlich falschen Artist-Credits übernehmen.
 - Bei unsicherem Treffer lieber nicht ergänzen.

@@ -1,7 +1,8 @@
 {
   "version": "5",
   "specifiers": {
-    "npm:puppeteer-core@*": "24.35.0_devtools-protocol@0.0.1534754"
+    "npm:puppeteer-core@*": "24.35.0_devtools-protocol@0.0.1534754",
+    "npm:puppeteer-core@24.35.0": "24.35.0_devtools-protocol@0.0.1534754"
   },
   "npm": {
     "@puppeteer/browsers@2.11.1": {
@@ -92,7 +93,8 @@
       ]
     },
     "basic-ftp@5.1.0": {
-      "integrity": "sha512-RkaJzeJKDbaDWTIPiJwubyljaEPwpVWkm9Rt5h9Nd6h7tEXTJ3VB4qxdZBioV7JO5yLUaOKwz7vDOzlncUsegw=="
+      "integrity": "sha512-RkaJzeJKDbaDWTIPiJwubyljaEPwpVWkm9Rt5h9Nd6h7tEXTJ3VB4qxdZBioV7JO5yLUaOKwz7vDOzlncUsegw==",
+      "deprecated": true
     },
     "buffer-crc32@0.2.13": {
       "integrity": "sha512-VO9Ht/+p3SN7SKWqcrgEzjGbRSJYTx+Q1pTQC0wrWqHx0vpJraQ6GtHx8tvcg1rlK1byhU5gccxgOgj7B0TDkQ=="

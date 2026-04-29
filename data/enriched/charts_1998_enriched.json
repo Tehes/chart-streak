@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Céline Dion",
     "title": "My Heart Will Go On",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3595",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 14552280,
       "deezerLink": "https://www.deezer.com/track/14552280",
@@ -15,23 +17,36 @@
     "rank": 2,
     "artist": "Oli. P",
     "title": "Flugzeuge im Bauch",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3770",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 983996,
       "deezerLink": "https://www.deezer.com/track/983996",
       "cover": "https://cdn-images.dzcdn.net/images/cover/13d54b1448bc90ebdb45673ceca64caa/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Oli.P",
-      "deezerTitle": "Flugzeuge im Bauch (Radio Mix)"
+      "deezerTitle": "Flugzeuge im Bauch"
     }
   },
   {
     "rank": 3,
     "artist": "Die Ärzte",
-    "title": "Ein Schwein namens Männer"
+    "title": "Ein Schwein namens Männer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3657",
+    "releaseYear": 1998,
+    "deezer": {
+      "deezerID": 3371913771,
+      "deezerLink": "https://www.deezer.com/track/3371913771",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/311ba3d0dbb4a094a19af5e2be5ea08e/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Die Ärzte",
+      "deezerTitle": "Männer sind Schweine"
+    }
   },
   {
     "rank": 4,
     "artist": "Falco",
     "title": "Out Of The Dark",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3641",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 13569299,
       "deezerLink": "https://www.deezer.com/track/13569299",
@@ -44,6 +59,8 @@
     "rank": 5,
     "artist": "Wes",
     "title": "Alane",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3511",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 854009,
       "deezerLink": "https://www.deezer.com/track/854009",
@@ -56,6 +73,8 @@
     "rank": 6,
     "artist": "Run-D.M.C. vs. Jason Nevins",
     "title": "It's Like That",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3579",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 2170703,
       "deezerLink": "https://www.deezer.com/track/2170703",
@@ -68,6 +87,8 @@
     "rank": 7,
     "artist": "4 The Cause",
     "title": "Stand By Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3671",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1347663092,
       "deezerLink": "https://www.deezer.com/track/1347663092",
@@ -80,10 +101,12 @@
     "rank": 8,
     "artist": "Witt / Heppner",
     "title": "Die Flut",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3734",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 1989379827,
-      "deezerLink": "https://www.deezer.com/track/1989379827",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ac4589fbeff883155b68d2e493bda10c/500x500-000000-80-0-0.jpg",
+      "deezerID": 3285239831,
+      "deezerLink": "https://www.deezer.com/track/3285239831",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f04593c491900e53b403aa222f9a2c01/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Joachim Witt",
       "deezerTitle": "Die Flut"
     }
@@ -92,6 +115,8 @@
     "rank": 9,
     "artist": "Loona",
     "title": "Bailando",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3707",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1102129952,
       "deezerLink": "https://www.deezer.com/track/1102129952",
@@ -104,6 +129,8 @@
     "rank": 10,
     "artist": "Céline Dion with the Bee Gees",
     "title": "Immortality",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3697",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 14552295,
       "deezerLink": "https://www.deezer.com/track/14552295",
@@ -116,18 +143,22 @@
     "rank": 11,
     "artist": "Pras Michel feat. ODB & intr. Mýa",
     "title": "Ghetto Supastar (That Is What You Are)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3705",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 626546,
-      "deezerLink": "https://www.deezer.com/track/626546",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d643a74eae0569b71924e5dd800e43a7/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Pras",
-      "deezerTitle": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & Mýa)"
+      "deezerID": 86101285,
+      "deezerLink": "https://www.deezer.com/track/86101285",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa415e8249d59e73aebcbfe9208a90a8/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Pras Michel",
+      "deezerTitle": "Ghetto Supastar (That Is What You Are)"
     }
   },
   {
     "rank": 12,
     "artist": "Madonna",
     "title": "Frozen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3616",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 778758,
       "deezerLink": "https://www.deezer.com/track/778758",
@@ -140,6 +171,8 @@
     "rank": 13,
     "artist": "Cher",
     "title": "Believe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3781",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 786717,
       "deezerLink": "https://www.deezer.com/track/786717",
@@ -152,6 +185,8 @@
     "rank": 14,
     "artist": "Aerosmith",
     "title": "I Don't Want To Miss A Thing",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3725",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 624823,
       "deezerLink": "https://www.deezer.com/track/624823",
@@ -163,28 +198,34 @@
   {
     "rank": 15,
     "artist": "Puff Daddy feat. Jimmy Page",
-    "title": "Come With Me"
+    "title": "Come With Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3711",
+    "releaseYear": 1998
   },
   {
     "rank": 16,
     "artist": "Ricky Martin",
     "title": "The Cup Of Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-38723",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 13111375,
-      "deezerLink": "https://www.deezer.com/track/13111375",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/554607caa28b1531ea6f447aec02ecdd/500x500-000000-80-0-0.jpg",
+      "deezerID": 80627608,
+      "deezerLink": "https://www.deezer.com/track/80627608",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c275ea6d610b1ff689dbc109408c260e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Ricky Martin",
-      "deezerTitle": "The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]"
+      "deezerTitle": "The Cup of Life (The Official Song of the World Cup, France '98)"
     }
   },
   {
     "rank": 17,
     "artist": "Brandy & Monica",
     "title": "The Boy Is Mine",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3709",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 662355,
       "deezerLink": "https://www.deezer.com/track/662355",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4112854d5ad8f7b5dffa421c9df06515/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d32a8ad1829763937eb9a4c05b37a88e/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Brandy",
       "deezerTitle": "The Boy Is Mine"
     }
@@ -193,6 +234,8 @@
     "rank": 18,
     "artist": "Janet Jackson",
     "title": "Together Again",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3590",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1939641407,
       "deezerLink": "https://www.deezer.com/track/1939641407",
@@ -205,6 +248,8 @@
     "rank": 19,
     "artist": "Spice Girls",
     "title": "Viva Forever",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3724",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 3134163,
       "deezerLink": "https://www.deezer.com/track/3134163",
@@ -217,6 +262,8 @@
     "rank": 20,
     "artist": "Eros Ramazzotti & Tina Turner",
     "title": "Cose della vita - Can't Stop Thinking Of You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3600",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 605066,
       "deezerLink": "https://www.deezer.com/track/605066",
@@ -229,10 +276,12 @@
     "rank": 21,
     "artist": "Modern Talking",
     "title": "You're My Heart, You're My Soul '98",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3648",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 5149102,
-      "deezerLink": "https://www.deezer.com/track/5149102",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c99c7fec6817e003bf0e25240b21ca13/500x500-000000-80-0-0.jpg",
+      "deezerID": 972815,
+      "deezerLink": "https://www.deezer.com/track/972815",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/181f3d35a25b715b21655a6289c1a1ec/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Modern Talking",
       "deezerTitle": "You're My Heart, You're My Soul '98"
     }
@@ -241,6 +290,8 @@
     "rank": 22,
     "artist": "Scooter",
     "title": "How Much Is The Fish?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3699",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 2168791217,
       "deezerLink": "https://www.deezer.com/track/2168791217",
@@ -253,6 +304,8 @@
     "rank": 23,
     "artist": "Lighthouse Family",
     "title": "High",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3623",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 4668258,
       "deezerLink": "https://www.deezer.com/track/4668258",
@@ -265,6 +318,8 @@
     "rank": 24,
     "artist": "Natalie Imbruglia",
     "title": "Torn",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3596",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 992131,
       "deezerLink": "https://www.deezer.com/track/992131",
@@ -277,6 +332,8 @@
     "rank": 25,
     "artist": "Young Deenay",
     "title": "Walk On By",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3609",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 784416,
       "deezerLink": "https://www.deezer.com/track/784416",
@@ -289,6 +346,8 @@
     "rank": 26,
     "artist": "Music Instructor feat. Flying Steps",
     "title": "Super Sonic",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3645",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1541481792,
       "deezerLink": "https://www.deezer.com/track/1541481792",
@@ -301,6 +360,8 @@
     "rank": 27,
     "artist": "Des'ree",
     "title": "Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3713",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 866829,
       "deezerLink": "https://www.deezer.com/track/866829",
@@ -313,6 +374,8 @@
     "rank": 28,
     "artist": "Dario G",
     "title": "Carnaval de Paris",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3685",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1787488417,
       "deezerLink": "https://www.deezer.com/track/1787488417",
@@ -325,6 +388,8 @@
     "rank": 29,
     "artist": "Boyzone",
     "title": "No Matter What",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3771",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 2203328,
       "deezerLink": "https://www.deezer.com/track/2203328",
@@ -337,6 +402,8 @@
     "rank": 30,
     "artist": "Franka Potente & Thomas D",
     "title": "Wish (Komm zu mir)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3748",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 15313071,
       "deezerLink": "https://www.deezer.com/track/15313071",
@@ -349,6 +416,8 @@
     "rank": 31,
     "artist": "Faithless",
     "title": "God Is A DJ",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3746",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 560281,
       "deezerLink": "https://www.deezer.com/track/560281",
@@ -361,6 +430,8 @@
     "rank": 32,
     "artist": "Richie",
     "title": "Supa Richie",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8352",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1569839132,
       "deezerLink": "https://www.deezer.com/track/1569839132",
@@ -373,10 +444,12 @@
     "rank": 33,
     "artist": "Guano Apes",
     "title": "Open Your Eyes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3629",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 2166220,
       "deezerLink": "https://www.deezer.com/track/2166220",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/99d4f6c6c95f66e41559774a25335295/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cc293513fc7d7916508905f21cbb64f0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Guano Apes",
       "deezerTitle": "Open Your Eyes"
     }
@@ -385,6 +458,8 @@
     "rank": 34,
     "artist": "Falco",
     "title": "Egoist",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3767",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 3458985,
       "deezerLink": "https://www.deezer.com/track/3458985",
@@ -397,6 +472,8 @@
     "rank": 35,
     "artist": "K-Ci & JoJo",
     "title": "All My Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3687",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 2428523,
       "deezerLink": "https://www.deezer.com/track/2428523",
@@ -409,6 +486,8 @@
     "rank": 36,
     "artist": "Aqua",
     "title": "Doctor Jones",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3591",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1115046,
       "deezerLink": "https://www.deezer.com/track/1115046",
@@ -421,6 +500,8 @@
     "rank": 37,
     "artist": "Savage Garden",
     "title": "Truly Madly Deeply",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3640",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 15177682,
       "deezerLink": "https://www.deezer.com/track/15177682",
@@ -433,11 +514,13 @@
     "rank": 38,
     "artist": "Nana",
     "title": "Too Much Heaven",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3589",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 2759834001,
-      "deezerLink": "https://www.deezer.com/track/2759834001",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/48e84e2aed0741782b3631b79964b4fa/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "NANA DARKMAN",
+      "deezerID": 3395137931,
+      "deezerLink": "https://www.deezer.com/track/3395137931",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/10e9687e1d2dbe3e65e681454c278416/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nana",
       "deezerTitle": "Too Much Heaven"
     }
   },
@@ -445,10 +528,12 @@
     "rank": 39,
     "artist": "Wolfgang Petry",
     "title": "Die längste Single der Welt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7088",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 368849141,
       "deezerLink": "https://www.deezer.com/track/368849141",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f49e5590187e9410a35e0dcc1856929e/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8ace87d07f5268f2f242a63801c3a057/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Wolfgang Petry",
       "deezerTitle": "Die längste Single der Welt (Teil 1)"
     }
@@ -457,6 +542,8 @@
     "rank": 40,
     "artist": "2-4 Family",
     "title": "Stay",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3739",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 782848502,
       "deezerLink": "https://www.deezer.com/track/782848502",
@@ -469,10 +556,12 @@
     "rank": 41,
     "artist": "Nek",
     "title": "Laura non c'è",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3675",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 683846,
       "deezerLink": "https://www.deezer.com/track/683846",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/89fa843a180c639f7706db706c0ee9ba/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/41245901d699d35f5b50936beb0cf55b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Nek",
       "deezerTitle": "Laura non c'è"
     }
@@ -481,6 +570,8 @@
     "rank": 42,
     "artist": "DJ Sakin & Friends",
     "title": "Protect Your Mind (Braveheart)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3780",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1228713612,
       "deezerLink": "https://www.deezer.com/track/1228713612",
@@ -493,6 +584,8 @@
     "rank": 43,
     "artist": "Superboys",
     "title": "Ich wünscht' du wärst bei mir",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7267",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 136902754,
       "deezerLink": "https://www.deezer.com/track/136902754",
@@ -505,6 +598,8 @@
     "rank": 44,
     "artist": "Die Toten Hosen",
     "title": "Pushed Again",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3604",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1749459157,
       "deezerLink": "https://www.deezer.com/track/1749459157",
@@ -517,6 +612,8 @@
     "rank": 45,
     "artist": "Aqua",
     "title": "Barbie Girl",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3531",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1115044,
       "deezerLink": "https://www.deezer.com/track/1115044",
@@ -529,18 +626,22 @@
     "rank": 46,
     "artist": "Nana",
     "title": "Remember The Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3659",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 1745552777,
-      "deezerLink": "https://www.deezer.com/track/1745552777",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/587f2fc43a0c0ea08f63059479f383a3/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "NANA DARKMAN",
-      "deezerTitle": "Remember the Time"
+      "deezerID": 3395137891,
+      "deezerLink": "https://www.deezer.com/track/3395137891",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/10e9687e1d2dbe3e65e681454c278416/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Nana",
+      "deezerTitle": "Remember The Time"
     }
   },
   {
     "rank": 47,
     "artist": "Vengaboys",
     "title": "Up And Down",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3723",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1802290987,
       "deezerLink": "https://www.deezer.com/track/1802290987",
@@ -553,6 +654,8 @@
     "rank": 48,
     "artist": "Dr. Motte & WestBam",
     "title": "Love Parade 1998 (One World One Future)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3715",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1948737677,
       "deezerLink": "https://www.deezer.com/track/1948737677",
@@ -565,10 +668,12 @@
     "rank": 49,
     "artist": "Espen Lind",
     "title": "When Susannah Cries",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3602",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 104763212,
-      "deezerLink": "https://www.deezer.com/track/104763212",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f4ad4233e943dcdb4ed437d02d7e3748/500x500-000000-80-0-0.jpg",
+      "deezerID": 2948810,
+      "deezerLink": "https://www.deezer.com/track/2948810",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/718a0f3e259bc481f432066dc3fe36cc/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Espen Lind",
       "deezerTitle": "When Susannah Cries"
     }
@@ -577,6 +682,8 @@
     "rank": 50,
     "artist": "Sasha",
     "title": "If You Believe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3788",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 686338,
       "deezerLink": "https://www.deezer.com/track/686338",
@@ -589,6 +696,8 @@
     "rank": 51,
     "artist": "Guildo Horn & die Orthopädischen Strümpfe",
     "title": "Guildo hat euch lieb!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3676",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 3747626,
       "deezerLink": "https://www.deezer.com/track/3747626",
@@ -601,10 +710,12 @@
     "rank": 52,
     "artist": "Phil Fuldner",
     "title": "The Final",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3650",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 2099550357,
-      "deezerLink": "https://www.deezer.com/track/2099550357",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/06e9831f85c3b7eb4904cfeee70ceff1/500x500-000000-80-0-0.jpg",
+      "deezerID": 3327624081,
+      "deezerLink": "https://www.deezer.com/track/3327624081",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/700714fedecd1d4b4f2ae779acb3ec74/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Phil Fuldner",
       "deezerTitle": "The Final"
     }
@@ -613,6 +724,8 @@
     "rank": 53,
     "artist": "Robbie Williams",
     "title": "Angels",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3599",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 3138729,
       "deezerLink": "https://www.deezer.com/track/3138729",
@@ -625,18 +738,15 @@
     "rank": 54,
     "artist": "Mellowbag & Freundeskreis feat. Mr. Gentleman",
     "title": "Tabula Rasa",
-    "deezer": {
-      "deezerID": 802843,
-      "deezerLink": "https://www.deezer.com/track/802843",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5aae603d569b8876d807e88f6a7b58d0/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Gentleman",
-      "deezerTitle": "Tabula Rasa"
-    }
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3658",
+    "releaseYear": 1998
   },
   {
     "rank": 55,
     "artist": "Down Low",
     "title": "Once Upon A Time",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3786",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 15462128,
       "deezerLink": "https://www.deezer.com/track/15462128",
@@ -649,6 +759,8 @@
     "rank": 56,
     "artist": "Eagle-Eye Cherry",
     "title": "Save Tonight",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3710",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 2252935,
       "deezerLink": "https://www.deezer.com/track/2252935",
@@ -661,6 +773,8 @@
     "rank": 57,
     "artist": "Sasha feat. Young Deenay",
     "title": "I'm Still Waitin'",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3720",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 686345,
       "deezerLink": "https://www.deezer.com/track/686345",
@@ -673,6 +787,8 @@
     "rank": 58,
     "artist": "Vengaboys",
     "title": "We Like To Party! (The Vengabus)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3789",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1802244617,
       "deezerLink": "https://www.deezer.com/track/1802244617",
@@ -685,10 +801,12 @@
     "rank": 59,
     "artist": "The Boyz",
     "title": "One Minute",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3597",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1541932422,
       "deezerLink": "https://www.deezer.com/track/1541932422",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ae54f26e4734302610e6b7ac2604c1cb/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/515efcaf08bd2b716d7be08cd07af03c/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Boyz",
       "deezerTitle": "One Minute"
     }
@@ -697,18 +815,22 @@
     "rank": 60,
     "artist": "Young Deenay intr. Sasha",
     "title": "Wannabe Your Lover",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3663",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 696857,
       "deezerLink": "https://www.deezer.com/track/696857",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f2a9cbc068fed7cfc6e3713fd2db09c5/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Young Deenay",
-      "deezerTitle": "Wanna Be Your Lover (Extended Mix)"
+      "deezerTitle": "Wanna Be Your Lover"
     }
   },
   {
     "rank": 61,
     "artist": "Era",
     "title": "Ameno",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-13846",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 877655,
       "deezerLink": "https://www.deezer.com/track/877655",
@@ -720,12 +842,23 @@
   {
     "rank": 62,
     "artist": "Böhse Onkelz",
-    "title": "Terpentin"
+    "title": "Terpentin",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-22846",
+    "releaseYear": 1998,
+    "deezer": {
+      "deezerID": 384320151,
+      "deezerLink": "https://www.deezer.com/track/384320151",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3ab4095df7b5b3e51e326f068563b923/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Böhse Onkelz",
+      "deezerTitle": "Terpentin"
+    }
   },
   {
     "rank": 63,
     "artist": "Midge Ure",
     "title": "Breathe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3584",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 1052067,
       "deezerLink": "https://www.deezer.com/track/1052067",
@@ -738,6 +871,8 @@
     "rank": 64,
     "artist": "Bell Book & Candle",
     "title": "Rescue Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3547",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 13131332,
       "deezerLink": "https://www.deezer.com/track/13131332",
@@ -750,10 +885,12 @@
     "rank": 65,
     "artist": "Pappa Bear feat. Van der Toorn",
     "title": "When The Rain Begins To Fall",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3649",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 2760312111,
-      "deezerLink": "https://www.deezer.com/track/2760312111",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4d4b77e6c8ce32901acdc23d06fcfe1c/500x500-000000-80-0-0.jpg",
+      "deezerID": 3412658311,
+      "deezerLink": "https://www.deezer.com/track/3412658311",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49fb0c5e3ab392038fb746ef258834a7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pappa Bear",
       "deezerTitle": "When The Rain Begins To Fall"
     }
@@ -762,33 +899,39 @@
     "rank": 66,
     "artist": "Busta Rhymes",
     "title": "Turn It Up / Fire It Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3690",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 571168062,
-      "deezerLink": "https://www.deezer.com/track/571168062",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/adca875004e338eeafa3e1218cad7adf/500x500-000000-80-0-0.jpg",
+      "deezerID": 71684839,
+      "deezerLink": "https://www.deezer.com/track/71684839",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dcdc8436cad148d85fe506a13dd72213/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Busta Rhymes",
-      "deezerTitle": "Turn It Up Fire It Up"
+      "deezerTitle": "Turn It Up / Fire It Up"
     }
   },
   {
     "rank": 67,
     "artist": "Down Low",
     "title": "Johnny B.",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3567",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 61702352,
-      "deezerLink": "https://www.deezer.com/track/61702352",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b4c3c968361469c25679c3343fe4a4e7/500x500-000000-80-0-0.jpg",
+      "deezerID": 61701868,
+      "deezerLink": "https://www.deezer.com/track/61701868",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e5365223b6b7d63f68027ecda7b9875b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Down Low",
-      "deezerTitle": "Johnny B"
+      "deezerTitle": "Johnny B."
     }
   },
   {
     "rank": 68,
     "artist": "N.Y.C.C.",
     "title": "Fight For Your Right (To Party)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3646",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 2477985931,
-      "deezerLink": "https://www.deezer.com/track/2477985931",
+      "deezerID": 2477985921,
+      "deezerLink": "https://www.deezer.com/track/2477985921",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1efc9925bf93131d9b02b2ba004925fb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "N.Y.C.C.",
       "deezerTitle": "Fight for Your Right"
@@ -798,6 +941,8 @@
     "rank": 69,
     "artist": "C-Block",
     "title": "Eternal Grace",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3598",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 686362802,
       "deezerLink": "https://www.deezer.com/track/686362802",
@@ -810,6 +955,8 @@
     "rank": 70,
     "artist": "Backstreet Boys",
     "title": "All I Have To Give",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3608",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 15396989,
       "deezerLink": "https://www.deezer.com/track/15396989",
@@ -822,10 +969,12 @@
     "rank": 71,
     "artist": "Pappa Bear feat. Van der Toorn",
     "title": "Cherish",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3557",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 2759409111,
-      "deezerLink": "https://www.deezer.com/track/2759409111",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1c80b528dbbcdf4c55b5e3011cd5b01d/500x500-000000-80-0-0.jpg",
+      "deezerID": 3412658381,
+      "deezerLink": "https://www.deezer.com/track/3412658381",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49fb0c5e3ab392038fb746ef258834a7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pappa Bear",
       "deezerTitle": "Cherish"
     }
@@ -834,6 +983,8 @@
     "rank": 72,
     "artist": "Thomas D / Nina Hagen",
     "title": "Solo",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3667",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 15198633,
       "deezerLink": "https://www.deezer.com/track/15198633",
@@ -845,22 +996,44 @@
   {
     "rank": 73,
     "artist": "Bravo All Stars",
-    "title": "Let The Music Heal Your Soul"
+    "title": "Let The Music Heal Your Soul",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3681",
+    "releaseYear": 1998,
+    "deezer": {
+      "deezerID": 776109612,
+      "deezerLink": "https://www.deezer.com/track/776109612",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/763c3b364f7dfe006cb49075af44e22c/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bravo Allstars",
+      "deezerTitle": "Let the Music Heal Your Soul"
+    }
   },
   {
     "rank": 74,
     "artist": "Christian Wunderlich",
-    "title": "That's My Way To Say Goodbye"
+    "title": "That's My Way To Say Goodbye",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3760",
+    "releaseYear": 1998
   },
   {
     "rank": 75,
     "artist": "Sqeezer",
-    "title": "Without You"
+    "title": "Without You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3672",
+    "releaseYear": 1998,
+    "deezer": {
+      "deezerID": 3451062751,
+      "deezerLink": "https://www.deezer.com/track/3451062751",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4069148e69127bbdd5b071aeb6d12721/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Sqeezer",
+      "deezerTitle": "Without You"
+    }
   },
   {
     "rank": 76,
     "artist": "Dario G",
     "title": "Sunchyme",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3563",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1787703427,
       "deezerLink": "https://www.deezer.com/track/1787703427",
@@ -873,6 +1046,8 @@
     "rank": 77,
     "artist": "Depeche Mode",
     "title": "Only When I Lose Myself",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3750",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 68515066,
       "deezerLink": "https://www.deezer.com/track/68515066",
@@ -885,6 +1060,8 @@
     "rank": 78,
     "artist": "DJ Tonka",
     "title": "She Knows You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3753",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1408259122,
       "deezerLink": "https://www.deezer.com/track/1408259122",
@@ -897,6 +1074,8 @@
     "rank": 79,
     "artist": "Madonna",
     "title": "The Power Of Good-Bye",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3795",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 778768,
       "deezerLink": "https://www.deezer.com/track/778768",
@@ -909,10 +1088,12 @@
     "rank": 80,
     "artist": "Guano Apes",
     "title": "Lords Of The Boards",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3827",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 2166227,
       "deezerLink": "https://www.deezer.com/track/2166227",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/99d4f6c6c95f66e41559774a25335295/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cc293513fc7d7916508905f21cbb64f0/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Guano Apes",
       "deezerTitle": "Lords of the Boards"
     }
@@ -921,6 +1102,8 @@
     "rank": 81,
     "artist": "Dru Hill",
     "title": "In My Bed",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3636",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 1183529,
       "deezerLink": "https://www.deezer.com/track/1183529",
@@ -933,6 +1116,8 @@
     "rank": 82,
     "artist": "Savage Garden",
     "title": "To The Moon And Back",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3607",
+    "releaseYear": 1996,
     "deezer": {
       "deezerID": 532673,
       "deezerLink": "https://www.deezer.com/track/532673",
@@ -945,10 +1130,12 @@
     "rank": 83,
     "artist": "Liquido",
     "title": "Narcotic",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3811",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 103512238,
-      "deezerLink": "https://www.deezer.com/track/103512238",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3eee19658ad7df78267f5f7a48824ae1/500x500-000000-80-0-0.jpg",
+      "deezerID": 3776251662,
+      "deezerLink": "https://www.deezer.com/track/3776251662",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3981d842a85d1175808f4c78d558a381/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Liquido",
       "deezerTitle": "Narcotic"
     }
@@ -957,6 +1144,8 @@
     "rank": 84,
     "artist": "Jennifer Paige",
     "title": "Crush",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3763",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 17073833,
       "deezerLink": "https://www.deezer.com/track/17073833",
@@ -969,6 +1158,8 @@
     "rank": 85,
     "artist": "Dru Hill",
     "title": "How Deep Is Your Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3792",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1140466,
       "deezerLink": "https://www.deezer.com/track/1140466",
@@ -981,10 +1172,12 @@
     "rank": 86,
     "artist": "Los Umbrellos",
     "title": "No tengo dinero",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3696",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 90668027,
-      "deezerLink": "https://www.deezer.com/track/90668027",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/93e88e6c112739ef6b9090d89d02c541/500x500-000000-80-0-0.jpg",
+      "deezerID": 12244722,
+      "deezerLink": "https://www.deezer.com/track/12244722",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3f28291d82f10103d91a587d369599b2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Los Umbrellos",
       "deezerTitle": "No Tengo Dinero"
     }
@@ -993,6 +1186,8 @@
     "rank": 87,
     "artist": "Caught In The Act",
     "title": "Baby Come Back",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3665",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 61751538,
       "deezerLink": "https://www.deezer.com/track/61751538",
@@ -1005,6 +1200,8 @@
     "rank": 88,
     "artist": "R'n'G",
     "title": "Open Up Your Mind",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3628",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1246231872,
       "deezerLink": "https://www.deezer.com/track/1246231872",
@@ -1017,6 +1214,8 @@
     "rank": 89,
     "artist": "Xavier Naidoo",
     "title": "Nicht von dieser Welt",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-14903",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 2008995957,
       "deezerLink": "https://www.deezer.com/track/2008995957",
@@ -1029,18 +1228,22 @@
     "rank": 90,
     "artist": "Destiny's Child",
     "title": "No No No",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3692",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 15639119,
-      "deezerLink": "https://www.deezer.com/track/15639119",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6de0fb1f8717384818603c9f393e5a20/500x500-000000-80-0-0.jpg",
+      "deezerID": 15176602,
+      "deezerLink": "https://www.deezer.com/track/15176602",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eb38c5391ad239ddcd5ee5c3b1ee259a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Destiny's Child",
-      "deezerTitle": "Destiny's Child - No, No, No Part 1 (Official Video)"
+      "deezerTitle": "No, No, No Pt. 2 (feat. Wyclef Jean)"
     }
   },
   {
     "rank": 91,
     "artist": "Elton John",
     "title": "Candle In The Wind",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-335962",
+    "releaseYear": 1973,
     "deezer": {
       "deezerID": 44586851,
       "deezerLink": "https://www.deezer.com/track/44586851",
@@ -1053,6 +1256,8 @@
     "rank": 92,
     "artist": "Aqua",
     "title": "My Oh My",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3634",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 1115043,
       "deezerLink": "https://www.deezer.com/track/1115043",
@@ -1065,6 +1270,8 @@
     "rank": 93,
     "artist": "Music Instructor feat. Triple-M Crew",
     "title": "Rock Your Body",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3702",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1555955352,
       "deezerLink": "https://www.deezer.com/track/1555955352",
@@ -1077,6 +1284,8 @@
     "rank": 94,
     "artist": "Rammstein",
     "title": "Stripped",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3735",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 630594802,
       "deezerLink": "https://www.deezer.com/track/630594802",
@@ -1089,9 +1298,11 @@
     "rank": 95,
     "artist": "Mark Van Dale with Enrico",
     "title": "Water Verve",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3701",
+    "releaseYear": 1998,
     "deezer": {
-      "deezerID": 528503191,
-      "deezerLink": "https://www.deezer.com/track/528503191",
+      "deezerID": 528503131,
+      "deezerLink": "https://www.deezer.com/track/528503131",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c774ef4452776eb0ed9cf738986ecd26/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Mark van Dale",
       "deezerTitle": "Water Verve"
@@ -1101,6 +1312,8 @@
     "rank": 96,
     "artist": "Rammstein",
     "title": "Das Modell",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7092",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 630594782,
       "deezerLink": "https://www.deezer.com/track/630594782",
@@ -1113,6 +1326,8 @@
     "rank": 97,
     "artist": "Lauryn Hill",
     "title": "Doo Wop (That Thing)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3773",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 400418902,
       "deezerLink": "https://www.deezer.com/track/400418902",
@@ -1125,6 +1340,8 @@
     "rank": 98,
     "artist": "Fancy",
     "title": "Mega-Mix '98",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-8729",
+    "releaseYear": 1998,
     "deezer": {
       "deezerID": 1154682,
       "deezerLink": "https://www.deezer.com/track/1154682",
@@ -1137,6 +1354,8 @@
     "rank": 99,
     "artist": "All Saints",
     "title": "Never Ever",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3601",
+    "releaseYear": 1997,
     "deezer": {
       "deezerID": 706847,
       "deezerLink": "https://www.deezer.com/track/706847",
@@ -1149,10 +1368,12 @@
     "rank": 100,
     "artist": "Usher",
     "title": "You Make Me Wanna...",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-3618",
+    "releaseYear": 1997,
     "deezer": {
-      "deezerID": 15388216,
-      "deezerLink": "https://www.deezer.com/track/15388216",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b74f9d26cdd371a826dbde0b488f6b79/500x500-000000-80-0-0.jpg",
+      "deezerID": 1909711527,
+      "deezerLink": "https://www.deezer.com/track/1909711527",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ed2b422e8240cd4e7ef9c4b357a99688/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Usher",
       "deezerTitle": "You Make Me Wanna..."
     }

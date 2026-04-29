@@ -3,6 +3,8 @@
     "rank": 1,
     "artist": "Ace Of Base",
     "title": "All That She Wants",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2590",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 94676692,
       "deezerLink": "https://www.deezer.com/track/94676692",
@@ -15,10 +17,12 @@
     "rank": 2,
     "artist": "Haddaway",
     "title": "What Is Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2601",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 2683801652,
-      "deezerLink": "https://www.deezer.com/track/2683801652",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d8782c36b30d183a8ffdce01bd8501a0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3786149242,
+      "deezerLink": "https://www.deezer.com/track/3786149242",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3fb1136475de9b9159ab8ab9a3773ed4/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Haddaway",
       "deezerTitle": "What Is Love"
     }
@@ -27,6 +31,8 @@
     "rank": 3,
     "artist": "4 Non Blondes",
     "title": "What's Up?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2646",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2184743,
       "deezerLink": "https://www.deezer.com/track/2184743",
@@ -39,10 +45,12 @@
     "rank": 4,
     "artist": "Culture Beat",
     "title": "Mr. Vain",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2637",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 17347911,
       "deezerLink": "https://www.deezer.com/track/17347911",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d917706b52d3a195ed68a1d21796156/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/206689d00d08934d9dafe9d010f28089/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Culture Beat",
       "deezerTitle": "Mr. Vain"
     }
@@ -51,6 +59,8 @@
     "rank": 5,
     "artist": "2 Unlimited",
     "title": "No Limit",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2585",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 134706074,
       "deezerLink": "https://www.deezer.com/track/134706074",
@@ -63,6 +73,8 @@
     "rank": 6,
     "artist": "Snow",
     "title": "Informer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2603",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 3884974,
       "deezerLink": "https://www.deezer.com/track/3884974",
@@ -75,6 +87,8 @@
     "rank": 7,
     "artist": "Whitney Houston",
     "title": "I Will Always Love You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2545",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 7675403,
       "deezerLink": "https://www.deezer.com/track/7675403",
@@ -87,10 +101,12 @@
     "rank": 8,
     "artist": "Dr. Alban",
     "title": "Sing Hallelujah!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2583",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 1687250217,
-      "deezerLink": "https://www.deezer.com/track/1687250217",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9095d1e8fd8c200ce9db05bc036c5028/500x500-000000-80-0-0.jpg",
+      "deezerID": 3801341602,
+      "deezerLink": "https://www.deezer.com/track/3801341602",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/332e1a5c1b0c81b38032fd50e355e00f/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Dr. Alban",
       "deezerTitle": "Sing Hallelujah!"
     }
@@ -99,6 +115,8 @@
     "rank": 9,
     "artist": "UB40",
     "title": "(I Can't Help) Falling In Love With You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2632",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 3129579,
       "deezerLink": "https://www.deezer.com/track/3129579",
@@ -110,16 +128,27 @@
   {
     "rank": 10,
     "artist": "Freddie Mercury",
-    "title": "Living On My Own [1993]"
+    "title": "Living On My Own [1993]",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2665",
+    "releaseYear": 1993,
+    "deezer": {
+      "deezerID": 2368138015,
+      "deezerLink": "https://www.deezer.com/track/2368138015",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1bd38f9457917fe4b527b3732f1e003d/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Freddie Mercury",
+      "deezerTitle": "Living On My Own (No More Brothers Radio Mix)"
+    }
   },
   {
     "rank": 11,
     "artist": "Haddaway",
     "title": "Life",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2653",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 2683801662,
-      "deezerLink": "https://www.deezer.com/track/2683801662",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d8782c36b30d183a8ffdce01bd8501a0/500x500-000000-80-0-0.jpg",
+      "deezerID": 3782976022,
+      "deezerLink": "https://www.deezer.com/track/3782976022",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09cea2fd8afe6e1a795147c1461fb0b3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Haddaway",
       "deezerTitle": "Life"
     }
@@ -128,6 +157,8 @@
     "rank": 12,
     "artist": "Pet Shop Boys",
     "title": "Go West",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2680",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 7460106,
       "deezerLink": "https://www.deezer.com/track/7460106",
@@ -140,6 +171,8 @@
     "rank": 13,
     "artist": "Ace Of Base",
     "title": "Wheel Of Fortune",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2621",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 94676712,
       "deezerLink": "https://www.deezer.com/track/94676712",
@@ -152,6 +185,8 @@
     "rank": 14,
     "artist": "DJ BoBo",
     "title": "Somebody Dance With Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2561",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 918091082,
       "deezerLink": "https://www.deezer.com/track/918091082",
@@ -164,6 +199,8 @@
     "rank": 15,
     "artist": "2 Unlimited",
     "title": "Tribal Dance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2615",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 134706076,
       "deezerLink": "https://www.deezer.com/track/134706076",
@@ -176,6 +213,8 @@
     "rank": 16,
     "artist": "Charles & Eddie",
     "title": "Would I Lie To You?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2551",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 1806786907,
       "deezerLink": "https://www.deezer.com/track/1806786907",
@@ -188,10 +227,12 @@
     "rank": 17,
     "artist": "Meat Loaf",
     "title": "I'd Do Anything For Love (But I Won't Do That)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2693",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 3158172,
-      "deezerLink": "https://www.deezer.com/track/3158172",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a04dd39393b1a007dbbb6fc0c8378f93/500x500-000000-80-0-0.jpg",
+      "deezerID": 3552732191,
+      "deezerLink": "https://www.deezer.com/track/3552732191",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ade8b6994d346320802b4502f471ca8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Meat Loaf",
       "deezerTitle": "I'd Do Anything For Love (But I Won't Do That)"
     }
@@ -200,18 +241,22 @@
     "rank": 18,
     "artist": "Soul Asylum",
     "title": "Runaway Train",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2662",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 857997,
-      "deezerLink": "https://www.deezer.com/track/857997",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/333f6869f3a14f5ca028ccd6ad81a9c5/500x500-000000-80-0-0.jpg",
+      "deezerID": 1057312,
+      "deezerLink": "https://www.deezer.com/track/1057312",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/518b3872eb41d98ca9c78edf4e55c8f7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Soul Asylum",
-      "deezerTitle": "Runaway Train"
+      "deezerTitle": "Runaway Train (2022 Remaster)"
     }
   },
   {
     "rank": 19,
     "artist": "Leila K.",
     "title": "Open Sesame",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2579",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 41197831,
       "deezerLink": "https://www.deezer.com/track/41197831",
@@ -224,6 +269,8 @@
     "rank": 20,
     "artist": "U 96",
     "title": "Love Sees No Colour",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2612",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 119368494,
       "deezerLink": "https://www.deezer.com/track/119368494",
@@ -236,6 +283,8 @@
     "rank": 21,
     "artist": "Spin Doctors",
     "title": "Two Princes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2638",
+    "releaseYear": 1991,
     "deezer": {
       "deezerID": 630283,
       "deezerLink": "https://www.deezer.com/track/630283",
@@ -248,6 +297,8 @@
     "rank": 22,
     "artist": "Paul McCartney",
     "title": "Hope Of Deliverance",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2568",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 10176186,
       "deezerLink": "https://www.deezer.com/track/10176186",
@@ -260,6 +311,8 @@
     "rank": 23,
     "artist": "Captain Hollywood Project",
     "title": "More And More",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2553",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 143154464,
       "deezerLink": "https://www.deezer.com/track/143154464",
@@ -272,6 +325,8 @@
     "rank": 24,
     "artist": "Shaggy",
     "title": "Oh Carolina",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2606",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 3159507,
       "deezerLink": "https://www.deezer.com/track/3159507",
@@ -284,6 +339,8 @@
     "rank": 25,
     "artist": "Ugly Kid Joe",
     "title": "Cats In The Cradle",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2627",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 1115742,
       "deezerLink": "https://www.deezer.com/track/1115742",
@@ -296,6 +353,8 @@
     "rank": 26,
     "artist": "Captain Hollywood Project",
     "title": "Only With You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2576",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 143157248,
       "deezerLink": "https://www.deezer.com/track/143157248",
@@ -308,6 +367,8 @@
     "rank": 27,
     "artist": "Billy Joel",
     "title": "The River Of Dreams",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2678",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 831291,
       "deezerLink": "https://www.deezer.com/track/831291",
@@ -320,18 +381,22 @@
     "rank": 28,
     "artist": "Snap! feat. Niki Haris",
     "title": "Exterminate!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2558",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 434215212,
-      "deezerLink": "https://www.deezer.com/track/434215212",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9836fcf60102662b686f93d01bcda69/500x500-000000-80-0-0.jpg",
+      "deezerID": 3782962302,
+      "deezerLink": "https://www.deezer.com/track/3782962302",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e26643f384fb6a8ad1db73b47ff1cb1b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Snap!",
-      "deezerTitle": "Exterminate (Endzeit 7) [feat. Niki Haris]"
+      "deezerTitle": "Exterminate"
     }
   },
   {
     "rank": 29,
     "artist": "Dance 2 Trance",
     "title": "P.ower Of A.merican N.atives",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2608",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 12573018,
       "deezerLink": "https://www.deezer.com/track/12573018",
@@ -344,6 +409,8 @@
     "rank": 30,
     "artist": "Bon Jovi",
     "title": "Bed Of Roses",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2570",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 74628110,
       "deezerLink": "https://www.deezer.com/track/74628110",
@@ -356,10 +423,12 @@
     "rank": 31,
     "artist": "The Beloved",
     "title": "Sweet Harmony",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2598",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 441480302,
-      "deezerLink": "https://www.deezer.com/track/441480302",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/54682ff0083adce904140f4d03aebd7e/500x500-000000-80-0-0.jpg",
+      "deezerID": 3375877811,
+      "deezerLink": "https://www.deezer.com/track/3375877811",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/47fcab0f9791abb04d3276a6eec2c666/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Beloved",
       "deezerTitle": "Sweet Harmony"
     }
@@ -368,6 +437,8 @@
     "rank": 32,
     "artist": "Culture Beat",
     "title": "Got To Get It",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2676",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 29794791,
       "deezerLink": "https://www.deezer.com/track/29794791",
@@ -380,6 +451,8 @@
     "rank": 33,
     "artist": "Cut 'N' Move",
     "title": "Give It Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2622",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 5106561,
       "deezerLink": "https://www.deezer.com/track/5106561",
@@ -392,6 +465,8 @@
     "rank": 34,
     "artist": "Michael Jackson",
     "title": "Heal The World",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2542",
+    "releaseYear": 1991,
     "deezer": {
       "deezerID": 15593565,
       "deezerLink": "https://www.deezer.com/track/15593565",
@@ -404,6 +479,8 @@
     "rank": 35,
     "artist": "Co.Ro feat. Taleesa",
     "title": "Because The Night",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-18282",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 84624685,
       "deezerLink": "https://www.deezer.com/track/84624685",
@@ -416,23 +493,36 @@
     "rank": 36,
     "artist": "DJ BoBo",
     "title": "Keep On Dancing!",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2660",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 918091112,
-      "deezerLink": "https://www.deezer.com/track/918091112",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ea900d293902af334499ce1d600d8220/500x500-000000-80-0-0.jpg",
+      "deezerID": 2126608667,
+      "deezerLink": "https://www.deezer.com/track/2126608667",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c8e35eebecd0348a77410cfcba3d91d7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "DJ BoBo",
-      "deezerTitle": "Keep on Dancing"
+      "deezerTitle": "Keep On Dancing!"
     }
   },
   {
     "rank": 37,
     "artist": "Die Toten Hosen",
-    "title": "Sascha... ein aufrechter Deutscher"
+    "title": "Sascha... ein aufrechter Deutscher",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2573",
+    "releaseYear": 1992,
+    "deezer": {
+      "deezerID": 142393477,
+      "deezerLink": "https://www.deezer.com/track/142393477",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/771f6d3ab5d2495879b3fe3b3bb369ca/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Die Toten Hosen",
+      "deezerTitle": "Sascha...ein aufrechter Deutscher"
+    }
   },
   {
     "rank": 38,
     "artist": "East 17",
     "title": "House Of Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2544",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 428735292,
       "deezerLink": "https://www.deezer.com/track/428735292",
@@ -445,6 +535,8 @@
     "rank": 39,
     "artist": "Janet Jackson",
     "title": "That's The Way Love Goes",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2609",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 3501645,
       "deezerLink": "https://www.deezer.com/track/3501645",
@@ -457,6 +549,8 @@
     "rank": 40,
     "artist": "Depeche Mode",
     "title": "I Feel You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2589",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 68514212,
       "deezerLink": "https://www.deezer.com/track/68514212",
@@ -469,10 +563,12 @@
     "rank": 41,
     "artist": "Die Prinzen",
     "title": "Alles nur geklaut",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2732",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 2200874917,
-      "deezerLink": "https://www.deezer.com/track/2200874917",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d9ff9ccf91483f35349cedbbd17e26c6/500x500-000000-80-0-0.jpg",
+      "deezerID": 3808712202,
+      "deezerLink": "https://www.deezer.com/track/3808712202",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa738d39723f43cbfb24fde1711fb8f2/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Prinzen",
       "deezerTitle": "Alles nur geklaut"
     }
@@ -481,6 +577,8 @@
     "rank": 42,
     "artist": "Ace Of Base",
     "title": "Happy Nation",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2663",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 94676704,
       "deezerLink": "https://www.deezer.com/track/94676704",
@@ -493,6 +591,8 @@
     "rank": 43,
     "artist": "Usura",
     "title": "Open Your Mind",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2578",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 416878312,
       "deezerLink": "https://www.deezer.com/track/416878312",
@@ -505,10 +605,12 @@
     "rank": 44,
     "artist": "Inner Circle",
     "title": "Rock With You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2557",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2557460082,
       "deezerLink": "https://www.deezer.com/track/2557460082",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/612ecff1c1faec8274456a7e8126eb50/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/92f349a292a61d8e52c3fb3d5438952b/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Inner Circle",
       "deezerTitle": "Rock with You"
     }
@@ -517,6 +619,8 @@
     "rank": 45,
     "artist": "Michael Jackson",
     "title": "Will You Be There",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2643",
+    "releaseYear": 1991,
     "deezer": {
       "deezerID": 15593569,
       "deezerLink": "https://www.deezer.com/track/15593569",
@@ -529,6 +633,8 @@
     "rank": 46,
     "artist": "Urban Cookie Collective",
     "title": "The Key: The Secret",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2681",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 12159134,
       "deezerLink": "https://www.deezer.com/track/12159134",
@@ -541,6 +647,8 @@
     "rank": 47,
     "artist": "Loft",
     "title": "Summer Summer",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2670",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 2598327312,
       "deezerLink": "https://www.deezer.com/track/2598327312",
@@ -552,12 +660,23 @@
   {
     "rank": 48,
     "artist": "US 3",
-    "title": "Cantaloop"
+    "title": "Cantaloop",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2562",
+    "releaseYear": 1992,
+    "deezer": {
+      "deezerID": 3361453,
+      "deezerLink": "https://www.deezer.com/track/3361453",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/413709dbd9752945249122b73372dea2/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Us3",
+      "deezerTitle": "Cantaloop (Flip Fantasia)"
+    }
   },
   {
     "rank": 49,
     "artist": "Leila K.",
     "title": "Ça plane pour moi",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2616",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 41197891,
       "deezerLink": "https://www.deezer.com/track/41197891",
@@ -570,18 +689,22 @@
     "rank": 50,
     "artist": "Shakespears Sister",
     "title": "Hello (Turn Your Radio On)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2554",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 432716532,
       "deezerLink": "https://www.deezer.com/track/432716532",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c620ec65174d49b2a82d1dfec81b3e97/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Shakespears Sister",
-      "deezerTitle": "Hello"
+      "deezerTitle": "Hello (Turn Your Radio On)"
     }
   },
   {
     "rank": 51,
     "artist": "2 Unlimited",
     "title": "Faces",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2671",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 134706080,
       "deezerLink": "https://www.deezer.com/track/134706080",
@@ -594,6 +717,8 @@
     "rank": 52,
     "artist": "Beautiful World",
     "title": "In The Beginning",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2611",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 729679,
       "deezerLink": "https://www.deezer.com/track/729679",
@@ -606,6 +731,8 @@
     "rank": 53,
     "artist": "Faith No More",
     "title": "I'm Easy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2569",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 1017451352,
       "deezerLink": "https://www.deezer.com/track/1017451352",
@@ -618,6 +745,8 @@
     "rank": 54,
     "artist": "Bon Jovi",
     "title": "Keep The Faith",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2531",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 74628107,
       "deezerLink": "https://www.deezer.com/track/74628107",
@@ -630,30 +759,36 @@
     "rank": 55,
     "artist": "U 96",
     "title": "Night In Motion",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2655",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 61685631,
-      "deezerLink": "https://www.deezer.com/track/61685631",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6b0fbfff1e60ebc63923fc18401c7c39/500x500-000000-80-0-0.jpg",
+      "deezerID": 1716219667,
+      "deezerLink": "https://www.deezer.com/track/1716219667",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2cbc3d915dfdaa38a5f451977aef5508/500x500-000000-80-0-0.jpg",
       "deezerArtist": "U96",
-      "deezerTitle": "Night In Motion"
+      "deezerTitle": "Night in Motion"
     }
   },
   {
     "rank": 56,
     "artist": "Snap! feat. Niki Haris",
     "title": "Do You See The Light (Looking For)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2624",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 434216702,
-      "deezerLink": "https://www.deezer.com/track/434216702",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/710b697923019a1c3651f5e061982cda/500x500-000000-80-0-0.jpg",
+      "deezerID": 3803066012,
+      "deezerLink": "https://www.deezer.com/track/3803066012",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e47a1268f974b03df6d347be6ed1d755/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Snap!",
-      "deezerTitle": "Do You See the Light? (Looking For) [feat. Niki Harris]"
+      "deezerTitle": "Do You See The Light? (Looking For)"
     }
   },
   {
     "rank": 57,
     "artist": "Mathou",
     "title": "You Never Walk Alone",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17787",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 61476518,
       "deezerLink": "https://www.deezer.com/track/61476518",
@@ -666,6 +801,8 @@
     "rank": 58,
     "artist": "Die Ärzte",
     "title": "Schrei nach Liebe",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6600",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 1006163552,
       "deezerLink": "https://www.deezer.com/track/1006163552",
@@ -678,32 +815,54 @@
     "rank": 59,
     "artist": "Die Fantastischen Vier",
     "title": "Die da",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2537",
+    "releaseYear": 1992,
     "deezer": {
-      "deezerID": 2814632742,
-      "deezerLink": "https://www.deezer.com/track/2814632742",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/16f22e6fe3d9c68b8e70bb51803ae995/500x500-000000-80-0-0.jpg",
+      "deezerID": 4300806,
+      "deezerLink": "https://www.deezer.com/track/4300806",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ca37d00362c60393f18c5dfb6bb37a3/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Die Fantastischen Vier",
-      "deezerTitle": "Die Da"
+      "deezerTitle": "Die Da!?!"
     }
   },
   {
     "rank": 60,
     "artist": "En-Rage",
-    "title": "Run To You"
+    "title": "Run To You",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2565",
+    "releaseYear": 1992,
+    "deezer": {
+      "deezerID": 12365875,
+      "deezerLink": "https://www.deezer.com/track/12365875",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11ebeccb6d09f9159ffc19b447875186/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Rage",
+      "deezerTitle": "Run To You"
+    }
   },
   {
     "rank": 61,
     "artist": "Disney Cast",
-    "title": "The Jungle Book Groove"
+    "title": "The Jungle Book Groove",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-18300",
+    "releaseYear": 1993,
+    "deezer": {
+      "deezerID": 3191011,
+      "deezerLink": "https://www.deezer.com/track/3191011",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ef99849b5bf9d8cf648318e5a4d5bbd/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Bruce Reitherman",
+      "deezerTitle": "The Jungle Book Groove"
+    }
   },
   {
     "rank": 62,
     "artist": "The Prodigy",
     "title": "Out Of Space",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2592",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 128973850,
       "deezerLink": "https://www.deezer.com/track/128973850",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/94dc3ec0d42d1bdbd062692be5279de7/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/afe86f18c6d430425df602cc4dccae4a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Prodigy",
       "deezerTitle": "Out of Space"
     }
@@ -712,6 +871,8 @@
     "rank": 63,
     "artist": "Michael Jackson",
     "title": "Give In To Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2593",
+    "releaseYear": 1991,
     "deezer": {
       "deezerID": 15593568,
       "deezerLink": "https://www.deezer.com/track/15593568",
@@ -724,6 +885,8 @@
     "rank": 64,
     "artist": "Felix",
     "title": "It Will Make Me Crazy",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2536",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2483816341,
       "deezerLink": "https://www.deezer.com/track/2483816341",
@@ -736,10 +899,12 @@
     "rank": 65,
     "artist": "Robin S.",
     "title": "Show Me Love",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2644",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 6628158,
       "deezerLink": "https://www.deezer.com/track/6628158",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d09c6609076ecd405215bdff6e4783f5/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95e8fd5910548808417046907299f9df/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Robin S",
       "deezerTitle": "Show Me Love"
     }
@@ -748,6 +913,8 @@
     "rank": 66,
     "artist": "East 17",
     "title": "Deep",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2587",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 428735302,
       "deezerLink": "https://www.deezer.com/track/428735302",
@@ -760,10 +927,12 @@
     "rank": 67,
     "artist": "Intrance feat. D-Sign",
     "title": "Te quierro",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-18285",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 92384788,
-      "deezerLink": "https://www.deezer.com/track/92384788",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/79743b89c6d65660d5a540a35d620775/500x500-000000-80-0-0.jpg",
+      "deezerID": 92799022,
+      "deezerLink": "https://www.deezer.com/track/92799022",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/099a839b02e28aa310dedd431a6d1ce8/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Intrance",
       "deezerTitle": "Te Quierro"
     }
@@ -772,6 +941,8 @@
     "rank": 68,
     "artist": "Gabrielle",
     "title": "Dreams",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2648",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 124220438,
       "deezerLink": "https://www.deezer.com/track/124220438",
@@ -784,6 +955,8 @@
     "rank": 69,
     "artist": "Duran Duran",
     "title": "Ordinary World",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2582",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 3130430,
       "deezerLink": "https://www.deezer.com/track/3130430",
@@ -796,6 +969,8 @@
     "rank": 70,
     "artist": "Green Jellÿ",
     "title": "Three Little Pigs",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2668",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 13178558,
       "deezerLink": "https://www.deezer.com/track/13178558",
@@ -808,6 +983,8 @@
     "rank": 71,
     "artist": "Bon Jovi",
     "title": "In These Arms",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2640",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 74628109,
       "deezerLink": "https://www.deezer.com/track/74628109",
@@ -820,10 +997,12 @@
     "rank": 72,
     "artist": "Tasmin Archer",
     "title": "Sleeping Satellite",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2534",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 3115574,
       "deezerLink": "https://www.deezer.com/track/3115574",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b85663f5c0008c8fd0b7892506c4f822/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e69d4099bd113d23a797fa7ffbd7f407/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Tasmin Archer",
       "deezerTitle": "Sleeping Satellite"
     }
@@ -832,10 +1011,12 @@
     "rank": 73,
     "artist": "Intermission",
     "title": "Piece Of My Heart",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2711",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 2620560202,
       "deezerLink": "https://www.deezer.com/track/2620560202",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2eef3736b6a45cae59690c48251969f4/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b787d08e3bca75e8b47b8e2761130378/500x500-000000-80-0-0.jpg",
       "deezerArtist": "intermission",
       "deezerTitle": "Piece Of My Heart"
     }
@@ -843,12 +1024,23 @@
   {
     "rank": 74,
     "artist": "M.C. Sar & The Real McCoy",
-    "title": "Another Night"
+    "title": "Another Night",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2722",
+    "releaseYear": 1992,
+    "deezer": {
+      "deezerID": 1042543,
+      "deezerLink": "https://www.deezer.com/track/1042543",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8cdc05b609232d463417238a6dc09e89/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Real McCoy",
+      "deezerTitle": "Another Night"
+    }
   },
   {
     "rank": 75,
     "artist": "Rod Stewart",
     "title": "Tom Traubert's Blues (Waltzing Matilda)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2564",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2550622,
       "deezerLink": "https://www.deezer.com/track/2550622",
@@ -861,6 +1053,8 @@
     "rank": 76,
     "artist": "M People",
     "title": "One Night In Heaven",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9108",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 600159,
       "deezerLink": "https://www.deezer.com/track/600159",
@@ -873,9 +1067,11 @@
     "rank": 77,
     "artist": "The Good Men",
     "title": "Give It Up",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2666",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 450628452,
-      "deezerLink": "https://www.deezer.com/track/450628452",
+      "deezerID": 450628432,
+      "deezerLink": "https://www.deezer.com/track/450628432",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6409dd364186997b3e2ef30e65e97404/500x500-000000-80-0-0.jpg",
       "deezerArtist": "The Good Men",
       "deezerTitle": "Give It Up"
@@ -885,22 +1081,26 @@
     "rank": 78,
     "artist": "Pet Shop Boys",
     "title": "Can You Forgive Her?",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2639",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 1912808447,
-      "deezerLink": "https://www.deezer.com/track/1912808447",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c36053b8275a30565149f703357c63a9/500x500-000000-80-0-0.jpg",
+      "deezerID": 3833046871,
+      "deezerLink": "https://www.deezer.com/track/3833046871",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/baf41d2d74b2260febb7c3d0116dd862/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Pet Shop Boys",
-      "deezerTitle": "Can You Forgive Her?"
+      "deezerTitle": "Can you forgive her?"
     }
   },
   {
     "rank": 79,
     "artist": "DJ Jazzy Jeff & The Fresh Prince",
     "title": "Boom! Shake The Room",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2695",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 546827,
       "deezerLink": "https://www.deezer.com/track/546827",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7524b7fdb44f2bb8d6a88d79d735da3b/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/44eb80d67202b47e7c35f684811948eb/500x500-000000-80-0-0.jpg",
       "deezerArtist": "DJ Jazzy Jeff & The Fresh Prince",
       "deezerTitle": "Boom! Shake the Room"
     }
@@ -909,6 +1109,8 @@
     "rank": 80,
     "artist": "Whitney Houston",
     "title": "I'm Every Woman",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2581",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 7675405,
       "deezerLink": "https://www.deezer.com/track/7675405",
@@ -921,6 +1123,8 @@
     "rank": 81,
     "artist": "Stakka Bo",
     "title": "Here We Go",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2664",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 927995,
       "deezerLink": "https://www.deezer.com/track/927995",
@@ -933,10 +1137,12 @@
     "rank": 82,
     "artist": "Slade",
     "title": "Far Far Away",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-29086",
+    "releaseYear": 1974,
     "deezer": {
-      "deezerID": 662356542,
-      "deezerLink": "https://www.deezer.com/track/662356542",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ca96ce944be744ec53003db5fcead264/500x500-000000-80-0-0.jpg",
+      "deezerID": 3782900092,
+      "deezerLink": "https://www.deezer.com/track/3782900092",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8ba950862aee1268f180b45b4400241a/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Slade",
       "deezerTitle": "Far Far Away"
     }
@@ -945,10 +1151,12 @@
     "rank": 83,
     "artist": "Roxette",
     "title": "Almost Unreal",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2631",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 89388957,
       "deezerLink": "https://www.deezer.com/track/89388957",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9bf25b67b9a229ce45109732e106e410/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5213b1ef0649cd23cf9fddffc6360953/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Roxette",
       "deezerTitle": "Almost Unreal"
     }
@@ -957,6 +1165,8 @@
     "rank": 84,
     "artist": "Vanessa Paradis",
     "title": "Be My Baby",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-13335",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 1090020,
       "deezerLink": "https://www.deezer.com/track/1090020",
@@ -969,6 +1179,8 @@
     "rank": 85,
     "artist": "Undercover",
     "title": "Never Let Her Slip Away",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-9998",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 729161,
       "deezerLink": "https://www.deezer.com/track/729161",
@@ -981,6 +1193,8 @@
     "rank": 86,
     "artist": "Extrabreit mit Hildegard Knef",
     "title": "Für mich soll's rote Rosen regnen",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-10928",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 1626806182,
       "deezerLink": "https://www.deezer.com/track/1626806182",
@@ -993,6 +1207,8 @@
     "rank": 87,
     "artist": "AC/DC",
     "title": "Big Gun",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2651",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 92720338,
       "deezerLink": "https://www.deezer.com/track/92720338",
@@ -1005,6 +1221,8 @@
     "rank": 88,
     "artist": "Naughty By Nature",
     "title": "Hip Hop Hooray",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-15793",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 1584431742,
       "deezerLink": "https://www.deezer.com/track/1584431742",
@@ -1017,23 +1235,29 @@
     "rank": 89,
     "artist": "Eros Ramazzotti",
     "title": "Cose della vita",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2614",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 3168017,
-      "deezerLink": "https://www.deezer.com/track/3168017",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b0d51d259b924d11f1def2721195b73a/500x500-000000-80-0-0.jpg",
-      "deezerArtist": "Eros Ramazzotti With Tina Turner",
-      "deezerTitle": "Cose Della Vita"
+      "deezerID": 605066,
+      "deezerLink": "https://www.deezer.com/track/605066",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f16e65651565170e3bd3dcbd438520e1/500x500-000000-80-0-0.jpg",
+      "deezerArtist": "Eros Ramazzotti",
+      "deezerTitle": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)"
     }
   },
   {
     "rank": 90,
     "artist": "Alice In Fashionland",
-    "title": "Alice In Fashionland"
+    "title": "Alice In Fashionland",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-17839",
+    "releaseYear": 1992
   },
   {
     "rank": 91,
     "artist": "Felix",
     "title": "Don't You Want Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2522",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 7779520,
       "deezerLink": "https://www.deezer.com/track/7779520",
@@ -1046,6 +1270,8 @@
     "rank": 92,
     "artist": "Frankie Goes To Hollywood",
     "title": "Relax '93",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-6132",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 479307582,
       "deezerLink": "https://www.deezer.com/track/479307582",
@@ -1058,10 +1284,12 @@
     "rank": 93,
     "artist": "Inner Circle",
     "title": "Sweat (A La La La La Long)",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2499",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2557399742,
       "deezerLink": "https://www.deezer.com/track/2557399742",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/af9bea96ade56a3fb1c25fe07a78d822/500x500-000000-80-0-0.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be2f17b7e41a148c0bd161491d6f2279/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Inner Circle",
       "deezerTitle": "Sweat (A La La La La Long)"
     }
@@ -1070,10 +1298,12 @@
     "rank": 94,
     "artist": "Bryan Adams",
     "title": "Please Forgive Me",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2688",
+    "releaseYear": 1993,
     "deezer": {
-      "deezerID": 1663078372,
-      "deezerLink": "https://www.deezer.com/track/1663078372",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/684bc5e23978bf7443fdde3e4227df5f/500x500-000000-80-0-0.jpg",
+      "deezerID": 3788698652,
+      "deezerLink": "https://www.deezer.com/track/3788698652",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c4b0599e27b5a65344582dd0ac81d3b7/500x500-000000-80-0-0.jpg",
       "deezerArtist": "Bryan Adams",
       "deezerTitle": "Please Forgive Me (Classic Version)"
     }
@@ -1082,6 +1312,8 @@
     "rank": 95,
     "artist": "R.E.M.",
     "title": "Man On The Moon",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-7827",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 121921384,
       "deezerLink": "https://www.deezer.com/track/121921384",
@@ -1094,6 +1326,8 @@
     "rank": 96,
     "artist": "UB40",
     "title": "Higher Ground",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2683",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 3129570,
       "deezerLink": "https://www.deezer.com/track/3129570",
@@ -1106,6 +1340,8 @@
     "rank": 97,
     "artist": "Lenny Kravitz",
     "title": "Are You Gonna Go My Way",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2588",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 3107395,
       "deezerLink": "https://www.deezer.com/track/3107395",
@@ -1118,6 +1354,8 @@
     "rank": 98,
     "artist": "Pur",
     "title": "Hör gut zu",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-12074",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 99127338,
       "deezerLink": "https://www.deezer.com/track/99127338",
@@ -1130,6 +1368,8 @@
     "rank": 99,
     "artist": "Take That",
     "title": "Pray",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2667",
+    "releaseYear": 1993,
     "deezer": {
       "deezerID": 12754190,
       "deezerLink": "https://www.deezer.com/track/12754190",
@@ -1142,6 +1382,8 @@
     "rank": 100,
     "artist": "Boyz II Men",
     "title": "End Of The Road",
+    "detailUrl": "https://www.offiziellecharts.de/charts/titel-details-2520",
+    "releaseYear": 1992,
     "deezer": {
       "deezerID": 2426056,
       "deezerLink": "https://www.deezer.com/track/2426056",

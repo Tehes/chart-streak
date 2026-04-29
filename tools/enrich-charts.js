@@ -1,9 +1,17 @@
 import { END_YEAR, START_YEAR } from "../config.js";
+import puppeteer from "npm:puppeteer-core@24.35.0";
 
 const chartsDirUrl = new URL("../data/charts/", import.meta.url);
 const enrichedDirUrl = new URL("../data/enriched/", import.meta.url);
 const deezerBaseURL = "https://api.deezer.com/search?q=";
 const textEncoder = new TextEncoder();
+const CHROME_EXECUTABLE_PATH = Deno.env.get("CHROME_EXECUTABLE_PATH") ??
+	(Deno.build.os === "windows"
+		? "C:/Program Files/Google/Chrome/Application/chrome.exe"
+		: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome");
+const NAVIGATION_TIMEOUT_MS = 60000;
+
+let releaseYearBrowserFallbackLogged = false;
 
 async function fileExists(fileUrl) {
 	try {
@@ -150,7 +158,77 @@ function shouldExcludeTitle(title) {
 	);
 }
 
-async function fetchReleaseYear(detailUrl) {
+function hasMissingReleaseYears(data) {
+	return data.some((song) => song.detailUrl && !song.releaseYear);
+}
+
+function extractReleaseYear(html, detailUrl) {
+	const yearMatch = html.match(
+		/<td class="detail-info-label">\s*Jahr:\s*<\/td>\s*<td>\s*(\d{4})/i,
+	);
+
+	if (yearMatch) {
+		return parseInt(yearMatch[1], 10);
+	}
+
+	console.warn(`Release year not found for detail URL: ${detailUrl}`);
+	return null;
+}
+
+async function getReleaseYearPage(browserContext) {
+	if (browserContext.page) {
+		return browserContext.page;
+	}
+
+	if (!releaseYearBrowserFallbackLogged) {
+		console.warn("Release year fetch returned 403. Using browser fallback.");
+		releaseYearBrowserFallbackLogged = true;
+	}
+
+	browserContext.browser = await puppeteer.launch({
+		headless: true,
+		executablePath: CHROME_EXECUTABLE_PATH,
+	});
+	browserContext.page = await browserContext.browser.newPage();
+
+	return browserContext.page;
+}
+
+async function fetchReleaseYearWithBrowser(detailUrl, browserContext) {
+	const page = await getReleaseYearPage(browserContext);
+
+	if (!browserContext.isInitialized) {
+		const response = await page.goto(detailUrl, {
+			timeout: NAVIGATION_TIMEOUT_MS,
+			waitUntil: "domcontentloaded",
+		});
+
+		if (!response?.ok()) {
+			throw new Error(`Browser request failed: ${response?.status() ?? "unknown"}`);
+		}
+
+		browserContext.isInitialized = true;
+		return extractReleaseYear(await page.content(), detailUrl);
+	}
+
+	const response = await page.evaluate(async (url) => {
+		const pageResponse = await fetch(url, { credentials: "include" });
+
+		return {
+			ok: pageResponse.ok,
+			status: pageResponse.status,
+			html: await pageResponse.text(),
+		};
+	}, detailUrl);
+
+	if (!response.ok) {
+		throw new Error(`Browser request failed: ${response.status}`);
+	}
+
+	return extractReleaseYear(response.html, detailUrl);
+}
+
+async function fetchReleaseYear(detailUrl, browserContext) {
 	if (!detailUrl) {
 		return null;
 	}
@@ -158,19 +236,12 @@ async function fetchReleaseYear(detailUrl) {
 	try {
 		const response = await fetch(detailUrl);
 		if (!response.ok) {
+			if (response.status === 403) {
+				return await fetchReleaseYearWithBrowser(detailUrl, browserContext);
+			}
 			throw new Error(`Request failed: ${response.status}`);
 		}
-		const html = await response.text();
-		const yearMatch = html.match(
-			/<td class="detail-info-label">\s*Jahr:\s*<\/td>\s*<td>\s*(\d{4})/i,
-		);
-
-		if (yearMatch) {
-			return parseInt(yearMatch[1], 10);
-		}
-
-		console.warn(`Release year not found for detail URL: ${detailUrl}`);
-		return null;
+		return extractReleaseYear(await response.text(), detailUrl);
 	} catch (error) {
 		console.error(`Error fetching release year from "${detailUrl}":`, error.message);
 		return null;
@@ -276,33 +347,58 @@ async function enrichYear(year) {
 		return;
 	}
 
-	if (await fileExists(outputFileUrl)) {
+	const outputExists = await fileExists(outputFileUrl);
+	const data = JSON.parse(await Deno.readTextFile(outputExists ? outputFileUrl : inputFileUrl));
+	const shouldSearchDeezer = !outputExists;
+
+	if (outputExists && !hasMissingReleaseYears(data)) {
 		console.log(`Enriched data for ${year} already exists. Skipping...`);
 		return;
 	}
 
-	const data = JSON.parse(await Deno.readTextFile(inputFileUrl));
-	console.log(`Enriching data for year ${year}...`);
+	if (outputExists) {
+		console.log(`Completing release years for ${year}...`);
+	} else {
+		console.log(`Enriching data for year ${year}...`);
+	}
 
 	let processed = 0;
 	const total = data.length;
+	const browserContext = {
+		browser: null,
+		isInitialized: false,
+		page: null,
+	};
 
-	for (const song of data) {
-		const releaseYear = await fetchReleaseYear(song.detailUrl);
-		if (releaseYear) {
-			song.releaseYear = releaseYear;
+	try {
+		for (const song of data) {
+			if (!song.releaseYear) {
+				const releaseYear = await fetchReleaseYear(song.detailUrl, browserContext);
+				if (releaseYear) {
+					song.releaseYear = releaseYear;
+					if (outputExists) {
+						await Deno.writeTextFile(outputFileUrl, JSON.stringify(data, null, 2));
+					}
+				}
+			}
+
+			if (shouldSearchDeezer) {
+				const deezerData = await searchDeezer(song.title, song.artist, year);
+				if (deezerData) {
+					song.deezer = deezerData;
+				}
+			}
+			processed++;
+
+			const progress = Math.round((processed / total) * 100);
+			Deno.stdout.writeSync(
+				textEncoder.encode(`\rProgress: ${progress}% (${processed}/${total})`),
+			);
 		}
-
-		const deezerData = await searchDeezer(song.title, song.artist, year);
-		if (deezerData) {
-			song.deezer = deezerData;
+	} finally {
+		if (browserContext.browser) {
+			await browserContext.browser.close();
 		}
-		processed++;
-
-		const progress = Math.round((processed / total) * 100);
-		Deno.stdout.writeSync(
-			textEncoder.encode(`\rProgress: ${progress}% (${processed}/${total})`),
-		);
 	}
 
 	console.log();
@@ -315,21 +411,26 @@ async function enrichAllYears() {
 
 	for (let year = START_YEAR; year <= END_YEAR; year++) {
 		console.log(`Processing year ${year}...`);
-		const start = Date.now();
 
 		await enrichYear(year);
-
-		// const elapsed = (Date.now() - start) / 1000;
-		// const waitTime = Math.max(600 - elapsed, 0);
-		// if (waitTime > 0) {
-		//     console.log(`Waiting ${waitTime.toFixed(0)} seconds before processing next year...`);
-		//     await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
-		// }
 	}
 
 	console.log("All years processed.");
 }
 
 if (import.meta.main) {
-	enrichAllYears().catch(console.error);
+	const yearArg = Deno.args[0];
+
+	if (yearArg) {
+		const year = Number.parseInt(yearArg, 10);
+		if (!/^\d{4}$/.test(yearArg) || year < START_YEAR || year > END_YEAR) {
+			console.error(`Invalid year: ${yearArg}`);
+			Deno.exit(1);
+		}
+
+		await Deno.mkdir(enrichedDirUrl, { recursive: true });
+		await enrichYear(year).catch(console.error);
+	} else {
+		await enrichAllYears().catch(console.error);
+	}
 }

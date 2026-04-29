@@ -280,7 +280,7 @@ async function applyStrike() {
 	strikesElement[strikes].src = "svg/cross.svg";
 	strikes++;
 	showMessage(
-		`Strike ${strikes}: Erstmalig ${currentSong.year} in den Single-Jahrescharts.`,
+		`Strike ${strikes}: Richtiges Jahr: ${currentSong.year}.`,
 	);
 	// get new song if strikes < 3
 	if (strikes < 3) {

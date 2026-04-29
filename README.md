@@ -1,14 +1,14 @@
 # 🎵 Chart Streak
 
-**Chart Streak** is a single-player music quiz where the goal is to place songs in the correct chronological order based on when they first appeared in the **Top 100 of the official German single charts**. The game runs directly in the browser and includes a Deezer player for previewing tracks.
+**Chart Streak** is a single-player music quiz where the goal is to place songs in the correct chronological order based on their **official release year**. The game runs directly in the browser and includes a Deezer player for previewing tracks.
 
 ## 📌 Overview
 
-- **Timeframe:** 1978 – today  
+- **Chart data:** 1978 – today  
 - **Goal:** Place as many songs correctly as possible  
 - **Game Over:** After 3 mistakes (strikes)  
 
-The game does **not** consider the official release year but instead uses the **first appearance in the annual single charts** as the reference year.
+The game uses the official release year from the chart detail pages as the reference year. If a song has no `releaseYear`, `merge-charts.js` falls back to the first chart appearance.
 
 ---
 
@@ -32,7 +32,8 @@ Chart Streak processes music chart data through multiple stages:
    - The enriched data is saved as JSON files.
 
 3. **Merging Data**  
-   - `merge-charts.js` consolidates all years into a single `merged-charts.json` file.  
+   - `merge-charts.js` consolidates all years into a single `merged-charts.json` file grouped by `releaseYear`.  
+   - If `releaseYear` is missing, the chart year is used as a fallback.  
    - Duplicate entries (same Deezer track appearing in multiple years) are removed.
 
 ---
@@ -73,10 +74,10 @@ chart-streak/
    - You can listen to the song for reference.
 
 2️⃣ **Placing the Song in the Timeline**  
-   - Songs are sorted **from left (earlier) to right (later)**.  
+   - Songs are sorted **from left (earlier reference year) to right (later reference year)**.  
    - Click on a **“+”** sign to place the song:  
-     - **Left of an existing song:** The new song is **older**.  
-     - **Right of an existing song:** The new song is **more recent**.  
+     - **Left of an existing song:** The new song has an **earlier reference year**.  
+     - **Right of an existing song:** The new song has a **later reference year**.  
    - **Correct placement:** 🎉 +1 point  
    - **Wrong placement:** ❌ 1 strike  
 

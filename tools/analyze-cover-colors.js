@@ -5,7 +5,7 @@ const chartsFileUrl = new URL("../data/merged-charts.json", import.meta.url);
 const textEncoder = new TextEncoder();
 const saveEvery = 25;
 const colorThiefOptions = {
-	colorCount: 6,
+	colorCount: 16,
 	quality: 10,
 };
 const swatchMap = [

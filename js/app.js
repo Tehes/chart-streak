@@ -73,6 +73,13 @@ async function isDeezerTrackReadable(song) {
 		}
 
 		const track = await response.json();
+		if (track.readable === false) {
+			globalThis.umami?.track("chartStreak", {
+				songID: deezerID,
+				year: song.year,
+			});
+		}
+
 		const isReadable = track.readable === true;
 		deezerReadableCache.set(deezerID, isReadable);
 		return isReadable;

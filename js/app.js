@@ -126,6 +126,23 @@ function embedDeezerTrack(randomSong) {
 	document.querySelector("#deezer-player").appendChild(iframe);
 }
 
+function getSongBackgroundColor(song) {
+	return song.colors?.muted ??
+		song.colors?.lightMuted ??
+		song.colors?.darkMuted ??
+		null;
+}
+
+function setBodyBackgroundColor(color) {
+	if (color) {
+		document.body.style.setProperty("--cover-bg-color", color);
+		document.body.classList.add("has-cover-bg-color");
+	} else {
+		document.body.style.removeProperty("--cover-bg-color");
+		document.body.classList.remove("has-cover-bg-color");
+	}
+}
+
 async function insertSong(referenceElement = null, song = null) {
 	const songToInsert = song || currentSong;
 
@@ -150,8 +167,12 @@ async function insertSong(referenceElement = null, song = null) {
 	artistElement.textContent = songToInsert.artist;
 	yearElement.textContent = songToInsert.year;
 	songElement.setAttribute("data-year", songToInsert.year);
+	const backgroundColor = getSongBackgroundColor(songToInsert);
+	if (backgroundColor) {
+		songElement.dataset.backgroundColor = backgroundColor;
+	}
 
-	document.body.style.backgroundImage = `url("${songToInsert.deezer.cover}")`;
+	setBodyBackgroundColor(backgroundColor);
 
 	// Attach event listeners to the plus buttons in the newly inserted song element
 	const plusButtons = clone.querySelectorAll(".add");
@@ -264,12 +285,11 @@ function handleScrollEvent() {
 
 		if (closestSong && closestSong !== lastActiveSong) {
 			lastActiveSong = closestSong; // Update the last active song
-			const imgURL = closestSong.querySelector("img").src;
 
 			// Highlight the active song
 			songs.forEach((song) => song.classList.remove("active"));
 			closestSong.classList.add("active");
-			document.body.style.backgroundImage = `url("${imgURL}")`;
+			setBodyBackgroundColor(closestSong.dataset.backgroundColor);
 		}
 	}, 150); // Set a delay of 150 ms
 }

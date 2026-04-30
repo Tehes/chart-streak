@@ -36,6 +36,11 @@ Chart Streak processes music chart data through multiple stages:
    - If `releaseYear` is missing, the chart year is used as a fallback.  
    - Duplicate entries (same Deezer track appearing in multiple years) are removed.
 
+4. **Analyzing Cover Colors**  
+   - `analyze-cover-colors.js` analyzes Deezer cover images with [Color Thief](https://lokeshdhakar.com/projects/color-thief/).  
+   - It stores the extracted swatches in each song's `colors` object.  
+   - The game uses these colors to derive the dynamic background color.
+
 ---
 
 ## 🔧 Project Structure
@@ -59,6 +64,7 @@ chart-streak/
 │   ├── scrape-charts.js     # Scrapes official chart data
 │   ├── enrich-charts.js     # Adds metadata from Deezer
 │   ├── merge-charts.js      # Merges all years into one dataset
+│   ├── analyze-cover-colors.js # Adds cover color swatches
 │
 │── index.html               # Main game file
 │── service-worker.js        # (Optional) PWA support
@@ -95,6 +101,7 @@ chart-streak/
 
 - **🎵 Official German Charts** – Data is scraped from [offiziellecharts.de](https://www.offiziellecharts.de/).  
 - **🎧 Deezer API** – Provides song covers, track IDs, and player links.  
+- **Color Thief** – Extracts color swatches from Deezer cover images.  
 
 > **Note:** This project is for **personal use only** and has no affiliation with Deezer or the official chart providers.
 

@@ -1,23 +1,24 @@
 {
-    "fmt": {
-        "useTabs": true,
-        "indentWidth": 4,
-        "lineWidth": 100,
-        "singleQuote": false,
-        "semiColons": true
-    },
-    "lint": {
-        "rules": {
-            "tags": [
-                "recommended"
-            ]
-        }
-    },
-    "tasks": {
-        "start": "deno run -A xxx.js",
-        "scrape": "deno run -A tools/scrape-charts.js",
-        "enrich": "deno run -A tools/enrich-charts.js",
-        "merge": "deno run -A tools/merge-charts.js",
-        "check": "deno run --allow-read --allow-net tools/check-deezer-readable.js"
-    }
+	"fmt": {
+		"useTabs": true,
+		"indentWidth": 4,
+		"lineWidth": 100,
+		"singleQuote": false,
+		"semiColons": true
+	},
+	"lint": {
+		"rules": {
+			"tags": [
+				"recommended"
+			]
+		}
+	},
+	"tasks": {
+		"start": "deno run -A xxx.js",
+		"scrape": "deno run -A tools/scrape-charts.js",
+		"enrich": "deno run -A tools/enrich-charts.js",
+		"merge": "deno run -A tools/merge-charts.js",
+		"colors": "deno run -A tools/analyze-cover-colors.js",
+		"check": "deno run --allow-read --allow-net tools/check-deezer-readable.js"
+	}
 }

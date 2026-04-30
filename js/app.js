@@ -133,6 +133,13 @@ function getSongBackgroundColor(song) {
 		null;
 }
 
+function getSongAccentColor(song) {
+	return song.colors?.vibrant ??
+		song.colors?.lightVibrant ??
+		song.colors?.darkVibrant ??
+		null;
+}
+
 function setBodyBackgroundColor(color) {
 	if (color) {
 		document.body.style.setProperty("--cover-bg-color", color);
@@ -140,6 +147,16 @@ function setBodyBackgroundColor(color) {
 	} else {
 		document.body.style.removeProperty("--cover-bg-color");
 		document.body.classList.remove("has-cover-bg-color");
+	}
+}
+
+function setBodyAccentColor(color) {
+	if (color) {
+		document.body.style.setProperty("--cover-accent-color", color);
+		document.body.classList.add("has-cover-accent-color");
+	} else {
+		document.body.style.removeProperty("--cover-accent-color");
+		document.body.classList.remove("has-cover-accent-color");
 	}
 }
 
@@ -171,8 +188,13 @@ async function insertSong(referenceElement = null, song = null) {
 	if (backgroundColor) {
 		songElement.dataset.backgroundColor = backgroundColor;
 	}
+	const accentColor = getSongAccentColor(songToInsert);
+	if (accentColor) {
+		songElement.dataset.accentColor = accentColor;
+	}
 
 	setBodyBackgroundColor(backgroundColor);
+	setBodyAccentColor(accentColor);
 
 	// Attach event listeners to the plus buttons in the newly inserted song element
 	const plusButtons = clone.querySelectorAll(".add");
@@ -290,6 +312,7 @@ function handleScrollEvent() {
 			songs.forEach((song) => song.classList.remove("active"));
 			closestSong.classList.add("active");
 			setBodyBackgroundColor(closestSong.dataset.backgroundColor);
+			setBodyAccentColor(closestSong.dataset.accentColor);
 		}
 	}, 150); // Set a delay of 150 ms
 }

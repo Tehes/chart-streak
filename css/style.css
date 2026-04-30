@@ -30,6 +30,7 @@ html {
 body {
 	--cover-bg-neutral: #d9d9d9;
 	--cover-bg-weight: 45%;
+	--cover-accent-weight: 16%;
 	background-color: var(--bg-color);
 	/* Disables selecting text (useful for PWAs to prevent unwanted text selection during interactions) */
 	user-select: none;
@@ -53,6 +54,20 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	transition: background-color 0.5s;
+}
+
+body.has-cover-accent-color {
+	background-image:
+		linear-gradient(
+			115deg,
+			color-mix(in srgb, var(--cover-accent-color) var(--cover-accent-weight), transparent),
+			transparent 34%
+		),
+		linear-gradient(
+		295deg,
+		color-mix(in srgb, var(--cover-accent-color) var(--cover-accent-weight), transparent),
+		transparent 34%
+	);
 }
 
 body.has-cover-bg-color {
@@ -435,6 +450,7 @@ MEDIA QUERIES
 	body {
 		--cover-bg-neutral: #262626;
 		--cover-bg-weight: 50%;
+		--cover-accent-weight: 18%;
 	}
 
 	#control-panel img,

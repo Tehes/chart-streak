@@ -1,3 +1,8 @@
+// Arguments:
+// --dry-run  Analyze covers without writing changes to data/merged-charts.json.
+// --force    Re-analyze songs that already have stored cover colors.
+// --limit=N  Stop after processing N songs.
+
 import "npm:sharp@0.34.5";
 import { getSwatches } from "npm:colorthief@3.3.0";
 

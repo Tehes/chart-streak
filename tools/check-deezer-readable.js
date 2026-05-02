@@ -28,13 +28,13 @@ function extractYearLabel(input) {
 	return match ? match[0] : "";
 }
 
-function formatLine(song, yearLabel, deezerId) {
+function formatLine(song, yearLabel, deezerId, problem) {
 	const yearValue = yearLabel || "";
 	const artist = song.artist || "";
 	const title = song.title || "";
 	const link = song.deezer?.deezerLink || "";
 
-	return `${yearValue}\t${artist}\t${title}\t${deezerId}\t${link}`;
+	return `${yearValue}\t${artist}\t${title}\t${deezerId}\t${link}\t${problem}`;
 }
 
 async function loadSongs(fileUrl) {
@@ -61,19 +61,31 @@ async function fetchTrack(deezerId) {
 		const response = await fetch(url);
 		if (!response.ok) {
 			console.warn(`Request failed for ${deezerId}: ${response.status}`);
-			return null;
+			return {
+				readable: null,
+				problem: `request_failed:${response.status}`,
+			};
 		}
 
 		const data = await response.json();
 		if (data?.error) {
 			console.warn(`API error for ${deezerId}: ${data.error.message}`);
-			return null;
+			return {
+				readable: null,
+				problem: `api_error:${data.error.message}`,
+			};
 		}
 
-		return data;
+		return {
+			readable: data.readable,
+			problem: "",
+		};
 	} catch (error) {
 		console.warn(`Request failed for ${deezerId}: ${error.message}`);
-		return null;
+		return {
+			readable: null,
+			problem: `request_failed:${error.message}`,
+		};
 	}
 }
 
@@ -97,11 +109,15 @@ async function checkReadable(inputArg) {
 	const cache = new Map();
 	const total = songs.length;
 	let processed = 0;
-	console.log("year\tartist\ttitle\tdeezerID\tdeezerLink");
+	console.log("year\tartist\ttitle\tdeezerID\tdeezerLink\tproblem");
 
 	for (const song of songs) {
 		const deezerId = song.deezer?.deezerID;
 		if (!deezerId) {
+			if (!song.deezer) {
+				console.log(formatLine(song, yearLabel, "", "missing_deezer"));
+			}
+
 			processed++;
 			const progress = Math.round((processed / total) * 100);
 			Deno.stdout.writeSync(
@@ -110,16 +126,17 @@ async function checkReadable(inputArg) {
 			continue;
 		}
 
-		let readable = cache.get(deezerId);
-		if (readable === undefined) {
-			const track = await fetchTrack(deezerId);
-			readable = track ? track.readable : null;
-			cache.set(deezerId, readable);
+		let trackState = cache.get(deezerId);
+		if (trackState === undefined) {
+			trackState = await fetchTrack(deezerId);
+			cache.set(deezerId, trackState);
 			await new Promise((resolve) => setTimeout(resolve, delayMs));
 		}
 
-		if (readable === false) {
-			console.log(formatLine(song, yearLabel, deezerId));
+		if (trackState.readable === false) {
+			console.log(formatLine(song, yearLabel, deezerId, "not_readable"));
+		} else if (trackState.problem) {
+			console.log(formatLine(song, yearLabel, deezerId, trackState.problem));
 		}
 
 		processed++;

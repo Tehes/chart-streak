@@ -32,7 +32,7 @@ Chart Streak processes music chart data through multiple stages:
    - The enriched data is saved as JSON files.
 
 3. **Merging Data**  
-   - `merge-charts.js` consolidates all years into a single `merged-charts.json` file grouped by `releaseYear`.  
+   - `merge-charts.js` consolidates all years into a single `merged-charts.json` file grouped by selection bucket. Releases before 1978 are stored in the 1978 bucket, while each song keeps its actual `releaseYear` for gameplay.  
    - If `releaseYear` is missing, the chart year is used as a fallback.  
    - Duplicate entries (same Deezer track appearing in multiple years) are removed.
 
@@ -44,7 +44,8 @@ Chart Streak processes music chart data through multiple stages:
 ---
 
 ## 🔧 Project Structure
-```
+
+```text
 chart-streak/
 │── css/                     # Styles
 │   ├── style.css
@@ -71,29 +72,34 @@ chart-streak/
 │── manifest.json            # Web app manifest for mobile support
 │── README.md                # This file
 ```
+
 ---
 
 ## 🎮 Gameplay
 
 1️⃣ **New Song Appears**  
-   - A song is shown with its **cover, title, and artist** in the Deezer player.  
-   - You can listen to the song for reference.
+
+- A song is shown with its **cover, title, and artist** in the Deezer player.  
+- You can listen to the song for reference.
 
 2️⃣ **Placing the Song in the Timeline**  
-   - Songs are sorted **from left (earlier reference year) to right (later reference year)**.  
-   - Click on a **“+”** sign to place the song:  
-     - **Left of an existing song:** The new song has an **earlier reference year**.  
-     - **Right of an existing song:** The new song has a **later reference year**.  
-   - **Correct placement:** 🎉 +1 point  
-   - **Wrong placement:** ❌ 1 strike  
+
+- Songs are sorted **from left (earlier reference year) to right (later reference year)**.  
+- Click on a **“+”** sign to place the song:  
+  - **Left of an existing song:** The new song has an **earlier reference year**.  
+  - **Right of an existing song:** The new song has a **later reference year**.  
+- **Correct placement:** 🎉 +1 point  
+- **Wrong placement:** ❌ 1 strike  
 
 3️⃣ **Strikes & Shuffle**  
-   - **Three mistakes = Game Over**  
-   - **Shuffle:** Swap the current song (max. 3 times, no strike penalty).  
+
+- **Three mistakes = Game Over**  
+- **Shuffle:** Swap the current song (max. 3 times, no strike penalty).  
 
 4️⃣ **Game End & Highscore**  
-   - The game ends when you get **3 strikes** or when no new songs remain.  
-   - Your **final score** is the total number of correctly placed songs.  
+
+- The game ends when you get **3 strikes** or when no new songs remain.  
+- Your **final score** is the total number of correctly placed songs.  
 
 ---
 

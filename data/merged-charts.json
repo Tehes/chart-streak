@@ -1,5 +1,5 @@
 {
-  "1957": [
+  "1978": [
     {
       "rank": 30,
       "artist": "Jackie Wilson",
@@ -43,9 +43,7 @@
         "lightVibrant": null,
         "lightMuted": "#d0cee3"
       }
-    }
-  ],
-  "1958": [
+    },
     {
       "rank": 70,
       "artist": "Brenda Lee",
@@ -67,9 +65,7 @@
         "lightVibrant": "#f6bf04",
         "lightMuted": "#dee2d2"
       }
-    }
-  ],
-  "1959": [
+    },
     {
       "rank": 94,
       "artist": "Dean Martin",
@@ -91,9 +87,7 @@
         "lightVibrant": "#a2b550",
         "lightMuted": "#deaf7a"
       }
-    }
-  ],
-  "1960": [
+    },
     {
       "rank": 6,
       "artist": "Sam Cooke",
@@ -115,9 +109,7 @@
         "lightVibrant": null,
         "lightMuted": "#cfd0d7"
       }
-    }
-  ],
-  "1961": [
+    },
     {
       "rank": 21,
       "artist": "Ben E. King",
@@ -139,9 +131,7 @@
         "lightVibrant": "#d0ca2d",
         "lightMuted": "#cbbda2"
       }
-    }
-  ],
-  "1965": [
+    },
     {
       "rank": 47,
       "artist": "The Righteous Brothers",
@@ -163,9 +153,7 @@
         "lightVibrant": null,
         "lightMuted": "#e9e8e3"
       }
-    }
-  ],
-  "1967": [
+    },
     {
       "rank": 43,
       "artist": "Louis Armstrong",
@@ -187,9 +175,7 @@
         "lightVibrant": "#add341",
         "lightMuted": "#b0dad8"
       }
-    }
-  ],
-  "1968": [
+    },
     {
       "rank": 25,
       "artist": "The Mamas & The Papas",
@@ -211,9 +197,7 @@
         "lightVibrant": "#fd955d",
         "lightMuted": "#f7d5cb"
       }
-    }
-  ],
-  "1970": [
+    },
     {
       "rank": 9,
       "artist": "Wishful Thinking",
@@ -301,9 +285,7 @@
         "lightVibrant": null,
         "lightMuted": "#eeeae1"
       }
-    }
-  ],
-  "1971": [
+    },
     {
       "rank": 51,
       "artist": "John Lennon / Plastic Ono Band",
@@ -325,9 +307,7 @@
         "lightVibrant": null,
         "lightMuted": "#d6d4ce"
       }
-    }
-  ],
-  "1973": [
+    },
     {
       "rank": 54,
       "artist": "Steve Miller Band",
@@ -371,9 +351,7 @@
         "lightVibrant": null,
         "lightMuted": "#b3ccc6"
       }
-    }
-  ],
-  "1974": [
+    },
     {
       "rank": 82,
       "artist": "Slade",
@@ -395,9 +373,7 @@
         "lightVibrant": null,
         "lightMuted": "#fddece"
       }
-    }
-  ],
-  "1975": [
+    },
     {
       "rank": 33,
       "artist": "Hot Chocolate",
@@ -419,9 +395,7 @@
         "lightVibrant": null,
         "lightMuted": "#cabca7"
       }
-    }
-  ],
-  "1976": [
+    },
     {
       "rank": 35,
       "artist": "El Pasador",
@@ -443,9 +417,7 @@
         "lightVibrant": "#fe9c29",
         "lightMuted": "#f1e7ce"
       }
-    }
-  ],
-  "1977": [
+    },
     {
       "rank": 1,
       "artist": "Vader Abraham",
@@ -1105,9 +1077,7 @@
         "lightVibrant": null,
         "lightMuted": "#d2cadc"
       }
-    }
-  ],
-  "1978": [
+    },
     {
       "rank": 2,
       "artist": "Boney M.",
@@ -5467,7 +5437,8 @@
         "darkMuted": "#264464",
         "lightVibrant": null,
         "lightMuted": "#ddd2a9"
-      }
+      },
+      "releaseYear": 1981
     },
     {
       "rank": 39,

@@ -42,20 +42,20 @@ functions
 ---------------------------------------------------------------------------------------------------*/
 function getRandomChartEntries(charts) {
 	const randomEntries = [];
-	// Iterate over each year in the charts object to select a random song from each
+	// Select one random song from each bucket while keeping the real release year.
 	Object.keys(charts).forEach((year) => {
-		const entries = charts[year]; // Get all songs for the given year
+		const entries = charts[year];
 		if (entries.length > 0) {
 			const randomIndex = Math.floor(Math.random() * entries.length);
-			const randomEntry = { ...entries[randomIndex], year }; // Include the year in the entry
-			randomEntries.push(randomEntry); // Add the selected entry to the results
+			const randomEntry = entries[randomIndex];
+			randomEntries.push({ ...randomEntry, year: randomEntry.releaseYear });
 		}
 	});
 
 	// Shuffle the array using sort and Math.random
 	randomEntries.sort(() => Math.random() - 0.5);
 
-	return randomEntries; // Return the array of random entries, one per year
+	return randomEntries;
 }
 
 async function isDeezerTrackReadable(song) {

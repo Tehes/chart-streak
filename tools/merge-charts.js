@@ -1,15 +1,20 @@
 const dataDirUrl = new URL("../data/enriched/", import.meta.url);
 const outputFileUrl = new URL("../data/merged-charts.json", import.meta.url);
+const minimumBucketYear = 1978;
 
 function getReleaseYear(song, chartYear) {
 	if (!song.releaseYear) {
 		console.warn(
 			`Release year missing for "${song.artist} - ${song.title}" in chart year ${chartYear}, rank ${song.rank}. Using chart year.`,
 		);
-		return chartYear;
+		return Number.parseInt(chartYear, 10);
 	}
 
-	return `${song.releaseYear}`;
+	return Number.parseInt(song.releaseYear, 10);
+}
+
+function getBucketYear(releaseYear) {
+	return `${Math.max(releaseYear, minimumBucketYear)}`;
 }
 
 async function mergeCharts() {
@@ -44,14 +49,16 @@ async function mergeCharts() {
 
 			const deezerID = song.deezer.deezerID;
 			const releaseYear = getReleaseYear(song, chartYear);
+			const bucketYear = getBucketYear(releaseYear);
 
-			if (!mergedData[releaseYear]) {
-				mergedData[releaseYear] = [];
+			if (!mergedData[bucketYear]) {
+				mergedData[bucketYear] = [];
 			}
 
 			if (typeof deezerID === "string") {
 				console.log("Achtung: DeezerID ist ein String:", {
 					ReleaseYear: releaseYear,
+					BucketYear: bucketYear,
 					ChartYear: chartYear,
 					Rank: song.rank,
 				});
@@ -76,9 +83,10 @@ async function mergeCharts() {
 				continue;
 			}
 
-			mergedData[releaseYear].push(song);
+			mergedData[bucketYear].push({ ...song, releaseYear });
 			seenDeezerIDs.set(deezerID, {
 				releaseYear,
+				bucketYear,
 				chartYear,
 				rank: song.rank,
 			});

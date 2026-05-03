@@ -86,4 +86,3 @@ Am Ende bitte kurz berichten:
   - Deezer-Titel
 - Welche Songs bewusst nicht geändert wurden und warum, jeweils mit Rank.
 - Welche Dateien geändert wurden.
-- Welche Problemzeilen der zweite Readability-Check noch ausgegeben hat und warum sie nicht gelöst wurden.
